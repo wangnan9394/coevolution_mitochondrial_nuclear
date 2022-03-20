@@ -1,0 +1,4 @@
+chr - Chr1 Chr1 0 520158	blue
+chr - Chr2 Chr2 0 20	blue
+band    Chr1      band1     band1    0           520158        gneg
+band    Chr2      band1     band1    0           20        blue
