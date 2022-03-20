@@ -1,0 +1,710 @@
+***************************TEST:r988-nad3*****************r988 Gra.JW.scaffolds 48192 48518ORF_len:327,GENE_len:354
+r988	Gra.JW.scaffolds	100.000	327	0	0	1	327	48192	48518	0.0	648
+nad3	Gra.JW.scaffolds	99.718	354	1	0	1	354	48631	48278	0.0	694
+nad3	Gra.JW.scaffolds	95.238	63	3	0	1	63	418857	418795	4.62e-23	101
+***************************TEST:f583-matR*****************f583 Gra.JW.scaffolds 316292 316672ORF_len:381,GENE_len:1983
+f583	Gra.JW.scaffolds	100.000	381	0	0	1	381	316292	316672	0.0	755
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r948-rpl5*****************r948 Gra.JW.scaffolds 469056 469283ORF_len:228,GENE_len:552
+r948	Gra.JW.scaffolds	100.000	228	0	0	1	228	469056	469283	6.94e-129	452
+rpl5	Gra.JW.scaffolds	99.819	552	1	0	1	552	469026	469577	0.0	1086
+***************************TEST:f744-nad1_fragment_5*****************f744 Gra.JW.scaffolds 382405 382713ORF_len:309,GENE_len:255
+f744	Gra.JW.scaffolds	100.000	309	0	0	1	309	382405	382713	4.39e-177	613
+f744	Gra.JW.scaffolds	92.857	42	3	0	150	191	197360	197401	1.36e-10	60.0
+nad1_fragment_5	Gra.JW.scaffolds	100.000	255	0	0	1	255	382668	382922	6.01e-145	505
+nad1_fragment_5	Gra.JW.scaffolds	100.000	45	0	0	174	218	476592	476636	1.25e-19	89.7
+nad1_fragment_5	Gra.JW.scaffolds	96.667	30	1	0	75	104	23695	23666	2.72e-08	52.0
+***************************TEST:r145-rps4*****************r145 Gra.JW.scaffolds 158456 158842ORF_len:387,GENE_len:1044
+r145	Gra.JW.scaffolds	100.000	199	0	0	1	199	158456	158654	2.43e-111	394
+r145	Gra.JW.scaffolds	100.000	88	0	0	300	387	158755	158842	4.22e-45	174
+r145	Gra.JW.scaffolds	100.000	88	0	0	300	387	472693	472780	4.22e-45	174
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:f1017-rps12*****************f1017 Gra.JW.scaffolds 48039 48311ORF_len:273,GENE_len:375
+f1017	Gra.JW.scaffolds	100.000	273	0	0	1	273	48039	48311	1.17e-155	541
+rps12	Gra.JW.scaffolds	100.000	375	0	0	1	375	48226	47852	0.0	743
+***************************TEST:f706-sdh3*****************f706 Gra.JW.scaffolds 36800 37051ORF_len:252,GENE_len:291
+f706	Gra.JW.scaffolds	100.000	252	0	0	1	252	36800	37051	3.68e-143	500
+f706	Gra.JW.scaffolds	98.780	82	1	0	65	146	89482	89563	2.51e-39	155
+f706	Gra.JW.scaffolds	98.780	82	1	0	65	146	416509	416590	2.51e-39	155
+f706	Gra.JW.scaffolds	100.000	23	0	0	37	59	337976	337998	1.66e-06	46.1
+sdh3	Gra.JW.scaffolds	100.000	291	0	0	1	291	36837	36547	2.27e-166	577
+***************************TEST:r529-nad7_fragment_4*****************r529 Gra.JW.scaffolds 309500 310288ORF_len:789,GENE_len:243
+r529	Gra.JW.scaffolds	100.000	789	0	0	1	789	309500	310288	0.0	1564
+nad7_fragment_4	Gra.JW.scaffolds	100.000	243	0	0	1	243	309572	309330	8.31e-138	482
+***************************TEST:f462-rpl16*****************f462 Gra.JW.scaffolds 278421 278687ORF_len:267,GENE_len:555
+f462	Gra.JW.scaffolds	100.000	267	0	0	1	267	278421	278687	4.35e-152	529
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:r610-cox1*****************r610 Gra.JW.scaffolds 339159 339500ORF_len:342,GENE_len:1578
+r610	Gra.JW.scaffolds	100.000	342	0	0	1	342	339159	339500	0.0	678
+cox1	Gra.JW.scaffolds	100.000	1578	0	0	1	1578	339207	337630	0.0	3128
+***************************TEST:r1115-ccmB*****************r1115 Gra.JW.scaffolds 57709 58677ORF_len:969,GENE_len:630
+r1115	Gra.JW.scaffolds	100.000	969	0	0	1	969	57709	58677	0.0	1921
+ccmB	Gra.JW.scaffolds	99.841	630	1	0	1	630	58677	58048	0.0	1241
+***************************TEST:r1021-ccmFc_fragment_2*****************r1021 Gra.JW.scaffolds 492565 492924ORF_len:360,GENE_len:549
+r1021	Gra.JW.scaffolds	100.000	360	0	0	1	360	492565	492924	0.0	714
+ccmFc_fragment_2	Gra.JW.scaffolds	100.000	549	0	0	1	549	492829	493377	0.0	1088
+***************************TEST:r152-nad6*****************r152 Gra.JW.scaffolds 160232 160507ORF_len:276,GENE_len:639
+r152	Gra.JW.scaffolds	100.000	276	0	0	1	276	160232	160507	1.92e-157	547
+r152	Gra.JW.scaffolds	100.000	36	0	0	1	36	185479	185444	3.18e-14	71.9
+nad6	Gra.JW.scaffolds	100.000	639	0	0	1	639	160317	160955	0.0	1267
+***************************TEST:f194-nad2_fragment_3*****************f194 Gra.JW.scaffolds 174485 174832ORF_len:348,GENE_len:162
+f194	Gra.JW.scaffolds	100.000	348	0	0	1	348	174485	174832	0.0	690
+nad2_fragment_3	Gra.JW.scaffolds	100.000	162	0	0	1	162	174635	174796	1.17e-89	321
+***************************TEST:f261-nad4_fragment_3*****************f261 Gra.JW.scaffolds 200456 201106ORF_len:651,GENE_len:87
+f261	Gra.JW.scaffolds	100.000	651	0	0	1	651	200456	201106	0.0	1291
+nad4_fragment_3	Gra.JW.scaffolds	100.000	87	0	0	1	87	200951	201037	3.31e-45	172
+***************************TEST:r887-atp9*****************r887 Gra.JW.scaffolds 447535 447879ORF_len:345,GENE_len:243
+r887	Gra.JW.scaffolds	100.000	345	0	0	1	345	447535	447879	0.0	684
+r887	Gra.JW.scaffolds	98.077	52	1	0	161	212	268940	268889	2.78e-21	95.6
+r887	Gra.JW.scaffolds	94.595	37	2	0	231	267	397653	397617	6.05e-10	58.0
+r887	Gra.JW.scaffolds	96.154	26	1	0	161	186	292813	292788	9.10e-06	44.1
+atp9	Gra.JW.scaffolds	100.000	243	0	0	1	243	447828	448070	8.31e-138	482
+***************************TEST:r1208-cox3*****************r1208 Gra.JW.scaffolds 87460 88533ORF_len:1074,GENE_len:795
+r1208	Gra.JW.scaffolds	100.000	1074	0	0	1	1074	87460	88533	0.0	2129
+cox3	Gra.JW.scaffolds	100.000	795	0	0	1	795	88389	87595	0.0	1576
+***************************TEST:f155-rps4*****************f155 Gra.JW.scaffolds 158756 159688ORF_len:933,GENE_len:1044
+f155	Gra.JW.scaffolds	100.000	933	0	0	1	933	158756	159688	0.0	1850
+f155	Gra.JW.scaffolds	100.000	126	0	0	1	126	472694	472819	2.19e-67	250
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:r614-rps10_fragment_1*****************r614 Gra.JW.scaffolds 340337 340735ORF_len:399,GENE_len:210
+r614	Gra.JW.scaffolds	100.000	399	0	0	1	399	340337	340735	0.0	791
+r614	Gra.JW.scaffolds	100.000	56	0	0	295	350	29359	29414	5.43e-26	111
+r614	Gra.JW.scaffolds	100.000	56	0	0	295	350	381631	381576	5.43e-26	111
+r614	Gra.JW.scaffolds	100.000	56	0	0	295	350	468984	468929	5.43e-26	111
+rps10_fragment_1	Gra.JW.scaffolds	100.000	210	0	0	1	210	340597	340388	3.51e-118	416
+***************************TEST:f634-rps10_fragment_2*****************f634 Gra.JW.scaffolds 339353 339619ORF_len:267,GENE_len:75
+f634	Gra.JW.scaffolds	100.000	267	0	0	1	267	339353	339619	4.35e-152	529
+rps10_fragment_2	Gra.JW.scaffolds	100.000	75	0	0	1	75	339519	339445	4.08e-38	149
+***************************TEST:r811-atp8*****************r811 Gra.JW.scaffolds 416231 416680ORF_len:450,GENE_len:477
+r811	Gra.JW.scaffolds	100.000	450	0	0	1	450	416231	416680	0.0	892
+r811	Gra.JW.scaffolds	99.485	194	1	0	212	405	89415	89608	6.68e-106	377
+r811	Gra.JW.scaffolds	98.780	82	1	0	279	360	36864	36945	4.58e-39	155
+r811	Gra.JW.scaffolds	89.796	49	5	0	168	216	124988	125036	7.97e-10	58.0
+atp8	Gra.JW.scaffolds	99.790	477	1	0	1	477	89491	89015	0.0	938
+atp8	Gra.JW.scaffolds	100.000	77	0	0	1	77	416518	416442	1.92e-38	153
+***************************TEST:r1118-ccmB*****************r1118 Gra.JW.scaffolds 58584 58814ORF_len:231,GENE_len:630
+r1118	Gra.JW.scaffolds	100.000	231	0	0	1	231	58584	58814	1.14e-130	458
+ccmB	Gra.JW.scaffolds	99.841	630	1	0	1	630	58677	58048	0.0	1241
+***************************TEST:r250-nad4_fragment_2*****************r250 Gra.JW.scaffolds 197546 197785ORF_len:240,GENE_len:936
+r250	Gra.JW.scaffolds	100.000	240	0	0	1	240	197546	197785	5.06e-136	476
+nad4_fragment_2	Gra.JW.scaffolds	100.000	936	0	0	1	936	197484	198419	0.0	1855
+***************************TEST:r1113-rps7*****************r1113 Gra.JW.scaffolds 5681 6001ORF_len:321,GENE_len:465
+r1113	Gra.JW.scaffolds	100.000	321	0	0	1	321	5681	6001	0.0	636
+rps7	Gra.JW.scaffolds	99.785	465	1	0	1	465	6108	5644	0.0	914
+***************************TEST:f999-nad1_fragment_3*****************f999 Gra.JW.scaffolds 474935 475438ORF_len:504,GENE_len:195
+f999	Gra.JW.scaffolds	100.000	504	0	0	1	504	474935	475438	0.0	999
+f999	Gra.JW.scaffolds	100.000	49	0	0	148	196	34544	34496	1.04e-21	97.6
+nad1_fragment_3	Gra.JW.scaffolds	100.000	195	0	0	1	195	475142	475336	2.90e-109	387
+***************************TEST:f1124-ccmC*****************f1124 Gra.JW.scaffolds 516254 517057ORF_len:804,GENE_len:750
+f1124	Gra.JW.scaffolds	100.000	804	0	0	1	804	516254	517057	0.0	1594
+ccmC	Gra.JW.scaffolds	99.867	750	1	0	1	750	516254	517003	0.0	1479
+***************************TEST:f465-rps3*****************f465 Gra.JW.scaffolds 278935 279480ORF_len:546,GENE_len:1680
+f465	Gra.JW.scaffolds	100.000	546	0	0	1	546	278935	279480	0.0	1082
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:r203-cob*****************r203 Gra.JW.scaffolds 18015 19247ORF_len:1233,GENE_len:1191
+r203	Gra.JW.scaffolds	100.000	1233	0	0	1	1233	18015	19247	0.0	2444
+cob	Gra.JW.scaffolds	100.000	1191	0	0	1	1191	19247	18057	0.0	2361
+***************************TEST:f581-matR*****************f581 Gra.JW.scaffolds 316092 316451ORF_len:360,GENE_len:1983
+f581	Gra.JW.scaffolds	100.000	360	0	0	1	360	316092	316451	0.0	714
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:f747-nad1_fragment_5*****************f747 Gra.JW.scaffolds 382784 383155ORF_len:372,GENE_len:255
+f747	Gra.JW.scaffolds	100.000	372	0	0	1	372	382784	383155	0.0	737
+f747	Gra.JW.scaffolds	100.000	215	0	0	158	372	448194	448408	6.62e-121	426
+f747	Gra.JW.scaffolds	100.000	45	0	0	58	102	476592	476636	1.85e-19	89.7
+f747	Gra.JW.scaffolds	94.737	38	2	0	185	222	476630	476667	1.66e-10	60.0
+nad1_fragment_5	Gra.JW.scaffolds	100.000	255	0	0	1	255	382668	382922	6.01e-145	505
+nad1_fragment_5	Gra.JW.scaffolds	100.000	45	0	0	174	218	476592	476636	1.25e-19	89.7
+nad1_fragment_5	Gra.JW.scaffolds	96.667	30	1	0	75	104	23695	23666	2.72e-08	52.0
+***************************TEST:f655-nad5_fragment_3*****************f655 Gra.JW.scaffolds 346923 347183ORF_len:261,GENE_len:396
+f655	Gra.JW.scaffolds	100.000	261	0	0	1	261	346923	347183	1.62e-148	517
+nad5_fragment_3	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:r1211-atp8*****************r1211 Gra.JW.scaffolds 88904 89893ORF_len:990,GENE_len:477
+r1211	Gra.JW.scaffolds	100.000	990	0	0	1	990	88904	89893	0.0	1963
+r1211	Gra.JW.scaffolds	99.485	194	1	0	512	705	416442	416635	1.49e-105	377
+r1211	Gra.JW.scaffolds	98.780	82	1	0	579	660	36864	36945	1.02e-38	155
+atp8	Gra.JW.scaffolds	99.790	477	1	0	1	477	89491	89015	0.0	938
+atp8	Gra.JW.scaffolds	100.000	77	0	0	1	77	416518	416442	1.92e-38	153
+***************************TEST:f246-nad4_fragment_1*****************f246 Gra.JW.scaffolds 195576 196229ORF_len:654,GENE_len:459
+f246	Gra.JW.scaffolds	100.000	654	0	0	1	654	195576	196229	0.0	1296
+nad4_fragment_1	Gra.JW.scaffolds	100.000	459	0	0	1	459	195586	196044	0.0	910
+***************************TEST:f916-atp9*****************f916 Gra.JW.scaffolds 447579 448118ORF_len:540,GENE_len:243
+f916	Gra.JW.scaffolds	100.000	540	0	0	1	540	447579	448118	0.0	1070
+f916	Gra.JW.scaffolds	98.077	52	1	0	117	168	268940	268889	4.41e-21	95.6
+f916	Gra.JW.scaffolds	94.595	37	2	0	187	223	397653	397617	9.61e-10	58.0
+atp9	Gra.JW.scaffolds	100.000	243	0	0	1	243	447828	448070	8.31e-138	482
+***************************TEST:f993-nad1_fragment_2*****************f993 Gra.JW.scaffolds 473553 473825ORF_len:273,GENE_len:78
+f993	Gra.JW.scaffolds	100.000	273	0	0	1	273	473553	473825	1.17e-155	541
+nad1_fragment_2	Gra.JW.scaffolds	100.000	78	0	0	1	78	473599	473676	6.93e-40	155
+***************************TEST:r553-nad1_fragment_4*****************r553 Gra.JW.scaffolds 317468 317698ORF_len:231,GENE_len:60
+r553	Gra.JW.scaffolds	100.000	231	0	0	1	231	317468	317698	1.14e-130	458
+nad1_fragment_4	Gra.JW.scaffolds	100.000	60	0	0	1	60	317601	317542	2.78e-29	119
+***************************TEST:r313-ccmFn*****************r313 Gra.JW.scaffolds 227786 229618ORF_len:1833,GENE_len:1728
+r313	Gra.JW.scaffolds	100.000	1717	0	0	1	1717	227786	229502	0.0	3404
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:f983-rps14_fragment_1*****************f983 Gra.JW.scaffolds 469372 469764ORF_len:393,GENE_len:87
+f983	Gra.JW.scaffolds	100.000	393	0	0	1	393	469372	469764	0.0	779
+rps14_fragment_1	Gra.JW.scaffolds	100.000	87	0	0	1	87	469582	469668	3.31e-45	172
+***************************TEST:r544-nad7_fragment_1*****************r544 Gra.JW.scaffolds 313518 313742ORF_len:225,GENE_len:162
+r544	Gra.JW.scaffolds	100.000	225	0	0	1	225	313518	313742	4.22e-127	446
+nad7_fragment_1	Gra.JW.scaffolds	99.383	162	1	0	1	162	313770	313609	2.85e-87	313
+***************************TEST:f1207-ccmFc_fragment_1*****************f1207 Gra.JW.scaffolds 90310 90816ORF_len:507,GENE_len:771
+f1207	Gra.JW.scaffolds	100.000	507	0	0	1	507	90310	90816	0.0	1005
+f1207	Gra.JW.scaffolds	97.531	81	2	0	120	200	491440	491360	4.99e-36	145
+ccmFc_fragment_1	Gra.JW.scaffolds	100.000	771	0	0	1	771	491105	491875	0.0	1528
+ccmFc_fragment_1	Gra.JW.scaffolds	97.531	81	2	0	256	336	90509	90429	7.66e-36	145
+***************************TEST:r548-matR*****************r548 Gra.JW.scaffolds 314904 316883ORF_len:1980,GENE_len:1983
+r548	Gra.JW.scaffolds	100.000	1980	0	0	1	1980	314904	316883	0.0	3925
+r548	Gra.JW.scaffolds	100.000	26	0	0	760	785	468169	468144	2.22e-07	52.0
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r443-rps3*****************r443 Gra.JW.scaffolds 279695 280081ORF_len:387,GENE_len:1680
+r443	Gra.JW.scaffolds	100.000	387	0	0	1	387	279695	280081	0.0	767
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:f470-rps3*****************f470 Gra.JW.scaffolds 279748 280059ORF_len:312,GENE_len:1680
+f470	Gra.JW.scaffolds	100.000	312	0	0	1	312	279748	280059	7.18e-179	618
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:f1145-ccmB*****************f1145 Gra.JW.scaffolds 58121 58435ORF_len:315,GENE_len:630
+f1145	Gra.JW.scaffolds	100.000	315	0	0	1	315	58121	58435	1.18e-180	624
+ccmB	Gra.JW.scaffolds	99.841	630	1	0	1	630	58677	58048	0.0	1241
+***************************TEST:f1055-ccmFc_fragment_2*****************f1055 Gra.JW.scaffolds 492499 493530ORF_len:1032,GENE_len:549
+f1055	Gra.JW.scaffolds	100.000	1032	0	0	1	1032	492499	493530	0.0	2046
+ccmFc_fragment_2	Gra.JW.scaffolds	100.000	549	0	0	1	549	492829	493377	0.0	1088
+***************************TEST:r550-matR*****************r550 Gra.JW.scaffolds 316216 316557ORF_len:342,GENE_len:1983
+r550	Gra.JW.scaffolds	100.000	342	0	0	1	342	316216	316557	0.0	678
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r989-nad3*****************r989 Gra.JW.scaffolds 48275 48760ORF_len:486,GENE_len:354
+r989	Gra.JW.scaffolds	100.000	486	0	0	1	486	48275	48760	0.0	963
+r989	Gra.JW.scaffolds	93.701	127	4	1	295	417	418795	418921	1.40e-48	186
+r989	Gra.JW.scaffolds	100.000	25	0	0	383	407	516125	516101	2.10e-07	50.1
+nad3	Gra.JW.scaffolds	99.718	354	1	0	1	354	48631	48278	0.0	694
+nad3	Gra.JW.scaffolds	95.238	63	3	0	1	63	418857	418795	4.62e-23	101
+***************************TEST:r1110-rps7*****************r1110 Gra.JW.scaffolds 5641 6264ORF_len:624,GENE_len:465
+r1110	Gra.JW.scaffolds	100.000	624	0	0	1	624	5641	6264	0.0	1237
+rps7	Gra.JW.scaffolds	99.785	465	1	0	1	465	6108	5644	0.0	914
+***************************TEST:r540-nad7_fragment_3*****************r540 Gra.JW.scaffolds 312707 312937ORF_len:231,GENE_len:108
+r540	Gra.JW.scaffolds	100.000	231	0	0	1	231	312707	312937	1.14e-130	458
+nad7_fragment_3	Gra.JW.scaffolds	100.000	108	0	0	1	108	312764	312657	1.25e-57	214
+***************************TEST:f460-rpl16*****************f460 Gra.JW.scaffolds 277623 278414ORF_len:792,GENE_len:555
+f460	Gra.JW.scaffolds	100.000	792	0	0	1	792	277623	278414	0.0	1570
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:r315-ccmFn*****************r315 Gra.JW.scaffolds 228535 229329ORF_len:795,GENE_len:1728
+r315	Gra.JW.scaffolds	100.000	795	0	0	1	795	228535	229329	0.0	1576
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:f656-nad5_fragment_3*****************f656 Gra.JW.scaffolds 347008 347538ORF_len:531,GENE_len:396
+f656	Gra.JW.scaffolds	100.000	531	0	0	1	531	347008	347538	0.0	1053
+nad5_fragment_3	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:f235-cob*****************f235 Gra.JW.scaffolds 19146 19553ORF_len:408,GENE_len:1191
+f235	Gra.JW.scaffolds	100.000	408	0	0	1	408	19146	19553	0.0	809
+cob	Gra.JW.scaffolds	100.000	1191	0	0	1	1191	19247	18057	0.0	2361
+***************************TEST:r1024-atp1*****************r1024 Gra.JW.scaffolds 49327 50955ORF_len:1629,GENE_len:1521
+r1024	Gra.JW.scaffolds	100.000	1278	0	0	352	1629	49678	50955	0.0	2533
+r1024	Gra.JW.scaffolds	100.000	251	0	0	1	251	49327	49577	9.81e-142	498
+r1024	Gra.JW.scaffolds	100.000	127	0	0	352	478	49451	49577	9.74e-68	252
+r1024	Gra.JW.scaffolds	100.000	127	0	0	125	251	49678	49804	9.74e-68	252
+r1024	Gra.JW.scaffolds	100.000	127	0	0	352	478	463047	462921	9.74e-68	252
+r1024	Gra.JW.scaffolds	100.000	127	0	0	125	251	463047	462921	9.74e-68	252
+r1024	Gra.JW.scaffolds	100.000	25	0	0	1534	1558	244546	244570	7.19e-07	50.1
+atp1	Gra.JW.scaffolds	99.736	1137	3	0	1	1137	50814	49678	0.0	2230
+atp1	Gra.JW.scaffolds	99.217	511	4	0	1011	1521	462921	463431	0.0	981
+atp1	Gra.JW.scaffolds	100.000	127	0	0	1011	1137	49577	49451	9.09e-68	252
+***************************TEST:f751-nad5_fragment_2*****************f751 Gra.JW.scaffolds 384197 385435ORF_len:1239,GENE_len:1203
+f751	Gra.JW.scaffolds	100.000	1239	0	0	1	1239	384197	385435	0.0	2456
+nad5_fragment_2	Gra.JW.scaffolds	100.000	1203	0	0	1	1203	384209	385411	0.0	2385
+***************************TEST:f748-nad5_fragment_1*****************f748 Gra.JW.scaffolds 382930 383388ORF_len:459,GENE_len:237
+f748	Gra.JW.scaffolds	100.000	459	0	0	1	459	382930	383388	0.0	910
+f748	Gra.JW.scaffolds	100.000	279	0	0	12	290	448194	448472	5.29e-159	553
+f748	Gra.JW.scaffolds	94.737	38	2	0	39	76	476630	476667	2.06e-10	60.0
+nad5_fragment_1	Gra.JW.scaffolds	99.578	237	1	0	1	237	383122	383358	7.51e-132	462
+nad5_fragment_1	Gra.JW.scaffolds	98.980	98	1	0	1	98	448375	448472	6.66e-49	186
+***************************TEST:f154-rps4*****************f154 Gra.JW.scaffolds 158520 158981ORF_len:462,GENE_len:1044
+f154	Gra.JW.scaffolds	100.000	227	0	0	236	462	158755	158981	5.71e-128	450
+f154	Gra.JW.scaffolds	100.000	135	0	0	1	135	158520	158654	4.55e-73	268
+f154	Gra.JW.scaffolds	100.000	127	0	0	236	362	472693	472819	2.70e-68	252
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:r645-nad2_fragment_1*****************r645 Gra.JW.scaffolds 35411 35875ORF_len:465,GENE_len:153
+r645	Gra.JW.scaffolds	100.000	465	0	0	1	465	35411	35875	0.0	922
+nad2_fragment_1	Gra.JW.scaffolds	100.000	153	0	0	1	153	35833	35681	2.58e-84	303
+***************************TEST:r607-cox1*****************r607 Gra.JW.scaffolds 337624 339207ORF_len:1584,GENE_len:1578
+r607	Gra.JW.scaffolds	100.000	1584	0	0	1	1584	337624	339207	0.0	3140
+cox1	Gra.JW.scaffolds	100.000	1578	0	0	1	1578	339207	337630	0.0	3128
+***************************TEST:f1151-rps7*****************f1151 Gra.JW.scaffolds 6049 6420ORF_len:372,GENE_len:465
+f1151	Gra.JW.scaffolds	100.000	372	0	0	1	372	6049	6420	0.0	737
+rps7	Gra.JW.scaffolds	99.785	465	1	0	1	465	6108	5644	0.0	914
+***************************TEST:r720-nad5_fragment_1*****************r720 Gra.JW.scaffolds 382926 383255ORF_len:330,GENE_len:237
+r720	Gra.JW.scaffolds	100.000	330	0	0	1	330	382926	383255	0.0	654
+r720	Gra.JW.scaffolds	100.000	279	0	0	16	294	448194	448472	3.75e-159	553
+r720	Gra.JW.scaffolds	94.737	38	2	0	43	80	476630	476667	1.46e-10	60.0
+nad5_fragment_1	Gra.JW.scaffolds	99.578	237	1	0	1	237	383122	383358	7.51e-132	462
+nad5_fragment_1	Gra.JW.scaffolds	98.980	98	1	0	1	98	448375	448472	6.66e-49	186
+***************************TEST:f64-cox2_fragment_1*****************f64 Gra.JW.scaffolds 125159 125431ORF_len:273,GENE_len:702
+f64	Gra.JW.scaffolds	100.000	273	0	0	1	273	125159	125431	1.17e-155	541
+f64	Gra.JW.scaffolds	100.000	145	0	0	110	254	151724	151580	2.83e-79	287
+f64	Gra.JW.scaffolds	100.000	44	0	0	110	153	440881	440924	5.30e-19	87.7
+cox2_fragment_1	Gra.JW.scaffolds	100.000	702	0	0	1	702	125186	124485	0.0	1392
+cox2_fragment_1	Gra.JW.scaffolds	96.471	85	3	0	618	702	368482	368398	6.96e-36	145
+cox2_fragment_1	Gra.JW.scaffolds	89.796	49	5	0	151	199	416446	416398	1.26e-09	58.0
+***************************TEST:f461-rpl16*****************f461 Gra.JW.scaffolds 278195 278521ORF_len:327,GENE_len:555
+f461	Gra.JW.scaffolds	100.000	327	0	0	1	327	278195	278521	0.0	648
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:r352-nad4L*****************r352 Gra.JW.scaffolds 244206 244541ORF_len:336,GENE_len:300
+r352	Gra.JW.scaffolds	100.000	336	0	0	1	336	244206	244541	0.0	666
+r352	Gra.JW.scaffolds	100.000	23	0	0	314	336	244980	245002	2.24e-06	46.1
+nad4L	Gra.JW.scaffolds	100.000	300	0	0	1	300	244508	244209	9.99e-172	595
+***************************TEST:r527-nad7_fragment_4*****************r527 Gra.JW.scaffolds 309294 309608ORF_len:315,GENE_len:243
+r527	Gra.JW.scaffolds	100.000	315	0	0	1	315	309294	309608	1.18e-180	624
+nad7_fragment_4	Gra.JW.scaffolds	100.000	243	0	0	1	243	309572	309330	8.31e-138	482
+***************************TEST:f482-nad1_fragment_1*****************f482 Gra.JW.scaffolds 28560 28910ORF_len:351,GENE_len:387
+f482	Gra.JW.scaffolds	100.000	351	0	0	1	351	28560	28910	0.0	696
+f482	Gra.JW.scaffolds	96.923	65	2	0	65	129	358390	358326	1.20e-26	113
+nad1_fragment_1	Gra.JW.scaffolds	100.000	387	0	0	1	387	28605	28219	0.0	767
+nad1_fragment_1	Gra.JW.scaffolds	95.652	46	2	0	338	383	416730	416685	2.90e-15	75.8
+***************************TEST:r950-rps14_fragment_2*****************r950 Gra.JW.scaffolds 469656 469904ORF_len:249,GENE_len:174
+r950	Gra.JW.scaffolds	100.000	249	0	0	1	249	469656	469904	2.24e-141	494
+rps14_fragment_2	Gra.JW.scaffolds	100.000	174	0	0	1	174	469677	469850	8.71e-97	345
+***************************TEST:f892-nad9*****************f892 Gra.JW.scaffolds 440295 440684ORF_len:390,GENE_len:573
+f892	Gra.JW.scaffolds	100.000	390	0	0	1	390	440295	440684	0.0	773
+nad9	Gra.JW.scaffolds	100.000	573	0	0	1	573	440817	440245	0.0	1136
+***************************TEST:f1202-cox3*****************f1202 Gra.JW.scaffolds 87929 88366ORF_len:438,GENE_len:795
+f1202	Gra.JW.scaffolds	100.000	438	0	0	1	438	87929	88366	0.0	868
+cox3	Gra.JW.scaffolds	100.000	795	0	0	1	795	88389	87595	0.0	1576
+***************************TEST:r1015-ccmFc_fragment_1*****************r1015 Gra.JW.scaffolds 491275 491781ORF_len:507,GENE_len:771
+r1015	Gra.JW.scaffolds	100.000	507	0	0	1	507	491275	491781	0.0	1005
+r1015	Gra.JW.scaffolds	97.531	81	2	0	86	166	90509	90429	4.99e-36	145
+ccmFc_fragment_1	Gra.JW.scaffolds	100.000	771	0	0	1	771	491105	491875	0.0	1528
+ccmFc_fragment_1	Gra.JW.scaffolds	97.531	81	2	0	256	336	90509	90429	7.66e-36	145
+***************************TEST:r439-rpl16*****************r439 Gra.JW.scaffolds 278090 278647ORF_len:558,GENE_len:555
+r439	Gra.JW.scaffolds	100.000	558	0	0	1	558	278090	278647	0.0	1106
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:f989-rps4*****************f989 Gra.JW.scaffolds 472694 473446ORF_len:753,GENE_len:1044
+f989	Gra.JW.scaffolds	100.000	753	0	0	1	753	472694	473446	0.0	1493
+f989	Gra.JW.scaffolds	100.000	126	0	0	1	126	158756	158881	1.76e-67	250
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:f633-rps10_fragment_2*****************f633 Gra.JW.scaffolds 339237 339551ORF_len:315,GENE_len:75
+f633	Gra.JW.scaffolds	100.000	315	0	0	1	315	339237	339551	1.18e-180	624
+rps10_fragment_2	Gra.JW.scaffolds	100.000	75	0	0	1	75	339519	339445	4.08e-38	149
+***************************TEST:r1086-ccmC*****************r1086 Gra.JW.scaffolds 515934 516293ORF_len:360,GENE_len:750
+r1086	Gra.JW.scaffolds	100.000	360	0	0	1	360	515934	516293	0.0	714
+r1086	Gra.JW.scaffolds	100.000	25	0	0	168	192	48681	48657	1.54e-07	50.1
+r1086	Gra.JW.scaffolds	100.000	25	0	0	163	187	296483	296459	1.54e-07	50.1
+r1086	Gra.JW.scaffolds	96.552	29	1	0	161	189	418918	418890	1.54e-07	50.1
+r1086	Gra.JW.scaffolds	100.000	22	0	0	119	140	160764	160785	9.51e-06	44.1
+ccmC	Gra.JW.scaffolds	99.867	750	1	0	1	750	516254	517003	0.0	1479
+***************************TEST:r625-nad5_fragment_3*****************r625 Gra.JW.scaffolds 346919 347152ORF_len:234,GENE_len:396
+r625	Gra.JW.scaffolds	100.000	234	0	0	1	234	346919	347152	1.87e-132	464
+nad5_fragment_3	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:f1139-rps7*****************f1139 Gra.JW.scaffolds 5640 5984ORF_len:345,GENE_len:465
+f1139	Gra.JW.scaffolds	100.000	345	0	0	1	345	5640	5984	0.0	684
+rps7	Gra.JW.scaffolds	99.785	465	1	0	1	465	6108	5644	0.0	914
+***************************TEST:r318-ccmFn*****************r318 Gra.JW.scaffolds 229362 229613ORF_len:252,GENE_len:1728
+r318	Gra.JW.scaffolds	100.000	141	0	0	1	141	229362	229502	6.37e-77	280
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:r540-nad7_fragment_2*****************r540 Gra.JW.scaffolds 312707 312937ORF_len:231,GENE_len:108
+r540	Gra.JW.scaffolds	100.000	231	0	0	1	231	312707	312937	1.14e-130	458
+nad7_fragment_2	Gra.JW.scaffolds	100.000	108	0	0	1	108	312764	312657	1.25e-57	214
+***************************TEST:f551-nad7_fragment_5*****************f551 Gra.JW.scaffolds 307367 307636ORF_len:270,GENE_len:261
+f551	Gra.JW.scaffolds	100.000	270	0	0	1	270	307367	307636	7.14e-154	535
+nad7_fragment_5	Gra.JW.scaffolds	100.000	261	0	0	1	261	307531	307271	1.62e-148	517
+***************************TEST:r440-rps3*****************r440 Gra.JW.scaffolds 278496 280178ORF_len:1683,GENE_len:1680
+r440	Gra.JW.scaffolds	100.000	1683	0	0	1	1683	278496	280178	0.0	3336
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:r662-sdh3*****************r662 Gra.JW.scaffolds 36073 37125ORF_len:1053,GENE_len:291
+r662	Gra.JW.scaffolds	100.000	1053	0	0	1	1053	36073	37125	0.0	2087
+r662	Gra.JW.scaffolds	98.780	82	1	0	792	873	89482	89563	1.09e-38	155
+r662	Gra.JW.scaffolds	98.780	82	1	0	792	873	416509	416590	1.09e-38	155
+r662	Gra.JW.scaffolds	100.000	23	0	0	764	786	337976	337998	7.22e-06	46.1
+sdh3	Gra.JW.scaffolds	100.000	291	0	0	1	291	36837	36547	2.27e-166	577
+***************************TEST:r1206-sdh4*****************r1206 Gra.JW.scaffolds 87110 87730ORF_len:621,GENE_len:393
+r1206	Gra.JW.scaffolds	100.000	621	0	0	1	621	87110	87730	0.0	1231
+r1206	Gra.JW.scaffolds	94.595	37	2	0	35	71	113909	113945	1.11e-09	58.0
+r1206	Gra.JW.scaffolds	100.000	25	0	0	108	132	122192	122216	2.70e-07	50.1
+sdh4	Gra.JW.scaffolds	100.000	393	0	0	1	393	87664	87272	0.0	779
+***************************TEST:r988-rps12*****************r988 Gra.JW.scaffolds 48192 48518ORF_len:327,GENE_len:375
+r988	Gra.JW.scaffolds	100.000	327	0	0	1	327	48192	48518	0.0	648
+rps12	Gra.JW.scaffolds	100.000	375	0	0	1	375	48226	47852	0.0	743
+***************************TEST:r55-cox2_fragment_1*****************r55 Gra.JW.scaffolds 124981 125373ORF_len:393,GENE_len:702
+r55	Gra.JW.scaffolds	100.000	393	0	0	1	393	124981	125373	0.0	779
+r55	Gra.JW.scaffolds	100.000	106	0	0	288	393	151724	151619	7.78e-56	210
+r55	Gra.JW.scaffolds	100.000	44	0	0	288	331	440881	440924	7.75e-19	87.7
+r55	Gra.JW.scaffolds	89.796	49	5	0	8	56	416398	416446	6.93e-10	58.0
+cox2_fragment_1	Gra.JW.scaffolds	100.000	702	0	0	1	702	125186	124485	0.0	1392
+cox2_fragment_1	Gra.JW.scaffolds	96.471	85	3	0	618	702	368482	368398	6.96e-36	145
+cox2_fragment_1	Gra.JW.scaffolds	89.796	49	5	0	151	199	416446	416398	1.26e-09	58.0
+***************************TEST:f640-nad2_fragment_2*****************f640 Gra.JW.scaffolds 34213 34548ORF_len:336,GENE_len:351
+f640	Gra.JW.scaffolds	100.000	336	0	0	1	336	34213	34548	0.0	666
+f640	Gra.JW.scaffolds	100.000	49	0	0	284	332	475130	475082	6.83e-22	97.6
+nad2_fragment_2	Gra.JW.scaffolds	100.000	351	0	0	1	351	34439	34089	0.0	696
+***************************TEST:r1049-atp1*****************r1049 Gra.JW.scaffolds 50027 50260ORF_len:234,GENE_len:1521
+r1049	Gra.JW.scaffolds	100.000	234	0	0	1	234	50027	50260	1.87e-132	464
+atp1	Gra.JW.scaffolds	99.736	1137	3	0	1	1137	50814	49678	0.0	2230
+atp1	Gra.JW.scaffolds	99.217	511	4	0	1011	1521	462921	463431	0.0	981
+atp1	Gra.JW.scaffolds	100.000	127	0	0	1011	1137	49577	49451	9.09e-68	252
+***************************TEST:f252-nad4_fragment_2*****************f252 Gra.JW.scaffolds 197669 197935ORF_len:267,GENE_len:936
+f252	Gra.JW.scaffolds	100.000	267	0	0	1	267	197669	197935	4.35e-152	529
+nad4_fragment_2	Gra.JW.scaffolds	100.000	936	0	0	1	936	197484	198419	0.0	1855
+***************************TEST:f325-ccmFn*****************f325 Gra.JW.scaffolds 228693 228983ORF_len:291,GENE_len:1728
+f325	Gra.JW.scaffolds	100.000	291	0	0	1	291	228693	228983	2.27e-166	577
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:r957-nad1_fragment_2*****************r957 Gra.JW.scaffolds 473328 473639ORF_len:312,GENE_len:78
+r957	Gra.JW.scaffolds	100.000	312	0	0	1	312	473328	473639	7.18e-179	618
+nad1_fragment_2	Gra.JW.scaffolds	100.000	78	0	0	1	78	473599	473676	6.93e-40	155
+***************************TEST:r970-rps12*****************r970 Gra.JW.scaffolds 47678 48268ORF_len:591,GENE_len:375
+r970	Gra.JW.scaffolds	100.000	591	0	0	1	591	47678	48268	0.0	1172
+rps12	Gra.JW.scaffolds	100.000	375	0	0	1	375	48226	47852	0.0	743
+***************************TEST:r440-rpl16*****************r440 Gra.JW.scaffolds 278496 280178ORF_len:1683,GENE_len:555
+r440	Gra.JW.scaffolds	100.000	1683	0	0	1	1683	278496	280178	0.0	3336
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:r886-atp9*****************r886 Gra.JW.scaffolds 447527 447955ORF_len:429,GENE_len:243
+r886	Gra.JW.scaffolds	100.000	429	0	0	1	429	447527	447955	0.0	850
+r886	Gra.JW.scaffolds	98.077	52	1	0	169	220	268940	268889	3.48e-21	95.6
+r886	Gra.JW.scaffolds	94.595	37	2	0	239	275	397653	397617	7.58e-10	58.0
+atp9	Gra.JW.scaffolds	100.000	243	0	0	1	243	447828	448070	8.31e-138	482
+***************************TEST:r889-nad5_fragment_1*****************r889 Gra.JW.scaffolds 448167 448523ORF_len:357,GENE_len:237
+r889	Gra.JW.scaffolds	100.000	357	0	0	1	357	448167	448523	0.0	708
+r889	Gra.JW.scaffolds	100.000	279	0	0	28	306	382941	383219	4.07e-159	553
+r889	Gra.JW.scaffolds	94.737	38	2	0	55	92	476630	476667	1.59e-10	60.0
+nad5_fragment_1	Gra.JW.scaffolds	99.578	237	1	0	1	237	383122	383358	7.51e-132	462
+nad5_fragment_1	Gra.JW.scaffolds	98.980	98	1	0	1	98	448375	448472	6.66e-49	186
+***************************TEST:f463-rpl16*****************f463 Gra.JW.scaffolds 278611 278841ORF_len:231,GENE_len:555
+f463	Gra.JW.scaffolds	100.000	231	0	0	1	231	278611	278841	1.14e-130	458
+rpl16	Gra.JW.scaffolds	100.000	555	0	0	1	555	278647	278093	0.0	1100
+***************************TEST:r963-nad1_fragment_3*****************r963 Gra.JW.scaffolds 474897 475232ORF_len:336,GENE_len:195
+r963	Gra.JW.scaffolds	100.000	336	0	0	1	336	474897	475232	0.0	666
+r963	Gra.JW.scaffolds	100.000	49	0	0	186	234	34544	34496	6.83e-22	97.6
+nad1_fragment_3	Gra.JW.scaffolds	100.000	195	0	0	1	195	475142	475336	2.90e-109	387
+***************************TEST:f575-nad7_fragment_1*****************f575 Gra.JW.scaffolds 313619 313867ORF_len:249,GENE_len:162
+f575	Gra.JW.scaffolds	100.000	249	0	0	1	249	313619	313867	2.24e-141	494
+nad7_fragment_1	Gra.JW.scaffolds	99.383	162	1	0	1	162	313770	313609	2.85e-87	313
+***************************TEST:f982-rpl5*****************f982 Gra.JW.scaffolds 469017 469580ORF_len:564,GENE_len:552
+f982	Gra.JW.scaffolds	100.000	564	0	0	1	564	469017	469580	0.0	1118
+rpl5	Gra.JW.scaffolds	99.819	552	1	0	1	552	469026	469577	0.0	1086
+***************************TEST:f655-nad5_fragment_4*****************f655 Gra.JW.scaffolds 346923 347183ORF_len:261,GENE_len:396
+f655	Gra.JW.scaffolds	100.000	261	0	0	1	261	346923	347183	1.62e-148	517
+nad5_fragment_4	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:r1213-ccmFc_fragment_1*****************r1213 Gra.JW.scaffolds 90053 90499ORF_len:447,GENE_len:771
+r1213	Gra.JW.scaffolds	100.000	447	0	0	1	447	90053	90499	0.0	886
+r1213	Gra.JW.scaffolds	98.592	71	1	0	377	447	491440	491370	1.67e-32	133
+ccmFc_fragment_1	Gra.JW.scaffolds	100.000	771	0	0	1	771	491105	491875	0.0	1528
+ccmFc_fragment_1	Gra.JW.scaffolds	97.531	81	2	0	256	336	90509	90429	7.66e-36	145
+***************************TEST:f143-atp6*****************f143 Gra.JW.scaffolds 151785 152840ORF_len:1056,GENE_len:726
+f143	Gra.JW.scaffolds	100.000	1056	0	0	1	1056	151785	152840	0.0	2093
+atp6	Gra.JW.scaffolds	100.000	726	0	0	1	726	152121	152846	0.0	1439
+***************************TEST:r868-nad9*****************r868 Gra.JW.scaffolds 440245 440823ORF_len:579,GENE_len:573
+r868	Gra.JW.scaffolds	100.000	579	0	0	1	579	440245	440823	0.0	1148
+nad9	Gra.JW.scaffolds	100.000	573	0	0	1	573	440817	440245	0.0	1136
+***************************TEST:f221-cob*****************f221 Gra.JW.scaffolds 18574 18915ORF_len:342,GENE_len:1191
+f221	Gra.JW.scaffolds	100.000	342	0	0	1	342	18574	18915	0.0	678
+cob	Gra.JW.scaffolds	100.000	1191	0	0	1	1191	19247	18057	0.0	2361
+***************************TEST:f468-rps3*****************f468 Gra.JW.scaffolds 279701 279997ORF_len:297,GENE_len:1680
+f468	Gra.JW.scaffolds	100.000	297	0	0	1	297	279701	279997	6.10e-170	589
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:r1117-ccmB*****************r1117 Gra.JW.scaffolds 58070 58606ORF_len:537,GENE_len:630
+r1117	Gra.JW.scaffolds	100.000	537	0	0	1	537	58070	58606	0.0	1065
+ccmB	Gra.JW.scaffolds	99.841	630	1	0	1	630	58677	58048	0.0	1241
+***************************TEST:r447-nad1_fragment_1*****************r447 Gra.JW.scaffolds 28216 28599ORF_len:384,GENE_len:387
+r447	Gra.JW.scaffolds	100.000	384	0	0	1	384	28216	28599	0.0	761
+r447	Gra.JW.scaffolds	95.652	46	2	0	8	53	416685	416730	2.88e-15	75.8
+nad1_fragment_1	Gra.JW.scaffolds	100.000	387	0	0	1	387	28605	28219	0.0	767
+nad1_fragment_1	Gra.JW.scaffolds	95.652	46	2	0	338	383	416730	416685	2.90e-15	75.8
+***************************TEST:f1146-ccmB*****************f1146 Gra.JW.scaffolds 58404 58739ORF_len:336,GENE_len:630
+f1146	Gra.JW.scaffolds	100.000	336	0	0	1	336	58404	58739	0.0	666
+ccmB	Gra.JW.scaffolds	99.841	630	1	0	1	630	58677	58048	0.0	1241
+***************************TEST:f495-rpl10*****************f495 Gra.JW.scaffolds 28984 29241ORF_len:258,GENE_len:486
+f495	Gra.JW.scaffolds	100.000	258	0	0	1	258	28984	29241	9.86e-147	511
+rpl10	Gra.JW.scaffolds	100.000	486	0	0	1	486	29317	28832	0.0	963
+***************************TEST:r147-rps4*****************r147 Gra.JW.scaffolds 158897 159199ORF_len:303,GENE_len:1044
+r147	Gra.JW.scaffolds	100.000	303	0	0	1	303	158897	159199	1.64e-173	601
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:f983-rps14_fragment_2*****************f983 Gra.JW.scaffolds 469372 469764ORF_len:393,GENE_len:174
+f983	Gra.JW.scaffolds	100.000	393	0	0	1	393	469372	469764	0.0	779
+rps14_fragment_2	Gra.JW.scaffolds	100.000	174	0	0	1	174	469677	469850	8.71e-97	345
+***************************TEST:r955-rps4*****************r955 Gra.JW.scaffolds 472732 473544ORF_len:813,GENE_len:1044
+r955	Gra.JW.scaffolds	100.000	813	0	0	1	813	472732	473544	0.0	1612
+r955	Gra.JW.scaffolds	100.000	88	0	0	1	88	158794	158881	9.04e-45	174
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:r1209-cox3*****************r1209 Gra.JW.scaffolds 87983 88501ORF_len:519,GENE_len:795
+r1209	Gra.JW.scaffolds	100.000	519	0	0	1	519	87983	88501	0.0	1029
+cox3	Gra.JW.scaffolds	100.000	795	0	0	1	795	88389	87595	0.0	1576
+***************************TEST:r872-nad9*****************r872 Gra.JW.scaffolds 440532 440978ORF_len:447,GENE_len:573
+r872	Gra.JW.scaffolds	100.000	447	0	0	1	447	440532	440978	0.0	886
+r872	Gra.JW.scaffolds	100.000	102	0	0	292	393	151782	151681	2.17e-53	202
+r872	Gra.JW.scaffolds	100.000	44	0	0	350	393	125268	125311	8.85e-19	87.7
+nad9	Gra.JW.scaffolds	100.000	573	0	0	1	573	440817	440245	0.0	1136
+***************************TEST:f326-ccmFn*****************f326 Gra.JW.scaffolds 229003 229293ORF_len:291,GENE_len:1728
+f326	Gra.JW.scaffolds	100.000	291	0	0	1	291	229003	229293	2.27e-166	577
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:r522-nad7_fragment_5*****************r522 Gra.JW.scaffolds 307268 307570ORF_len:303,GENE_len:261
+r522	Gra.JW.scaffolds	100.000	303	0	0	1	303	307268	307570	1.64e-173	601
+nad7_fragment_5	Gra.JW.scaffolds	100.000	261	0	0	1	261	307531	307271	1.62e-148	517
+***************************TEST:f582-matR*****************f582 Gra.JW.scaffolds 316180 316536ORF_len:357,GENE_len:1983
+f582	Gra.JW.scaffolds	100.000	357	0	0	1	357	316180	316536	0.0	708
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r723-nad5_fragment_2*****************r723 Gra.JW.scaffolds 383788 384243ORF_len:456,GENE_len:1203
+r723	Gra.JW.scaffolds	100.000	456	0	0	1	456	383788	384243	0.0	904
+nad5_fragment_2	Gra.JW.scaffolds	100.000	1203	0	0	1	1203	384209	385411	0.0	2385
+***************************TEST:f753-nad5_fragment_2*****************f753 Gra.JW.scaffolds 384589 384957ORF_len:369,GENE_len:1203
+f753	Gra.JW.scaffolds	100.000	369	0	0	1	369	384589	384957	0.0	731
+nad5_fragment_2	Gra.JW.scaffolds	100.000	1203	0	0	1	1203	384209	385411	0.0	2385
+***************************TEST:r351-atp4*****************r351 Gra.JW.scaffolds 243928 244203ORF_len:276,GENE_len:588
+r351	Gra.JW.scaffolds	100.000	276	0	0	1	276	243928	244203	1.92e-157	547
+atp4	Gra.JW.scaffolds	100.000	588	0	0	1	588	244000	243413	0.0	1166
+***************************TEST:f746-nad1_fragment_5*****************f746 Gra.JW.scaffolds 382524 382925ORF_len:402,GENE_len:255
+f746	Gra.JW.scaffolds	100.000	402	0	0	1	402	382524	382925	0.0	797
+f746	Gra.JW.scaffolds	100.000	45	0	0	318	362	476592	476636	2.01e-19	89.7
+f746	Gra.JW.scaffolds	92.857	42	3	0	31	72	197360	197401	1.79e-10	60.0
+f746	Gra.JW.scaffolds	96.667	30	1	0	219	248	23695	23666	4.37e-08	52.0
+nad1_fragment_5	Gra.JW.scaffolds	100.000	255	0	0	1	255	382668	382922	6.01e-145	505
+nad1_fragment_5	Gra.JW.scaffolds	100.000	45	0	0	174	218	476592	476636	1.25e-19	89.7
+nad1_fragment_5	Gra.JW.scaffolds	96.667	30	1	0	75	104	23695	23666	2.72e-08	52.0
+***************************TEST:f586-nad1_fragment_4*****************f586 Gra.JW.scaffolds 317520 317753ORF_len:234,GENE_len:60
+f586	Gra.JW.scaffolds	100.000	234	0	0	1	234	317520	317753	1.87e-132	464
+nad1_fragment_4	Gra.JW.scaffolds	100.000	60	0	0	1	60	317601	317542	2.78e-29	119
+***************************TEST:f631-cox1*****************f631 Gra.JW.scaffolds 338384 338815ORF_len:432,GENE_len:1578
+f631	Gra.JW.scaffolds	100.000	432	0	0	1	432	338384	338815	0.0	856
+cox1	Gra.JW.scaffolds	100.000	1578	0	0	1	1578	339207	337630	0.0	3128
+***************************TEST:r949-rps14_fragment_1*****************r949 Gra.JW.scaffolds 469145 469621ORF_len:477,GENE_len:87
+r949	Gra.JW.scaffolds	100.000	477	0	0	1	477	469145	469621	0.0	946
+rps14_fragment_1	Gra.JW.scaffolds	100.000	87	0	0	1	87	469582	469668	3.31e-45	172
+***************************TEST:r465-rpl10*****************r465 Gra.JW.scaffolds 28829 29326ORF_len:498,GENE_len:486
+r465	Gra.JW.scaffolds	100.000	498	0	0	1	498	28829	29326	0.0	987
+rpl10	Gra.JW.scaffolds	100.000	486	0	0	1	486	29317	28832	0.0	963
+***************************TEST:f477-nad1_fragment_1*****************f477 Gra.JW.scaffolds 28358 28906ORF_len:549,GENE_len:387
+f477	Gra.JW.scaffolds	100.000	549	0	0	1	549	28358	28906	0.0	1088
+f477	Gra.JW.scaffolds	96.923	65	2	0	267	331	358390	358326	1.91e-26	113
+nad1_fragment_1	Gra.JW.scaffolds	100.000	387	0	0	1	387	28605	28219	0.0	767
+nad1_fragment_1	Gra.JW.scaffolds	95.652	46	2	0	338	383	416730	416685	2.90e-15	75.8
+***************************TEST:f1078-atp1*****************f1078 Gra.JW.scaffolds 50013 50273ORF_len:261,GENE_len:1521
+f1078	Gra.JW.scaffolds	100.000	261	0	0	1	261	50013	50273	1.62e-148	517
+atp1	Gra.JW.scaffolds	99.736	1137	3	0	1	1137	50814	49678	0.0	2230
+atp1	Gra.JW.scaffolds	99.217	511	4	0	1011	1521	462921	463431	0.0	981
+atp1	Gra.JW.scaffolds	100.000	127	0	0	1011	1137	49577	49451	9.09e-68	252
+***************************TEST:r951-rps14_fragment_2*****************r951 Gra.JW.scaffolds 469693 469989ORF_len:297,GENE_len:174
+r951	Gra.JW.scaffolds	100.000	297	0	0	1	297	469693	469989	6.10e-170	589
+rps14_fragment_2	Gra.JW.scaffolds	100.000	174	0	0	1	174	469677	469850	8.71e-97	345
+***************************TEST:f1085-atp1*****************f1085 Gra.JW.scaffolds 50228 50686ORF_len:459,GENE_len:1521
+f1085	Gra.JW.scaffolds	100.000	459	0	0	1	459	50228	50686	0.0	910
+atp1	Gra.JW.scaffolds	99.736	1137	3	0	1	1137	50814	49678	0.0	2230
+atp1	Gra.JW.scaffolds	99.217	511	4	0	1011	1521	462921	463431	0.0	981
+atp1	Gra.JW.scaffolds	100.000	127	0	0	1011	1137	49577	49451	9.09e-68	252
+***************************TEST:r1214-ccmFc_fragment_1*****************r1214 Gra.JW.scaffolds 90279 90554ORF_len:276,GENE_len:771
+r1214	Gra.JW.scaffolds	100.000	276	0	0	1	276	90279	90554	1.92e-157	547
+r1214	Gra.JW.scaffolds	97.531	81	2	0	151	231	491440	491360	2.65e-36	145
+ccmFc_fragment_1	Gra.JW.scaffolds	100.000	771	0	0	1	771	491105	491875	0.0	1528
+ccmFc_fragment_1	Gra.JW.scaffolds	97.531	81	2	0	256	336	90509	90429	7.66e-36	145
+***************************TEST:r964-nad1_fragment_3*****************r964 Gra.JW.scaffolds 474931 475248ORF_len:318,GENE_len:195
+r964	Gra.JW.scaffolds	100.000	318	0	0	1	318	474931	475248	0.0	630
+r964	Gra.JW.scaffolds	100.000	49	0	0	152	200	34544	34496	6.45e-22	97.6
+nad1_fragment_3	Gra.JW.scaffolds	100.000	195	0	0	1	195	475142	475336	2.90e-109	387
+***************************TEST:f1123-ccmC*****************f1123 Gra.JW.scaffolds 516211 516795ORF_len:585,GENE_len:750
+f1123	Gra.JW.scaffolds	100.000	585	0	0	1	585	516211	516795	0.0	1160
+ccmC	Gra.JW.scaffolds	99.867	750	1	0	1	750	516254	517003	0.0	1479
+***************************TEST:r609-cox1*****************r609 Gra.JW.scaffolds 338237 338512ORF_len:276,GENE_len:1578
+r609	Gra.JW.scaffolds	100.000	276	0	0	1	276	338237	338512	1.92e-157	547
+cox1	Gra.JW.scaffolds	100.000	1578	0	0	1	1578	339207	337630	0.0	3128
+***************************TEST:f1050-ccmFc_fragment_1*****************f1050 Gra.JW.scaffolds 491066 492040ORF_len:975,GENE_len:771
+f1050	Gra.JW.scaffolds	100.000	975	0	0	1	975	491066	492040	0.0	1933
+f1050	Gra.JW.scaffolds	97.531	81	2	0	295	375	90509	90429	9.71e-36	145
+ccmFc_fragment_1	Gra.JW.scaffolds	100.000	771	0	0	1	771	491105	491875	0.0	1528
+ccmFc_fragment_1	Gra.JW.scaffolds	97.531	81	2	0	256	336	90509	90429	7.66e-36	145
+***************************TEST:f364-nad4L*****************f364 Gra.JW.scaffolds 244216 244560ORF_len:345,GENE_len:300
+f364	Gra.JW.scaffolds	100.000	345	0	0	1	345	244216	244560	0.0	684
+f364	Gra.JW.scaffolds	100.000	29	0	0	304	332	244980	245008	6.05e-10	58.0
+nad4L	Gra.JW.scaffolds	100.000	300	0	0	1	300	244508	244209	9.99e-172	595
+***************************TEST:r1022-ccmFc_fragment_2*****************r1022 Gra.JW.scaffolds 492573 492968ORF_len:396,GENE_len:549
+r1022	Gra.JW.scaffolds	100.000	396	0	0	1	396	492573	492968	0.0	785
+ccmFc_fragment_2	Gra.JW.scaffolds	100.000	549	0	0	1	549	492829	493377	0.0	1088
+***************************TEST:f201-nad2_fragment_4*****************f201 Gra.JW.scaffolds 176932 177438ORF_len:507,GENE_len:621
+f201	Gra.JW.scaffolds	100.000	507	0	0	1	507	176932	177438	0.0	1005
+nad2_fragment_4	Gra.JW.scaffolds	100.000	621	0	0	1	621	177264	177884	0.0	1231
+***************************TEST:r726-nad5_fragment_2*****************r726 Gra.JW.scaffolds 384313 384900ORF_len:588,GENE_len:1203
+r726	Gra.JW.scaffolds	100.000	588	0	0	1	588	384313	384900	0.0	1166
+nad5_fragment_2	Gra.JW.scaffolds	100.000	1203	0	0	1	1203	384209	385411	0.0	2385
+***************************TEST:f362-atp4*****************f362 Gra.JW.scaffolds 243261 243908ORF_len:648,GENE_len:588
+f362	Gra.JW.scaffolds	100.000	648	0	0	1	648	243261	243908	0.0	1285
+atp4	Gra.JW.scaffolds	100.000	588	0	0	1	588	244000	243413	0.0	1166
+***************************TEST:r52-cox2_fragment_1*****************r52 Gra.JW.scaffolds 124347 125186ORF_len:840,GENE_len:702
+r52	Gra.JW.scaffolds	100.000	840	0	0	1	840	124347	125186	0.0	1665
+r52	Gra.JW.scaffolds	94.949	99	5	0	125	223	368384	368482	2.19e-39	157
+r52	Gra.JW.scaffolds	89.796	49	5	0	642	690	416398	416446	1.51e-09	58.0
+cox2_fragment_1	Gra.JW.scaffolds	100.000	702	0	0	1	702	125186	124485	0.0	1392
+cox2_fragment_1	Gra.JW.scaffolds	96.471	85	3	0	618	702	368482	368398	6.96e-36	145
+cox2_fragment_1	Gra.JW.scaffolds	89.796	49	5	0	151	199	416446	416398	1.26e-09	58.0
+***************************TEST:r615-nad2_fragment_2*****************r615 Gra.JW.scaffolds 34059 34559ORF_len:501,GENE_len:351
+r615	Gra.JW.scaffolds	100.000	501	0	0	1	501	34059	34559	0.0	993
+r615	Gra.JW.scaffolds	100.000	49	0	0	438	486	475130	475082	1.03e-21	97.6
+nad2_fragment_2	Gra.JW.scaffolds	100.000	351	0	0	1	351	34439	34089	0.0	696
+***************************TEST:f990-rps4*****************f990 Gra.JW.scaffolds 472741 472998ORF_len:258,GENE_len:1044
+f990	Gra.JW.scaffolds	100.000	258	0	0	1	258	472741	472998	9.86e-147	511
+f990	Gra.JW.scaffolds	100.000	79	0	0	1	79	158803	158881	6.48e-40	157
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:r528-nad7_fragment_4*****************r528 Gra.JW.scaffolds 309415 309762ORF_len:348,GENE_len:243
+r528	Gra.JW.scaffolds	100.000	348	0	0	1	348	309415	309762	0.0	690
+nad7_fragment_4	Gra.JW.scaffolds	100.000	243	0	0	1	243	309572	309330	8.31e-138	482
+***************************TEST:f584-matR*****************f584 Gra.JW.scaffolds 316837 317175ORF_len:339,GENE_len:1983
+f584	Gra.JW.scaffolds	100.000	339	0	0	1	339	316837	317175	0.0	672
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r317-ccmFn*****************r317 Gra.JW.scaffolds 229336 229989ORF_len:654,GENE_len:1728
+r317	Gra.JW.scaffolds	100.000	387	0	0	268	654	229603	229989	0.0	767
+r317	Gra.JW.scaffolds	100.000	167	0	0	1	167	229336	229502	5.21e-92	331
+r317	Gra.JW.scaffolds	93.939	33	2	0	396	428	301302	301270	2.85e-07	50.1
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:f251-nad4_fragment_2*****************f251 Gra.JW.scaffolds 197484 198584ORF_len:1101,GENE_len:936
+f251	Gra.JW.scaffolds	100.000	1101	0	0	1	1101	197484	198584	0.0	2183
+nad4_fragment_2	Gra.JW.scaffolds	100.000	936	0	0	1	936	197484	198419	0.0	1855
+***************************TEST:f202-nad2_fragment_4*****************f202 Gra.JW.scaffolds 177012 177911ORF_len:900,GENE_len:621
+f202	Gra.JW.scaffolds	100.000	900	0	0	1	900	177012	177911	0.0	1784
+nad2_fragment_4	Gra.JW.scaffolds	100.000	621	0	0	1	621	177264	177884	0.0	1231
+***************************TEST:r146-rps4*****************r146 Gra.JW.scaffolds 158794 159096ORF_len:303,GENE_len:1044
+r146	Gra.JW.scaffolds	100.000	303	0	0	1	303	158794	159096	1.64e-173	601
+r146	Gra.JW.scaffolds	100.000	88	0	0	1	88	472732	472819	3.27e-45	174
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:r1207-sdh4*****************r1207 Gra.JW.scaffolds 87216 87623ORF_len:408,GENE_len:393
+r1207	Gra.JW.scaffolds	100.000	408	0	0	1	408	87216	87623	0.0	809
+r1207	Gra.JW.scaffolds	100.000	25	0	0	2	26	122192	122216	1.76e-07	50.1
+sdh4	Gra.JW.scaffolds	100.000	393	0	0	1	393	87664	87272	0.0	779
+***************************TEST:f579-matR*****************f579 Gra.JW.scaffolds 315178 315972ORF_len:795,GENE_len:1983
+f579	Gra.JW.scaffolds	100.000	795	0	0	1	795	315178	315972	0.0	1576
+f579	Gra.JW.scaffolds	100.000	26	0	0	486	511	468169	468144	8.81e-08	52.0
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:r949-rpl5*****************r949 Gra.JW.scaffolds 469145 469621ORF_len:477,GENE_len:552
+r949	Gra.JW.scaffolds	100.000	477	0	0	1	477	469145	469621	0.0	946
+rpl5	Gra.JW.scaffolds	99.819	552	1	0	1	552	469026	469577	0.0	1086
+***************************TEST:f1142-rps7*****************f1142 Gra.JW.scaffolds 5678 5980ORF_len:303,GENE_len:465
+f1142	Gra.JW.scaffolds	100.000	303	0	0	1	303	5678	5980	1.64e-173	601
+rps7	Gra.JW.scaffolds	99.785	465	1	0	1	465	6108	5644	0.0	914
+***************************TEST:f158-nad6*****************f158 Gra.JW.scaffolds 160299 160970ORF_len:672,GENE_len:639
+f158	Gra.JW.scaffolds	100.000	672	0	0	1	672	160299	160970	0.0	1332
+nad6	Gra.JW.scaffolds	100.000	639	0	0	1	639	160317	160955	0.0	1267
+***************************TEST:f559-nad7_fragment_4*****************f559 Gra.JW.scaffolds 309381 310022ORF_len:642,GENE_len:243
+f559	Gra.JW.scaffolds	100.000	642	0	0	1	642	309381	310022	0.0	1273
+nad7_fragment_4	Gra.JW.scaffolds	100.000	243	0	0	1	243	309572	309330	8.31e-138	482
+***************************TEST:r625-nad5_fragment_4*****************r625 Gra.JW.scaffolds 346919 347152ORF_len:234,GENE_len:396
+r625	Gra.JW.scaffolds	100.000	234	0	0	1	234	346919	347152	1.87e-132	464
+nad5_fragment_4	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:f466-rps3*****************f466 Gra.JW.scaffolds 279206 279517ORF_len:312,GENE_len:1680
+f466	Gra.JW.scaffolds	100.000	312	0	0	1	312	279206	279517	7.18e-179	618
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:f745-nad1_fragment_5*****************f745 Gra.JW.scaffolds 382436 382756ORF_len:321,GENE_len:255
+f745	Gra.JW.scaffolds	100.000	321	0	0	1	321	382436	382756	0.0	636
+f745	Gra.JW.scaffolds	92.857	42	3	0	119	160	197360	197401	1.42e-10	60.0
+nad1_fragment_5	Gra.JW.scaffolds	100.000	255	0	0	1	255	382668	382922	6.01e-145	505
+nad1_fragment_5	Gra.JW.scaffolds	100.000	45	0	0	174	218	476592	476636	1.25e-19	89.7
+nad1_fragment_5	Gra.JW.scaffolds	96.667	30	1	0	75	104	23695	23666	2.72e-08	52.0
+***************************TEST:r549-matR*****************r549 Gra.JW.scaffolds 315670 315975ORF_len:306,GENE_len:1983
+r549	Gra.JW.scaffolds	100.000	306	0	0	1	306	315670	315975	2.68e-175	607
+matR	Gra.JW.scaffolds	100.000	1983	0	0	1	1983	316871	314889	0.0	3931
+matR	Gra.JW.scaffolds	100.000	26	0	0	1184	1209	468144	468169	2.22e-07	52.0
+***************************TEST:f632-cox1*****************f632 Gra.JW.scaffolds 339148 339480ORF_len:333,GENE_len:1578
+f632	Gra.JW.scaffolds	100.000	333	0	0	1	333	339148	339480	0.0	660
+cox1	Gra.JW.scaffolds	100.000	1578	0	0	1	1578	339207	337630	0.0	3128
+***************************TEST:f63-cox2_fragment_1*****************f63 Gra.JW.scaffolds 125014 125316ORF_len:303,GENE_len:702
+f63	Gra.JW.scaffolds	100.000	303	0	0	1	303	125014	125316	1.64e-173	601
+f63	Gra.JW.scaffolds	100.000	49	0	0	255	303	151724	151676	6.13e-22	97.6
+f63	Gra.JW.scaffolds	100.000	44	0	0	255	298	440881	440924	5.91e-19	87.7
+cox2_fragment_1	Gra.JW.scaffolds	100.000	702	0	0	1	702	125186	124485	0.0	1392
+cox2_fragment_1	Gra.JW.scaffolds	96.471	85	3	0	618	702	368482	368398	6.96e-36	145
+cox2_fragment_1	Gra.JW.scaffolds	89.796	49	5	0	151	199	416446	416398	1.26e-09	58.0
+***************************TEST:r821-nad3*****************r821 Gra.JW.scaffolds 418570 418950ORF_len:381,GENE_len:354
+r821	Gra.JW.scaffolds	100.000	381	0	0	1	381	418570	418950	0.0	755
+r821	Gra.JW.scaffolds	93.701	127	4	1	226	352	48569	48691	1.09e-48	186
+r821	Gra.JW.scaffolds	96.552	29	1	0	321	349	516122	516094	1.63e-07	50.1
+nad3	Gra.JW.scaffolds	99.718	354	1	0	1	354	48631	48278	0.0	694
+nad3	Gra.JW.scaffolds	95.238	63	3	0	1	63	418857	418795	4.62e-23	101
+***************************TEST:r442-rps3*****************r442 Gra.JW.scaffolds 279679 280002ORF_len:324,GENE_len:1680
+r442	Gra.JW.scaffolds	100.000	324	0	0	1	324	279679	280002	0.0	642
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:r148-rps4*****************r148 Gra.JW.scaffolds 159109 159447ORF_len:339,GENE_len:1044
+r148	Gra.JW.scaffolds	100.000	339	0	0	1	339	159109	159447	0.0	672
+rps4	Gra.JW.scaffolds	100.000	931	0	0	114	1044	158755	159685	0.0	1846
+rps4	Gra.JW.scaffolds	100.000	127	0	0	114	240	472693	472819	6.21e-68	252
+rps4	Gra.JW.scaffolds	100.000	24	0	0	5	28	159894	159871	1.81e-06	48.1
+***************************TEST:f638-rps10_fragment_1*****************f638 Gra.JW.scaffolds 339943 340944ORF_len:1002,GENE_len:210
+f638	Gra.JW.scaffolds	100.000	1002	0	0	1	1002	339943	340944	0.0	1986
+f638	Gra.JW.scaffolds	100.000	56	0	0	689	744	29359	29414	1.39e-25	111
+f638	Gra.JW.scaffolds	100.000	56	0	0	689	744	381631	381576	1.39e-25	111
+f638	Gra.JW.scaffolds	100.000	56	0	0	689	744	468984	468929	1.39e-25	111
+rps10_fragment_1	Gra.JW.scaffolds	100.000	210	0	0	1	210	340597	340388	3.51e-118	416
+***************************TEST:r610-rps10_fragment_2*****************r610 Gra.JW.scaffolds 339159 339500ORF_len:342,GENE_len:75
+r610	Gra.JW.scaffolds	100.000	342	0	0	1	342	339159	339500	0.0	678
+rps10_fragment_2	Gra.JW.scaffolds	100.000	75	0	0	1	75	339519	339445	4.08e-38	149
+***************************TEST:f245-nad4_fragment_1*****************f245 Gra.JW.scaffolds 195532 196113ORF_len:582,GENE_len:459
+f245	Gra.JW.scaffolds	100.000	582	0	0	1	582	195532	196113	0.0	1154
+nad4_fragment_1	Gra.JW.scaffolds	100.000	459	0	0	1	459	195586	196044	0.0	910
+***************************TEST:r1208-sdh4*****************r1208 Gra.JW.scaffolds 87460 88533ORF_len:1074,GENE_len:393
+r1208	Gra.JW.scaffolds	100.000	1074	0	0	1	1074	87460	88533	0.0	2129
+sdh4	Gra.JW.scaffolds	100.000	393	0	0	1	393	87664	87272	0.0	779
+***************************TEST:f327-ccmFn*****************f327 Gra.JW.scaffolds 229414 229650ORF_len:237,GENE_len:1728
+f327	Gra.JW.scaffolds	100.000	89	0	0	1	89	229414	229502	6.42e-46	176
+f327	Gra.JW.scaffolds	100.000	48	0	0	190	237	229603	229650	1.88e-21	95.6
+ccmFn	Gra.JW.scaffolds	99.884	1728	2	0	1	1728	229501	227774	0.0	3410
+***************************TEST:f914-atp9*****************f914 Gra.JW.scaffolds 447469 447867ORF_len:399,GENE_len:243
+f914	Gra.JW.scaffolds	100.000	399	0	0	1	399	447469	447867	0.0	791
+f914	Gra.JW.scaffolds	98.077	52	1	0	227	278	268940	268889	3.23e-21	95.6
+f914	Gra.JW.scaffolds	94.595	37	2	0	297	333	397653	397617	7.04e-10	58.0
+atp9	Gra.JW.scaffolds	100.000	243	0	0	1	243	447828	448070	8.31e-138	482
+***************************TEST:r807-mttB*****************r807 Gra.JW.scaffolds 414672 415625ORF_len:954,GENE_len:780
+r807	Gra.JW.scaffolds	100.000	954	0	0	1	954	414672	415625	0.0	1891
+r807	Gra.JW.scaffolds	98.246	57	1	0	799	855	463672	463616	8.18e-24	105
+mttB	Gra.JW.scaffolds	100.000	780	0	0	1	780	415475	414696	0.0	1546
+***************************TEST:f918-nad5_fragment_1*****************f918 Gra.JW.scaffolds 448201 449304ORF_len:1104,GENE_len:237
+f918	Gra.JW.scaffolds	100.000	1104	0	0	1	1104	448201	449304	0.0	2189
+f918	Gra.JW.scaffolds	100.000	272	0	0	1	272	382948	383219	1.95e-154	539
+f918	Gra.JW.scaffolds	94.737	38	2	0	21	58	476630	476667	5.04e-10	60.0
+nad5_fragment_1	Gra.JW.scaffolds	99.578	237	1	0	1	237	383122	383358	7.51e-132	462
+nad5_fragment_1	Gra.JW.scaffolds	98.980	98	1	0	1	98	448375	448472	6.66e-49	186
+***************************TEST:f494-rpl10*****************f494 Gra.JW.scaffolds 28965 29432ORF_len:468,GENE_len:486
+f494	Gra.JW.scaffolds	100.000	468	0	0	1	468	28965	29432	0.0	928
+f494	Gra.JW.scaffolds	99.038	104	1	0	348	451	469031	468928	3.55e-52	198
+f494	Gra.JW.scaffolds	100.000	73	0	0	378	450	381648	381576	4.59e-36	145
+f494	Gra.JW.scaffolds	100.000	56	0	0	395	450	340631	340686	6.41e-26	111
+rpl10	Gra.JW.scaffolds	100.000	486	0	0	1	486	29317	28832	0.0	963
+***************************TEST:f984-rps14_fragment_1*****************f984 Gra.JW.scaffolds 469406 469678ORF_len:273,GENE_len:87
+f984	Gra.JW.scaffolds	100.000	273	0	0	1	273	469406	469678	1.17e-155	541
+rps14_fragment_1	Gra.JW.scaffolds	100.000	87	0	0	1	87	469582	469668	3.31e-45	172
+***************************TEST:r350-atp4*****************r350 Gra.JW.scaffolds 243410 244000ORF_len:591,GENE_len:588
+r350	Gra.JW.scaffolds	100.000	591	0	0	1	591	243410	244000	0.0	1172
+atp4	Gra.JW.scaffolds	100.000	588	0	0	1	588	244000	243413	0.0	1166
+***************************TEST:f560-nad7_fragment_4*****************f560 Gra.JW.scaffolds 309422 309802ORF_len:381,GENE_len:243
+f560	Gra.JW.scaffolds	100.000	381	0	0	1	381	309422	309802	0.0	755
+nad7_fragment_4	Gra.JW.scaffolds	100.000	243	0	0	1	243	309572	309330	8.31e-138	482
+***************************TEST:r612-nad2_fragment_2*****************r612 Gra.JW.scaffolds 34009 34389ORF_len:381,GENE_len:351
+r612	Gra.JW.scaffolds	100.000	381	0	0	1	381	34009	34389	0.0	755
+nad2_fragment_2	Gra.JW.scaffolds	100.000	351	0	0	1	351	34439	34089	0.0	696
+***************************TEST:f656-nad5_fragment_4*****************f656 Gra.JW.scaffolds 347008 347538ORF_len:531,GENE_len:396
+f656	Gra.JW.scaffolds	100.000	531	0	0	1	531	347008	347538	0.0	1053
+nad5_fragment_4	Gra.JW.scaffolds	99.747	396	1	0	1	396	347077	347472	0.0	777
+***************************TEST:f574-nad7_fragment_1*****************f574 Gra.JW.scaffolds 313503 313763ORF_len:261,GENE_len:162
+f574	Gra.JW.scaffolds	100.000	261	0	0	1	261	313503	313763	1.62e-148	517
+nad7_fragment_1	Gra.JW.scaffolds	99.383	162	1	0	1	162	313770	313609	2.85e-87	313
+***************************TEST:r1023-ccmFc_fragment_2*****************r1023 Gra.JW.scaffolds 492969 493511ORF_len:543,GENE_len:549
+r1023	Gra.JW.scaffolds	100.000	543	0	0	1	543	492969	493511	0.0	1076
+ccmFc_fragment_2	Gra.JW.scaffolds	100.000	549	0	0	1	549	492829	493377	0.0	1088
+***************************TEST:f467-rps3*****************f467 Gra.JW.scaffolds 279687 279992ORF_len:306,GENE_len:1680
+f467	Gra.JW.scaffolds	100.000	306	0	0	1	306	279687	279992	2.68e-175	607
+rps3	Gra.JW.scaffolds	99.940	1680	1	0	1	1680	280178	278499	0.0	3322
+***************************TEST:r453-nad1_fragment_1*****************r453 Gra.JW.scaffolds 28520 28789ORF_len:270,GENE_len:387
+r453	Gra.JW.scaffolds	100.000	270	0	0	1	270	28520	28789	7.14e-154	535
+r453	Gra.JW.scaffolds	96.923	65	2	0	105	169	358390	358326	9.14e-27	113
+nad1_fragment_1	Gra.JW.scaffolds	100.000	387	0	0	1	387	28605	28219	0.0	767
+nad1_fragment_1	Gra.JW.scaffolds	95.652	46	2	0	338	383	416730	416685	2.90e-15	75.8

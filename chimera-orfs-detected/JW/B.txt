@@ -1,0 +1,2 @@
+nad1_fragment_1	Gra.JW.scaffolds	100.000	387	0	0	1	387	28605	28219	0.0	767
+nad1_fragment_1	Gra.JW.scaffolds	95.652	46	2	0	338	383	416730	416685	2.90e-15	75.8

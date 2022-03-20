@@ -1,0 +1,764 @@
+***************************TEST:f366-nad2_fragment_1*****************f366 Ma.QS.scaffolds 244171 244635ORF_len:465,GENE_len:153
+f366	Ma.QS.scaffolds	100.000	465	0	0	1	465	244171	244635	0.0	922
+nad2_fragment_1	Ma.QS.scaffolds	100.000	153	0	0	1	153	244213	244365	2.58e-84	303
+***************************TEST:f1097-ccmC*****************f1097 Ma.QS.scaffolds 516845 517648ORF_len:804,GENE_len:750
+f1097	Ma.QS.scaffolds	100.000	804	0	0	1	804	516845	517648	0.0	1594
+ccmC	Ma.QS.scaffolds	100.000	750	0	0	1	750	516845	517594	0.0	1487
+***************************TEST:r489-nad5_fragment_2*****************r489 Ma.QS.scaffolds 291130 292368ORF_len:1239,GENE_len:1203
+r489	Ma.QS.scaffolds	100.000	1239	0	0	1	1239	291130	292368	0.0	2456
+nad5_fragment_2	Ma.QS.scaffolds	100.000	1203	0	0	1	1203	292356	291154	0.0	2385
+***************************TEST:r694-matR*****************r694 Ma.QS.scaffolds 363915 364274ORF_len:360,GENE_len:1983
+r694	Ma.QS.scaffolds	100.000	360	0	0	1	360	363915	364274	0.0	714
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r1222-sdh4*****************r1222 Ma.QS.scaffolds 86249 86854ORF_len:606,GENE_len:393
+r1222	Ma.QS.scaffolds	100.000	606	0	0	1	606	86249	86854	0.0	1201
+r1222	Ma.QS.scaffolds	94.595	37	2	0	25	61	443010	443046	1.08e-09	58.0
+r1222	Ma.QS.scaffolds	100.000	25	0	0	93	117	451293	451317	2.64e-07	50.1
+sdh4	Ma.QS.scaffolds	100.000	393	0	0	1	393	86788	86396	0.0	779
+***************************TEST:f1183-nad5_fragment_1*****************f1183 Ma.QS.scaffolds 90426 90686ORF_len:261,GENE_len:237
+f1183	Ma.QS.scaffolds	100.000	261	0	0	1	261	90426	90686	1.62e-148	517
+f1183	Ma.QS.scaffolds	100.000	39	0	0	1	39	293371	293409	4.87e-16	77.8
+f1183	Ma.QS.scaffolds	100.000	33	0	0	7	39	472211	472179	1.85e-12	65.9
+f1183	Ma.QS.scaffolds	94.595	37	2	0	216	252	471571	471535	4.52e-10	58.0
+f1183	Ma.QS.scaffolds	91.304	46	3	1	138	182	307669	307624	2.79e-08	52.0
+f1183	Ma.QS.scaffolds	92.105	38	3	0	62	99	454295	454332	2.79e-08	52.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:r589-rps4*****************r589 Ma.QS.scaffolds 324558 325370ORF_len:813,GENE_len:1044
+r589	Ma.QS.scaffolds	100.000	813	0	0	1	813	324558	325370	0.0	1612
+r589	Ma.QS.scaffolds	100.000	88	0	0	1	88	122186	122273	9.05e-45	174
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:f1175-cox3*****************f1175 Ma.QS.scaffolds 87053 87490ORF_len:438,GENE_len:795
+f1175	Ma.QS.scaffolds	100.000	438	0	0	1	438	87053	87490	0.0	868
+cox3	Ma.QS.scaffolds	100.000	795	0	0	1	795	87513	86719	0.0	1576
+***************************TEST:r495-nad5_fragment_1*****************r495 Ma.QS.scaffolds 293410 293781ORF_len:372,GENE_len:237
+r495	Ma.QS.scaffolds	100.000	372	0	0	1	372	293410	293781	0.0	737
+r495	Ma.QS.scaffolds	100.000	213	0	0	1	213	472178	471966	1.03e-119	422
+r495	Ma.QS.scaffolds	100.000	45	0	0	271	315	328462	328418	1.85e-19	89.7
+r495	Ma.QS.scaffolds	94.737	38	2	0	151	188	328493	328456	1.66e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:r945-cox2_fragment_1*****************r945 Ma.QS.scaffolds 453458 454390ORF_len:933,GENE_len:702
+r945	Ma.QS.scaffolds	100.000	933	0	0	1	933	453458	454390	0.0	1850
+r945	Ma.QS.scaffolds	95.960	99	4	0	125	223	308153	308055	1.00e-41	165
+r945	Ma.QS.scaffolds	92.105	38	3	0	838	875	90487	90524	1.04e-07	52.0
+r945	Ma.QS.scaffolds	89.744	39	4	0	652	690	213681	213719	6.39e-06	46.1
+cox2_fragment_1	Ma.QS.scaffolds	100.000	702	0	0	1	702	454297	453596	0.0	1392
+cox2_fragment_1	Ma.QS.scaffolds	97.647	85	2	0	618	702	308055	308139	2.86e-38	153
+cox2_fragment_1	Ma.QS.scaffolds	89.744	39	4	0	151	189	213719	213681	4.79e-06	46.1
+***************************TEST:f329-nad3*****************f329 Ma.QS.scaffolds 231545 231871ORF_len:327,GENE_len:354
+f329	Ma.QS.scaffolds	100.000	327	0	0	1	327	231545	231871	0.0	648
+nad3	Ma.QS.scaffolds	100.000	354	0	0	1	354	231432	231785	0.0	702
+***************************TEST:r380-rpl10*****************r380 Ma.QS.scaffolds 251207 251464ORF_len:258,GENE_len:486
+r380	Ma.QS.scaffolds	100.000	258	0	0	1	258	251207	251464	9.87e-147	511
+rpl10	Ma.QS.scaffolds	100.000	486	0	0	1	486	251131	251616	0.0	963
+***************************TEST:r1224-cox3*****************r1224 Ma.QS.scaffolds 86584 87657ORF_len:1074,GENE_len:795
+r1224	Ma.QS.scaffolds	100.000	1074	0	0	1	1074	86584	87657	0.0	2129
+cox3	Ma.QS.scaffolds	100.000	795	0	0	1	795	87513	86719	0.0	1576
+***************************TEST:r366-nad2_fragment_2*****************r366 Ma.QS.scaffolds 245498 245833ORF_len:336,GENE_len:351
+r366	Ma.QS.scaffolds	100.000	336	0	0	1	336	245498	245833	0.0	666
+r366	Ma.QS.scaffolds	100.000	49	0	0	5	53	326908	326956	6.84e-22	97.6
+nad2_fragment_2	Ma.QS.scaffolds	100.000	351	0	0	1	351	245607	245957	0.0	696
+***************************TEST:f140-nad4_fragment_2*****************f140 Ma.QS.scaffolds 159651 159917ORF_len:267,GENE_len:936
+f140	Ma.QS.scaffolds	100.000	267	0	0	1	267	159651	159917	4.36e-152	529
+nad4_fragment_2	Ma.QS.scaffolds	100.000	936	0	0	1	936	159466	160401	0.0	1855
+***************************TEST:f1096-ccmC*****************f1096 Ma.QS.scaffolds 516802 517386ORF_len:585,GENE_len:750
+f1096	Ma.QS.scaffolds	100.000	585	0	0	1	585	516802	517386	0.0	1160
+ccmC	Ma.QS.scaffolds	100.000	750	0	0	1	750	516845	517594	0.0	1487
+***************************TEST:f390-nad1_fragment_1*****************f390 Ma.QS.scaffolds 251854 252237ORF_len:384,GENE_len:387
+f390	Ma.QS.scaffolds	100.000	384	0	0	1	384	251854	252237	0.0	761
+f390	Ma.QS.scaffolds	97.826	46	1	0	332	377	213994	213949	1.18e-17	83.8
+nad1_fragment_1	Ma.QS.scaffolds	100.000	387	0	0	1	387	251848	252234	0.0	767
+nad1_fragment_1	Ma.QS.scaffolds	97.826	46	1	0	338	383	213994	213949	1.19e-17	83.8
+***************************TEST:f704-nad7_fragment_3*****************f704 Ma.QS.scaffolds 367420 367650ORF_len:231,GENE_len:108
+f704	Ma.QS.scaffolds	100.000	231	0	0	1	231	367420	367650	1.14e-130	458
+nad7_fragment_3	Ma.QS.scaffolds	100.000	108	0	0	1	108	367593	367700	1.25e-57	214
+***************************TEST:r239-nad5_fragment_4*****************r239 Ma.QS.scaffolds 197768 198028ORF_len:261,GENE_len:396
+r239	Ma.QS.scaffolds	100.000	261	0	0	1	261	197768	198028	1.62e-148	517
+nad5_fragment_4	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:r497-nad1_fragment_5*****************r497 Ma.QS.scaffolds 293809 294129ORF_len:321,GENE_len:255
+r497	Ma.QS.scaffolds	100.000	321	0	0	1	321	293809	294129	0.0	636
+r497	Ma.QS.scaffolds	92.857	42	3	0	162	203	159383	159342	1.42e-10	60.0
+nad1_fragment_5	Ma.QS.scaffolds	100.000	255	0	0	1	255	293897	293643	6.02e-145	505
+nad1_fragment_5	Ma.QS.scaffolds	100.000	45	0	0	174	218	328418	328462	1.25e-19	89.7
+nad1_fragment_5	Ma.QS.scaffolds	96.667	30	1	0	75	104	256739	256768	2.72e-08	52.0
+***************************TEST:r498-nad1_fragment_5*****************r498 Ma.QS.scaffolds 293852 294160ORF_len:309,GENE_len:255
+r498	Ma.QS.scaffolds	100.000	309	0	0	1	309	293852	294160	4.39e-177	613
+r498	Ma.QS.scaffolds	92.857	42	3	0	119	160	159383	159342	1.37e-10	60.0
+nad1_fragment_5	Ma.QS.scaffolds	100.000	255	0	0	1	255	293897	293643	6.02e-145	505
+nad1_fragment_5	Ma.QS.scaffolds	100.000	45	0	0	174	218	328418	328462	1.25e-19	89.7
+nad1_fragment_5	Ma.QS.scaffolds	96.667	30	1	0	75	104	256739	256768	2.72e-08	52.0
+***************************TEST:f1109-ccmB*****************f1109 Ma.QS.scaffolds 55511 55825ORF_len:315,GENE_len:630
+f1109	Ma.QS.scaffolds	100.000	315	0	0	1	315	55511	55825	1.18e-180	624
+ccmB	Ma.QS.scaffolds	100.000	630	0	0	1	630	56067	55438	0.0	1249
+***************************TEST:f713-nad7_fragment_4*****************f713 Ma.QS.scaffolds 370068 370856ORF_len:789,GENE_len:243
+f713	Ma.QS.scaffolds	100.000	789	0	0	1	789	370068	370856	0.0	1564
+nad7_fragment_4	Ma.QS.scaffolds	100.000	243	0	0	1	243	370784	371026	8.32e-138	482
+***************************TEST:f10-ccmFn*****************f10 Ma.QS.scaffolds 103995 104285ORF_len:291,GENE_len:1728
+f10	Ma.QS.scaffolds	100.000	291	0	0	1	291	103995	104285	2.27e-166	577
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:r54-rps4*****************r54 Ma.QS.scaffolds 122289 122591ORF_len:303,GENE_len:1044
+r54	Ma.QS.scaffolds	100.000	303	0	0	1	303	122289	122591	1.64e-173	601
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:r490-nad5_fragment_2*****************r490 Ma.QS.scaffolds 291608 291976ORF_len:369,GENE_len:1203
+r490	Ma.QS.scaffolds	100.000	369	0	0	1	369	291608	291976	0.0	731
+nad5_fragment_2	Ma.QS.scaffolds	100.000	1203	0	0	1	1203	292356	291154	0.0	2385
+***************************TEST:f330-rps12*****************f330 Ma.QS.scaffolds 231795 232385ORF_len:591,GENE_len:375
+f330	Ma.QS.scaffolds	100.000	591	0	0	1	591	231795	232385	0.0	1172
+rps12	Ma.QS.scaffolds	100.000	375	0	0	1	375	231837	232211	0.0	743
+***************************TEST:r29-rpl16*****************r29 Ma.QS.scaffolds 110608 110934ORF_len:327,GENE_len:555
+r29	Ma.QS.scaffolds	100.000	327	0	0	1	327	110608	110934	0.0	648
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:r22-rps3*****************r22 Ma.QS.scaffolds 109132 109428ORF_len:297,GENE_len:1680
+r22	Ma.QS.scaffolds	100.000	297	0	0	1	297	109132	109428	6.10e-170	589
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:f702-nad7_fragment_1*****************f702 Ma.QS.scaffolds 366623 366847ORF_len:225,GENE_len:162
+f702	Ma.QS.scaffolds	100.000	225	0	0	1	225	366623	366847	4.23e-127	446
+nad7_fragment_1	Ma.QS.scaffolds	100.000	162	0	0	1	162	366595	366756	1.17e-89	321
+***************************TEST:r403-cob*****************r403 Ma.QS.scaffolds 261492 261833ORF_len:342,GENE_len:1191
+r403	Ma.QS.scaffolds	100.000	342	0	0	1	342	261492	261833	0.0	678
+cob	Ma.QS.scaffolds	100.000	1191	0	0	1	1191	261160	262350	0.0	2361
+***************************TEST:r450-rps7*****************r450 Ma.QS.scaffolds 277446 277808ORF_len:363,GENE_len:465
+r450	Ma.QS.scaffolds	100.000	363	0	0	1	363	277446	277808	0.0	720
+rps7	Ma.QS.scaffolds	100.000	465	0	0	1	465	277749	278213	0.0	922
+***************************TEST:f696-matR*****************f696 Ma.QS.scaffolds 363483 365462ORF_len:1980,GENE_len:1983
+f696	Ma.QS.scaffolds	100.000	1980	0	0	1	1980	363483	365462	0.0	3925
+f696	Ma.QS.scaffolds	100.000	26	0	0	1196	1221	117597	117622	2.22e-07	52.0
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:f465-rps7*****************f465 Ma.QS.scaffolds 277856 278176ORF_len:321,GENE_len:465
+f465	Ma.QS.scaffolds	100.000	321	0	0	1	321	277856	278176	0.0	636
+rps7	Ma.QS.scaffolds	100.000	465	0	0	1	465	277749	278213	0.0	922
+***************************TEST:r334-rps12*****************r334 Ma.QS.scaffolds 231752 232024ORF_len:273,GENE_len:375
+r334	Ma.QS.scaffolds	100.000	273	0	0	1	273	231752	232024	1.17e-155	541
+rps12	Ma.QS.scaffolds	100.000	375	0	0	1	375	231837	232211	0.0	743
+***************************TEST:f84-nad2_fragment_3*****************f84 Ma.QS.scaffolds 137875 138222ORF_len:348,GENE_len:162
+f84	Ma.QS.scaffolds	100.000	348	0	0	1	348	137875	138222	0.0	690
+nad2_fragment_3	Ma.QS.scaffolds	100.000	162	0	0	1	162	138025	138186	1.17e-89	321
+***************************TEST:f499-nad5_fragment_2*****************f499 Ma.QS.scaffolds 291665 292252ORF_len:588,GENE_len:1203
+f499	Ma.QS.scaffolds	100.000	588	0	0	1	588	291665	292252	0.0	1166
+nad5_fragment_2	Ma.QS.scaffolds	100.000	1203	0	0	1	1203	292356	291154	0.0	2385
+***************************TEST:f697-matR*****************f697 Ma.QS.scaffolds 363809 364150ORF_len:342,GENE_len:1983
+f697	Ma.QS.scaffolds	100.000	342	0	0	1	342	363809	364150	0.0	678
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r701-nad7_fragment_1*****************r701 Ma.QS.scaffolds 366602 366862ORF_len:261,GENE_len:162
+r701	Ma.QS.scaffolds	100.000	261	0	0	1	261	366602	366862	1.62e-148	517
+nad7_fragment_1	Ma.QS.scaffolds	100.000	162	0	0	1	162	366595	366756	1.17e-89	321
+***************************TEST:f41-rps14_fragment_1*****************f41 Ma.QS.scaffolds 118859 119131ORF_len:273,GENE_len:87
+f41	Ma.QS.scaffolds	100.000	273	0	0	1	273	118859	119131	1.17e-155	541
+rps14_fragment_1	Ma.QS.scaffolds	100.000	87	0	0	1	87	119035	119121	3.31e-45	172
+***************************TEST:r28-rpl16*****************r28 Ma.QS.scaffolds 110442 110708ORF_len:267,GENE_len:555
+r28	Ma.QS.scaffolds	100.000	267	0	0	1	267	110442	110708	4.36e-152	529
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:r79-nad4L*****************r79 Ma.QS.scaffolds 13174 13554ORF_len:381,GENE_len:300
+r79	Ma.QS.scaffolds	100.000	381	0	0	1	381	13174	13554	0.0	755
+r79	Ma.QS.scaffolds	100.000	41	0	0	71	111	13545	13585	4.63e-17	81.8
+r79	Ma.QS.scaffolds	100.000	29	0	0	60	88	13995	14023	6.71e-10	58.0
+nad4L	Ma.QS.scaffolds	100.000	300	0	0	1	300	13222	12923	1.00e-171	595
+***************************TEST:r983-nad5_fragment_1*****************r983 Ma.QS.scaffolds 471937 472284ORF_len:348,GENE_len:237
+r983	Ma.QS.scaffolds	100.000	348	0	0	1	348	471937	472284	0.0	690
+r983	Ma.QS.scaffolds	100.000	246	0	0	30	275	293622	293377	1.96e-139	488
+r983	Ma.QS.scaffolds	97.826	46	1	0	277	322	473089	473134	1.07e-17	83.8
+r983	Ma.QS.scaffolds	100.000	33	0	0	243	275	90464	90432	2.51e-12	65.9
+r983	Ma.QS.scaffolds	94.737	38	2	0	55	92	328456	328493	1.55e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:r1044-ccmFc_fragment_2*****************r1044 Ma.QS.scaffolds 493414 493956ORF_len:543,GENE_len:549
+r1044	Ma.QS.scaffolds	100.000	543	0	0	1	543	493414	493956	0.0	1076
+ccmFc_fragment_2	Ma.QS.scaffolds	100.000	549	0	0	1	549	493274	493822	0.0	1088
+***************************TEST:r1227-atp8*****************r1227 Ma.QS.scaffolds 87915 89009ORF_len:1095,GENE_len:477
+r1227	Ma.QS.scaffolds	100.000	1095	0	0	1	1095	87915	89009	0.0	2171
+r1227	Ma.QS.scaffolds	100.000	185	0	0	626	810	213715	213899	1.60e-102	367
+r1227	Ma.QS.scaffolds	98.824	85	1	0	693	777	243181	243097	1.84e-40	161
+atp8	Ma.QS.scaffolds	100.000	477	0	0	1	477	88616	88140	0.0	946
+atp8	Ma.QS.scaffolds	100.000	77	0	0	1	77	213791	213715	1.92e-38	153
+***************************TEST:f233-nad5_fragment_3*****************f233 Ma.QS.scaffolds 197799 198032ORF_len:234,GENE_len:396
+f233	Ma.QS.scaffolds	100.000	234	0	0	1	234	197799	198032	1.88e-132	464
+nad5_fragment_3	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:f721-nad7_fragment_5*****************f721 Ma.QS.scaffolds 372786 373088ORF_len:303,GENE_len:261
+f721	Ma.QS.scaffolds	100.000	303	0	0	1	303	372786	373088	1.64e-173	601
+nad7_fragment_5	Ma.QS.scaffolds	100.000	261	0	0	1	261	372825	373085	1.62e-148	517
+***************************TEST:r27-rpl16*****************r27 Ma.QS.scaffolds 110288 110518ORF_len:231,GENE_len:555
+r27	Ma.QS.scaffolds	100.000	231	0	0	1	231	110288	110518	1.14e-130	458
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:r23-rps3*****************r23 Ma.QS.scaffolds 109137 109442ORF_len:306,GENE_len:1680
+r23	Ma.QS.scaffolds	100.000	306	0	0	1	306	109137	109442	2.68e-175	607
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:f598-nad1_fragment_3*****************f598 Ma.QS.scaffolds 326761 327264ORF_len:504,GENE_len:195
+f598	Ma.QS.scaffolds	100.000	504	0	0	1	504	326761	327264	0.0	999
+f598	Ma.QS.scaffolds	100.000	49	0	0	148	196	245502	245550	1.04e-21	97.6
+nad1_fragment_3	Ma.QS.scaffolds	100.000	195	0	0	1	195	326968	327162	2.90e-109	387
+***************************TEST:f370-nad2_fragment_2*****************f370 Ma.QS.scaffolds 245657 246037ORF_len:381,GENE_len:351
+f370	Ma.QS.scaffolds	100.000	381	0	0	1	381	245657	246037	0.0	755
+nad2_fragment_2	Ma.QS.scaffolds	100.000	351	0	0	1	351	245607	245957	0.0	696
+***************************TEST:r45-rpl5*****************r45 Ma.QS.scaffolds 118509 118736ORF_len:228,GENE_len:552
+r45	Ma.QS.scaffolds	100.000	228	0	0	1	228	118509	118736	6.95e-129	452
+rpl5	Ma.QS.scaffolds	100.000	552	0	0	1	552	118479	119030	0.0	1094
+***************************TEST:r75-nad4L*****************r75 Ma.QS.scaffolds 12920 13255ORF_len:336,GENE_len:300
+r75	Ma.QS.scaffolds	100.000	336	0	0	1	336	12920	13255	0.0	666
+r75	Ma.QS.scaffolds	100.000	23	0	0	314	336	13995	14017	2.24e-06	46.1
+nad4L	Ma.QS.scaffolds	100.000	300	0	0	1	300	13222	12923	1.00e-171	595
+***************************TEST:r13-ccmFn*****************r13 Ma.QS.scaffolds 104328 104927ORF_len:600,GENE_len:1728
+r13	Ma.QS.scaffolds	100.000	333	0	0	268	600	104595	104927	0.0	660
+r13	Ma.QS.scaffolds	98.198	333	6	0	268	600	314299	313967	8.72e-177	613
+r13	Ma.QS.scaffolds	100.000	167	0	0	1	167	104328	104494	4.78e-92	331
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:f756-nad9*****************f756 Ma.QS.scaffolds 383807 384385ORF_len:579,GENE_len:573
+f756	Ma.QS.scaffolds	100.000	579	0	0	1	579	383807	384385	0.0	1148
+nad9	Ma.QS.scaffolds	100.000	573	0	0	1	573	383813	384385	0.0	1136
+***************************TEST:r383-nad1_fragment_1*****************r383 Ma.QS.scaffolds 251612 251893ORF_len:282,GENE_len:387
+r383	Ma.QS.scaffolds	100.000	282	0	0	1	282	251612	251893	5.17e-161	559
+r383	Ma.QS.scaffolds	96.923	65	2	0	154	218	403209	403273	9.58e-27	113
+nad1_fragment_1	Ma.QS.scaffolds	100.000	387	0	0	1	387	251848	252234	0.0	767
+nad1_fragment_1	Ma.QS.scaffolds	97.826	46	1	0	338	383	213994	213949	1.19e-17	83.8
+***************************TEST:r494-nad5_fragment_1*****************r494 Ma.QS.scaffolds 293177 293635ORF_len:459,GENE_len:237
+r494	Ma.QS.scaffolds	100.000	459	0	0	1	459	293177	293635	0.0	910
+r494	Ma.QS.scaffolds	100.000	246	0	0	201	446	472211	471966	2.61e-139	488
+r494	Ma.QS.scaffolds	100.000	58	0	0	176	233	90407	90464	4.03e-27	115
+r494	Ma.QS.scaffolds	94.737	38	2	0	384	421	328493	328456	2.06e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:f20-rpl16*****************f20 Ma.QS.scaffolds 108951 110633ORF_len:1683,GENE_len:555
+f20	Ma.QS.scaffolds	100.000	1683	0	0	1	1683	108951	110633	0.0	3336
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:f1030-ccmFc_fragment_1*****************f1030 Ma.QS.scaffolds 491511 492485ORF_len:975,GENE_len:771
+f1030	Ma.QS.scaffolds	100.000	975	0	0	1	975	491511	492485	0.0	1933
+ccmFc_fragment_1	Ma.QS.scaffolds	100.000	771	0	0	1	771	491550	492320	0.0	1528
+***************************TEST:f42-atp4*****************f42 Ma.QS.scaffolds 11975 12622ORF_len:648,GENE_len:588
+f42	Ma.QS.scaffolds	100.000	648	0	0	1	648	11975	12622	0.0	1285
+atp4	Ma.QS.scaffolds	100.000	588	0	0	1	588	12714	12127	0.0	1166
+***************************TEST:f716-nad7_fragment_4*****************f716 Ma.QS.scaffolds 370594 370941ORF_len:348,GENE_len:243
+f716	Ma.QS.scaffolds	100.000	348	0	0	1	348	370594	370941	0.0	690
+nad7_fragment_4	Ma.QS.scaffolds	100.000	243	0	0	1	243	370784	371026	8.32e-138	482
+***************************TEST:f64-nad4L*****************f64 Ma.QS.scaffolds 12930 13274ORF_len:345,GENE_len:300
+f64	Ma.QS.scaffolds	100.000	345	0	0	1	345	12930	13274	0.0	684
+f64	Ma.QS.scaffolds	100.000	31	0	0	315	345	13545	13575	3.88e-11	61.9
+f64	Ma.QS.scaffolds	100.000	29	0	0	304	332	13995	14023	6.06e-10	58.0
+nad4L	Ma.QS.scaffolds	100.000	300	0	0	1	300	13222	12923	1.00e-171	595
+***************************TEST:f755-nad9*****************f755 Ma.QS.scaffolds 383694 384098ORF_len:405,GENE_len:573
+f755	Ma.QS.scaffolds	100.000	405	0	0	1	405	383694	384098	0.0	803
+f755	Ma.QS.scaffolds	100.000	102	0	0	13	114	464694	464593	1.96e-53	202
+f755	Ma.QS.scaffolds	100.000	56	0	0	1	56	454428	454373	5.52e-26	111
+nad9	Ma.QS.scaffolds	100.000	573	0	0	1	573	383813	384385	0.0	1136
+***************************TEST:r588-rps4*****************r588 Ma.QS.scaffolds 324309 324533ORF_len:225,GENE_len:1044
+r588	Ma.QS.scaffolds	100.000	225	0	0	1	225	121937	122161	4.23e-127	446
+r588	Ma.QS.scaffolds	100.000	225	0	0	1	225	324309	324533	4.23e-127	446
+r588	Ma.QS.scaffolds	100.000	24	0	0	102	125	123286	123263	3.74e-07	48.1
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:f364-sdh3*****************f364 Ma.QS.scaffolds 242920 243999ORF_len:1080,GENE_len:291
+f364	Ma.QS.scaffolds	100.000	1080	0	0	1	1080	242920	243999	0.0	2141
+f364	Ma.QS.scaffolds	98.824	85	1	0	178	262	88691	88607	1.81e-40	161
+f364	Ma.QS.scaffolds	98.824	85	1	0	178	262	213866	213782	1.81e-40	161
+f364	Ma.QS.scaffolds	100.000	23	0	0	268	290	342408	342430	7.42e-06	46.1
+sdh3	Ma.QS.scaffolds	100.000	291	0	0	1	291	243208	243498	2.27e-166	577
+***************************TEST:f328-nad3*****************f328 Ma.QS.scaffolds 231318 231788ORF_len:471,GENE_len:354
+f328	Ma.QS.scaffolds	100.000	471	0	0	1	471	231318	231788	0.0	934
+f328	Ma.QS.scaffolds	100.000	25	0	0	65	89	516692	516716	2.04e-07	50.1
+nad3	Ma.QS.scaffolds	100.000	354	0	0	1	354	231432	231785	0.0	702
+***************************TEST:f692-nad1_fragment_4*****************f692 Ma.QS.scaffolds 362668 362898ORF_len:231,GENE_len:60
+f692	Ma.QS.scaffolds	100.000	231	0	0	1	231	362668	362898	1.14e-130	458
+nad1_fragment_4	Ma.QS.scaffolds	100.000	60	0	0	1	60	362765	362824	2.78e-29	119
+***************************TEST:r1128-ccmB*****************r1128 Ma.QS.scaffolds 55099 56067ORF_len:969,GENE_len:630
+r1128	Ma.QS.scaffolds	100.000	969	0	0	1	969	55099	56067	0.0	1921
+ccmB	Ma.QS.scaffolds	100.000	630	0	0	1	630	56067	55438	0.0	1249
+***************************TEST:r52-rps4*****************r52 Ma.QS.scaffolds 121937 122161ORF_len:225,GENE_len:1044
+r52	Ma.QS.scaffolds	100.000	225	0	0	1	225	121937	122161	4.23e-127	446
+r52	Ma.QS.scaffolds	100.000	225	0	0	1	225	324309	324533	4.23e-127	446
+r52	Ma.QS.scaffolds	100.000	24	0	0	102	125	123286	123263	3.74e-07	48.1
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:r155-nad4_fragment_2*****************r155 Ma.QS.scaffolds 159528 159767ORF_len:240,GENE_len:936
+r155	Ma.QS.scaffolds	100.000	240	0	0	1	240	159528	159767	5.06e-136	476
+nad4_fragment_2	Ma.QS.scaffolds	100.000	936	0	0	1	936	159466	160401	0.0	1855
+***************************TEST:f9-ccmFn*****************f9 Ma.QS.scaffolds 103685 103975ORF_len:291,GENE_len:1728
+f9	Ma.QS.scaffolds	100.000	291	0	0	1	291	103685	103975	2.27e-166	577
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:r1225-cox3*****************r1225 Ma.QS.scaffolds 87107 87625ORF_len:519,GENE_len:795
+r1225	Ma.QS.scaffolds	100.000	519	0	0	1	519	87107	87625	0.0	1029
+cox3	Ma.QS.scaffolds	100.000	795	0	0	1	795	87513	86719	0.0	1576
+***************************TEST:r1130-ccmB*****************r1130 Ma.QS.scaffolds 55460 55996ORF_len:537,GENE_len:630
+r1130	Ma.QS.scaffolds	100.000	537	0	0	1	537	55460	55996	0.0	1065
+ccmB	Ma.QS.scaffolds	100.000	630	0	0	1	630	56067	55438	0.0	1249
+***************************TEST:r53-rps4*****************r53 Ma.QS.scaffolds 122186 122488ORF_len:303,GENE_len:1044
+r53	Ma.QS.scaffolds	100.000	303	0	0	1	303	122186	122488	1.64e-173	601
+r53	Ma.QS.scaffolds	100.000	88	0	0	1	88	324558	324645	3.27e-45	174
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:r51-atp4*****************r51 Ma.QS.scaffolds 12124 12714ORF_len:591,GENE_len:588
+r51	Ma.QS.scaffolds	100.000	591	0	0	1	591	12124	12714	0.0	1172
+atp4	Ma.QS.scaffolds	100.000	588	0	0	1	588	12714	12127	0.0	1166
+***************************TEST:r1131-ccmB*****************r1131 Ma.QS.scaffolds 55974 56204ORF_len:231,GENE_len:630
+r1131	Ma.QS.scaffolds	100.000	231	0	0	1	231	55974	56204	1.14e-130	458
+ccmB	Ma.QS.scaffolds	100.000	630	0	0	1	630	56067	55438	0.0	1249
+***************************TEST:f1035-ccmFc_fragment_2*****************f1035 Ma.QS.scaffolds 492944 493975ORF_len:1032,GENE_len:549
+f1035	Ma.QS.scaffolds	100.000	1032	0	0	1	1032	492944	493975	0.0	2046
+ccmFc_fragment_2	Ma.QS.scaffolds	100.000	549	0	0	1	549	493274	493822	0.0	1088
+***************************TEST:r46-rpl5*****************r46 Ma.QS.scaffolds 118598 119074ORF_len:477,GENE_len:552
+r46	Ma.QS.scaffolds	100.000	477	0	0	1	477	118598	119074	0.0	946
+rpl5	Ma.QS.scaffolds	100.000	552	0	0	1	552	118479	119030	0.0	1094
+***************************TEST:r637-rps10_fragment_1*****************r637 Ma.QS.scaffolds 339462 340463ORF_len:1002,GENE_len:210
+r637	Ma.QS.scaffolds	100.000	1002	0	0	1	1002	339462	340463	0.0	1986
+r637	Ma.QS.scaffolds	100.000	56	0	0	259	314	118382	118437	1.39e-25	111
+r637	Ma.QS.scaffolds	100.000	56	0	0	259	314	251034	251089	1.39e-25	111
+r637	Ma.QS.scaffolds	100.000	56	0	0	259	314	294989	294934	1.39e-25	111
+rps10_fragment_1	Ma.QS.scaffolds	100.000	210	0	0	1	210	339809	340018	3.51e-118	416
+***************************TEST:r452-rps7*****************r452 Ma.QS.scaffolds 277877 278179ORF_len:303,GENE_len:465
+r452	Ma.QS.scaffolds	100.000	303	0	0	1	303	277877	278179	1.64e-173	601
+rps7	Ma.QS.scaffolds	100.000	465	0	0	1	465	277749	278213	0.0	922
+***************************TEST:f20-rps3*****************f20 Ma.QS.scaffolds 108951 110633ORF_len:1683,GENE_len:1680
+f20	Ma.QS.scaffolds	100.000	1683	0	0	1	1683	108951	110633	0.0	3336
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:f40-rps14_fragment_2*****************f40 Ma.QS.scaffolds 118825 119217ORF_len:393,GENE_len:174
+f40	Ma.QS.scaffolds	100.000	393	0	0	1	393	118825	119217	0.0	779
+rps14_fragment_2	Ma.QS.scaffolds	100.000	174	0	0	1	174	119130	119303	8.72e-97	345
+***************************TEST:r981-atp9*****************r981 Ma.QS.scaffolds 471305 471649ORF_len:345,GENE_len:243
+r981	Ma.QS.scaffolds	100.000	345	0	0	1	345	471305	471649	0.0	684
+r981	Ma.QS.scaffolds	98.077	52	1	0	161	212	43702	43651	2.78e-21	95.6
+r981	Ma.QS.scaffolds	94.595	37	2	0	231	267	90677	90641	6.06e-10	58.0
+r981	Ma.QS.scaffolds	96.154	26	1	0	161	186	217776	217751	9.11e-06	44.1
+atp9	Ma.QS.scaffolds	100.000	243	0	0	1	243	471598	471840	8.32e-138	482
+atp9	Ma.QS.scaffolds	100.000	22	0	0	193	214	99027	99006	6.33e-06	44.1
+***************************TEST:r30-rpl16*****************r30 Ma.QS.scaffolds 110715 111506ORF_len:792,GENE_len:555
+r30	Ma.QS.scaffolds	100.000	792	0	0	1	792	110715	111506	0.0	1570
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:r1223-sdh4*****************r1223 Ma.QS.scaffolds 86340 86747ORF_len:408,GENE_len:393
+r1223	Ma.QS.scaffolds	100.000	408	0	0	1	408	86340	86747	0.0	809
+r1223	Ma.QS.scaffolds	100.000	25	0	0	2	26	451293	451317	1.76e-07	50.1
+sdh4	Ma.QS.scaffolds	100.000	393	0	0	1	393	86788	86396	0.0	779
+***************************TEST:f976-nad5_fragment_1*****************f976 Ma.QS.scaffolds 471971 473074ORF_len:1104,GENE_len:237
+f976	Ma.QS.scaffolds	100.000	1104	0	0	1	1104	471971	473074	0.0	2189
+f976	Ma.QS.scaffolds	100.000	241	0	0	1	241	293617	293377	6.15e-136	478
+f976	Ma.QS.scaffolds	98.361	61	1	0	309	369	102513	102453	3.89e-26	113
+f976	Ma.QS.scaffolds	97.826	46	1	0	243	288	473089	473134	3.48e-17	83.8
+f976	Ma.QS.scaffolds	100.000	33	0	0	209	241	90464	90432	8.17e-12	65.9
+f976	Ma.QS.scaffolds	94.737	38	2	0	21	58	328456	328493	5.04e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:r239-nad5_fragment_3*****************r239 Ma.QS.scaffolds 197768 198028ORF_len:261,GENE_len:396
+r239	Ma.QS.scaffolds	100.000	261	0	0	1	261	197768	198028	1.62e-148	517
+nad5_fragment_3	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:f89-nad2_fragment_4*****************f89 Ma.QS.scaffolds 140310 140816ORF_len:507,GENE_len:621
+f89	Ma.QS.scaffolds	100.000	507	0	0	1	507	140310	140816	0.0	1005
+nad2_fragment_4	Ma.QS.scaffolds	100.000	621	0	0	1	621	140642	141262	0.0	1231
+***************************TEST:r1229-nad5_fragment_1*****************r1229 Ma.QS.scaffolds 89452 90606ORF_len:1155,GENE_len:237
+r1229	Ma.QS.scaffolds	100.000	1155	0	0	1	1155	89452	90606	0.0	2290
+r1229	Ma.QS.scaffolds	100.000	58	0	0	956	1013	293352	293409	1.03e-26	115
+r1229	Ma.QS.scaffolds	100.000	33	0	0	981	1013	472211	472179	8.56e-12	65.9
+r1229	Ma.QS.scaffolds	100.000	27	0	0	61	87	148769	148795	3.26e-08	54.0
+r1229	Ma.QS.scaffolds	92.105	38	3	0	1036	1073	454295	454332	1.29e-07	52.0
+r1229	Ma.QS.scaffolds	91.111	45	3	1	1112	1155	307669	307625	5.08e-07	50.1
+r1229	Ma.QS.scaffolds	100.000	24	0	0	40	63	43403	43426	2.01e-06	48.1
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:r280-atp8*****************r280 Ma.QS.scaffolds 213162 213944ORF_len:783,GENE_len:477
+r280	Ma.QS.scaffolds	100.000	783	0	0	1	783	213162	213944	0.0	1552
+r280	Ma.QS.scaffolds	100.000	185	0	0	554	738	88540	88724	1.14e-102	367
+r280	Ma.QS.scaffolds	98.824	85	1	0	621	705	243181	243097	1.31e-40	161
+r280	Ma.QS.scaffolds	89.744	39	4	0	520	558	454109	454147	5.35e-06	46.1
+atp8	Ma.QS.scaffolds	100.000	477	0	0	1	477	88616	88140	0.0	946
+atp8	Ma.QS.scaffolds	100.000	77	0	0	1	77	213791	213715	1.92e-38	153
+***************************TEST:r238-nad5_fragment_3*****************r238 Ma.QS.scaffolds 197413 197943ORF_len:531,GENE_len:396
+r238	Ma.QS.scaffolds	100.000	531	0	0	1	531	197413	197943	0.0	1053
+nad5_fragment_3	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:r1109-ccmC*****************r1109 Ma.QS.scaffolds 516642 516884ORF_len:243,GENE_len:750
+r1109	Ma.QS.scaffolds	100.000	243	0	0	1	243	516642	516884	8.32e-138	482
+r1109	Ma.QS.scaffolds	100.000	25	0	0	46	70	221446	221422	1.03e-07	50.1
+r1109	Ma.QS.scaffolds	100.000	25	0	0	51	75	231382	231406	1.03e-07	50.1
+ccmC	Ma.QS.scaffolds	100.000	750	0	0	1	750	516845	517594	0.0	1487
+***************************TEST:f22-rps3*****************f22 Ma.QS.scaffolds 109127 109450ORF_len:324,GENE_len:1680
+f22	Ma.QS.scaffolds	100.000	324	0	0	1	324	109127	109450	0.0	642
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:f387-rpl10*****************f387 Ma.QS.scaffolds 251122 251619ORF_len:498,GENE_len:486
+f387	Ma.QS.scaffolds	100.000	498	0	0	1	498	251122	251619	0.0	987
+rpl10	Ma.QS.scaffolds	100.000	486	0	0	1	486	251131	251616	0.0	963
+***************************TEST:f742-rps1*****************f742 Ma.QS.scaffolds 378354 379028ORF_len:675,GENE_len:612
+f742	Ma.QS.scaffolds	100.000	675	0	0	1	675	378354	379028	0.0	1338
+f742	Ma.QS.scaffolds	94.286	35	2	0	331	365	378627	378661	1.89e-08	54.0
+f742	Ma.QS.scaffolds	94.286	35	2	0	274	308	378684	378718	1.89e-08	54.0
+f742	Ma.QS.scaffolds	96.429	28	1	0	393	420	378617	378644	1.16e-06	48.1
+f742	Ma.QS.scaffolds	96.429	28	1	0	264	291	378746	378773	1.16e-06	48.1
+rps1	Ma.QS.scaffolds	100.000	612	0	0	1	612	378414	379025	0.0	1213
+rps1	Ma.QS.scaffolds	94.286	35	2	0	271	305	378627	378661	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	94.286	35	2	0	214	248	378684	378718	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	96.429	28	1	0	333	360	378617	378644	1.05e-06	48.1
+rps1	Ma.QS.scaffolds	96.429	28	1	0	204	231	378746	378773	1.05e-06	48.1
+***************************TEST:f632-rps10_fragment_1*****************f632 Ma.QS.scaffolds 339671 340069ORF_len:399,GENE_len:210
+f632	Ma.QS.scaffolds	100.000	399	0	0	1	399	339671	340069	0.0	791
+f632	Ma.QS.scaffolds	100.000	56	0	0	50	105	294989	294934	5.44e-26	111
+f632	Ma.QS.scaffolds	100.000	56	0	0	50	105	118382	118437	5.44e-26	111
+f632	Ma.QS.scaffolds	100.000	56	0	0	50	105	251034	251089	5.44e-26	111
+rps10_fragment_1	Ma.QS.scaffolds	100.000	210	0	0	1	210	339809	340018	3.51e-118	416
+***************************TEST:f40-rps14_fragment_1*****************f40 Ma.QS.scaffolds 118825 119217ORF_len:393,GENE_len:87
+f40	Ma.QS.scaffolds	100.000	393	0	0	1	393	118825	119217	0.0	779
+rps14_fragment_1	Ma.QS.scaffolds	100.000	87	0	0	1	87	119035	119121	3.31e-45	172
+***************************TEST:r598-nad1_fragment_3*****************r598 Ma.QS.scaffolds 326757 327074ORF_len:318,GENE_len:195
+r598	Ma.QS.scaffolds	100.000	318	0	0	1	318	326757	327074	0.0	630
+r598	Ma.QS.scaffolds	100.000	49	0	0	152	200	245502	245550	6.46e-22	97.6
+nad1_fragment_3	Ma.QS.scaffolds	100.000	195	0	0	1	195	326968	327162	2.90e-109	387
+***************************TEST:r692-matR*****************r692 Ma.QS.scaffolds 363694 364074ORF_len:381,GENE_len:1983
+r692	Ma.QS.scaffolds	100.000	381	0	0	1	381	363694	364074	0.0	755
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r741-rps1*****************r741 Ma.QS.scaffolds 378422 378883ORF_len:462,GENE_len:612
+r741	Ma.QS.scaffolds	100.000	462	0	0	1	462	378422	378883	0.0	916
+r741	Ma.QS.scaffolds	94.286	35	2	0	263	297	378627	378661	1.28e-08	54.0
+r741	Ma.QS.scaffolds	94.286	35	2	0	206	240	378684	378718	1.28e-08	54.0
+r741	Ma.QS.scaffolds	96.429	28	1	0	325	352	378617	378644	7.89e-07	48.1
+r741	Ma.QS.scaffolds	96.429	28	1	0	196	223	378746	378773	7.89e-07	48.1
+rps1	Ma.QS.scaffolds	100.000	612	0	0	1	612	378414	379025	0.0	1213
+rps1	Ma.QS.scaffolds	94.286	35	2	0	271	305	378627	378661	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	94.286	35	2	0	214	248	378684	378718	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	96.429	28	1	0	333	360	378617	378644	1.05e-06	48.1
+rps1	Ma.QS.scaffolds	96.429	28	1	0	204	231	378746	378773	1.05e-06	48.1
+***************************TEST:f974-atp9*****************f974 Ma.QS.scaffolds 471349 471888ORF_len:540,GENE_len:243
+f974	Ma.QS.scaffolds	100.000	540	0	0	1	540	471349	471888	0.0	1070
+f974	Ma.QS.scaffolds	98.077	52	1	0	117	168	43702	43651	4.42e-21	95.6
+f974	Ma.QS.scaffolds	94.595	37	2	0	187	223	90677	90641	9.62e-10	58.0
+atp9	Ma.QS.scaffolds	100.000	243	0	0	1	243	471598	471840	8.32e-138	482
+atp9	Ma.QS.scaffolds	100.000	22	0	0	193	214	99027	99006	6.33e-06	44.1
+***************************TEST:r48-rps14_fragment_2*****************r48 Ma.QS.scaffolds 119109 119378ORF_len:270,GENE_len:174
+r48	Ma.QS.scaffolds	100.000	270	0	0	1	270	119109	119378	7.15e-154	535
+rps14_fragment_2	Ma.QS.scaffolds	100.000	174	0	0	1	174	119130	119303	8.72e-97	345
+***************************TEST:f90-nad2_fragment_4*****************f90 Ma.QS.scaffolds 140390 141289ORF_len:900,GENE_len:621
+f90	Ma.QS.scaffolds	100.000	900	0	0	1	900	140390	141289	0.0	1784
+nad2_fragment_4	Ma.QS.scaffolds	100.000	621	0	0	1	621	140642	141262	0.0	1231
+***************************TEST:r379-rpl10*****************r379 Ma.QS.scaffolds 251016 251483ORF_len:468,GENE_len:486
+r379	Ma.QS.scaffolds	100.000	468	0	0	1	468	251016	251483	0.0	928
+r379	Ma.QS.scaffolds	99.038	104	1	0	18	121	118381	118484	3.55e-52	198
+r379	Ma.QS.scaffolds	100.000	73	0	0	19	91	294989	294917	4.60e-36	145
+r379	Ma.QS.scaffolds	100.000	56	0	0	19	74	339720	339775	6.41e-26	111
+rpl10	Ma.QS.scaffolds	100.000	486	0	0	1	486	251131	251616	0.0	963
+***************************TEST:r946-cox2_fragment_1*****************r946 Ma.QS.scaffolds 454092 454478ORF_len:387,GENE_len:702
+r946	Ma.QS.scaffolds	100.000	387	0	0	1	387	454092	454478	0.0	767
+r946	Ma.QS.scaffolds	100.000	106	0	0	282	387	383749	383644	7.66e-56	210
+r946	Ma.QS.scaffolds	100.000	44	0	0	282	325	464651	464694	7.63e-19	87.7
+r946	Ma.QS.scaffolds	92.105	38	3	0	204	241	90487	90524	4.21e-08	52.0
+r946	Ma.QS.scaffolds	89.744	39	4	0	18	56	213681	213719	2.60e-06	46.1
+cox2_fragment_1	Ma.QS.scaffolds	100.000	702	0	0	1	702	454297	453596	0.0	1392
+cox2_fragment_1	Ma.QS.scaffolds	97.647	85	2	0	618	702	308055	308139	2.86e-38	153
+cox2_fragment_1	Ma.QS.scaffolds	89.744	39	4	0	151	189	213719	213681	4.79e-06	46.1
+***************************TEST:r451-rps7*****************r451 Ma.QS.scaffolds 277873 278217ORF_len:345,GENE_len:465
+r451	Ma.QS.scaffolds	100.000	345	0	0	1	345	277873	278217	0.0	684
+rps7	Ma.QS.scaffolds	100.000	465	0	0	1	465	277749	278213	0.0	922
+***************************TEST:f979-atp1*****************f979 Ma.QS.scaffolds 473090 475240ORF_len:2151,GENE_len:1521
+f979	Ma.QS.scaffolds	100.000	2151	0	0	1	2151	473090	475240	0.0	4264
+f979	Ma.QS.scaffolds	91.167	317	28	0	1830	2146	13986	13670	3.67e-114	406
+f979	Ma.QS.scaffolds	98.246	57	1	0	1763	1819	212811	212755	1.86e-23	105
+f979	Ma.QS.scaffolds	97.778	45	1	0	1	45	472214	472258	2.70e-16	81.8
+atp1	Ma.QS.scaffolds	100.000	1521	0	0	1	1521	473147	474667	0.0	3015
+***************************TEST:r12-ccmFn*****************r12 Ma.QS.scaffolds 103527 104321ORF_len:795,GENE_len:1728
+r12	Ma.QS.scaffolds	100.000	795	0	0	1	795	103527	104321	0.0	1576
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:f369-nad2_fragment_2*****************f369 Ma.QS.scaffolds 245487 245987ORF_len:501,GENE_len:351
+f369	Ma.QS.scaffolds	100.000	501	0	0	1	501	245487	245987	0.0	993
+f369	Ma.QS.scaffolds	100.000	49	0	0	16	64	326908	326956	1.03e-21	97.6
+nad2_fragment_2	Ma.QS.scaffolds	100.000	351	0	0	1	351	245607	245957	0.0	696
+***************************TEST:r9-ccmFn*****************r9 Ma.QS.scaffolds 102778 104700ORF_len:1923,GENE_len:1728
+r9	Ma.QS.scaffolds	100.000	1717	0	0	1	1717	102778	104494	0.0	3404
+r9	Ma.QS.scaffolds	100.000	106	0	0	1818	1923	104595	104700	3.92e-55	210
+r9	Ma.QS.scaffolds	97.170	106	3	0	1818	1923	314299	314194	5.68e-48	186
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:f139-nad4_fragment_2*****************f139 Ma.QS.scaffolds 159466 160566ORF_len:1101,GENE_len:936
+f139	Ma.QS.scaffolds	100.000	1101	0	0	1	1101	159466	160566	0.0	2183
+nad4_fragment_2	Ma.QS.scaffolds	100.000	936	0	0	1	936	159466	160401	0.0	1855
+***************************TEST:f704-nad7_fragment_2*****************f704 Ma.QS.scaffolds 367420 367650ORF_len:231,GENE_len:108
+f704	Ma.QS.scaffolds	100.000	231	0	0	1	231	367420	367650	1.14e-130	458
+nad7_fragment_2	Ma.QS.scaffolds	100.000	108	0	0	1	108	367593	367700	1.25e-57	214
+***************************TEST:r980-atp9*****************r980 Ma.QS.scaffolds 471297 471725ORF_len:429,GENE_len:243
+r980	Ma.QS.scaffolds	100.000	429	0	0	1	429	471297	471725	0.0	850
+r980	Ma.QS.scaffolds	98.077	52	1	0	169	220	43702	43651	3.48e-21	95.6
+r980	Ma.QS.scaffolds	94.595	37	2	0	239	275	90677	90641	7.59e-10	58.0
+atp9	Ma.QS.scaffolds	100.000	243	0	0	1	243	471598	471840	8.32e-138	482
+atp9	Ma.QS.scaffolds	100.000	22	0	0	193	214	99027	99006	6.33e-06	44.1
+***************************TEST:f136-nad4_fragment_1*****************f136 Ma.QS.scaffolds 157549 158202ORF_len:654,GENE_len:459
+f136	Ma.QS.scaffolds	100.000	654	0	0	1	654	157549	158202	0.0	1296
+nad4_fragment_1	Ma.QS.scaffolds	100.000	459	0	0	1	459	157559	158017	0.0	910
+***************************TEST:r1042-ccmFc_fragment_2*****************r1042 Ma.QS.scaffolds 493010 493369ORF_len:360,GENE_len:549
+r1042	Ma.QS.scaffolds	100.000	360	0	0	1	360	493010	493369	0.0	714
+ccmFc_fragment_2	Ma.QS.scaffolds	100.000	549	0	0	1	549	493274	493822	0.0	1088
+***************************TEST:r642-rps10_fragment_2*****************r642 Ma.QS.scaffolds 340855 341169ORF_len:315,GENE_len:75
+r642	Ma.QS.scaffolds	100.000	315	0	0	1	315	340855	341169	1.18e-180	624
+rps10_fragment_2	Ma.QS.scaffolds	100.000	75	0	0	1	75	340887	340961	4.09e-38	149
+***************************TEST:r987-atp1*****************r987 Ma.QS.scaffolds 473688 473948ORF_len:261,GENE_len:1521
+r987	Ma.QS.scaffolds	100.000	261	0	0	1	261	473688	473948	1.62e-148	517
+atp1	Ma.QS.scaffolds	100.000	1521	0	0	1	1521	473147	474667	0.0	3015
+***************************TEST:r591-nad1_fragment_2*****************r591 Ma.QS.scaffolds 325154 325465ORF_len:312,GENE_len:78
+r591	Ma.QS.scaffolds	100.000	312	0	0	1	312	325154	325465	7.19e-179	618
+nad1_fragment_2	Ma.QS.scaffolds	100.000	78	0	0	1	78	325425	325502	6.83e-40	155
+***************************TEST:r1224-sdh4*****************r1224 Ma.QS.scaffolds 86584 87657ORF_len:1074,GENE_len:393
+r1224	Ma.QS.scaffolds	100.000	1074	0	0	1	1074	86584	87657	0.0	2129
+sdh4	Ma.QS.scaffolds	100.000	393	0	0	1	393	86788	86396	0.0	779
+***************************TEST:f1110-ccmB*****************f1110 Ma.QS.scaffolds 55794 56129ORF_len:336,GENE_len:630
+f1110	Ma.QS.scaffolds	100.000	336	0	0	1	336	55794	56129	0.0	666
+ccmB	Ma.QS.scaffolds	100.000	630	0	0	1	630	56067	55438	0.0	1249
+***************************TEST:f388-nad1_fragment_1*****************f388 Ma.QS.scaffolds 251616 251933ORF_len:318,GENE_len:387
+f388	Ma.QS.scaffolds	100.000	318	0	0	1	318	251616	251933	0.0	630
+f388	Ma.QS.scaffolds	96.923	65	2	0	150	214	403209	403273	1.09e-26	113
+nad1_fragment_1	Ma.QS.scaffolds	100.000	387	0	0	1	387	251848	252234	0.0	767
+nad1_fragment_1	Ma.QS.scaffolds	97.826	46	1	0	338	383	213994	213949	1.19e-17	83.8
+***************************TEST:f636-cox1*****************f636 Ma.QS.scaffolds 340906 341247ORF_len:342,GENE_len:1578
+f636	Ma.QS.scaffolds	100.000	342	0	0	1	342	340906	341247	0.0	678
+cox1	Ma.QS.scaffolds	100.000	1578	0	0	1	1578	341199	342776	0.0	3128
+***************************TEST:f91-nad2_fragment_4*****************f91 Ma.QS.scaffolds 140434 140712ORF_len:279,GENE_len:621
+f91	Ma.QS.scaffolds	100.000	279	0	0	1	279	140434	140712	3.15e-159	553
+nad2_fragment_4	Ma.QS.scaffolds	100.000	621	0	0	1	621	140642	141262	0.0	1231
+***************************TEST:f924-cox2_fragment_1*****************f924 Ma.QS.scaffolds 454270 454536ORF_len:267,GENE_len:702
+f924	Ma.QS.scaffolds	100.000	267	0	0	1	267	454270	454536	4.36e-152	529
+f924	Ma.QS.scaffolds	100.000	145	0	0	104	248	383749	383605	2.77e-79	287
+f924	Ma.QS.scaffolds	100.000	44	0	0	104	147	464651	464694	5.18e-19	87.7
+f924	Ma.QS.scaffolds	92.105	38	3	0	26	63	90487	90524	2.86e-08	52.0
+cox2_fragment_1	Ma.QS.scaffolds	100.000	702	0	0	1	702	454297	453596	0.0	1392
+cox2_fragment_1	Ma.QS.scaffolds	97.647	85	2	0	618	702	308055	308139	2.86e-38	153
+cox2_fragment_1	Ma.QS.scaffolds	89.744	39	4	0	151	189	213719	213681	4.79e-06	46.1
+***************************TEST:f464-rps7*****************f464 Ma.QS.scaffolds 277602 278216ORF_len:615,GENE_len:465
+f464	Ma.QS.scaffolds	100.000	615	0	0	1	615	277602	278216	0.0	1219
+rps7	Ma.QS.scaffolds	100.000	465	0	0	1	465	277749	278213	0.0	922
+***************************TEST:f408-cob*****************f408 Ma.QS.scaffolds 261160 262392ORF_len:1233,GENE_len:1191
+f408	Ma.QS.scaffolds	100.000	1233	0	0	1	1233	261160	262392	0.0	2444
+cob	Ma.QS.scaffolds	100.000	1191	0	0	1	1191	261160	262350	0.0	2361
+***************************TEST:f39-rpl5*****************f39 Ma.QS.scaffolds 118470 119033ORF_len:564,GENE_len:552
+f39	Ma.QS.scaffolds	100.000	564	0	0	1	564	118470	119033	0.0	1118
+rpl5	Ma.QS.scaffolds	100.000	552	0	0	1	552	118479	119030	0.0	1094
+***************************TEST:r761-nad9*****************r761 Ma.QS.scaffolds 383946 384335ORF_len:390,GENE_len:573
+r761	Ma.QS.scaffolds	100.000	390	0	0	1	390	383946	384335	0.0	773
+nad9	Ma.QS.scaffolds	100.000	573	0	0	1	573	383813	384385	0.0	1136
+***************************TEST:r644-cox1*****************r644 Ma.QS.scaffolds 340926 341258ORF_len:333,GENE_len:1578
+r644	Ma.QS.scaffolds	100.000	333	0	0	1	333	340926	341258	0.0	660
+cox1	Ma.QS.scaffolds	100.000	1578	0	0	1	1578	341199	342776	0.0	3128
+***************************TEST:r641-rps10_fragment_2*****************r641 Ma.QS.scaffolds 340787 341053ORF_len:267,GENE_len:75
+r641	Ma.QS.scaffolds	100.000	267	0	0	1	267	340787	341053	4.36e-152	529
+rps10_fragment_2	Ma.QS.scaffolds	100.000	75	0	0	1	75	340887	340961	4.09e-38	149
+***************************TEST:r715-nad7_fragment_4*****************r715 Ma.QS.scaffolds 370554 370934ORF_len:381,GENE_len:243
+r715	Ma.QS.scaffolds	100.000	381	0	0	1	381	370554	370934	0.0	755
+nad7_fragment_4	Ma.QS.scaffolds	100.000	243	0	0	1	243	370784	371026	8.32e-138	482
+***************************TEST:r1043-ccmFc_fragment_2*****************r1043 Ma.QS.scaffolds 493018 493413ORF_len:396,GENE_len:549
+r1043	Ma.QS.scaffolds	100.000	396	0	0	1	396	493018	493413	0.0	785
+ccmFc_fragment_2	Ma.QS.scaffolds	100.000	549	0	0	1	549	493274	493822	0.0	1088
+***************************TEST:r238-nad5_fragment_4*****************r238 Ma.QS.scaffolds 197413 197943ORF_len:531,GENE_len:396
+r238	Ma.QS.scaffolds	100.000	531	0	0	1	531	197413	197943	0.0	1053
+nad5_fragment_4	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:r360-sdh3*****************r360 Ma.QS.scaffolds 242994 243245ORF_len:252,GENE_len:291
+r360	Ma.QS.scaffolds	100.000	252	0	0	1	252	242994	243245	3.68e-143	500
+r360	Ma.QS.scaffolds	98.824	85	1	0	104	188	88691	88607	4.07e-41	161
+r360	Ma.QS.scaffolds	98.824	85	1	0	104	188	213866	213782	4.07e-41	161
+r360	Ma.QS.scaffolds	100.000	23	0	0	194	216	342408	342430	1.66e-06	46.1
+sdh3	Ma.QS.scaffolds	100.000	291	0	0	1	291	243208	243498	2.27e-166	577
+***************************TEST:f638-cox1*****************f638 Ma.QS.scaffolds 341894 342169ORF_len:276,GENE_len:1578
+f638	Ma.QS.scaffolds	100.000	276	0	0	1	276	341894	342169	1.92e-157	547
+cox1	Ma.QS.scaffolds	100.000	1578	0	0	1	1578	341199	342776	0.0	3128
+***************************TEST:r496-nad1_fragment_5*****************r496 Ma.QS.scaffolds 293640 294041ORF_len:402,GENE_len:255
+r496	Ma.QS.scaffolds	100.000	402	0	0	1	402	293640	294041	0.0	797
+r496	Ma.QS.scaffolds	100.000	45	0	0	41	85	328462	328418	2.01e-19	89.7
+r496	Ma.QS.scaffolds	92.857	42	3	0	331	372	159383	159342	1.80e-10	60.0
+r496	Ma.QS.scaffolds	96.667	30	1	0	155	184	256768	256739	4.38e-08	52.0
+nad1_fragment_5	Ma.QS.scaffolds	100.000	255	0	0	1	255	293897	293643	6.02e-145	505
+nad1_fragment_5	Ma.QS.scaffolds	100.000	45	0	0	174	218	328418	328462	1.25e-19	89.7
+nad1_fragment_5	Ma.QS.scaffolds	96.667	30	1	0	75	104	256739	256768	2.72e-08	52.0
+***************************TEST:r55-rps4*****************r55 Ma.QS.scaffolds 122501 122839ORF_len:339,GENE_len:1044
+r55	Ma.QS.scaffolds	100.000	339	0	0	1	339	122501	122839	0.0	672
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:f637-cox1*****************f637 Ma.QS.scaffolds 341199 342782ORF_len:1584,GENE_len:1578
+f637	Ma.QS.scaffolds	100.000	1584	0	0	1	1584	341199	342782	0.0	3140
+cox1	Ma.QS.scaffolds	100.000	1578	0	0	1	1578	341199	342776	0.0	3128
+***************************TEST:r965-atp6*****************r965 Ma.QS.scaffolds 463541 464590ORF_len:1050,GENE_len:726
+r965	Ma.QS.scaffolds	100.000	1050	0	0	1	1050	463541	464590	0.0	2081
+r965	Ma.QS.scaffolds	91.379	58	5	0	612	669	99058	99115	8.06e-15	75.8
+atp6	Ma.QS.scaffolds	100.000	726	0	0	1	726	464260	463535	0.0	1439
+atp6	Ma.QS.scaffolds	91.379	58	5	0	52	109	99115	99058	5.55e-15	75.8
+***************************TEST:f717-nad7_fragment_4*****************f717 Ma.QS.scaffolds 370748 371062ORF_len:315,GENE_len:243
+f717	Ma.QS.scaffolds	100.000	315	0	0	1	315	370748	371062	1.18e-180	624
+nad7_fragment_4	Ma.QS.scaffolds	100.000	243	0	0	1	243	370784	371026	8.32e-138	482
+***************************TEST:f11-ccmFn*****************f11 Ma.QS.scaffolds 104406 104630ORF_len:225,GENE_len:1728
+f11	Ma.QS.scaffolds	100.000	89	0	0	1	89	104406	104494	6.08e-46	176
+f11	Ma.QS.scaffolds	100.000	36	0	0	190	225	104595	104630	2.58e-14	71.9
+f11	Ma.QS.scaffolds	97.222	36	1	0	190	225	314299	314264	6.29e-12	63.9
+ccmFn	Ma.QS.scaffolds	100.000	1728	0	0	1	1728	104493	102766	0.0	3426
+***************************TEST:f149-nad4_fragment_3*****************f149 Ma.QS.scaffolds 162438 163088ORF_len:651,GENE_len:87
+f149	Ma.QS.scaffolds	100.000	651	0	0	1	651	162438	163088	0.0	1291
+nad4_fragment_3	Ma.QS.scaffolds	100.000	87	0	0	1	87	162933	163019	3.31e-45	172
+***************************TEST:f23-rpl16*****************f23 Ma.QS.scaffolds 110482 111039ORF_len:558,GENE_len:555
+f23	Ma.QS.scaffolds	100.000	558	0	0	1	558	110482	111039	0.0	1106
+rpl16	Ma.QS.scaffolds	100.000	555	0	0	1	555	110482	111036	0.0	1100
+***************************TEST:r986-atp1*****************r986 Ma.QS.scaffolds 473275 473733ORF_len:459,GENE_len:1521
+r986	Ma.QS.scaffolds	100.000	459	0	0	1	459	473275	473733	0.0	910
+atp1	Ma.QS.scaffolds	100.000	1521	0	0	1	1521	473147	474667	0.0	3015
+***************************TEST:r597-nad1_fragment_3*****************r597 Ma.QS.scaffolds 326723 327058ORF_len:336,GENE_len:195
+r597	Ma.QS.scaffolds	100.000	336	0	0	1	336	326723	327058	0.0	666
+r597	Ma.QS.scaffolds	100.000	49	0	0	186	234	245502	245550	6.84e-22	97.6
+nad1_fragment_3	Ma.QS.scaffolds	100.000	195	0	0	1	195	326968	327162	2.90e-109	387
+***************************TEST:r722-nad7_fragment_5*****************r722 Ma.QS.scaffolds 372720 372989ORF_len:270,GENE_len:261
+r722	Ma.QS.scaffolds	100.000	270	0	0	1	270	372720	372989	7.15e-154	535
+nad7_fragment_5	Ma.QS.scaffolds	100.000	261	0	0	1	261	372825	373085	1.62e-148	517
+***************************TEST:f972-atp9*****************f972 Ma.QS.scaffolds 471239 471637ORF_len:399,GENE_len:243
+f972	Ma.QS.scaffolds	100.000	399	0	0	1	399	471239	471637	0.0	791
+f972	Ma.QS.scaffolds	98.077	52	1	0	227	278	43702	43651	3.23e-21	95.6
+f972	Ma.QS.scaffolds	94.595	37	2	0	297	333	90677	90641	7.04e-10	58.0
+atp9	Ma.QS.scaffolds	100.000	243	0	0	1	243	471598	471840	8.32e-138	482
+atp9	Ma.QS.scaffolds	100.000	22	0	0	193	214	99027	99006	6.33e-06	44.1
+***************************TEST:f48-nad6*****************f48 Ma.QS.scaffolds 123692 124363ORF_len:672,GENE_len:639
+f48	Ma.QS.scaffolds	100.000	672	0	0	1	672	123692	124363	0.0	1332
+nad6	Ma.QS.scaffolds	100.000	639	0	0	1	639	123710	124348	0.0	1267
+***************************TEST:r691-matR*****************r691 Ma.QS.scaffolds 363191 363529ORF_len:339,GENE_len:1983
+r691	Ma.QS.scaffolds	100.000	339	0	0	1	339	363191	363529	0.0	672
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r25-rps3*****************r25 Ma.QS.scaffolds 109649 110194ORF_len:546,GENE_len:1680
+r25	Ma.QS.scaffolds	100.000	546	0	0	1	546	109649	110194	0.0	1082
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:r58-nad6*****************r58 Ma.QS.scaffolds 123625 123900ORF_len:276,GENE_len:639
+r58	Ma.QS.scaffolds	100.000	276	0	0	1	276	123625	123900	1.92e-157	547
+r58	Ma.QS.scaffolds	100.000	36	0	0	1	36	148858	148823	3.19e-14	71.9
+nad6	Ma.QS.scaffolds	100.000	639	0	0	1	639	123710	124348	0.0	1267
+***************************TEST:r495-nad1_fragment_5*****************r495 Ma.QS.scaffolds 293410 293781ORF_len:372,GENE_len:255
+r495	Ma.QS.scaffolds	100.000	372	0	0	1	372	293410	293781	0.0	737
+r495	Ma.QS.scaffolds	100.000	213	0	0	1	213	472178	471966	1.03e-119	422
+r495	Ma.QS.scaffolds	100.000	45	0	0	271	315	328462	328418	1.85e-19	89.7
+r495	Ma.QS.scaffolds	94.737	38	2	0	151	188	328493	328456	1.66e-10	60.0
+nad1_fragment_5	Ma.QS.scaffolds	100.000	255	0	0	1	255	293897	293643	6.02e-145	505
+nad1_fragment_5	Ma.QS.scaffolds	100.000	45	0	0	174	218	328418	328462	1.25e-19	89.7
+nad1_fragment_5	Ma.QS.scaffolds	96.667	30	1	0	75	104	256739	256768	2.72e-08	52.0
+***************************TEST:r277-mttB*****************r277 Ma.QS.scaffolds 211954 212910ORF_len:957,GENE_len:780
+r277	Ma.QS.scaffolds	100.000	957	0	0	1	957	211954	212910	0.0	1897
+r277	Ma.QS.scaffolds	98.246	57	1	0	802	858	474908	474852	8.21e-24	105
+mttB	Ma.QS.scaffolds	100.000	780	0	0	1	780	212760	211981	0.0	1546
+***************************TEST:f592-rps4*****************f592 Ma.QS.scaffolds 324567 324824ORF_len:258,GENE_len:1044
+f592	Ma.QS.scaffolds	100.000	258	0	0	1	258	324567	324824	9.87e-147	511
+f592	Ma.QS.scaffolds	100.000	79	0	0	1	79	122195	122273	6.49e-40	157
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:f21-rps3*****************f21 Ma.QS.scaffolds 109048 109434ORF_len:387,GENE_len:1680
+f21	Ma.QS.scaffolds	100.000	387	0	0	1	387	109048	109434	0.0	767
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:f45-rps4*****************f45 Ma.QS.scaffolds 121926 123080ORF_len:1155,GENE_len:1044
+f45	Ma.QS.scaffolds	100.000	1155	0	0	1	1155	121926	123080	0.0	2290
+f45	Ma.QS.scaffolds	100.000	348	0	0	1	348	324298	324645	0.0	690
+f45	Ma.QS.scaffolds	100.000	24	0	0	113	136	123286	123263	2.01e-06	48.1
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:r46-rps14_fragment_1*****************r46 Ma.QS.scaffolds 118598 119074ORF_len:477,GENE_len:87
+r46	Ma.QS.scaffolds	100.000	477	0	0	1	477	118598	119074	0.0	946
+rps14_fragment_1	Ma.QS.scaffolds	100.000	87	0	0	1	87	119035	119121	3.31e-45	172
+***************************TEST:r1036-ccmFc_fragment_1*****************r1036 Ma.QS.scaffolds 491720 492226ORF_len:507,GENE_len:771
+r1036	Ma.QS.scaffolds	100.000	507	0	0	1	507	491720	492226	0.0	1005
+ccmFc_fragment_1	Ma.QS.scaffolds	100.000	771	0	0	1	771	491550	492320	0.0	1528
+***************************TEST:r645-cox1*****************r645 Ma.QS.scaffolds 341591 342022ORF_len:432,GENE_len:1578
+r645	Ma.QS.scaffolds	100.000	432	0	0	1	432	341591	342022	0.0	856
+cox1	Ma.QS.scaffolds	100.000	1578	0	0	1	1578	341199	342776	0.0	3128
+***************************TEST:f504-nad5_fragment_1*****************f504 Ma.QS.scaffolds 293310 293639ORF_len:330,GENE_len:237
+f504	Ma.QS.scaffolds	100.000	330	0	0	1	330	293310	293639	0.0	654
+f504	Ma.QS.scaffolds	100.000	246	0	0	68	313	472211	471966	1.85e-139	488
+f504	Ma.QS.scaffolds	100.000	58	0	0	43	100	90407	90464	2.86e-27	115
+f504	Ma.QS.scaffolds	94.737	38	2	0	251	288	328493	328456	1.46e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:f636-rps10_fragment_2*****************f636 Ma.QS.scaffolds 340906 341247ORF_len:342,GENE_len:75
+f636	Ma.QS.scaffolds	100.000	342	0	0	1	342	340906	341247	0.0	678
+rps10_fragment_2	Ma.QS.scaffolds	100.000	75	0	0	1	75	340887	340961	4.09e-38	149
+***************************TEST:f329-rps12*****************f329 Ma.QS.scaffolds 231545 231871ORF_len:327,GENE_len:375
+f329	Ma.QS.scaffolds	100.000	327	0	0	1	327	231545	231871	0.0	648
+rps12	Ma.QS.scaffolds	100.000	375	0	0	1	375	231837	232211	0.0	743
+***************************TEST:f698-matR*****************f698 Ma.QS.scaffolds 364391 364696ORF_len:306,GENE_len:1983
+f698	Ma.QS.scaffolds	100.000	306	0	0	1	306	364391	364696	2.68e-175	607
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r65-atp4*****************r65 Ma.QS.scaffolds 12642 12917ORF_len:276,GENE_len:588
+r65	Ma.QS.scaffolds	100.000	276	0	0	1	276	12642	12917	1.92e-157	547
+atp4	Ma.QS.scaffolds	100.000	588	0	0	1	588	12714	12127	0.0	1166
+***************************TEST:r21-rps3*****************r21 Ma.QS.scaffolds 109070 109381ORF_len:312,GENE_len:1680
+r21	Ma.QS.scaffolds	100.000	312	0	0	1	312	109070	109381	7.19e-179	618
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:r700-nad7_fragment_1*****************r700 Ma.QS.scaffolds 366498 366746ORF_len:249,GENE_len:162
+r700	Ma.QS.scaffolds	100.000	249	0	0	1	249	366498	366746	2.24e-141	494
+nad7_fragment_1	Ma.QS.scaffolds	100.000	162	0	0	1	162	366595	366756	1.17e-89	321
+***************************TEST:f233-nad5_fragment_4*****************f233 Ma.QS.scaffolds 197799 198032ORF_len:234,GENE_len:396
+f233	Ma.QS.scaffolds	100.000	234	0	0	1	234	197799	198032	1.88e-132	464
+nad5_fragment_4	Ma.QS.scaffolds	100.000	396	0	0	1	396	197874	197479	0.0	785
+***************************TEST:r742-rps1*****************r742 Ma.QS.scaffolds 378504 378806ORF_len:303,GENE_len:612
+r742	Ma.QS.scaffolds	100.000	303	0	0	1	303	378504	378806	1.64e-173	601
+r742	Ma.QS.scaffolds	94.286	35	2	0	181	215	378627	378661	8.25e-09	54.0
+r742	Ma.QS.scaffolds	94.286	35	2	0	124	158	378684	378718	8.25e-09	54.0
+r742	Ma.QS.scaffolds	96.429	28	1	0	243	270	378617	378644	5.09e-07	48.1
+r742	Ma.QS.scaffolds	96.429	28	1	0	114	141	378746	378773	5.09e-07	48.1
+rps1	Ma.QS.scaffolds	100.000	612	0	0	1	612	378414	379025	0.0	1213
+rps1	Ma.QS.scaffolds	94.286	35	2	0	271	305	378627	378661	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	94.286	35	2	0	214	248	378684	378718	1.71e-08	54.0
+rps1	Ma.QS.scaffolds	96.429	28	1	0	333	360	378617	378644	1.05e-06	48.1
+rps1	Ma.QS.scaffolds	96.429	28	1	0	204	231	378746	378773	1.05e-06	48.1
+***************************TEST:f980-atp1*****************f980 Ma.QS.scaffolds 473701 473934ORF_len:234,GENE_len:1521
+f980	Ma.QS.scaffolds	100.000	234	0	0	1	234	473701	473934	1.88e-132	464
+atp1	Ma.QS.scaffolds	100.000	1521	0	0	1	1521	473147	474667	0.0	3015
+***************************TEST:f975-nad5_fragment_1*****************f975 Ma.QS.scaffolds 471885 472178ORF_len:294,GENE_len:237
+f975	Ma.QS.scaffolds	100.000	294	0	0	1	294	471885	472178	3.73e-168	583
+f975	Ma.QS.scaffolds	100.000	213	0	0	82	294	293622	293410	8.09e-120	422
+f975	Ma.QS.scaffolds	94.737	38	2	0	107	144	328456	328493	1.30e-10	60.0
+nad5_fragment_1	Ma.QS.scaffolds	100.000	237	0	0	1	237	293443	293207	3.08e-134	470
+nad5_fragment_1	Ma.QS.scaffolds	100.000	67	0	0	1	67	472145	472211	8.63e-33	133
+nad5_fragment_1	Ma.QS.scaffolds	100.000	58	0	0	35	92	90464	90407	2.03e-27	115
+***************************TEST:f500-nad5_fragment_2*****************f500 Ma.QS.scaffolds 292322 292777ORF_len:456,GENE_len:1203
+f500	Ma.QS.scaffolds	100.000	456	0	0	1	456	292322	292777	0.0	904
+nad5_fragment_2	Ma.QS.scaffolds	100.000	1203	0	0	1	1203	292356	291154	0.0	2385
+***************************TEST:f591-rps4*****************f591 Ma.QS.scaffolds 324289 325272ORF_len:984,GENE_len:1044
+f591	Ma.QS.scaffolds	100.000	984	0	0	1	984	324289	325272	0.0	1951
+f591	Ma.QS.scaffolds	100.000	356	0	0	2	357	121918	122273	0.0	706
+f591	Ma.QS.scaffolds	100.000	24	0	0	122	145	123286	123263	1.71e-06	48.1
+rps4	Ma.QS.scaffolds	100.000	1044	0	0	1	1044	122034	123077	0.0	2070
+rps4	Ma.QS.scaffolds	100.000	240	0	0	1	240	324406	324645	2.30e-135	476
+rps4	Ma.QS.scaffolds	100.000	24	0	0	5	28	123286	123263	1.81e-06	48.1
+***************************TEST:f593-nad1_fragment_2*****************f593 Ma.QS.scaffolds 325379 325651ORF_len:273,GENE_len:78
+f593	Ma.QS.scaffolds	100.000	273	0	0	1	273	325379	325651	1.17e-155	541
+nad1_fragment_2	Ma.QS.scaffolds	100.000	78	0	0	1	78	325425	325502	6.83e-40	155
+***************************TEST:f135-nad4_fragment_1*****************f135 Ma.QS.scaffolds 157505 158086ORF_len:582,GENE_len:459
+f135	Ma.QS.scaffolds	100.000	582	0	0	1	582	157505	158086	0.0	1154
+nad4_fragment_1	Ma.QS.scaffolds	100.000	459	0	0	1	459	157559	158017	0.0	910
+***************************TEST:r695-matR*****************r695 Ma.QS.scaffolds 364394 365188ORF_len:795,GENE_len:1983
+r695	Ma.QS.scaffolds	100.000	795	0	0	1	795	364394	365188	0.0	1576
+r695	Ma.QS.scaffolds	100.000	26	0	0	285	310	117597	117622	8.81e-08	52.0
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r688-nad1_fragment_4*****************r688 Ma.QS.scaffolds 362613 362846ORF_len:234,GENE_len:60
+r688	Ma.QS.scaffolds	100.000	234	0	0	1	234	362613	362846	1.88e-132	464
+nad1_fragment_4	Ma.QS.scaffolds	100.000	60	0	0	1	60	362765	362824	2.78e-29	119
+***************************TEST:r693-matR*****************r693 Ma.QS.scaffolds 363830 364186ORF_len:357,GENE_len:1983
+r693	Ma.QS.scaffolds	100.000	357	0	0	1	357	363830	364186	0.0	708
+matR	Ma.QS.scaffolds	100.000	1983	0	0	1	1983	363495	365477	0.0	3931
+matR	Ma.QS.scaffolds	100.000	26	0	0	1184	1209	117597	117622	2.22e-07	52.0
+***************************TEST:r24-rps3*****************r24 Ma.QS.scaffolds 109612 109923ORF_len:312,GENE_len:1680
+r24	Ma.QS.scaffolds	100.000	312	0	0	1	312	109612	109923	7.19e-179	618
+rps3	Ma.QS.scaffolds	100.000	1680	0	0	1	1680	108951	110630	0.0	3330
+***************************TEST:r381-nad1_fragment_1*****************r381 Ma.QS.scaffolds 251538 252095ORF_len:558,GENE_len:387
+r381	Ma.QS.scaffolds	100.000	558	0	0	1	558	251538	252095	0.0	1106
+r381	Ma.QS.scaffolds	96.923	65	2	0	228	292	403209	403273	1.95e-26	113
+nad1_fragment_1	Ma.QS.scaffolds	100.000	387	0	0	1	387	251848	252234	0.0	767
+nad1_fragment_1	Ma.QS.scaffolds	97.826	46	1	0	338	383	213994	213949	1.19e-17	83.8
+***************************TEST:f923-cox2_fragment_1*****************f923 Ma.QS.scaffolds 454125 454421ORF_len:297,GENE_len:702
+f923	Ma.QS.scaffolds	100.000	297	0	0	1	297	454125	454421	6.10e-170	589
+f923	Ma.QS.scaffolds	100.000	49	0	0	249	297	383749	383701	6.01e-22	97.6
+f923	Ma.QS.scaffolds	100.000	44	0	0	249	292	464651	464694	5.79e-19	87.7
+f923	Ma.QS.scaffolds	92.105	38	3	0	171	208	90487	90524	3.19e-08	52.0
+cox2_fragment_1	Ma.QS.scaffolds	100.000	702	0	0	1	702	454297	453596	0.0	1392
+cox2_fragment_1	Ma.QS.scaffolds	97.647	85	2	0	618	702	308055	308139	2.86e-38	153
+cox2_fragment_1	Ma.QS.scaffolds	89.744	39	4	0	151	189	213719	213681	4.79e-06	46.1
+***************************TEST:r714-nad7_fragment_4*****************r714 Ma.QS.scaffolds 370334 370975ORF_len:642,GENE_len:243
+r714	Ma.QS.scaffolds	100.000	642	0	0	1	642	370334	370975	0.0	1273
+nad7_fragment_4	Ma.QS.scaffolds	100.000	243	0	0	1	243	370784	371026	8.32e-138	482

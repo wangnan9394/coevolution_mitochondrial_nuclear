@@ -1,0 +1,762 @@
+***************************TEST:f556-rps7*****************f556 Ma.JZMJ.scaffolds 318697 319320ORF_len:624,GENE_len:465
+f556	Ma.JZMJ.scaffolds	100.000	624	0	0	1	624	318697	319320	0.0	1237
+rps7	Ma.JZMJ.scaffolds	99.785	465	1	0	1	465	318853	319317	0.0	914
+***************************TEST:f247-nad4_fragment_2*****************f247 Ma.JZMJ.scaffolds 200751 201017ORF_len:267,GENE_len:936
+f247	Ma.JZMJ.scaffolds	100.000	267	0	0	1	267	200751	201017	4.42e-152	529
+nad4_fragment_2	Ma.JZMJ.scaffolds	100.000	936	0	0	1	936	200566	201501	0.0	1855
+***************************TEST:r141-cox3*****************r141 Ma.JZMJ.scaffolds 15255 16328ORF_len:1074,GENE_len:795
+r141	Ma.JZMJ.scaffolds	100.000	1074	0	0	1	1074	15255	16328	0.0	2129
+cox3	Ma.JZMJ.scaffolds	100.000	795	0	0	1	795	16184	15390	0.0	1576
+***************************TEST:r87-nad1_fragment_2*****************r87 Ma.JZMJ.scaffolds 134343 134615ORF_len:273,GENE_len:78
+r87	Ma.JZMJ.scaffolds	100.000	273	0	0	1	273	134343	134615	1.19e-155	541
+nad1_fragment_2	Ma.JZMJ.scaffolds	100.000	78	0	0	1	78	134569	134492	6.93e-40	155
+***************************TEST:r596-nad1_fragment_5*****************r596 Ma.JZMJ.scaffolds 334956 335264ORF_len:309,GENE_len:255
+r596	Ma.JZMJ.scaffolds	100.000	309	0	0	1	309	334956	335264	4.46e-177	613
+r596	Ma.JZMJ.scaffolds	92.857	42	3	0	119	160	200483	200442	1.39e-10	60.0
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	255	0	0	1	255	335001	334747	6.10e-145	505
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	45	0	0	174	218	131576	131532	1.27e-19	89.7
+nad1_fragment_5	Ma.JZMJ.scaffolds	96.667	30	1	0	75	104	297839	297868	2.76e-08	52.0
+***************************TEST:r130-rps3*****************r130 Ma.JZMJ.scaffolds 150170 150481ORF_len:312,GENE_len:1680
+r130	Ma.JZMJ.scaffolds	100.000	312	0	0	1	312	150170	150481	7.29e-179	618
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:r593-nad5_fragment_1*****************r593 Ma.JZMJ.scaffolds 334514 334885ORF_len:372,GENE_len:237
+r593	Ma.JZMJ.scaffolds	100.000	372	0	0	1	372	334514	334885	0.0	737
+r593	Ma.JZMJ.scaffolds	100.000	213	0	0	1	213	479840	479628	1.05e-119	422
+r593	Ma.JZMJ.scaffolds	100.000	45	0	0	271	315	131532	131576	1.88e-19	89.7
+r593	Ma.JZMJ.scaffolds	94.737	38	2	0	151	188	131501	131538	1.68e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:f154-nad6*****************f154 Ma.JZMJ.scaffolds 164792 165463ORF_len:672,GENE_len:639
+f154	Ma.JZMJ.scaffolds	100.000	672	0	0	1	672	164792	165463	0.0	1332
+nad6	Ma.JZMJ.scaffolds	100.000	639	0	0	1	639	164810	165448	0.0	1267
+***************************TEST:f1257-nad7_fragment_1*****************f1257 Ma.JZMJ.scaffolds 93132 93392ORF_len:261,GENE_len:162
+f1257	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	93132	93392	1.64e-148	517
+nad7_fragment_1	Ma.JZMJ.scaffolds	100.000	162	0	0	1	162	93399	93238	1.19e-89	321
+***************************TEST:r458-sdh3*****************r458 Ma.JZMJ.scaffolds 284094 284345ORF_len:252,GENE_len:291
+r458	Ma.JZMJ.scaffolds	100.000	252	0	0	1	252	284094	284345	3.72e-143	500
+r458	Ma.JZMJ.scaffolds	98.824	85	1	0	104	188	17362	17278	4.11e-41	161
+r458	Ma.JZMJ.scaffolds	98.824	85	1	0	104	188	254966	254882	4.11e-41	161
+r458	Ma.JZMJ.scaffolds	100.000	23	0	0	194	216	117586	117564	1.68e-06	46.1
+sdh3	Ma.JZMJ.scaffolds	100.000	291	0	0	1	291	284308	284598	2.31e-166	577
+***************************TEST:r541-ccmFn*****************r541 Ma.JZMJ.scaffolds 31449 33539ORF_len:2091,GENE_len:1728
+r541	Ma.JZMJ.scaffolds	100.000	1717	0	0	1	1717	31449	33165	0.0	3404
+r541	Ma.JZMJ.scaffolds	100.000	274	0	0	1818	2091	33266	33539	2.41e-155	543
+r541	Ma.JZMJ.scaffolds	97.326	187	5	0	1818	2004	10230	10044	1.72e-91	331
+r541	Ma.JZMJ.scaffolds	100.000	46	0	0	2046	2091	292206	292161	2.76e-19	91.7
+r541	Ma.JZMJ.scaffolds	97.826	46	1	0	2046	2091	159554	159509	6.73e-17	83.8
+r541	Ma.JZMJ.scaffolds	100.000	29	0	0	2063	2091	120219	120247	3.85e-09	58.0
+ccmFn	Ma.JZMJ.scaffolds	100.000	1728	0	0	1	1728	33164	31437	0.0	3426
+***************************TEST:r127-sdh4*****************r127 Ma.JZMJ.scaffolds 14920 15525ORF_len:606,GENE_len:393
+r127	Ma.JZMJ.scaffolds	100.000	606	0	0	1	606	14920	15525	0.0	1201
+r127	Ma.JZMJ.scaffolds	94.595	37	2	0	25	61	450672	450708	1.10e-09	58.0
+r127	Ma.JZMJ.scaffolds	100.000	25	0	0	93	117	458955	458979	2.68e-07	50.1
+sdh4	Ma.JZMJ.scaffolds	100.000	393	0	0	1	393	15459	15067	0.0	779
+***************************TEST:f77-nad1_fragment_3*****************f77 Ma.JZMJ.scaffolds 132936 133271ORF_len:336,GENE_len:195
+f77	Ma.JZMJ.scaffolds	100.000	336	0	0	1	336	132936	133271	0.0	666
+f77	Ma.JZMJ.scaffolds	100.000	49	0	0	103	151	286650	286602	6.94e-22	97.6
+nad1_fragment_3	Ma.JZMJ.scaffolds	100.000	195	0	0	1	195	133026	132832	2.94e-109	387
+***************************TEST:r552-rps7*****************r552 Ma.JZMJ.scaffolds 318977 319321ORF_len:345,GENE_len:465
+r552	Ma.JZMJ.scaffolds	100.000	345	0	0	1	345	318977	319321	0.0	684
+rps7	Ma.JZMJ.scaffolds	99.785	465	1	0	1	465	318853	319317	0.0	914
+***************************TEST:r953-atp9*****************r953 Ma.JZMJ.scaffolds 478959 479387ORF_len:429,GENE_len:243
+r953	Ma.JZMJ.scaffolds	100.000	429	0	0	1	429	478959	479387	0.0	850
+r953	Ma.JZMJ.scaffolds	98.077	52	1	0	169	220	360546	360597	3.53e-21	95.6
+r953	Ma.JZMJ.scaffolds	94.595	37	2	0	239	275	19348	19312	7.70e-10	58.0
+atp9	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	479260	479502	8.44e-138	482
+atp9	Ma.JZMJ.scaffolds	100.000	22	0	0	193	214	27698	27677	6.42e-06	44.1
+***************************TEST:r1175-nad7_fragment_5*****************r1175 Ma.JZMJ.scaffolds 86906 87208ORF_len:303,GENE_len:261
+r1175	Ma.JZMJ.scaffolds	100.000	303	0	0	1	303	86906	87208	1.66e-173	601
+nad7_fragment_5	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	87169	86909	1.64e-148	517
+***************************TEST:r1195-nad7_fragment_1*****************r1195 Ma.JZMJ.scaffolds 93147 93371ORF_len:225,GENE_len:162
+r1195	Ma.JZMJ.scaffolds	100.000	225	0	0	1	225	93147	93371	4.29e-127	446
+nad7_fragment_1	Ma.JZMJ.scaffolds	100.000	162	0	0	1	162	93399	93238	1.19e-89	321
+***************************TEST:r132-rps3*****************r132 Ma.JZMJ.scaffolds 150237 150542ORF_len:306,GENE_len:1680
+r132	Ma.JZMJ.scaffolds	100.000	306	0	0	1	306	150237	150542	2.72e-175	607
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:r1140-nad9*****************r1140 Ma.JZMJ.scaffolds 75609 76187ORF_len:579,GENE_len:573
+r1140	Ma.JZMJ.scaffolds	100.000	579	0	0	1	579	75609	76187	0.0	1148
+nad9	Ma.JZMJ.scaffolds	100.000	573	0	0	1	573	76181	75609	0.0	1136
+***************************TEST:f574-ccmFn*****************f574 Ma.JZMJ.scaffolds 32666 32956ORF_len:291,GENE_len:1728
+f574	Ma.JZMJ.scaffolds	100.000	291	0	0	1	291	32666	32956	2.31e-166	577
+ccmFn	Ma.JZMJ.scaffolds	100.000	1728	0	0	1	1728	33164	31437	0.0	3426
+***************************TEST:f1265-matR*****************f1265 Ma.JZMJ.scaffolds 95808 96164ORF_len:357,GENE_len:1983
+f1265	Ma.JZMJ.scaffolds	100.000	357	0	0	1	357	95808	96164	0.0	708
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:f1216-rps1*****************f1216 Ma.JZMJ.scaffolds 81111 81572ORF_len:462,GENE_len:612
+f1216	Ma.JZMJ.scaffolds	100.000	462	0	0	1	462	81111	81572	0.0	916
+f1216	Ma.JZMJ.scaffolds	94.286	35	2	0	223	257	81276	81310	1.30e-08	54.0
+f1216	Ma.JZMJ.scaffolds	94.286	35	2	0	166	200	81333	81367	1.30e-08	54.0
+f1216	Ma.JZMJ.scaffolds	96.429	28	1	0	240	267	81221	81248	8.01e-07	48.1
+f1216	Ma.JZMJ.scaffolds	96.429	28	1	0	111	138	81350	81377	8.01e-07	48.1
+rps1	Ma.JZMJ.scaffolds	100.000	612	0	0	1	612	81580	80969	0.0	1213
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	214	248	81310	81276	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	271	305	81367	81333	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	204	231	81248	81221	1.07e-06	48.1
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	333	360	81377	81350	1.07e-06	48.1
+***************************TEST:r379-atp8*****************r379 Ma.JZMJ.scaffolds 254262 255044ORF_len:783,GENE_len:477
+r379	Ma.JZMJ.scaffolds	100.000	783	0	0	1	783	254262	255044	0.0	1552
+r379	Ma.JZMJ.scaffolds	100.000	185	0	0	554	738	17211	17395	1.15e-102	367
+r379	Ma.JZMJ.scaffolds	98.824	85	1	0	621	705	284281	284197	1.33e-40	161
+r379	Ma.JZMJ.scaffolds	89.744	39	4	0	520	558	461771	461809	5.43e-06	46.1
+atp8	Ma.JZMJ.scaffolds	100.000	477	0	0	1	477	17287	16811	0.0	946
+atp8	Ma.JZMJ.scaffolds	100.000	77	0	0	1	77	254891	254815	1.95e-38	153
+***************************TEST:r751-nad4L*****************r751 Ma.JZMJ.scaffolds 390974 391318ORF_len:345,GENE_len:300
+r751	Ma.JZMJ.scaffolds	100.000	345	0	0	1	345	390974	391318	0.0	684
+r751	Ma.JZMJ.scaffolds	100.000	31	0	0	1	31	390673	390703	3.93e-11	61.9
+r751	Ma.JZMJ.scaffolds	100.000	29	0	0	14	42	390225	390253	6.14e-10	58.0
+nad4L	Ma.JZMJ.scaffolds	100.000	300	0	0	1	300	391026	391325	1.01e-171	595
+***************************TEST:f1267-matR*****************f1267 Ma.JZMJ.scaffolds 96465 96803ORF_len:339,GENE_len:1983
+f1267	Ma.JZMJ.scaffolds	100.000	339	0	0	1	339	96465	96803	0.0	672
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:r960-atp1*****************r960 Ma.JZMJ.scaffolds 480937 481395ORF_len:459,GENE_len:1521
+r960	Ma.JZMJ.scaffolds	100.000	459	0	0	1	459	480937	481395	0.0	910
+atp1	Ma.JZMJ.scaffolds	100.000	1521	0	0	1	1521	480809	482329	0.0	3015
+***************************TEST:r1193-nad7_fragment_2*****************r1193 Ma.JZMJ.scaffolds 92344 92574ORF_len:231,GENE_len:108
+r1193	Ma.JZMJ.scaffolds	100.000	231	0	0	1	231	92344	92574	1.16e-130	458
+nad7_fragment_2	Ma.JZMJ.scaffolds	100.000	108	0	0	1	108	92401	92294	1.27e-57	214
+***************************TEST:f1007-nad5_fragment_1*****************f1007 Ma.JZMJ.scaffolds 479633 480736ORF_len:1104,GENE_len:237
+f1007	Ma.JZMJ.scaffolds	100.000	1104	0	0	1	1104	479633	480736	0.0	2189
+f1007	Ma.JZMJ.scaffolds	100.000	241	0	0	1	241	334721	334481	6.24e-136	478
+f1007	Ma.JZMJ.scaffolds	98.361	61	1	0	309	369	31184	31124	3.95e-26	113
+f1007	Ma.JZMJ.scaffolds	97.826	46	1	0	243	288	480751	480796	3.53e-17	83.8
+f1007	Ma.JZMJ.scaffolds	100.000	33	0	0	209	241	19135	19103	8.29e-12	65.9
+f1007	Ma.JZMJ.scaffolds	94.737	38	2	0	21	58	131538	131501	5.11e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:f343-nad5_fragment_3*****************f343 Ma.JZMJ.scaffolds 238899 239132ORF_len:234,GENE_len:396
+f343	Ma.JZMJ.scaffolds	100.000	234	0	0	1	234	238899	239132	1.90e-132	464
+nad5_fragment_3	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:r50-rps10_fragment_1*****************r50 Ma.JZMJ.scaffolds 119925 120323ORF_len:399,GENE_len:210
+r50	Ma.JZMJ.scaffolds	100.000	399	0	0	1	399	119925	120323	0.0	791
+r50	Ma.JZMJ.scaffolds	100.000	56	0	0	295	350	33511	33566	5.52e-26	111
+r50	Ma.JZMJ.scaffolds	100.000	56	0	0	295	350	159537	159482	5.52e-26	111
+r50	Ma.JZMJ.scaffolds	100.000	56	0	0	295	350	292189	292134	5.52e-26	111
+rps10_fragment_1	Ma.JZMJ.scaffolds	100.000	210	0	0	1	210	120185	119976	3.56e-118	416
+***************************TEST:r152-rpl5*****************r152 Ma.JZMJ.scaffolds 159609 159836ORF_len:228,GENE_len:552
+r152	Ma.JZMJ.scaffolds	100.000	228	0	0	1	228	159609	159836	7.05e-129	452
+rpl5	Ma.JZMJ.scaffolds	100.000	552	0	0	1	552	159579	160130	0.0	1094
+***************************TEST:r1019-ccmFc_fragment_2*****************r1019 Ma.JZMJ.scaffolds 500680 501075ORF_len:396,GENE_len:549
+r1019	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	500680	501075	0.0	785
+ccmFc_fragment_2	Ma.JZMJ.scaffolds	100.000	549	0	0	1	549	500936	501484	0.0	1088
+***************************TEST:f466-nad2_fragment_2*****************f466 Ma.JZMJ.scaffolds 286587 287087ORF_len:501,GENE_len:351
+f466	Ma.JZMJ.scaffolds	100.000	501	0	0	1	501	286587	287087	0.0	993
+f466	Ma.JZMJ.scaffolds	100.000	49	0	0	16	64	133086	133038	1.05e-21	97.6
+nad2_fragment_2	Ma.JZMJ.scaffolds	100.000	351	0	0	1	351	286707	287057	0.0	696
+***************************TEST:f76-nad1_fragment_3*****************f76 Ma.JZMJ.scaffolds 132920 133237ORF_len:318,GENE_len:195
+f76	Ma.JZMJ.scaffolds	100.000	318	0	0	1	318	132920	133237	0.0	630
+f76	Ma.JZMJ.scaffolds	100.000	49	0	0	119	167	286650	286602	6.55e-22	97.6
+nad1_fragment_3	Ma.JZMJ.scaffolds	100.000	195	0	0	1	195	133026	132832	2.94e-109	387
+***************************TEST:r1182-nad7_fragment_4*****************r1182 Ma.JZMJ.scaffolds 89053 89400ORF_len:348,GENE_len:243
+r1182	Ma.JZMJ.scaffolds	100.000	348	0	0	1	348	89053	89400	0.0	690
+nad7_fragment_4	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	89210	88968	8.44e-138	482
+***************************TEST:f127-rps3*****************f127 Ma.JZMJ.scaffolds 150148 150534ORF_len:387,GENE_len:1680
+f127	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	150148	150534	0.0	767
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:f129-rpl16*****************f129 Ma.JZMJ.scaffolds 151582 152139ORF_len:558,GENE_len:555
+f129	Ma.JZMJ.scaffolds	100.000	558	0	0	1	558	151582	152139	0.0	1106
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:f85-rps4*****************f85 Ma.JZMJ.scaffolds 134624 135436ORF_len:813,GENE_len:1044
+f85	Ma.JZMJ.scaffolds	100.000	813	0	0	1	813	134624	135436	0.0	1612
+f85	Ma.JZMJ.scaffolds	100.000	88	0	0	726	813	163373	163286	9.18e-45	174
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f1137-ccmC*****************f1137 Ma.JZMJ.scaffolds 524280 525083ORF_len:804,GENE_len:750
+f1137	Ma.JZMJ.scaffolds	100.000	804	0	0	1	804	524280	525083	0.0	1594
+ccmC	Ma.JZMJ.scaffolds	100.000	750	0	0	1	750	524280	525029	0.0	1487
+***************************TEST:r82-nad1_fragment_3*****************r82 Ma.JZMJ.scaffolds 132730 133233ORF_len:504,GENE_len:195
+r82	Ma.JZMJ.scaffolds	100.000	504	0	0	1	504	132730	133233	0.0	999
+r82	Ma.JZMJ.scaffolds	100.000	49	0	0	309	357	286650	286602	1.06e-21	97.6
+nad1_fragment_3	Ma.JZMJ.scaffolds	100.000	195	0	0	1	195	133026	132832	2.94e-109	387
+***************************TEST:r1205-nad1_fragment_4*****************r1205 Ma.JZMJ.scaffolds 97096 97326ORF_len:231,GENE_len:60
+r1205	Ma.JZMJ.scaffolds	100.000	231	0	0	1	231	97096	97326	1.16e-130	458
+nad1_fragment_4	Ma.JZMJ.scaffolds	100.000	60	0	0	1	60	97229	97170	2.82e-29	119
+***************************TEST:f770-atp4*****************f770 Ma.JZMJ.scaffolds 391331 391606ORF_len:276,GENE_len:588
+f770	Ma.JZMJ.scaffolds	100.000	276	0	0	1	276	391331	391606	1.95e-157	547
+atp4	Ma.JZMJ.scaffolds	100.000	588	0	0	1	588	391534	392121	0.0	1166
+***************************TEST:r337-nad5_fragment_4*****************r337 Ma.JZMJ.scaffolds 238513 239043ORF_len:531,GENE_len:396
+r337	Ma.JZMJ.scaffolds	100.000	531	0	0	1	531	238513	239043	0.0	1053
+nad5_fragment_4	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:f1004-atp9*****************f1004 Ma.JZMJ.scaffolds 479011 479550ORF_len:540,GENE_len:243
+f1004	Ma.JZMJ.scaffolds	100.000	540	0	0	1	540	479011	479550	0.0	1070
+f1004	Ma.JZMJ.scaffolds	98.077	52	1	0	117	168	360546	360597	4.48e-21	95.6
+f1004	Ma.JZMJ.scaffolds	94.595	37	2	0	187	223	19348	19312	9.76e-10	58.0
+atp9	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	479260	479502	8.44e-138	482
+atp9	Ma.JZMJ.scaffolds	100.000	22	0	0	193	214	27698	27677	6.42e-06	44.1
+***************************TEST:r47-cox1*****************r47 Ma.JZMJ.scaffolds 118747 119088ORF_len:342,GENE_len:1578
+r47	Ma.JZMJ.scaffolds	100.000	342	0	0	1	342	118747	119088	0.0	678
+cox1	Ma.JZMJ.scaffolds	100.000	1578	0	0	1	1578	118795	117218	0.0	3128
+***************************TEST:f430-rps12*****************f430 Ma.JZMJ.scaffolds 272645 272971ORF_len:327,GENE_len:375
+f430	Ma.JZMJ.scaffolds	100.000	327	0	0	1	327	272645	272971	0.0	648
+rps12	Ma.JZMJ.scaffolds	100.000	375	0	0	1	375	272937	273311	0.0	743
+***************************TEST:r377-mttB*****************r377 Ma.JZMJ.scaffolds 253054 254010ORF_len:957,GENE_len:780
+r377	Ma.JZMJ.scaffolds	100.000	957	0	0	1	957	253054	254010	0.0	1897
+r377	Ma.JZMJ.scaffolds	98.246	57	1	0	802	858	482570	482514	8.33e-24	105
+mttB	Ma.JZMJ.scaffolds	100.000	780	0	0	1	780	253860	253081	0.0	1546
+***************************TEST:f503-cob*****************f503 Ma.JZMJ.scaffolds 302260 303492ORF_len:1233,GENE_len:1191
+f503	Ma.JZMJ.scaffolds	100.000	1233	0	0	1	1233	302260	303492	0.0	2444
+cob	Ma.JZMJ.scaffolds	100.000	1191	0	0	1	1191	302260	303450	0.0	2361
+***************************TEST:f1002-atp9*****************f1002 Ma.JZMJ.scaffolds 478901 479299ORF_len:399,GENE_len:243
+f1002	Ma.JZMJ.scaffolds	100.000	399	0	0	1	399	478901	479299	0.0	791
+f1002	Ma.JZMJ.scaffolds	98.077	52	1	0	227	278	360546	360597	3.28e-21	95.6
+f1002	Ma.JZMJ.scaffolds	94.595	37	2	0	297	333	19348	19312	7.14e-10	58.0
+atp9	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	479260	479502	8.44e-138	482
+atp9	Ma.JZMJ.scaffolds	100.000	22	0	0	193	214	27698	27677	6.42e-06	44.1
+***************************TEST:f36-cox1*****************f36 Ma.JZMJ.scaffolds 117972 118403ORF_len:432,GENE_len:1578
+f36	Ma.JZMJ.scaffolds	100.000	432	0	0	1	432	117972	118403	0.0	856
+cox1	Ma.JZMJ.scaffolds	100.000	1578	0	0	1	1578	118795	117218	0.0	3128
+***************************TEST:r44-cox1*****************r44 Ma.JZMJ.scaffolds 117212 118795ORF_len:1584,GENE_len:1578
+r44	Ma.JZMJ.scaffolds	100.000	1584	0	0	1	1584	117212	118795	0.0	3140
+cox1	Ma.JZMJ.scaffolds	100.000	1578	0	0	1	1578	118795	117218	0.0	3128
+***************************TEST:r595-nad1_fragment_5*****************r595 Ma.JZMJ.scaffolds 334913 335233ORF_len:321,GENE_len:255
+r595	Ma.JZMJ.scaffolds	100.000	321	0	0	1	321	334913	335233	0.0	636
+r595	Ma.JZMJ.scaffolds	92.857	42	3	0	162	203	200483	200442	1.44e-10	60.0
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	255	0	0	1	255	335001	334747	6.10e-145	505
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	45	0	0	174	218	131576	131532	1.27e-19	89.7
+nad1_fragment_5	Ma.JZMJ.scaffolds	96.667	30	1	0	75	104	297839	297868	2.76e-08	52.0
+***************************TEST:f150-rps4*****************f150 Ma.JZMJ.scaffolds 163026 164180ORF_len:1155,GENE_len:1044
+f150	Ma.JZMJ.scaffolds	100.000	1155	0	0	1	1155	163026	164180	0.0	2290
+f150	Ma.JZMJ.scaffolds	100.000	348	0	0	1	348	135696	135349	0.0	690
+f150	Ma.JZMJ.scaffolds	100.000	24	0	0	113	136	164386	164363	2.04e-06	48.1
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f1244-nad7_fragment_4*****************f1244 Ma.JZMJ.scaffolds 89060 89440ORF_len:381,GENE_len:243
+f1244	Ma.JZMJ.scaffolds	100.000	381	0	0	1	381	89060	89440	0.0	755
+nad7_fragment_4	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	89210	88968	8.44e-138	482
+***************************TEST:r504-cob*****************r504 Ma.JZMJ.scaffolds 302592 302933ORF_len:342,GENE_len:1191
+r504	Ma.JZMJ.scaffolds	100.000	342	0	0	1	342	302592	302933	0.0	678
+cob	Ma.JZMJ.scaffolds	100.000	1191	0	0	1	1191	302260	303450	0.0	2361
+***************************TEST:f43-rps10_fragment_1*****************f43 Ma.JZMJ.scaffolds 119531 120532ORF_len:1002,GENE_len:210
+f43	Ma.JZMJ.scaffolds	100.000	1002	0	0	1	1002	119531	120532	0.0	1986
+f43	Ma.JZMJ.scaffolds	100.000	56	0	0	689	744	159537	159482	1.41e-25	111
+f43	Ma.JZMJ.scaffolds	100.000	56	0	0	689	744	292189	292134	1.41e-25	111
+f43	Ma.JZMJ.scaffolds	100.000	56	0	0	689	744	33511	33566	1.41e-25	111
+rps10_fragment_1	Ma.JZMJ.scaffolds	100.000	210	0	0	1	210	120185	119976	3.56e-118	416
+***************************TEST:r138-rpl16*****************r138 Ma.JZMJ.scaffolds 151708 152034ORF_len:327,GENE_len:555
+r138	Ma.JZMJ.scaffolds	100.000	327	0	0	1	327	151708	152034	0.0	648
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:r482-nad1_fragment_1*****************r482 Ma.JZMJ.scaffolds 292712 292993ORF_len:282,GENE_len:387
+r482	Ma.JZMJ.scaffolds	100.000	282	0	0	1	282	292712	292993	5.24e-161	559
+r482	Ma.JZMJ.scaffolds	96.923	65	2	0	154	218	56785	56721	9.72e-27	113
+nad1_fragment_1	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	292948	293334	0.0	767
+nad1_fragment_1	Ma.JZMJ.scaffolds	97.826	46	1	0	338	383	255094	255049	1.21e-17	83.8
+***************************TEST:f593-nad5_fragment_2*****************f593 Ma.JZMJ.scaffolds 333426 333881ORF_len:456,GENE_len:1203
+f593	Ma.JZMJ.scaffolds	100.000	456	0	0	1	456	333426	333881	0.0	904
+nad5_fragment_2	Ma.JZMJ.scaffolds	100.000	1203	0	0	1	1203	333460	332258	0.0	2385
+***************************TEST:r166-atp8*****************r166 Ma.JZMJ.scaffolds 16586 17680ORF_len:1095,GENE_len:477
+r166	Ma.JZMJ.scaffolds	100.000	1095	0	0	1	1095	16586	17680	0.0	2171
+r166	Ma.JZMJ.scaffolds	100.000	185	0	0	626	810	254815	254999	1.62e-102	367
+r166	Ma.JZMJ.scaffolds	98.824	85	1	0	693	777	284281	284197	1.87e-40	161
+atp8	Ma.JZMJ.scaffolds	100.000	477	0	0	1	477	17287	16811	0.0	946
+atp8	Ma.JZMJ.scaffolds	100.000	77	0	0	1	77	254891	254815	1.95e-38	153
+***************************TEST:f484-nad1_fragment_1*****************f484 Ma.JZMJ.scaffolds 292954 293337ORF_len:384,GENE_len:387
+f484	Ma.JZMJ.scaffolds	100.000	384	0	0	1	384	292954	293337	0.0	761
+f484	Ma.JZMJ.scaffolds	97.826	46	1	0	332	377	255094	255049	1.20e-17	83.8
+nad1_fragment_1	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	292948	293334	0.0	767
+nad1_fragment_1	Ma.JZMJ.scaffolds	97.826	46	1	0	338	383	255094	255049	1.21e-17	83.8
+***************************TEST:f1136-ccmC*****************f1136 Ma.JZMJ.scaffolds 524237 524821ORF_len:585,GENE_len:750
+f1136	Ma.JZMJ.scaffolds	100.000	585	0	0	1	585	524237	524821	0.0	1160
+ccmC	Ma.JZMJ.scaffolds	100.000	750	0	0	1	750	524280	525029	0.0	1487
+***************************TEST:f598-nad5_fragment_1*****************f598 Ma.JZMJ.scaffolds 334414 334743ORF_len:330,GENE_len:237
+f598	Ma.JZMJ.scaffolds	100.000	330	0	0	1	330	334414	334743	0.0	654
+f598	Ma.JZMJ.scaffolds	100.000	246	0	0	68	313	479873	479628	1.88e-139	488
+f598	Ma.JZMJ.scaffolds	100.000	58	0	0	43	100	19078	19135	2.90e-27	115
+f598	Ma.JZMJ.scaffolds	94.737	38	2	0	251	288	131501	131538	1.48e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:r133-rps3*****************r133 Ma.JZMJ.scaffolds 150712 151023ORF_len:312,GENE_len:1680
+r133	Ma.JZMJ.scaffolds	100.000	312	0	0	1	312	150712	151023	7.29e-179	618
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:r430-rps12*****************r430 Ma.JZMJ.scaffolds 272852 273124ORF_len:273,GENE_len:375
+r430	Ma.JZMJ.scaffolds	100.000	273	0	0	1	273	272852	273124	1.19e-155	541
+rps12	Ma.JZMJ.scaffolds	100.000	375	0	0	1	375	272937	273311	0.0	743
+***************************TEST:f1258-nad7_fragment_1*****************f1258 Ma.JZMJ.scaffolds 93248 93496ORF_len:249,GENE_len:162
+f1258	Ma.JZMJ.scaffolds	100.000	249	0	0	1	249	93248	93496	2.27e-141	494
+nad7_fragment_1	Ma.JZMJ.scaffolds	100.000	162	0	0	1	162	93399	93238	1.19e-89	321
+***************************TEST:r754-atp4*****************r754 Ma.JZMJ.scaffolds 391626 392273ORF_len:648,GENE_len:588
+r754	Ma.JZMJ.scaffolds	100.000	648	0	0	1	648	391626	392273	0.0	1285
+atp4	Ma.JZMJ.scaffolds	100.000	588	0	0	1	588	391534	392121	0.0	1166
+***************************TEST:r1200-matR*****************r1200 Ma.JZMJ.scaffolds 95298 95603ORF_len:306,GENE_len:1983
+r1200	Ma.JZMJ.scaffolds	100.000	306	0	0	1	306	95298	95603	2.72e-175	607
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:r338-nad5_fragment_4*****************r338 Ma.JZMJ.scaffolds 238868 239128ORF_len:261,GENE_len:396
+r338	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	238868	239128	1.64e-148	517
+nad5_fragment_4	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:r136-rpl16*****************r136 Ma.JZMJ.scaffolds 151388 151618ORF_len:231,GENE_len:555
+r136	Ma.JZMJ.scaffolds	100.000	231	0	0	1	231	151388	151618	1.16e-130	458
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:f246-nad4_fragment_2*****************f246 Ma.JZMJ.scaffolds 200566 201666ORF_len:1101,GENE_len:936
+f246	Ma.JZMJ.scaffolds	100.000	1101	0	0	1	1101	200566	201666	0.0	2183
+nad4_fragment_2	Ma.JZMJ.scaffolds	100.000	936	0	0	1	936	200566	201501	0.0	1855
+***************************TEST:f482-rpl10*****************f482 Ma.JZMJ.scaffolds 292222 292719ORF_len:498,GENE_len:486
+f482	Ma.JZMJ.scaffolds	100.000	498	0	0	1	498	292222	292719	0.0	987
+rpl10	Ma.JZMJ.scaffolds	100.000	486	0	0	1	486	292231	292716	0.0	963
+***************************TEST:r153-rps14_fragment_1*****************r153 Ma.JZMJ.scaffolds 159698 160174ORF_len:477,GENE_len:87
+r153	Ma.JZMJ.scaffolds	100.000	477	0	0	1	477	159698	160174	0.0	946
+rps14_fragment_1	Ma.JZMJ.scaffolds	100.000	87	0	0	1	87	160135	160221	3.36e-45	172
+***************************TEST:f647-ccmB*****************f647 Ma.JZMJ.scaffolds 348181 349149ORF_len:969,GENE_len:630
+f647	Ma.JZMJ.scaffolds	100.000	969	0	0	1	969	348181	349149	0.0	1921
+ccmB	Ma.JZMJ.scaffolds	100.000	630	0	0	1	630	348181	348810	0.0	1249
+***************************TEST:f1005-nad5_fragment_1*****************f1005 Ma.JZMJ.scaffolds 479547 479840ORF_len:294,GENE_len:237
+f1005	Ma.JZMJ.scaffolds	100.000	294	0	0	1	294	479547	479840	3.78e-168	583
+f1005	Ma.JZMJ.scaffolds	100.000	213	0	0	82	294	334726	334514	8.20e-120	422
+f1005	Ma.JZMJ.scaffolds	94.737	38	2	0	107	144	131538	131501	1.31e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:r160-rps4*****************r160 Ma.JZMJ.scaffolds 163601 163939ORF_len:339,GENE_len:1044
+r160	Ma.JZMJ.scaffolds	100.000	339	0	0	1	339	163601	163939	0.0	672
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f483-nad1_fragment_1*****************f483 Ma.JZMJ.scaffolds 292716 293033ORF_len:318,GENE_len:387
+f483	Ma.JZMJ.scaffolds	100.000	318	0	0	1	318	292716	293033	0.0	630
+f483	Ma.JZMJ.scaffolds	96.923	65	2	0	150	214	56785	56721	1.10e-26	113
+nad1_fragment_1	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	292948	293334	0.0	767
+nad1_fragment_1	Ma.JZMJ.scaffolds	97.826	46	1	0	338	383	255094	255049	1.21e-17	83.8
+***************************TEST:r139-rpl16*****************r139 Ma.JZMJ.scaffolds 151815 152606ORF_len:792,GENE_len:555
+r139	Ma.JZMJ.scaffolds	100.000	792	0	0	1	792	151815	152606	0.0	1570
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:r153-rpl5*****************r153 Ma.JZMJ.scaffolds 159698 160174ORF_len:477,GENE_len:552
+r153	Ma.JZMJ.scaffolds	100.000	477	0	0	1	477	159698	160174	0.0	946
+rpl5	Ma.JZMJ.scaffolds	100.000	552	0	0	1	552	159579	160130	0.0	1094
+***************************TEST:r134-rps3*****************r134 Ma.JZMJ.scaffolds 150749 151294ORF_len:546,GENE_len:1680
+r134	Ma.JZMJ.scaffolds	100.000	546	0	0	1	546	150749	151294	0.0	1082
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:r551-rps7*****************r551 Ma.JZMJ.scaffolds 318541 318912ORF_len:372,GENE_len:465
+r551	Ma.JZMJ.scaffolds	100.000	372	0	0	1	372	318541	318912	0.0	737
+rps7	Ma.JZMJ.scaffolds	99.785	465	1	0	1	465	318853	319317	0.0	914
+***************************TEST:f1269-nad1_fragment_4*****************f1269 Ma.JZMJ.scaffolds 97148 97381ORF_len:234,GENE_len:60
+f1269	Ma.JZMJ.scaffolds	100.000	234	0	0	1	234	97148	97381	1.90e-132	464
+nad1_fragment_4	Ma.JZMJ.scaffolds	100.000	60	0	0	1	60	97229	97170	2.82e-29	119
+***************************TEST:r592-nad5_fragment_1*****************r592 Ma.JZMJ.scaffolds 334281 334739ORF_len:459,GENE_len:237
+r592	Ma.JZMJ.scaffolds	100.000	459	0	0	1	459	334281	334739	0.0	910
+r592	Ma.JZMJ.scaffolds	100.000	246	0	0	201	446	479873	479628	2.65e-139	488
+r592	Ma.JZMJ.scaffolds	100.000	58	0	0	176	233	19078	19135	4.08e-27	115
+r592	Ma.JZMJ.scaffolds	94.737	38	2	0	384	421	131501	131538	2.09e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:r464-nad2_fragment_2*****************r464 Ma.JZMJ.scaffolds 286598 286933ORF_len:336,GENE_len:351
+r464	Ma.JZMJ.scaffolds	100.000	336	0	0	1	336	286598	286933	0.0	666
+r464	Ma.JZMJ.scaffolds	100.000	49	0	0	5	53	133086	133038	6.94e-22	97.6
+nad2_fragment_2	Ma.JZMJ.scaffolds	100.000	351	0	0	1	351	286707	287057	0.0	696
+***************************TEST:r159-rps4*****************r159 Ma.JZMJ.scaffolds 163389 163691ORF_len:303,GENE_len:1044
+r159	Ma.JZMJ.scaffolds	100.000	303	0	0	1	303	163389	163691	1.66e-173	601
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f199-nad2_fragment_4*****************f199 Ma.JZMJ.scaffolds 181534 181812ORF_len:279,GENE_len:621
+f199	Ma.JZMJ.scaffolds	100.000	279	0	0	1	279	181534	181812	3.20e-159	553
+nad2_fragment_4	Ma.JZMJ.scaffolds	100.000	621	0	0	1	621	181742	182362	0.0	1231
+***************************TEST:f39-rps10_fragment_2*****************f39 Ma.JZMJ.scaffolds 118941 119207ORF_len:267,GENE_len:75
+f39	Ma.JZMJ.scaffolds	100.000	267	0	0	1	267	118941	119207	4.42e-152	529
+rps10_fragment_2	Ma.JZMJ.scaffolds	100.000	75	0	0	1	75	119107	119033	4.14e-38	149
+***************************TEST:r588-nad5_fragment_2*****************r588 Ma.JZMJ.scaffolds 332234 333472ORF_len:1239,GENE_len:1203
+r588	Ma.JZMJ.scaffolds	100.000	1239	0	0	1	1239	332234	333472	0.0	2456
+nad5_fragment_2	Ma.JZMJ.scaffolds	100.000	1203	0	0	1	1203	333460	332258	0.0	2385
+***************************TEST:r1183-nad7_fragment_4*****************r1183 Ma.JZMJ.scaffolds 89138 89926ORF_len:789,GENE_len:243
+r1183	Ma.JZMJ.scaffolds	100.000	789	0	0	1	789	89138	89926	0.0	1564
+nad7_fragment_4	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	89210	88968	8.44e-138	482
+***************************TEST:f145-rpl5*****************f145 Ma.JZMJ.scaffolds 159570 160133ORF_len:564,GENE_len:552
+f145	Ma.JZMJ.scaffolds	100.000	564	0	0	1	564	159570	160133	0.0	1118
+rpl5	Ma.JZMJ.scaffolds	100.000	552	0	0	1	552	159579	160130	0.0	1094
+***************************TEST:f88-rps4*****************f88 Ma.JZMJ.scaffolds 135461 135685ORF_len:225,GENE_len:1044
+f88	Ma.JZMJ.scaffolds	100.000	225	0	0	1	225	135461	135685	4.29e-127	446
+f88	Ma.JZMJ.scaffolds	100.000	225	0	0	1	225	163261	163037	4.29e-127	446
+f88	Ma.JZMJ.scaffolds	100.000	24	0	0	101	124	164363	164386	3.79e-07	48.1
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f768-nad4L*****************f768 Ma.JZMJ.scaffolds 390694 391074ORF_len:381,GENE_len:300
+f768	Ma.JZMJ.scaffolds	100.000	381	0	0	1	381	390694	391074	0.0	755
+f768	Ma.JZMJ.scaffolds	100.000	41	0	0	271	311	390663	390703	4.70e-17	81.8
+f768	Ma.JZMJ.scaffolds	100.000	29	0	0	294	322	390225	390253	6.81e-10	58.0
+nad4L	Ma.JZMJ.scaffolds	100.000	300	0	0	1	300	391026	391325	1.01e-171	595
+***************************TEST:f37-cox1*****************f37 Ma.JZMJ.scaffolds 118736 119068ORF_len:333,GENE_len:1578
+f37	Ma.JZMJ.scaffolds	100.000	333	0	0	1	333	118736	119068	0.0	660
+cox1	Ma.JZMJ.scaffolds	100.000	1578	0	0	1	1578	118795	117218	0.0	3128
+***************************TEST:f243-nad4_fragment_1*****************f243 Ma.JZMJ.scaffolds 198649 199302ORF_len:654,GENE_len:459
+f243	Ma.JZMJ.scaffolds	100.000	654	0	0	1	654	198649	199302	0.0	1296
+nad4_fragment_1	Ma.JZMJ.scaffolds	100.000	459	0	0	1	459	198659	199117	0.0	910
+***************************TEST:r553-rps7*****************r553 Ma.JZMJ.scaffolds 318981 319283ORF_len:303,GENE_len:465
+r553	Ma.JZMJ.scaffolds	100.000	303	0	0	1	303	318981	319283	1.66e-173	601
+rps7	Ma.JZMJ.scaffolds	99.785	465	1	0	1	465	318853	319317	0.0	914
+***************************TEST:f138-cox3*****************f138 Ma.JZMJ.scaffolds 15724 16161ORF_len:438,GENE_len:795
+f138	Ma.JZMJ.scaffolds	100.000	438	0	0	1	438	15724	16161	0.0	868
+cox3	Ma.JZMJ.scaffolds	100.000	795	0	0	1	795	16184	15390	0.0	1576
+***************************TEST:r158-rps4*****************r158 Ma.JZMJ.scaffolds 163286 163588ORF_len:303,GENE_len:1044
+r158	Ma.JZMJ.scaffolds	100.000	303	0	0	1	303	163286	163588	1.66e-173	601
+r158	Ma.JZMJ.scaffolds	100.000	88	0	0	1	88	135436	135349	3.32e-45	174
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:r1193-nad7_fragment_3*****************r1193 Ma.JZMJ.scaffolds 92344 92574ORF_len:231,GENE_len:108
+r1193	Ma.JZMJ.scaffolds	100.000	231	0	0	1	231	92344	92574	1.16e-130	458
+nad7_fragment_3	Ma.JZMJ.scaffolds	100.000	108	0	0	1	108	92401	92294	1.27e-57	214
+***************************TEST:r480-nad1_fragment_1*****************r480 Ma.JZMJ.scaffolds 292638 293195ORF_len:558,GENE_len:387
+r480	Ma.JZMJ.scaffolds	100.000	558	0	0	1	558	292638	293195	0.0	1106
+r480	Ma.JZMJ.scaffolds	96.923	65	2	0	228	292	56785	56721	1.97e-26	113
+nad1_fragment_1	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	292948	293334	0.0	767
+nad1_fragment_1	Ma.JZMJ.scaffolds	97.826	46	1	0	338	383	255094	255049	1.21e-17	83.8
+***************************TEST:f1072-ccmFc_fragment_2*****************f1072 Ma.JZMJ.scaffolds 500606 501637ORF_len:1032,GENE_len:549
+f1072	Ma.JZMJ.scaffolds	100.000	1032	0	0	1	1032	500606	501637	0.0	2046
+ccmFc_fragment_2	Ma.JZMJ.scaffolds	100.000	549	0	0	1	549	500936	501484	0.0	1088
+***************************TEST:r1181-nad7_fragment_4*****************r1181 Ma.JZMJ.scaffolds 88932 89246ORF_len:315,GENE_len:243
+r1181	Ma.JZMJ.scaffolds	100.000	315	0	0	1	315	88932	89246	1.19e-180	624
+nad7_fragment_4	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	89210	88968	8.44e-138	482
+***************************TEST:f430-nad3*****************f430 Ma.JZMJ.scaffolds 272645 272971ORF_len:327,GENE_len:354
+f430	Ma.JZMJ.scaffolds	100.000	327	0	0	1	327	272645	272971	0.0	648
+nad3	Ma.JZMJ.scaffolds	100.000	354	0	0	1	354	272532	272885	0.0	702
+***************************TEST:r337-nad5_fragment_3*****************r337 Ma.JZMJ.scaffolds 238513 239043ORF_len:531,GENE_len:396
+r337	Ma.JZMJ.scaffolds	100.000	531	0	0	1	531	238513	239043	0.0	1053
+nad5_fragment_3	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:r163-nad6*****************r163 Ma.JZMJ.scaffolds 164725 165000ORF_len:276,GENE_len:639
+r163	Ma.JZMJ.scaffolds	100.000	276	0	0	1	276	164725	165000	1.95e-157	547
+r163	Ma.JZMJ.scaffolds	100.000	36	0	0	1	36	189958	189923	3.23e-14	71.9
+nad6	Ma.JZMJ.scaffolds	100.000	639	0	0	1	639	164810	165448	0.0	1267
+***************************TEST:r580-ccmFn*****************r580 Ma.JZMJ.scaffolds 32999 33475ORF_len:477,GENE_len:1728
+r580	Ma.JZMJ.scaffolds	100.000	210	0	0	268	477	33266	33475	8.37e-118	416
+r580	Ma.JZMJ.scaffolds	100.000	167	0	0	1	167	32999	33165	3.83e-92	331
+r580	Ma.JZMJ.scaffolds	97.326	187	5	0	268	454	10230	10044	3.83e-92	331
+ccmFn	Ma.JZMJ.scaffolds	100.000	1728	0	0	1	1728	33164	31437	0.0	3426
+***************************TEST:f557-rps7*****************f557 Ma.JZMJ.scaffolds 318960 319280ORF_len:321,GENE_len:465
+f557	Ma.JZMJ.scaffolds	100.000	321	0	0	1	321	318960	319280	0.0	636
+rps7	Ma.JZMJ.scaffolds	99.785	465	1	0	1	465	318853	319317	0.0	914
+***************************TEST:r1198-matR*****************r1198 Ma.JZMJ.scaffolds 94532 96511ORF_len:1980,GENE_len:1983
+r1198	Ma.JZMJ.scaffolds	100.000	1980	0	0	1	1980	94532	96511	0.0	3925
+r1198	Ma.JZMJ.scaffolds	100.000	26	0	0	760	785	158722	158697	2.25e-07	52.0
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:f197-nad2_fragment_4*****************f197 Ma.JZMJ.scaffolds 181410 181916ORF_len:507,GENE_len:621
+f197	Ma.JZMJ.scaffolds	100.000	507	0	0	1	507	181410	181916	0.0	1005
+nad2_fragment_4	Ma.JZMJ.scaffolds	100.000	621	0	0	1	621	181742	182362	0.0	1231
+***************************TEST:f462-sdh3*****************f462 Ma.JZMJ.scaffolds 284020 285099ORF_len:1080,GENE_len:291
+f462	Ma.JZMJ.scaffolds	100.000	1080	0	0	1	1080	284020	285099	0.0	2141
+f462	Ma.JZMJ.scaffolds	98.824	85	1	0	178	262	17362	17278	1.84e-40	161
+f462	Ma.JZMJ.scaffolds	98.824	85	1	0	178	262	254966	254882	1.84e-40	161
+f462	Ma.JZMJ.scaffolds	100.000	23	0	0	268	290	117586	117564	7.52e-06	46.1
+sdh3	Ma.JZMJ.scaffolds	100.000	291	0	0	1	291	284308	284598	2.31e-166	577
+***************************TEST:f147-rps14_fragment_1*****************f147 Ma.JZMJ.scaffolds 159959 160231ORF_len:273,GENE_len:87
+f147	Ma.JZMJ.scaffolds	100.000	273	0	0	1	273	159959	160231	1.19e-155	541
+rps14_fragment_1	Ma.JZMJ.scaffolds	100.000	87	0	0	1	87	160135	160221	3.36e-45	172
+***************************TEST:f958-cox2_fragment_1*****************f958 Ma.JZMJ.scaffolds 461787 462083ORF_len:297,GENE_len:702
+f958	Ma.JZMJ.scaffolds	100.000	297	0	0	1	297	461787	462083	6.19e-170	589
+f958	Ma.JZMJ.scaffolds	100.000	49	0	0	249	297	76245	76293	6.10e-22	97.6
+f958	Ma.JZMJ.scaffolds	100.000	44	0	0	249	292	472313	472356	5.88e-19	87.7
+f958	Ma.JZMJ.scaffolds	92.105	38	3	0	171	208	19158	19195	3.24e-08	52.0
+cox2_fragment_1	Ma.JZMJ.scaffolds	100.000	702	0	0	1	702	461959	461258	0.0	1392
+cox2_fragment_1	Ma.JZMJ.scaffolds	97.647	85	2	0	618	702	46632	46716	2.90e-38	153
+cox2_fragment_1	Ma.JZMJ.scaffolds	89.744	39	4	0	151	189	254819	254781	4.86e-06	46.1
+***************************TEST:r629-ccmB*****************r629 Ma.JZMJ.scaffolds 348423 348737ORF_len:315,GENE_len:630
+r629	Ma.JZMJ.scaffolds	100.000	315	0	0	1	315	348423	348737	1.19e-180	624
+ccmB	Ma.JZMJ.scaffolds	100.000	630	0	0	1	630	348181	348810	0.0	1249
+***************************TEST:r137-rpl16*****************r137 Ma.JZMJ.scaffolds 151542 151808ORF_len:267,GENE_len:555
+r137	Ma.JZMJ.scaffolds	100.000	267	0	0	1	267	151542	151808	4.42e-152	529
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:r47-rps10_fragment_2*****************r47 Ma.JZMJ.scaffolds 118747 119088ORF_len:342,GENE_len:75
+r47	Ma.JZMJ.scaffolds	100.000	342	0	0	1	342	118747	119088	0.0	678
+rps10_fragment_2	Ma.JZMJ.scaffolds	100.000	75	0	0	1	75	119107	119033	4.14e-38	149
+***************************TEST:r478-rpl10*****************r478 Ma.JZMJ.scaffolds 292116 292583ORF_len:468,GENE_len:486
+r478	Ma.JZMJ.scaffolds	100.000	468	0	0	1	468	292116	292583	0.0	928
+r478	Ma.JZMJ.scaffolds	99.038	104	1	0	18	121	159481	159584	3.60e-52	198
+r478	Ma.JZMJ.scaffolds	100.000	73	0	0	19	91	33566	33494	4.66e-36	145
+r478	Ma.JZMJ.scaffolds	100.000	56	0	0	19	74	120274	120219	6.51e-26	111
+rpl10	Ma.JZMJ.scaffolds	100.000	486	0	0	1	486	292231	292716	0.0	963
+***************************TEST:f84-nad1_fragment_2*****************f84 Ma.JZMJ.scaffolds 134529 134840ORF_len:312,GENE_len:78
+f84	Ma.JZMJ.scaffolds	100.000	312	0	0	1	312	134529	134840	7.29e-179	618
+nad1_fragment_2	Ma.JZMJ.scaffolds	100.000	78	0	0	1	78	134569	134492	6.93e-40	155
+***************************TEST:f1262-matR*****************f1262 Ma.JZMJ.scaffolds 94806 95600ORF_len:795,GENE_len:1983
+f1262	Ma.JZMJ.scaffolds	100.000	795	0	0	1	795	94806	95600	0.0	1576
+f1262	Ma.JZMJ.scaffolds	100.000	26	0	0	486	511	158722	158697	8.94e-08	52.0
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:f126-rps3*****************f126 Ma.JZMJ.scaffolds 150051 151733ORF_len:1683,GENE_len:1680
+f126	Ma.JZMJ.scaffolds	100.000	1683	0	0	1	1683	150051	151733	0.0	3336
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:f646-ccmB*****************f646 Ma.JZMJ.scaffolds 348044 348274ORF_len:231,GENE_len:630
+f646	Ma.JZMJ.scaffolds	100.000	231	0	0	1	231	348044	348274	1.16e-130	458
+ccmB	Ma.JZMJ.scaffolds	100.000	630	0	0	1	630	348181	348810	0.0	1249
+***************************TEST:f467-nad2_fragment_2*****************f467 Ma.JZMJ.scaffolds 286757 287137ORF_len:381,GENE_len:351
+f467	Ma.JZMJ.scaffolds	100.000	381	0	0	1	381	286757	287137	0.0	755
+nad2_fragment_2	Ma.JZMJ.scaffolds	100.000	351	0	0	1	351	286707	287057	0.0	696
+***************************TEST:f959-cox2_fragment_1*****************f959 Ma.JZMJ.scaffolds 461932 462198ORF_len:267,GENE_len:702
+f959	Ma.JZMJ.scaffolds	100.000	267	0	0	1	267	461932	462198	4.42e-152	529
+f959	Ma.JZMJ.scaffolds	100.000	145	0	0	104	248	76245	76389	2.81e-79	287
+f959	Ma.JZMJ.scaffolds	100.000	44	0	0	104	147	472313	472356	5.25e-19	87.7
+f959	Ma.JZMJ.scaffolds	92.105	38	3	0	26	63	19158	19195	2.90e-08	52.0
+cox2_fragment_1	Ma.JZMJ.scaffolds	100.000	702	0	0	1	702	461959	461258	0.0	1392
+cox2_fragment_1	Ma.JZMJ.scaffolds	97.647	85	2	0	618	702	46632	46716	2.90e-38	153
+cox2_fragment_1	Ma.JZMJ.scaffolds	89.744	39	4	0	151	189	254819	254781	4.86e-06	46.1
+***************************TEST:f1266-matR*****************f1266 Ma.JZMJ.scaffolds 95920 96300ORF_len:381,GENE_len:1983
+f1266	Ma.JZMJ.scaffolds	100.000	381	0	0	1	381	95920	96300	0.0	755
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:f648-ccmB*****************f648 Ma.JZMJ.scaffolds 348252 348788ORF_len:537,GENE_len:630
+f648	Ma.JZMJ.scaffolds	100.000	537	0	0	1	537	348252	348788	0.0	1065
+ccmB	Ma.JZMJ.scaffolds	100.000	630	0	0	1	630	348181	348810	0.0	1249
+***************************TEST:f198-nad2_fragment_4*****************f198 Ma.JZMJ.scaffolds 181490 182389ORF_len:900,GENE_len:621
+f198	Ma.JZMJ.scaffolds	100.000	900	0	0	1	900	181490	182389	0.0	1784
+nad2_fragment_4	Ma.JZMJ.scaffolds	100.000	621	0	0	1	621	181742	182362	0.0	1231
+***************************TEST:f431-rps12*****************f431 Ma.JZMJ.scaffolds 272895 273485ORF_len:591,GENE_len:375
+f431	Ma.JZMJ.scaffolds	100.000	591	0	0	1	591	272895	273485	0.0	1172
+rps12	Ma.JZMJ.scaffolds	100.000	375	0	0	1	375	272937	273311	0.0	743
+***************************TEST:r257-nad4_fragment_2*****************r257 Ma.JZMJ.scaffolds 200628 200867ORF_len:240,GENE_len:936
+r257	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	200628	200867	5.14e-136	476
+nad4_fragment_2	Ma.JZMJ.scaffolds	100.000	936	0	0	1	936	200566	201501	0.0	1855
+***************************TEST:f221-nad5_fragment_1*****************f221 Ma.JZMJ.scaffolds 19097 19357ORF_len:261,GENE_len:237
+f221	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	19097	19357	1.64e-148	517
+f221	Ma.JZMJ.scaffolds	100.000	39	0	0	1	39	334475	334513	4.94e-16	77.8
+f221	Ma.JZMJ.scaffolds	100.000	33	0	0	7	39	479873	479841	1.88e-12	65.9
+f221	Ma.JZMJ.scaffolds	94.595	37	2	0	216	252	479233	479197	4.58e-10	58.0
+f221	Ma.JZMJ.scaffolds	91.304	46	3	1	138	182	46246	46201	2.83e-08	52.0
+f221	Ma.JZMJ.scaffolds	92.105	38	3	0	62	99	461957	461994	2.83e-08	52.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:r628-ccmB*****************r628 Ma.JZMJ.scaffolds 348119 348454ORF_len:336,GENE_len:630
+r628	Ma.JZMJ.scaffolds	100.000	336	0	0	1	336	348119	348454	0.0	666
+ccmB	Ma.JZMJ.scaffolds	100.000	630	0	0	1	630	348181	348810	0.0	1249
+***************************TEST:r154-rps14_fragment_2*****************r154 Ma.JZMJ.scaffolds 160209 160478ORF_len:270,GENE_len:174
+r154	Ma.JZMJ.scaffolds	100.000	270	0	0	1	270	160209	160478	7.25e-154	535
+rps14_fragment_2	Ma.JZMJ.scaffolds	100.000	174	0	0	1	174	160230	160403	8.85e-97	345
+***************************TEST:f1065-ccmFc_fragment_1*****************f1065 Ma.JZMJ.scaffolds 499173 500147ORF_len:975,GENE_len:771
+f1065	Ma.JZMJ.scaffolds	100.000	975	0	0	1	975	499173	500147	0.0	1933
+ccmFc_fragment_1	Ma.JZMJ.scaffolds	100.000	771	0	0	1	771	499212	499982	0.0	1528
+***************************TEST:r1087-ccmC*****************r1087 Ma.JZMJ.scaffolds 524077 524319ORF_len:243,GENE_len:750
+r1087	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	524077	524319	8.44e-138	482
+r1087	Ma.JZMJ.scaffolds	100.000	25	0	0	46	70	262546	262522	1.04e-07	50.1
+r1087	Ma.JZMJ.scaffolds	100.000	25	0	0	51	75	272482	272506	1.04e-07	50.1
+ccmC	Ma.JZMJ.scaffolds	100.000	750	0	0	1	750	524280	525029	0.0	1487
+***************************TEST:r918-cox2_fragment_1*****************r918 Ma.JZMJ.scaffolds 461754 462140ORF_len:387,GENE_len:702
+r918	Ma.JZMJ.scaffolds	100.000	387	0	0	1	387	461754	462140	0.0	767
+r918	Ma.JZMJ.scaffolds	100.000	106	0	0	282	387	76245	76350	7.77e-56	210
+r918	Ma.JZMJ.scaffolds	100.000	44	0	0	282	325	472313	472356	7.74e-19	87.7
+r918	Ma.JZMJ.scaffolds	92.105	38	3	0	204	241	19158	19195	4.27e-08	52.0
+r918	Ma.JZMJ.scaffolds	89.744	39	4	0	18	56	254781	254819	2.63e-06	46.1
+cox2_fragment_1	Ma.JZMJ.scaffolds	100.000	702	0	0	1	702	461959	461258	0.0	1392
+cox2_fragment_1	Ma.JZMJ.scaffolds	97.647	85	2	0	618	702	46632	46716	2.90e-38	153
+cox2_fragment_1	Ma.JZMJ.scaffolds	89.744	39	4	0	151	189	254819	254781	4.86e-06	46.1
+***************************TEST:f126-rpl16*****************f126 Ma.JZMJ.scaffolds 150051 151733ORF_len:1683,GENE_len:555
+f126	Ma.JZMJ.scaffolds	100.000	1683	0	0	1	1683	150051	151733	0.0	3336
+rpl16	Ma.JZMJ.scaffolds	100.000	555	0	0	1	555	151582	152136	0.0	1100
+***************************TEST:r88-rps4*****************r88 Ma.JZMJ.scaffolds 134722 135705ORF_len:984,GENE_len:1044
+r88	Ma.JZMJ.scaffolds	100.000	984	0	0	1	984	134722	135705	0.0	1951
+r88	Ma.JZMJ.scaffolds	100.000	356	0	0	628	983	163373	163018	0.0	706
+r88	Ma.JZMJ.scaffolds	100.000	24	0	0	840	863	164363	164386	1.73e-06	48.1
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:r157-rps4*****************r157 Ma.JZMJ.scaffolds 163037 163261ORF_len:225,GENE_len:1044
+r157	Ma.JZMJ.scaffolds	100.000	225	0	0	1	225	135685	135461	4.29e-127	446
+r157	Ma.JZMJ.scaffolds	100.000	225	0	0	1	225	163037	163261	4.29e-127	446
+r157	Ma.JZMJ.scaffolds	100.000	24	0	0	102	125	164386	164363	3.79e-07	48.1
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f257-nad4_fragment_3*****************f257 Ma.JZMJ.scaffolds 203538 204188ORF_len:651,GENE_len:87
+f257	Ma.JZMJ.scaffolds	100.000	651	0	0	1	651	203538	204188	0.0	1291
+nad4_fragment_3	Ma.JZMJ.scaffolds	100.000	87	0	0	1	87	204033	204119	3.36e-45	172
+***************************TEST:r204-nad5_fragment_1*****************r204 Ma.JZMJ.scaffolds 18123 19277ORF_len:1155,GENE_len:237
+r204	Ma.JZMJ.scaffolds	100.000	1155	0	0	1	1155	18123	19277	0.0	2290
+r204	Ma.JZMJ.scaffolds	100.000	58	0	0	956	1013	334456	334513	1.05e-26	115
+r204	Ma.JZMJ.scaffolds	100.000	33	0	0	981	1013	479873	479841	8.68e-12	65.9
+r204	Ma.JZMJ.scaffolds	100.000	27	0	0	61	87	189869	189895	3.30e-08	54.0
+r204	Ma.JZMJ.scaffolds	92.105	38	3	0	1036	1073	461957	461994	1.31e-07	52.0
+r204	Ma.JZMJ.scaffolds	91.111	45	3	1	1112	1155	46246	46202	5.16e-07	50.1
+r204	Ma.JZMJ.scaffolds	100.000	24	0	0	40	63	360845	360822	2.04e-06	48.1
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:r1020-ccmFc_fragment_2*****************r1020 Ma.JZMJ.scaffolds 501076 501618ORF_len:543,GENE_len:549
+r1020	Ma.JZMJ.scaffolds	100.000	543	0	0	1	543	501076	501618	0.0	1076
+ccmFc_fragment_2	Ma.JZMJ.scaffolds	100.000	549	0	0	1	549	500936	501484	0.0	1088
+***************************TEST:r1154-rps1*****************r1154 Ma.JZMJ.scaffolds 80966 81640ORF_len:675,GENE_len:612
+r1154	Ma.JZMJ.scaffolds	100.000	675	0	0	1	675	80966	81640	0.0	1338
+r1154	Ma.JZMJ.scaffolds	94.286	35	2	0	368	402	81276	81310	1.92e-08	54.0
+r1154	Ma.JZMJ.scaffolds	94.286	35	2	0	311	345	81333	81367	1.92e-08	54.0
+r1154	Ma.JZMJ.scaffolds	96.429	28	1	0	385	412	81221	81248	1.18e-06	48.1
+r1154	Ma.JZMJ.scaffolds	96.429	28	1	0	256	283	81350	81377	1.18e-06	48.1
+rps1	Ma.JZMJ.scaffolds	100.000	612	0	0	1	612	81580	80969	0.0	1213
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	214	248	81310	81276	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	271	305	81367	81333	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	204	231	81248	81221	1.07e-06	48.1
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	333	360	81377	81350	1.07e-06	48.1
+***************************TEST:r594-nad1_fragment_5*****************r594 Ma.JZMJ.scaffolds 334744 335145ORF_len:402,GENE_len:255
+r594	Ma.JZMJ.scaffolds	100.000	402	0	0	1	402	334744	335145	0.0	797
+r594	Ma.JZMJ.scaffolds	100.000	45	0	0	41	85	131532	131576	2.04e-19	89.7
+r594	Ma.JZMJ.scaffolds	92.857	42	3	0	331	372	200483	200442	1.82e-10	60.0
+r594	Ma.JZMJ.scaffolds	96.667	30	1	0	155	184	297868	297839	4.44e-08	52.0
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	255	0	0	1	255	335001	334747	6.10e-145	505
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	45	0	0	174	218	131576	131532	1.27e-19	89.7
+nad1_fragment_5	Ma.JZMJ.scaffolds	96.667	30	1	0	75	104	297839	297868	2.76e-08	52.0
+***************************TEST:f146-rps14_fragment_1*****************f146 Ma.JZMJ.scaffolds 159925 160317ORF_len:393,GENE_len:87
+f146	Ma.JZMJ.scaffolds	100.000	393	0	0	1	393	159925	160317	0.0	779
+rps14_fragment_1	Ma.JZMJ.scaffolds	100.000	87	0	0	1	87	160135	160221	3.36e-45	172
+***************************TEST:r917-cox2_fragment_1*****************r917 Ma.JZMJ.scaffolds 461120 462052ORF_len:933,GENE_len:702
+r917	Ma.JZMJ.scaffolds	100.000	933	0	0	1	933	461120	462052	0.0	1850
+r917	Ma.JZMJ.scaffolds	95.960	99	4	0	125	223	46730	46632	1.02e-41	165
+r917	Ma.JZMJ.scaffolds	92.105	38	3	0	838	875	19158	19195	1.05e-07	52.0
+r917	Ma.JZMJ.scaffolds	89.744	39	4	0	652	690	254781	254819	6.48e-06	46.1
+cox2_fragment_1	Ma.JZMJ.scaffolds	100.000	702	0	0	1	702	461959	461258	0.0	1392
+cox2_fragment_1	Ma.JZMJ.scaffolds	97.647	85	2	0	618	702	46632	46716	2.90e-38	153
+cox2_fragment_1	Ma.JZMJ.scaffolds	89.744	39	4	0	151	189	254819	254781	4.86e-06	46.1
+***************************TEST:r1018-ccmFc_fragment_2*****************r1018 Ma.JZMJ.scaffolds 500672 501031ORF_len:360,GENE_len:549
+r1018	Ma.JZMJ.scaffolds	100.000	360	0	0	1	360	500672	501031	0.0	714
+ccmFc_fragment_2	Ma.JZMJ.scaffolds	100.000	549	0	0	1	549	500936	501484	0.0	1088
+***************************TEST:r560-ccmFn*****************r560 Ma.JZMJ.scaffolds 32198 32992ORF_len:795,GENE_len:1728
+r560	Ma.JZMJ.scaffolds	100.000	795	0	0	1	795	32198	32992	0.0	1576
+ccmFn	Ma.JZMJ.scaffolds	100.000	1728	0	0	1	1728	33164	31437	0.0	3426
+***************************TEST:f567-ccmFn*****************f567 Ma.JZMJ.scaffolds 32356 32646ORF_len:291,GENE_len:1728
+f567	Ma.JZMJ.scaffolds	100.000	291	0	0	1	291	32356	32646	2.31e-166	577
+ccmFn	Ma.JZMJ.scaffolds	100.000	1728	0	0	1	1728	33164	31437	0.0	3426
+***************************TEST:r148-cox3*****************r148 Ma.JZMJ.scaffolds 15778 16296ORF_len:519,GENE_len:795
+r148	Ma.JZMJ.scaffolds	100.000	519	0	0	1	519	15778	16296	0.0	1029
+cox3	Ma.JZMJ.scaffolds	100.000	795	0	0	1	795	16184	15390	0.0	1576
+***************************TEST:f463-nad2_fragment_1*****************f463 Ma.JZMJ.scaffolds 285271 285735ORF_len:465,GENE_len:153
+f463	Ma.JZMJ.scaffolds	100.000	465	0	0	1	465	285271	285735	0.0	922
+nad2_fragment_1	Ma.JZMJ.scaffolds	100.000	153	0	0	1	153	285313	285465	2.62e-84	303
+***************************TEST:f146-rps14_fragment_2*****************f146 Ma.JZMJ.scaffolds 159925 160317ORF_len:393,GENE_len:174
+f146	Ma.JZMJ.scaffolds	100.000	393	0	0	1	393	159925	160317	0.0	779
+rps14_fragment_2	Ma.JZMJ.scaffolds	100.000	174	0	0	1	174	160230	160403	8.85e-97	345
+***************************TEST:r593-nad1_fragment_5*****************r593 Ma.JZMJ.scaffolds 334514 334885ORF_len:372,GENE_len:255
+r593	Ma.JZMJ.scaffolds	100.000	372	0	0	1	372	334514	334885	0.0	737
+r593	Ma.JZMJ.scaffolds	100.000	213	0	0	1	213	479840	479628	1.05e-119	422
+r593	Ma.JZMJ.scaffolds	100.000	45	0	0	271	315	131532	131576	1.88e-19	89.7
+r593	Ma.JZMJ.scaffolds	94.737	38	2	0	151	188	131501	131538	1.68e-10	60.0
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	255	0	0	1	255	335001	334747	6.10e-145	505
+nad1_fragment_5	Ma.JZMJ.scaffolds	100.000	45	0	0	174	218	131576	131532	1.27e-19	89.7
+nad1_fragment_5	Ma.JZMJ.scaffolds	96.667	30	1	0	75	104	297839	297868	2.76e-08	52.0
+***************************TEST:f592-nad5_fragment_2*****************f592 Ma.JZMJ.scaffolds 332769 333356ORF_len:588,GENE_len:1203
+f592	Ma.JZMJ.scaffolds	100.000	588	0	0	1	588	332769	333356	0.0	1166
+nad5_fragment_2	Ma.JZMJ.scaffolds	100.000	1203	0	0	1	1203	333460	332258	0.0	2385
+***************************TEST:f1243-nad7_fragment_4*****************f1243 Ma.JZMJ.scaffolds 89019 89660ORF_len:642,GENE_len:243
+f1243	Ma.JZMJ.scaffolds	100.000	642	0	0	1	642	89019	89660	0.0	1273
+nad7_fragment_4	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	89210	88968	8.44e-138	482
+***************************TEST:f1264-matR*****************f1264 Ma.JZMJ.scaffolds 95720 96079ORF_len:360,GENE_len:1983
+f1264	Ma.JZMJ.scaffolds	100.000	360	0	0	1	360	95720	96079	0.0	714
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:f191-nad2_fragment_3*****************f191 Ma.JZMJ.scaffolds 178975 179322ORF_len:348,GENE_len:162
+f191	Ma.JZMJ.scaffolds	100.000	348	0	0	1	348	178975	179322	0.0	690
+nad2_fragment_3	Ma.JZMJ.scaffolds	100.000	162	0	0	1	162	179125	179286	1.19e-89	321
+***************************TEST:f1010-atp1*****************f1010 Ma.JZMJ.scaffolds 480752 482902ORF_len:2151,GENE_len:1521
+f1010	Ma.JZMJ.scaffolds	100.000	2151	0	0	1	2151	480752	482902	0.0	4264
+f1010	Ma.JZMJ.scaffolds	91.167	317	28	0	1830	2146	390262	390578	3.72e-114	406
+f1010	Ma.JZMJ.scaffolds	98.246	57	1	0	1763	1819	253911	253855	1.89e-23	105
+f1010	Ma.JZMJ.scaffolds	97.778	45	1	0	1	45	479876	479920	2.74e-16	81.8
+atp1	Ma.JZMJ.scaffolds	100.000	1521	0	0	1	1521	480809	482329	0.0	3015
+***************************TEST:r141-sdh4*****************r141 Ma.JZMJ.scaffolds 15255 16328ORF_len:1074,GENE_len:393
+r141	Ma.JZMJ.scaffolds	100.000	1074	0	0	1	1074	15255	16328	0.0	2129
+sdh4	Ma.JZMJ.scaffolds	100.000	393	0	0	1	393	15459	15067	0.0	779
+***************************TEST:f343-nad5_fragment_4*****************f343 Ma.JZMJ.scaffolds 238899 239132ORF_len:234,GENE_len:396
+f343	Ma.JZMJ.scaffolds	100.000	234	0	0	1	234	238899	239132	1.90e-132	464
+nad5_fragment_4	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:r1202-matR*****************r1202 Ma.JZMJ.scaffolds 95844 96185ORF_len:342,GENE_len:1983
+r1202	Ma.JZMJ.scaffolds	100.000	342	0	0	1	342	95844	96185	0.0	678
+matR	Ma.JZMJ.scaffolds	100.000	1983	0	0	1	1983	96499	94517	0.0	3931
+matR	Ma.JZMJ.scaffolds	100.000	26	0	0	1184	1209	158697	158722	2.25e-07	52.0
+***************************TEST:r129-sdh4*****************r129 Ma.JZMJ.scaffolds 15011 15418ORF_len:408,GENE_len:393
+r129	Ma.JZMJ.scaffolds	100.000	408	0	0	1	408	15011	15418	0.0	809
+r129	Ma.JZMJ.scaffolds	100.000	25	0	0	2	26	458955	458979	1.78e-07	50.1
+sdh4	Ma.JZMJ.scaffolds	100.000	393	0	0	1	393	15459	15067	0.0	779
+***************************TEST:f1217-rps1*****************f1217 Ma.JZMJ.scaffolds 81188 81490ORF_len:303,GENE_len:612
+f1217	Ma.JZMJ.scaffolds	100.000	303	0	0	1	303	81188	81490	1.66e-173	601
+f1217	Ma.JZMJ.scaffolds	94.286	35	2	0	146	180	81276	81310	8.37e-09	54.0
+f1217	Ma.JZMJ.scaffolds	94.286	35	2	0	89	123	81333	81367	8.37e-09	54.0
+f1217	Ma.JZMJ.scaffolds	96.429	28	1	0	163	190	81221	81248	5.17e-07	48.1
+f1217	Ma.JZMJ.scaffolds	96.429	28	1	0	34	61	81350	81377	5.17e-07	48.1
+rps1	Ma.JZMJ.scaffolds	100.000	612	0	0	1	612	81580	80969	0.0	1213
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	214	248	81310	81276	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	94.286	35	2	0	271	305	81367	81333	1.73e-08	54.0
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	204	231	81248	81221	1.07e-06	48.1
+rps1	Ma.JZMJ.scaffolds	96.429	28	1	0	333	360	81377	81350	1.07e-06	48.1
+***************************TEST:f1200-nad9*****************f1200 Ma.JZMJ.scaffolds 75659 76048ORF_len:390,GENE_len:573
+f1200	Ma.JZMJ.scaffolds	100.000	390	0	0	1	390	75659	76048	0.0	773
+nad9	Ma.JZMJ.scaffolds	100.000	573	0	0	1	573	76181	75609	0.0	1136
+***************************TEST:f38-rps10_fragment_2*****************f38 Ma.JZMJ.scaffolds 118825 119139ORF_len:315,GENE_len:75
+f38	Ma.JZMJ.scaffolds	100.000	315	0	0	1	315	118825	119139	1.19e-180	624
+rps10_fragment_2	Ma.JZMJ.scaffolds	100.000	75	0	0	1	75	119107	119033	4.14e-38	149
+***************************TEST:r131-rps3*****************r131 Ma.JZMJ.scaffolds 150232 150528ORF_len:297,GENE_len:1680
+r131	Ma.JZMJ.scaffolds	100.000	297	0	0	1	297	150232	150528	6.19e-170	589
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:f128-rps3*****************f128 Ma.JZMJ.scaffolds 150227 150550ORF_len:324,GENE_len:1680
+f128	Ma.JZMJ.scaffolds	100.000	324	0	0	1	324	150227	150550	0.0	642
+rps3	Ma.JZMJ.scaffolds	100.000	1680	0	0	1	1680	150051	151730	0.0	3330
+***************************TEST:f242-nad4_fragment_1*****************f242 Ma.JZMJ.scaffolds 198605 199186ORF_len:582,GENE_len:459
+f242	Ma.JZMJ.scaffolds	100.000	582	0	0	1	582	198605	199186	0.0	1154
+nad4_fragment_1	Ma.JZMJ.scaffolds	100.000	459	0	0	1	459	198659	199117	0.0	910
+***************************TEST:r46-cox1*****************r46 Ma.JZMJ.scaffolds 117825 118100ORF_len:276,GENE_len:1578
+r46	Ma.JZMJ.scaffolds	100.000	276	0	0	1	276	117825	118100	1.95e-157	547
+cox1	Ma.JZMJ.scaffolds	100.000	1578	0	0	1	1578	118795	117218	0.0	3128
+***************************TEST:r479-rpl10*****************r479 Ma.JZMJ.scaffolds 292307 292564ORF_len:258,GENE_len:486
+r479	Ma.JZMJ.scaffolds	100.000	258	0	0	1	258	292307	292564	1.00e-146	511
+rpl10	Ma.JZMJ.scaffolds	100.000	486	0	0	1	486	292231	292716	0.0	963
+***************************TEST:f771-atp4*****************f771 Ma.JZMJ.scaffolds 391534 392124ORF_len:591,GENE_len:588
+f771	Ma.JZMJ.scaffolds	100.000	591	0	0	1	591	391534	392124	0.0	1172
+atp4	Ma.JZMJ.scaffolds	100.000	588	0	0	1	588	391534	392121	0.0	1166
+***************************TEST:r956-nad5_fragment_1*****************r956 Ma.JZMJ.scaffolds 479599 479946ORF_len:348,GENE_len:237
+r956	Ma.JZMJ.scaffolds	100.000	348	0	0	1	348	479599	479946	0.0	690
+r956	Ma.JZMJ.scaffolds	100.000	246	0	0	30	275	334726	334481	1.99e-139	488
+r956	Ma.JZMJ.scaffolds	97.826	46	1	0	277	322	480751	480796	1.08e-17	83.8
+r956	Ma.JZMJ.scaffolds	100.000	33	0	0	243	275	19135	19103	2.54e-12	65.9
+r956	Ma.JZMJ.scaffolds	94.737	38	2	0	55	92	131538	131501	1.57e-10	60.0
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	237	0	0	1	237	334547	334311	3.13e-134	470
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	67	0	0	1	67	479807	479873	8.76e-33	133
+nad5_fragment_1	Ma.JZMJ.scaffolds	100.000	58	0	0	35	92	19135	19078	2.06e-27	115
+***************************TEST:f769-nad4L*****************f769 Ma.JZMJ.scaffolds 390993 391328ORF_len:336,GENE_len:300
+f769	Ma.JZMJ.scaffolds	100.000	336	0	0	1	336	390993	391328	0.0	666
+f769	Ma.JZMJ.scaffolds	100.000	23	0	0	1	23	390231	390253	2.27e-06	46.1
+nad4L	Ma.JZMJ.scaffolds	100.000	300	0	0	1	300	391026	391325	1.01e-171	595
+***************************TEST:f1234-nad7_fragment_5*****************f1234 Ma.JZMJ.scaffolds 87005 87274ORF_len:270,GENE_len:261
+f1234	Ma.JZMJ.scaffolds	100.000	270	0	0	1	270	87005	87274	7.25e-154	535
+nad7_fragment_5	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	87169	86909	1.64e-148	517
+***************************TEST:r89-rps4*****************r89 Ma.JZMJ.scaffolds 135170 135427ORF_len:258,GENE_len:1044
+r89	Ma.JZMJ.scaffolds	100.000	258	0	0	1	258	135170	135427	1.00e-146	511
+r89	Ma.JZMJ.scaffolds	100.000	79	0	0	180	258	163373	163295	6.58e-40	157
+rps4	Ma.JZMJ.scaffolds	100.000	1044	0	0	1	1044	163134	164177	0.0	2070
+rps4	Ma.JZMJ.scaffolds	100.000	240	0	0	1	240	135588	135349	2.33e-135	476
+rps4	Ma.JZMJ.scaffolds	100.000	24	0	0	5	28	164386	164363	1.84e-06	48.1
+***************************TEST:f1011-atp1*****************f1011 Ma.JZMJ.scaffolds 481363 481596ORF_len:234,GENE_len:1521
+f1011	Ma.JZMJ.scaffolds	100.000	234	0	0	1	234	481363	481596	1.90e-132	464
+atp1	Ma.JZMJ.scaffolds	100.000	1521	0	0	1	1521	480809	482329	0.0	3015
+***************************TEST:r938-atp6*****************r938 Ma.JZMJ.scaffolds 471203 472252ORF_len:1050,GENE_len:726
+r938	Ma.JZMJ.scaffolds	100.000	1050	0	0	1	1050	471203	472252	0.0	2081
+r938	Ma.JZMJ.scaffolds	91.379	58	5	0	612	669	27729	27786	8.18e-15	75.8
+atp6	Ma.JZMJ.scaffolds	100.000	726	0	0	1	726	471922	471197	0.0	1439
+atp6	Ma.JZMJ.scaffolds	91.379	58	5	0	52	109	27786	27729	5.63e-15	75.8
+***************************TEST:r1143-nad9*****************r1143 Ma.JZMJ.scaffolds 75896 76300ORF_len:405,GENE_len:573
+r1143	Ma.JZMJ.scaffolds	100.000	405	0	0	1	405	75896	76300	0.0	803
+r1143	Ma.JZMJ.scaffolds	100.000	102	0	0	292	393	472255	472356	1.99e-53	202
+r1143	Ma.JZMJ.scaffolds	100.000	56	0	0	350	405	462035	462090	5.60e-26	111
+nad9	Ma.JZMJ.scaffolds	100.000	573	0	0	1	573	76181	75609	0.0	1136
+***************************TEST:r954-atp9*****************r954 Ma.JZMJ.scaffolds 478967 479311ORF_len:345,GENE_len:243
+r954	Ma.JZMJ.scaffolds	100.000	345	0	0	1	345	478967	479311	0.0	684
+r954	Ma.JZMJ.scaffolds	98.077	52	1	0	161	212	360546	360597	2.82e-21	95.6
+r954	Ma.JZMJ.scaffolds	94.595	37	2	0	231	267	19348	19312	6.14e-10	58.0
+r954	Ma.JZMJ.scaffolds	96.154	26	1	0	161	186	258876	258851	9.24e-06	44.1
+atp9	Ma.JZMJ.scaffolds	100.000	243	0	0	1	243	479260	479502	8.44e-138	482
+atp9	Ma.JZMJ.scaffolds	100.000	22	0	0	193	214	27698	27677	6.42e-06	44.1
+***************************TEST:r962-atp1*****************r962 Ma.JZMJ.scaffolds 481350 481610ORF_len:261,GENE_len:1521
+r962	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	481350	481610	1.64e-148	517
+atp1	Ma.JZMJ.scaffolds	100.000	1521	0	0	1	1521	480809	482329	0.0	3015
+***************************TEST:r1012-ccmFc_fragment_1*****************r1012 Ma.JZMJ.scaffolds 499382 499888ORF_len:507,GENE_len:771
+r1012	Ma.JZMJ.scaffolds	100.000	507	0	0	1	507	499382	499888	0.0	1005
+ccmFc_fragment_1	Ma.JZMJ.scaffolds	100.000	771	0	0	1	771	499212	499982	0.0	1528
+***************************TEST:r589-nad5_fragment_2*****************r589 Ma.JZMJ.scaffolds 332712 333080ORF_len:369,GENE_len:1203
+r589	Ma.JZMJ.scaffolds	100.000	369	0	0	1	369	332712	333080	0.0	731
+nad5_fragment_2	Ma.JZMJ.scaffolds	100.000	1203	0	0	1	1203	333460	332258	0.0	2385
+***************************TEST:r338-nad5_fragment_3*****************r338 Ma.JZMJ.scaffolds 238868 239128ORF_len:261,GENE_len:396
+r338	Ma.JZMJ.scaffolds	100.000	261	0	0	1	261	238868	239128	1.64e-148	517
+nad5_fragment_3	Ma.JZMJ.scaffolds	100.000	396	0	0	1	396	238974	238579	0.0	785
+***************************TEST:f429-nad3*****************f429 Ma.JZMJ.scaffolds 272418 272888ORF_len:471,GENE_len:354
+f429	Ma.JZMJ.scaffolds	100.000	471	0	0	1	471	272418	272888	0.0	934
+f429	Ma.JZMJ.scaffolds	100.000	25	0	0	65	89	524127	524151	2.07e-07	50.1
+nad3	Ma.JZMJ.scaffolds	100.000	354	0	0	1	354	272532	272885	0.0	702
