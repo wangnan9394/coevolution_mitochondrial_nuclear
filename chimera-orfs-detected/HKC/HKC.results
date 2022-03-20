@@ -1,0 +1,766 @@
+***************************TEST:f356-cox1*****************f356 At.HKC.scaffolds 238432 238707ORF_len:276,GENE_len:1578
+f356	At.HKC.scaffolds	100.000	276	0	0	1	276	238432	238707	1.67e-157	547
+cox1	At.HKC.scaffolds	99.873	1578	2	0	1	1578	237737	239314	0.0	3112
+cox1	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.40e-06	46.1
+***************************TEST:r647-nad1_fragment_5*****************r647 At.HKC.scaffolds 337575 337976ORF_len:402,GENE_len:255
+r647	At.HKC.scaffolds	100.000	402	0	0	1	402	337575	337976	0.0	797
+r647	At.HKC.scaffolds	100.000	45	0	0	41	85	24607	24651	1.74e-19	89.7
+r647	At.HKC.scaffolds	100.000	30	0	0	155	184	41924	41953	1.55e-10	60.0
+r647	At.HKC.scaffolds	92.857	42	3	0	331	372	191031	190990	1.55e-10	60.0
+nad1_fragment_5	At.HKC.scaffolds	99.608	255	1	0	1	255	337832	337578	1.27e-142	498
+nad1_fragment_5	At.HKC.scaffolds	100.000	45	0	0	174	218	24651	24607	1.08e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	96.667	30	1	0	75	104	41953	41924	2.36e-08	52.0
+***************************TEST:r1086-ccmB*****************r1086 At.HKC.scaffolds 89674 90642ORF_len:969,GENE_len:630
+r1086	At.HKC.scaffolds	100.000	969	0	0	1	969	89674	90642	0.0	1921
+ccmB	At.HKC.scaffolds	99.841	630	1	0	1	630	90642	90013	0.0	1241
+***************************TEST:r1026-nad3*****************r1026 At.HKC.scaffolds 67160 67645ORF_len:486,GENE_len:354
+r1026	At.HKC.scaffolds	100.000	486	0	0	1	486	67160	67645	0.0	963
+r1026	At.HKC.scaffolds	93.701	127	4	1	295	417	119030	118904	1.21e-48	186
+r1026	At.HKC.scaffolds	100.000	25	0	0	383	407	332984	333008	1.82e-07	50.1
+nad3	At.HKC.scaffolds	99.718	354	1	0	1	354	67516	67163	0.0	694
+nad3	At.HKC.scaffolds	95.238	63	3	0	1	63	118968	119030	4.00e-23	101
+***************************TEST:r148-rps4*****************r148 At.HKC.scaffolds 153912 154214ORF_len:303,GENE_len:1044
+r148	At.HKC.scaffolds	100.000	303	0	0	1	303	153912	154214	1.41e-173	601
+r148	At.HKC.scaffolds	100.000	28	0	0	1	28	28476	28449	1.80e-09	56.0
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:r12-rps7*****************r12 At.HKC.scaffolds 10720 11067ORF_len:348,GENE_len:465
+r12	At.HKC.scaffolds	100.000	348	0	0	1	348	10720	11067	0.0	690
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f421-matR*****************f421 At.HKC.scaffolds 260341 260682ORF_len:342,GENE_len:1983
+f421	At.HKC.scaffolds	100.000	342	0	0	1	342	260341	260682	0.0	678
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:f611-ccmC*****************f611 At.HKC.scaffolds 332816 333151ORF_len:336,GENE_len:750
+f611	At.HKC.scaffolds	100.000	336	0	0	1	336	332816	333151	0.0	666
+f611	At.HKC.scaffolds	95.327	107	5	0	227	333	442480	442374	1.24e-44	172
+f611	At.HKC.scaffolds	100.000	25	0	0	169	193	67542	67566	1.24e-07	50.1
+f611	At.HKC.scaffolds	96.552	29	1	0	172	200	118935	118907	1.24e-07	50.1
+f611	At.HKC.scaffolds	100.000	25	0	0	174	198	280423	280399	1.24e-07	50.1
+ccmC	At.HKC.scaffolds	99.733	750	2	0	1	750	332855	332106	0.0	1471
+***************************TEST:r888-ccmFc_fragment_2*****************r888 At.HKC.scaffolds 422189 422584ORF_len:396,GENE_len:549
+r888	At.HKC.scaffolds	100.000	396	0	0	1	396	422189	422584	0.0	785
+ccmFc_fragment_2	At.HKC.scaffolds	99.818	549	1	0	1	549	422445	422993	0.0	1080
+***************************TEST:r736-ccmFn*****************r736 At.HKC.scaffolds 372725 373405ORF_len:681,GENE_len:1728
+r736	At.HKC.scaffolds	100.000	414	0	0	268	681	372992	373405	0.0	821
+r736	At.HKC.scaffolds	90.732	410	31	1	268	677	68582	68984	1.49e-147	515
+r736	At.HKC.scaffolds	100.000	167	0	0	1	167	372725	372891	4.69e-92	331
+ccmFn	At.HKC.scaffolds	99.539	1734	2	1	1	1728	372890	371157	0.0	3376
+***************************TEST:f1036-ccmB*****************f1036 At.HKC.scaffolds 90369 90704ORF_len:336,GENE_len:630
+f1036	At.HKC.scaffolds	100.000	336	0	0	1	336	90369	90704	0.0	666
+ccmB	At.HKC.scaffolds	99.841	630	1	0	1	630	90642	90013	0.0	1241
+***************************TEST:f543-cox2_fragment_1*****************f543 At.HKC.scaffolds 300999 301877ORF_len:879,GENE_len:702
+f543	At.HKC.scaffolds	100.000	879	0	0	1	879	300999	301877	0.0	1742
+f543	At.HKC.scaffolds	95.960	99	4	0	657	755	204615	204517	8.15e-42	165
+f543	At.HKC.scaffolds	94.595	37	2	0	132	168	329818	329854	1.37e-09	58.0
+f543	At.HKC.scaffolds	100.000	25	0	0	698	722	69665	69641	3.33e-07	50.1
+f543	At.HKC.scaffolds	100.000	24	0	0	698	721	333576	333553	1.32e-06	48.1
+f543	At.HKC.scaffolds	100.000	24	0	0	698	721	441946	441969	1.32e-06	48.1
+cox2_fragment_1	At.HKC.scaffolds	99.858	702	1	0	1	702	301038	301739	0.0	1384
+cox2_fragment_1	At.HKC.scaffolds	96.471	85	3	0	618	702	204615	204531	6.01e-36	145
+cox2_fragment_1	At.HKC.scaffolds	94.595	37	2	0	93	129	329818	329854	1.09e-09	58.0
+cox2_fragment_1	At.HKC.scaffolds	100.000	25	0	0	659	683	69665	69641	2.65e-07	50.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	333576	333553	1.05e-06	48.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	441946	441969	1.05e-06	48.1
+***************************TEST:r430-matR*****************r430 At.HKC.scaffolds 260447 260806ORF_len:360,GENE_len:1983
+r430	At.HKC.scaffolds	100.000	360	0	0	1	360	260447	260806	0.0	714
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:r455-nad7_fragment_4*****************r455 At.HKC.scaffolds 267087 267515ORF_len:429,GENE_len:243
+r455	At.HKC.scaffolds	100.000	429	0	0	1	429	267087	267515	0.0	850
+nad7_fragment_4	At.HKC.scaffolds	100.000	243	0	0	1	243	267324	267566	7.18e-138	482
+***************************TEST:r691-atp9*****************r691 At.HKC.scaffolds 354372 354743ORF_len:372,GENE_len:243
+r691	At.HKC.scaffolds	100.000	372	0	0	1	372	354372	354743	0.0	737
+r691	At.HKC.scaffolds	98.077	52	1	0	112	163	144917	144866	2.60e-21	95.6
+r691	At.HKC.scaffolds	96.970	33	1	0	108	140	441872	441904	5.65e-10	58.0
+r691	At.HKC.scaffolds	96.154	26	1	0	112	137	284064	284089	8.50e-06	44.1
+atp9	At.HKC.scaffolds	100.000	243	0	0	1	243	354616	354858	7.18e-138	482
+***************************TEST:f44-rps7*****************f44 At.HKC.scaffolds 11749 12120ORF_len:372,GENE_len:465
+f44	At.HKC.scaffolds	100.000	372	0	0	1	372	11749	12120	0.0	737
+f44	At.HKC.scaffolds	92.663	368	22	2	1	368	11126	11488	7.72e-145	505
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f804-atp1*****************f804 At.HKC.scaffolds 408711 408944ORF_len:234,GENE_len:1521
+f804	At.HKC.scaffolds	100.000	234	0	0	1	234	408711	408944	1.62e-132	464
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:f1014-rps3*****************f1014 At.HKC.scaffolds 80544 80855ORF_len:312,GENE_len:1680
+f1014	At.HKC.scaffolds	100.000	312	0	0	1	312	80544	80855	6.21e-179	618
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:r1089-ccmB*****************r1089 At.HKC.scaffolds 90549 90779ORF_len:231,GENE_len:630
+r1089	At.HKC.scaffolds	100.000	231	0	0	1	231	90549	90779	9.86e-131	458
+ccmB	At.HKC.scaffolds	99.841	630	1	0	1	630	90642	90013	0.0	1241
+***************************TEST:r720-rps14_fragment_1*****************r720 At.HKC.scaffolds 365510 365782ORF_len:273,GENE_len:87
+r720	At.HKC.scaffolds	100.000	273	0	0	1	273	365510	365782	1.02e-155	541
+rps14_fragment_1	At.HKC.scaffolds	98.851	87	1	0	1	87	365606	365520	7.07e-43	165
+***************************TEST:f930-rpl10*****************f930 At.HKC.scaffolds 47242 47499ORF_len:258,GENE_len:486
+f930	At.HKC.scaffolds	100.000	258	0	0	1	258	47242	47499	8.56e-147	511
+rpl10	At.HKC.scaffolds	99.588	486	2	0	1	486	47575	47090	0.0	948
+***************************TEST:f701-cob*****************f701 At.HKC.scaffolds 36852 37193ORF_len:342,GENE_len:1191
+f701	At.HKC.scaffolds	100.000	342	0	0	1	342	36852	37193	0.0	678
+cob	At.HKC.scaffolds	99.832	1191	2	0	1	1191	37525	36335	0.0	2345
+***************************TEST:r634-ccmC*****************r634 At.HKC.scaffolds 332052 332855ORF_len:804,GENE_len:750
+r634	At.HKC.scaffolds	100.000	804	0	0	1	804	332052	332855	0.0	1594
+ccmC	At.HKC.scaffolds	99.733	750	2	0	1	750	332855	332106	0.0	1471
+***************************TEST:r735-ccmFn*****************r735 At.HKC.scaffolds 371924 372718ORF_len:795,GENE_len:1728
+r735	At.HKC.scaffolds	100.000	795	0	0	1	795	371924	372718	0.0	1576
+ccmFn	At.HKC.scaffolds	99.539	1734	2	1	1	1728	372890	371157	0.0	3376
+***************************TEST:r648-nad1_fragment_5*****************r648 At.HKC.scaffolds 337744 338064ORF_len:321,GENE_len:255
+r648	At.HKC.scaffolds	100.000	321	0	0	1	321	337744	338064	0.0	636
+r648	At.HKC.scaffolds	92.857	42	3	0	162	203	191031	190990	1.23e-10	60.0
+nad1_fragment_5	At.HKC.scaffolds	99.608	255	1	0	1	255	337832	337578	1.27e-142	498
+nad1_fragment_5	At.HKC.scaffolds	100.000	45	0	0	174	218	24651	24607	1.08e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	96.667	30	1	0	75	104	41953	41924	2.36e-08	52.0
+***************************TEST:r361-nad5_fragment_4*****************r361 At.HKC.scaffolds 229776 230036ORF_len:261,GENE_len:396
+r361	At.HKC.scaffolds	100.000	261	0	0	1	261	229776	230036	1.40e-148	517
+nad5_fragment_4	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:r381-rps10_fragment_2*****************r381 At.HKC.scaffolds 237325 237591ORF_len:267,GENE_len:75
+r381	At.HKC.scaffolds	100.000	267	0	0	1	267	237325	237591	3.78e-152	529
+rps10_fragment_2	At.HKC.scaffolds	100.000	75	0	0	1	75	237425	237499	3.53e-38	149
+***************************TEST:f145-nad6*****************f145 At.HKC.scaffolds 155444 156115ORF_len:672,GENE_len:639
+f145	At.HKC.scaffolds	100.000	672	0	0	1	672	155444	156115	0.0	1332
+nad6	At.HKC.scaffolds	99.844	639	1	0	1	639	155462	156100	0.0	1259
+***************************TEST:f462-rps4*****************f462 At.HKC.scaffolds 27679 28476ORF_len:798,GENE_len:1044
+f462	At.HKC.scaffolds	100.000	798	0	0	1	798	27679	28476	0.0	1582
+f462	At.HKC.scaffolds	96.875	64	2	0	515	578	28139	28202	9.56e-26	111
+f462	At.HKC.scaffolds	96.875	64	2	0	461	524	28193	28256	9.56e-26	111
+f462	At.HKC.scaffolds	100.000	28	0	0	771	798	153939	153912	4.89e-09	56.0
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:f981-atp1*****************f981 At.HKC.scaffolds 67671 68495ORF_len:825,GENE_len:1521
+f981	At.HKC.scaffolds	100.000	825	0	0	1	825	67671	68495	0.0	1635
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:r437-nad7_fragment_1*****************r437 At.HKC.scaffolds 263030 263278ORF_len:249,GENE_len:162
+r437	At.HKC.scaffolds	100.000	249	0	0	1	249	263030	263278	1.94e-141	494
+nad7_fragment_1	At.HKC.scaffolds	99.379	161	1	0	1	161	263127	263287	9.73e-87	311
+***************************TEST:f439-nad7_fragment_4*****************f439 At.HKC.scaffolds 267127 267396ORF_len:270,GENE_len:243
+f439	At.HKC.scaffolds	100.000	270	0	0	1	270	267127	267396	6.20e-154	535
+nad7_fragment_4	At.HKC.scaffolds	100.000	243	0	0	1	243	267324	267566	7.18e-138	482
+***************************TEST:f443-nad7_fragment_5*****************f443 At.HKC.scaffolds 269331 269633ORF_len:303,GENE_len:261
+f443	At.HKC.scaffolds	100.000	303	0	0	1	303	269331	269633	1.41e-173	601
+nad7_fragment_5	At.HKC.scaffolds	100.000	261	0	0	1	261	269370	269630	1.40e-148	517
+***************************TEST:f694-rpl5*****************f694 At.HKC.scaffolds 365567 366043ORF_len:477,GENE_len:552
+f694	At.HKC.scaffolds	100.000	477	0	0	1	477	365567	366043	0.0	946
+rpl5	At.HKC.scaffolds	99.819	552	1	0	1	552	366162	365611	0.0	1086
+***************************TEST:r719-rps14_fragment_1*****************r719 At.HKC.scaffolds 365424 365816ORF_len:393,GENE_len:87
+r719	At.HKC.scaffolds	100.000	393	0	0	1	393	365424	365816	0.0	779
+rps14_fragment_1	At.HKC.scaffolds	98.851	87	1	0	1	87	365606	365520	7.07e-43	165
+***************************TEST:f913-sdh4*****************f913 At.HKC.scaffolds 445368 445775ORF_len:408,GENE_len:393
+f913	At.HKC.scaffolds	100.000	408	0	0	1	408	445368	445775	0.0	809
+f913	At.HKC.scaffolds	100.000	25	0	0	383	407	304028	304052	1.52e-07	50.1
+sdh4	At.HKC.scaffolds	100.000	393	0	0	1	393	445327	445719	0.0	779
+***************************TEST:f669-nad5_fragment_1*****************f669 At.HKC.scaffolds 354989 355429ORF_len:441,GENE_len:237
+f669	At.HKC.scaffolds	100.000	441	0	0	1	441	354989	355429	0.0	874
+f669	At.HKC.scaffolds	97.619	42	1	0	1	42	337552	337511	2.87e-15	75.8
+f669	At.HKC.scaffolds	94.737	38	2	0	21	58	24613	24576	1.71e-10	60.0
+nad5_fragment_1	At.HKC.scaffolds	99.578	237	1	0	1	237	355163	355399	6.49e-132	462
+***************************TEST:f231-nad4_fragment_2*****************f231 At.HKC.scaffolds 191114 192214ORF_len:1101,GENE_len:936
+f231	At.HKC.scaffolds	100.000	1101	0	0	1	1101	191114	192214	0.0	2183
+nad4_fragment_2	At.HKC.scaffolds	100.000	936	0	0	1	936	191114	192049	0.0	1855
+***************************TEST:f420-nad1_fragment_3*****************f420 At.HKC.scaffolds 26012 26347ORF_len:336,GENE_len:195
+f420	At.HKC.scaffolds	100.000	336	0	0	1	336	26012	26347	0.0	666
+f420	At.HKC.scaffolds	100.000	49	0	0	103	151	53142	53190	5.91e-22	97.6
+nad1_fragment_3	At.HKC.scaffolds	100.000	195	0	0	1	195	26102	25908	2.50e-109	387
+***************************TEST:f187-nad2_fragment_4*****************f187 At.HKC.scaffolds 172092 172598ORF_len:507,GENE_len:621
+f187	At.HKC.scaffolds	100.000	507	0	0	1	507	172092	172598	0.0	1005
+nad2_fragment_4	At.HKC.scaffolds	100.000	621	0	0	1	621	172424	173044	0.0	1231
+***************************TEST:r153-nad6*****************r153 At.HKC.scaffolds 155377 155652ORF_len:276,GENE_len:639
+r153	At.HKC.scaffolds	100.000	276	0	0	1	276	155377	155652	1.67e-157	547
+r153	At.HKC.scaffolds	98.387	62	1	0	1	62	374009	373948	2.05e-27	115
+r153	At.HKC.scaffolds	100.000	36	0	0	1	36	179093	179058	2.76e-14	71.9
+r153	At.HKC.scaffolds	100.000	29	0	0	1	29	69567	69539	4.15e-10	58.0
+nad6	At.HKC.scaffolds	99.844	639	1	0	1	639	155462	156100	0.0	1259
+***************************TEST:r438-nad7_fragment_1*****************r438 At.HKC.scaffolds 263134 263394ORF_len:261,GENE_len:162
+r438	At.HKC.scaffolds	100.000	261	0	0	1	261	263134	263394	1.40e-148	517
+nad7_fragment_1	At.HKC.scaffolds	99.379	161	1	0	1	161	263127	263287	9.73e-87	311
+***************************TEST:f418-nad1_fragment_3*****************f418 At.HKC.scaffolds 25996 26313ORF_len:318,GENE_len:195
+f418	At.HKC.scaffolds	100.000	318	0	0	1	318	25996	26313	0.0	630
+f418	At.HKC.scaffolds	100.000	49	0	0	119	167	53142	53190	5.58e-22	97.6
+nad1_fragment_3	At.HKC.scaffolds	100.000	195	0	0	1	195	26102	25908	2.50e-109	387
+***************************TEST:f232-nad4_fragment_2*****************f232 At.HKC.scaffolds 191299 191565ORF_len:267,GENE_len:936
+f232	At.HKC.scaffolds	100.000	267	0	0	1	267	191299	191565	3.78e-152	529
+nad4_fragment_2	At.HKC.scaffolds	100.000	936	0	0	1	936	191114	192049	0.0	1855
+***************************TEST:f765-atp4*****************f765 At.HKC.scaffolds 392341 392607ORF_len:267,GENE_len:588
+f765	At.HKC.scaffolds	100.000	267	0	0	1	267	392341	392607	3.78e-152	529
+atp4	At.HKC.scaffolds	99.830	588	1	0	1	588	392535	393122	0.0	1158
+***************************TEST:r986-nad2_fragment_1*****************r986 At.HKC.scaffolds 54067 54531ORF_len:465,GENE_len:153
+r986	At.HKC.scaffolds	100.000	465	0	0	1	465	54067	54531	0.0	922
+nad2_fragment_1	At.HKC.scaffolds	100.000	153	0	0	1	153	54489	54337	2.23e-84	303
+***************************TEST:r461-nad7_fragment_5*****************r461 At.HKC.scaffolds 269265 269534ORF_len:270,GENE_len:261
+r461	At.HKC.scaffolds	100.000	270	0	0	1	270	269265	269534	6.20e-154	535
+nad7_fragment_5	At.HKC.scaffolds	100.000	261	0	0	1	261	269370	269630	1.40e-148	517
+***************************TEST:r964-rpl10*****************r964 At.HKC.scaffolds 47087 47584ORF_len:498,GENE_len:486
+r964	At.HKC.scaffolds	100.000	498	0	0	1	498	47087	47584	0.0	987
+rpl10	At.HKC.scaffolds	99.588	486	2	0	1	486	47575	47090	0.0	948
+***************************TEST:f33-rps7*****************f33 At.HKC.scaffolds 11444 11758ORF_len:315,GENE_len:465
+f33	At.HKC.scaffolds	100.000	152	0	0	1	152	11444	11595	1.89e-83	301
+f33	At.HKC.scaffolds	96.053	152	6	0	1	152	12072	12223	3.97e-69	254
+f33	At.HKC.scaffolds	100.000	63	0	0	253	315	11696	11758	2.44e-30	125
+f33	At.HKC.scaffolds	93.333	60	4	0	256	315	11076	11135	5.32e-19	87.7
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:r429-matR*****************r429 At.HKC.scaffolds 260362 260718ORF_len:357,GENE_len:1983
+r429	At.HKC.scaffolds	100.000	357	0	0	1	357	260362	260718	0.0	708
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:f1013-rps3*****************f1013 At.HKC.scaffolds 80273 80818ORF_len:546,GENE_len:1680
+f1013	At.HKC.scaffolds	100.000	546	0	0	1	546	80273	80818	0.0	1082
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:r1025-nad3*****************r1025 At.HKC.scaffolds 67077 67403ORF_len:327,GENE_len:354
+r1025	At.HKC.scaffolds	100.000	327	0	0	1	327	67077	67403	0.0	648
+nad3	At.HKC.scaffolds	99.718	354	1	0	1	354	67516	67163	0.0	694
+nad3	At.HKC.scaffolds	95.238	63	3	0	1	63	118968	119030	4.00e-23	101
+***************************TEST:f438-nad7_fragment_4*****************f438 At.HKC.scaffolds 267077 267481ORF_len:405,GENE_len:243
+f438	At.HKC.scaffolds	100.000	405	0	0	1	405	267077	267481	0.0	803
+nad7_fragment_4	At.HKC.scaffolds	100.000	243	0	0	1	243	267324	267566	7.18e-138	482
+***************************TEST:r951-cox3*****************r951 At.HKC.scaffolds 444625 445062ORF_len:438,GENE_len:795
+r951	At.HKC.scaffolds	100.000	438	0	0	1	438	444625	445062	0.0	868
+cox3	At.HKC.scaffolds	100.000	795	0	0	1	795	444602	445396	0.0	1576
+***************************TEST:f980-rps12*****************f980 At.HKC.scaffolds 66924 67196ORF_len:273,GENE_len:375
+f980	At.HKC.scaffolds	100.000	273	0	0	1	273	66924	67196	1.02e-155	541
+rps12	At.HKC.scaffolds	100.000	375	0	0	1	375	67111	66737	0.0	743
+***************************TEST:r454-nad7_fragment_4*****************r454 At.HKC.scaffolds 267073 267474ORF_len:402,GENE_len:243
+r454	At.HKC.scaffolds	100.000	402	0	0	1	402	267073	267474	0.0	797
+nad7_fragment_4	At.HKC.scaffolds	100.000	243	0	0	1	243	267324	267566	7.18e-138	482
+***************************TEST:f803-atp1*****************f803 At.HKC.scaffolds 408355 409734ORF_len:1380,GENE_len:1521
+f803	At.HKC.scaffolds	100.000	1273	0	0	108	1380	408462	409734	0.0	2524
+f803	At.HKC.scaffolds	93.396	106	7	0	1234	1339	329727	329832	1.24e-38	155
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:f14-rps7*****************f14 At.HKC.scaffolds 10719 11057ORF_len:339,GENE_len:465
+f14	At.HKC.scaffolds	100.000	339	0	0	1	339	10719	11057	0.0	672
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f1015-rps3*****************f1015 At.HKC.scaffolds 81025 81330ORF_len:306,GENE_len:1680
+f1015	At.HKC.scaffolds	100.000	306	0	0	1	306	81025	81330	2.32e-175	607
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:f1009-rpl16*****************f1009 At.HKC.scaffolds 79533 79859ORF_len:327,GENE_len:555
+f1009	At.HKC.scaffolds	100.000	327	0	0	1	327	79533	79859	0.0	648
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:r1058-rpl16*****************r1058 At.HKC.scaffolds 79834 81516ORF_len:1683,GENE_len:555
+r1058	At.HKC.scaffolds	100.000	1683	0	0	1	1683	79834	81516	0.0	3336
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:f841-ccmFc_fragment_1*****************f841 At.HKC.scaffolds 420682 421656ORF_len:975,GENE_len:771
+f841	At.HKC.scaffolds	100.000	975	0	0	1	975	420682	421656	0.0	1933
+f841	At.HKC.scaffolds	90.123	81	3	1	295	375	442488	442563	1.76e-21	97.6
+ccmFc_fragment_1	At.HKC.scaffolds	100.000	771	0	0	1	771	420721	421491	0.0	1528
+ccmFc_fragment_1	At.HKC.scaffolds	90.123	81	3	1	256	336	442488	442563	1.39e-21	97.6
+***************************TEST:f766-atp4*****************f766 At.HKC.scaffolds 392535 393125ORF_len:591,GENE_len:588
+f766	At.HKC.scaffolds	100.000	591	0	0	1	591	392535	393125	0.0	1172
+atp4	At.HKC.scaffolds	99.830	588	1	0	1	588	392535	393122	0.0	1158
+***************************TEST:r1057-rpl16*****************r1057 At.HKC.scaffolds 79428 79985ORF_len:558,GENE_len:555
+r1057	At.HKC.scaffolds	100.000	558	0	0	1	558	79428	79985	0.0	1106
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:r733-ccmFn*****************r733 At.HKC.scaffolds 371169 373028ORF_len:1860,GENE_len:1728
+r733	At.HKC.scaffolds	100.000	1723	0	0	1	1723	371169	372891	0.0	3416
+r733	At.HKC.scaffolds	100.000	37	0	0	1824	1860	68582	68618	4.90e-14	73.8
+r733	At.HKC.scaffolds	100.000	37	0	0	1824	1860	372992	373028	4.90e-14	73.8
+ccmFn	At.HKC.scaffolds	99.539	1734	2	1	1	1728	372890	371157	0.0	3376
+***************************TEST:r887-ccmFc_fragment_2*****************r887 At.HKC.scaffolds 422181 422540ORF_len:360,GENE_len:549
+r887	At.HKC.scaffolds	100.000	360	0	0	1	360	422181	422540	0.0	714
+ccmFc_fragment_2	At.HKC.scaffolds	99.818	549	1	0	1	549	422445	422993	0.0	1080
+***************************TEST:f227-nad4_fragment_1*****************f227 At.HKC.scaffolds 189152 189733ORF_len:582,GENE_len:459
+f227	At.HKC.scaffolds	100.000	582	0	0	1	582	189152	189733	0.0	1154
+nad4_fragment_1	At.HKC.scaffolds	100.000	459	0	0	1	459	189206	189664	0.0	910
+***************************TEST:f951-sdh3*****************f951 At.HKC.scaffolds 55443 55694ORF_len:252,GENE_len:291
+f951	At.HKC.scaffolds	100.000	252	0	0	1	252	55443	55694	3.18e-143	500
+f951	At.HKC.scaffolds	92.683	82	6	0	65	146	122958	122877	1.87e-27	115
+f951	At.HKC.scaffolds	92.683	82	6	0	65	146	443515	443434	1.87e-27	115
+f951	At.HKC.scaffolds	100.000	23	0	0	37	59	238968	238946	1.44e-06	46.1
+sdh3	At.HKC.scaffolds	100.000	291	0	0	1	291	55480	55190	1.97e-166	577
+sdh3	At.HKC.scaffolds	97.500	40	1	0	94	133	391245	391284	2.92e-14	71.9
+***************************TEST:r692-atp9*****************r692 At.HKC.scaffolds 354428 354667ORF_len:240,GENE_len:243
+r692	At.HKC.scaffolds	100.000	240	0	0	1	240	354428	354667	4.37e-136	476
+r692	At.HKC.scaffolds	98.077	52	1	0	56	107	144917	144866	1.65e-21	95.6
+r692	At.HKC.scaffolds	96.970	33	1	0	52	84	441872	441904	3.59e-10	58.0
+r692	At.HKC.scaffolds	96.154	26	1	0	56	81	284064	284089	5.39e-06	44.1
+atp9	At.HKC.scaffolds	100.000	243	0	0	1	243	354616	354858	7.18e-138	482
+***************************TEST:r147-rps4*****************r147 At.HKC.scaffolds 153663 153887ORF_len:225,GENE_len:1044
+r147	At.HKC.scaffolds	100.000	225	0	0	1	225	153663	153887	3.65e-127	446
+r147	At.HKC.scaffolds	97.561	41	1	0	185	225	28541	28501	5.63e-15	73.8
+r147	At.HKC.scaffolds	96.774	31	1	0	195	225	123247	123277	5.23e-09	54.0
+r147	At.HKC.scaffolds	100.000	24	0	0	102	125	155011	154988	3.23e-07	48.1
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:r424-nad1_fragment_3*****************r424 At.HKC.scaffolds 25806 26309ORF_len:504,GENE_len:195
+r424	At.HKC.scaffolds	100.000	504	0	0	1	504	25806	26309	0.0	999
+r424	At.HKC.scaffolds	100.000	49	0	0	309	357	53142	53190	8.99e-22	97.6
+nad1_fragment_3	At.HKC.scaffolds	100.000	195	0	0	1	195	26102	25908	2.50e-109	387
+***************************TEST:r431-matR*****************r431 At.HKC.scaffolds 260926 261720ORF_len:795,GENE_len:1983
+r431	At.HKC.scaffolds	100.000	795	0	0	1	795	260926	261720	0.0	1576
+r431	At.HKC.scaffolds	100.000	26	0	0	285	310	367045	367020	7.61e-08	52.0
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:f354-rps10_fragment_2*****************f354 At.HKC.scaffolds 237444 237785ORF_len:342,GENE_len:75
+f354	At.HKC.scaffolds	100.000	342	0	0	1	342	237444	237785	0.0	678
+rps10_fragment_2	At.HKC.scaffolds	100.000	75	0	0	1	75	237425	237499	3.53e-38	149
+***************************TEST:f673-nad5_fragment_2*****************f673 At.HKC.scaffolds 356238 357476ORF_len:1239,GENE_len:1203
+f673	At.HKC.scaffolds	100.000	1239	0	0	1	1239	356238	357476	0.0	2456
+nad5_fragment_2	At.HKC.scaffolds	100.000	1203	0	0	1	1203	356250	357452	0.0	2385
+***************************TEST:f708-ccmFn*****************f708 At.HKC.scaffolds 372392 372682ORF_len:291,GENE_len:1728
+f708	At.HKC.scaffolds	100.000	291	0	0	1	291	372392	372682	1.97e-166	577
+ccmFn	At.HKC.scaffolds	99.539	1734	2	1	1	1728	372890	371157	0.0	3376
+***************************TEST:r426-nad1_fragment_4*****************r426 At.HKC.scaffolds 259146 259379ORF_len:234,GENE_len:60
+r426	At.HKC.scaffolds	100.000	234	0	0	1	234	259146	259379	1.62e-132	464
+nad1_fragment_4	At.HKC.scaffolds	100.000	60	0	0	1	60	259298	259357	2.40e-29	119
+***************************TEST:f908-atp8*****************f908 At.HKC.scaffolds 443379 443726ORF_len:348,GENE_len:477
+f908	At.HKC.scaffolds	100.000	348	0	0	1	348	443379	443726	0.0	690
+f908	At.HKC.scaffolds	100.000	338	0	0	11	348	122832	123169	0.0	670
+f908	At.HKC.scaffolds	92.683	82	6	0	56	137	55588	55507	2.61e-27	115
+atp8	At.HKC.scaffolds	99.161	477	4	0	1	477	443506	443982	0.0	914
+atp8	At.HKC.scaffolds	98.366	306	5	0	1	306	122949	123254	3.16e-163	567
+***************************TEST:r889-ccmFc_fragment_2*****************r889 At.HKC.scaffolds 422585 423127ORF_len:543,GENE_len:549
+r889	At.HKC.scaffolds	100.000	543	0	0	1	543	422585	423127	0.0	1076
+ccmFc_fragment_2	At.HKC.scaffolds	99.818	549	1	0	1	549	422445	422993	0.0	1080
+***************************TEST:r981-nad2_fragment_2*****************r981 At.HKC.scaffolds 52705 53205ORF_len:501,GENE_len:351
+r981	At.HKC.scaffolds	100.000	501	0	0	1	501	52705	53205	0.0	993
+r981	At.HKC.scaffolds	100.000	49	0	0	438	486	26114	26162	8.93e-22	97.6
+nad2_fragment_2	At.HKC.scaffolds	100.000	351	0	0	1	351	53085	52735	0.0	696
+***************************TEST:f929-rpl10*****************f929 At.HKC.scaffolds 47223 47690ORF_len:468,GENE_len:486
+f929	At.HKC.scaffolds	100.000	468	0	0	1	468	47223	47690	0.0	928
+f929	At.HKC.scaffolds	99.038	104	1	0	348	451	366157	366260	3.07e-52	198
+f929	At.HKC.scaffolds	100.000	56	0	0	395	450	236313	236258	5.54e-26	111
+f929	At.HKC.scaffolds	98.148	54	1	0	397	450	338884	338937	2.11e-22	99.6
+rpl10	At.HKC.scaffolds	99.588	486	2	0	1	486	47575	47090	0.0	948
+***************************TEST:r384-cox1*****************r384 At.HKC.scaffolds 238129 238560ORF_len:432,GENE_len:1578
+r384	At.HKC.scaffolds	100.000	432	0	0	1	432	238129	238560	0.0	856
+cox1	At.HKC.scaffolds	99.873	1578	2	0	1	1578	237737	239314	0.0	3112
+cox1	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.40e-06	46.1
+***************************TEST:r963-nad1_fragment_1*****************r963 At.HKC.scaffolds 46773 47090ORF_len:318,GENE_len:387
+r963	At.HKC.scaffolds	100.000	318	0	0	1	318	46773	47090	0.0	630
+r963	At.HKC.scaffolds	96.923	65	2	0	105	169	218578	218642	9.39e-27	113
+nad1_fragment_1	At.HKC.scaffolds	100.000	387	0	0	1	387	46858	46472	0.0	767
+nad1_fragment_1	At.HKC.scaffolds	95.652	46	2	0	338	383	122737	122782	2.51e-15	75.8
+***************************TEST:r360-nad5_fragment_3*****************r360 At.HKC.scaffolds 229421 229951ORF_len:531,GENE_len:396
+r360	At.HKC.scaffolds	100.000	531	0	0	1	531	229421	229951	0.0	1053
+nad5_fragment_3	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:f1035-ccmB*****************f1035 At.HKC.scaffolds 90086 90400ORF_len:315,GENE_len:630
+f1035	At.HKC.scaffolds	100.000	315	0	0	1	315	90086	90400	1.02e-180	624
+ccmB	At.HKC.scaffolds	99.841	630	1	0	1	630	90642	90013	0.0	1241
+***************************TEST:f927-nad1_fragment_1*****************f927 At.HKC.scaffolds 46813 47094ORF_len:282,GENE_len:387
+f927	At.HKC.scaffolds	100.000	282	0	0	1	282	46813	47094	4.48e-161	559
+f927	At.HKC.scaffolds	96.923	65	2	0	65	129	218578	218642	8.30e-27	113
+nad1_fragment_1	At.HKC.scaffolds	100.000	387	0	0	1	387	46858	46472	0.0	767
+nad1_fragment_1	At.HKC.scaffolds	95.652	46	2	0	338	383	122737	122782	2.51e-15	75.8
+***************************TEST:f1011-rpl16*****************f1011 At.HKC.scaffolds 79949 80179ORF_len:231,GENE_len:555
+f1011	At.HKC.scaffolds	100.000	231	0	0	1	231	79949	80179	9.86e-131	458
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:f1016-rps3*****************f1016 At.HKC.scaffolds 81039 81335ORF_len:297,GENE_len:1680
+f1016	At.HKC.scaffolds	100.000	297	0	0	1	297	81039	81335	5.27e-170	589
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:r721-rpl5*****************r721 At.HKC.scaffolds 365608 366171ORF_len:564,GENE_len:552
+r721	At.HKC.scaffolds	100.000	564	0	0	1	564	365608	366171	0.0	1118
+rpl5	At.HKC.scaffolds	99.819	552	1	0	1	552	366162	365611	0.0	1086
+***************************TEST:f354-cox1*****************f354 At.HKC.scaffolds 237444 237785ORF_len:342,GENE_len:1578
+f354	At.HKC.scaffolds	100.000	342	0	0	1	342	237444	237785	0.0	678
+cox1	At.HKC.scaffolds	99.873	1578	2	0	1	1578	237737	239314	0.0	3112
+cox1	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.40e-06	46.1
+***************************TEST:f57-atp8*****************f57 At.HKC.scaffolds 122792 123169ORF_len:378,GENE_len:477
+f57	At.HKC.scaffolds	100.000	378	0	0	1	378	122792	123169	0.0	749
+f57	At.HKC.scaffolds	100.000	338	0	0	41	378	443389	443726	0.0	670
+f57	At.HKC.scaffolds	92.683	82	6	0	86	167	55588	55507	2.84e-27	115
+atp8	At.HKC.scaffolds	99.161	477	4	0	1	477	443506	443982	0.0	914
+atp8	At.HKC.scaffolds	98.366	306	5	0	1	306	122949	123254	3.16e-163	567
+***************************TEST:f45-nad3*****************f45 At.HKC.scaffolds 118875 119255ORF_len:381,GENE_len:354
+f45	At.HKC.scaffolds	100.000	381	0	0	1	381	118875	119255	0.0	755
+f45	At.HKC.scaffolds	93.701	127	4	1	30	156	67576	67454	9.43e-49	186
+f45	At.HKC.scaffolds	96.552	29	1	0	33	61	333015	332987	1.41e-07	50.1
+f45	At.HKC.scaffolds	93.333	30	2	0	30	59	280394	280423	8.72e-06	44.1
+nad3	At.HKC.scaffolds	99.718	354	1	0	1	354	67516	67163	0.0	694
+nad3	At.HKC.scaffolds	95.238	63	3	0	1	63	118968	119030	4.00e-23	101
+***************************TEST:f188-nad2_fragment_4*****************f188 At.HKC.scaffolds 172172 173071ORF_len:900,GENE_len:621
+f188	At.HKC.scaffolds	100.000	900	0	0	1	900	172172	173071	0.0	1784
+nad2_fragment_4	At.HKC.scaffolds	100.000	621	0	0	1	621	172424	173044	0.0	1231
+***************************TEST:f911-cox3*****************f911 At.HKC.scaffolds 444490 445008ORF_len:519,GENE_len:795
+f911	At.HKC.scaffolds	100.000	519	0	0	1	519	444490	445008	0.0	1029
+cox3	At.HKC.scaffolds	100.000	795	0	0	1	795	444602	445396	0.0	1576
+***************************TEST:r802-atp4*****************r802 At.HKC.scaffolds 392627 393274ORF_len:648,GENE_len:588
+r802	At.HKC.scaffolds	100.000	648	0	0	1	648	392627	393274	0.0	1285
+atp4	At.HKC.scaffolds	99.830	588	1	0	1	588	392535	393122	0.0	1158
+***************************TEST:r561-cox2_fragment_1*****************r561 At.HKC.scaffolds 300908 301210ORF_len:303,GENE_len:702
+r561	At.HKC.scaffolds	100.000	303	0	0	1	303	300908	301210	1.41e-173	601
+r561	At.HKC.scaffolds	94.595	37	2	0	223	259	329818	329854	4.56e-10	58.0
+r561	At.HKC.scaffolds	96.429	28	1	0	71	98	364859	364832	4.40e-07	48.1
+r561	At.HKC.scaffolds	100.000	23	0	0	10	32	333479	333457	1.74e-06	46.1
+r561	At.HKC.scaffolds	100.000	23	0	0	10	32	442043	442065	1.74e-06	46.1
+cox2_fragment_1	At.HKC.scaffolds	99.858	702	1	0	1	702	301038	301739	0.0	1384
+cox2_fragment_1	At.HKC.scaffolds	96.471	85	3	0	618	702	204615	204531	6.01e-36	145
+cox2_fragment_1	At.HKC.scaffolds	94.595	37	2	0	93	129	329818	329854	1.09e-09	58.0
+cox2_fragment_1	At.HKC.scaffolds	100.000	25	0	0	659	683	69665	69641	2.65e-07	50.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	333576	333553	1.05e-06	48.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	441946	441969	1.05e-06	48.1
+***************************TEST:f763-nad4L*****************f763 At.HKC.scaffolds 391956 392324ORF_len:369,GENE_len:300
+f763	At.HKC.scaffolds	100.000	369	0	0	1	369	391956	392324	0.0	731
+nad4L	At.HKC.scaffolds	100.000	300	0	0	1	300	392022	392321	8.63e-172	595
+***************************TEST:f764-atp4*****************f764 At.HKC.scaffolds 392327 392566ORF_len:240,GENE_len:588
+f764	At.HKC.scaffolds	100.000	240	0	0	1	240	392327	392566	4.37e-136	476
+atp4	At.HKC.scaffolds	99.830	588	1	0	1	588	392535	393122	0.0	1158
+***************************TEST:r1088-ccmB*****************r1088 At.HKC.scaffolds 90035 90571ORF_len:537,GENE_len:630
+r1088	At.HKC.scaffolds	100.000	537	0	0	1	537	90035	90571	0.0	1065
+ccmB	At.HKC.scaffolds	99.841	630	1	0	1	630	90642	90013	0.0	1241
+***************************TEST:r30-rps7*****************r30 At.HKC.scaffolds 11515 11964ORF_len:450,GENE_len:465
+r30	At.HKC.scaffolds	100.000	269	0	0	182	450	11696	11964	4.15e-153	533
+r30	At.HKC.scaffolds	93.233	266	15	1	185	450	11076	11338	3.70e-107	381
+r30	At.HKC.scaffolds	100.000	81	0	0	1	81	11515	11595	6.41e-41	161
+r30	At.HKC.scaffolds	98.765	81	1	0	1	81	12143	12223	1.56e-38	153
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:r150-rps4*****************r150 At.HKC.scaffolds 154227 154565ORF_len:339,GENE_len:1044
+r150	At.HKC.scaffolds	100.000	339	0	0	1	339	154227	154565	0.0	672
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:r719-rps14_fragment_2*****************r719 At.HKC.scaffolds 365424 365816ORF_len:393,GENE_len:174
+r719	At.HKC.scaffolds	100.000	393	0	0	1	393	365424	365816	0.0	779
+rps14_fragment_2	At.HKC.scaffolds	100.000	174	0	0	1	174	365511	365338	7.53e-97	345
+***************************TEST:f24-rps7*****************f24 At.HKC.scaffolds 11136 11393ORF_len:258,GENE_len:465
+f24	At.HKC.scaffolds	100.000	258	0	0	1	258	11136	11393	8.56e-147	511
+f24	At.HKC.scaffolds	92.720	261	16	1	1	258	11759	12019	4.88e-102	363
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f22-rps7*****************f22 At.HKC.scaffolds 11126 11428ORF_len:303,GENE_len:465
+f22	At.HKC.scaffolds	100.000	303	0	0	1	303	11126	11428	1.41e-173	601
+f22	At.HKC.scaffolds	92.414	290	19	1	1	287	11749	12038	4.13e-112	396
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f1008-rpl16*****************f1008 At.HKC.scaffolds 78961 79752ORF_len:792,GENE_len:555
+f1008	At.HKC.scaffolds	100.000	792	0	0	1	792	78961	79752	0.0	1570
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:r14-rps7*****************r14 At.HKC.scaffolds 10760 11338ORF_len:579,GENE_len:465
+r14	At.HKC.scaffolds	100.000	579	0	0	1	579	10760	11338	0.0	1148
+r14	At.HKC.scaffolds	93.233	266	15	1	317	579	11699	11964	4.79e-107	381
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:r980-nad2_fragment_2*****************r980 At.HKC.scaffolds 52655 53035ORF_len:381,GENE_len:351
+r980	At.HKC.scaffolds	100.000	381	0	0	1	381	52655	53035	0.0	755
+nad2_fragment_2	At.HKC.scaffolds	100.000	351	0	0	1	351	53085	52735	0.0	696
+***************************TEST:f419-matR*****************f419 At.HKC.scaffolds 260015 261994ORF_len:1980,GENE_len:1983
+f419	At.HKC.scaffolds	100.000	1980	0	0	1	1980	260015	261994	0.0	3925
+f419	At.HKC.scaffolds	100.000	26	0	0	1196	1221	367045	367020	1.91e-07	52.0
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:f459-nad1_fragment_2*****************f459 At.HKC.scaffolds 27584 27889ORF_len:306,GENE_len:78
+f459	At.HKC.scaffolds	100.000	306	0	0	1	306	27584	27889	2.32e-175	607
+nad1_fragment_2	At.HKC.scaffolds	100.000	78	0	0	1	78	27624	27547	5.99e-40	155
+***************************TEST:f693-rps14_fragment_2*****************f693 At.HKC.scaffolds 365263 365532ORF_len:270,GENE_len:174
+f693	At.HKC.scaffolds	100.000	270	0	0	1	270	365263	365532	6.20e-154	535
+rps14_fragment_2	At.HKC.scaffolds	100.000	174	0	0	1	174	365511	365338	7.53e-97	345
+***************************TEST:r383-cox1*****************r383 At.HKC.scaffolds 237464 237796ORF_len:333,GENE_len:1578
+r383	At.HKC.scaffolds	100.000	333	0	0	1	333	237464	237796	0.0	660
+cox1	At.HKC.scaffolds	99.873	1578	2	0	1	1578	237737	239314	0.0	3112
+cox1	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.40e-06	46.1
+***************************TEST:f1017-rps3*****************f1017 At.HKC.scaffolds 81086 81397ORF_len:312,GENE_len:1680
+f1017	At.HKC.scaffolds	100.000	312	0	0	1	312	81086	81397	6.21e-179	618
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:f912-sdh4*****************f912 At.HKC.scaffolds 445261 445944ORF_len:684,GENE_len:393
+f912	At.HKC.scaffolds	100.000	684	0	0	1	684	445261	445944	0.0	1356
+f912	At.HKC.scaffolds	100.000	25	0	0	490	514	304028	304052	2.58e-07	50.1
+sdh4	At.HKC.scaffolds	100.000	393	0	0	1	393	445327	445719	0.0	779
+***************************TEST:r382-rps10_fragment_2*****************r382 At.HKC.scaffolds 237393 237707ORF_len:315,GENE_len:75
+r382	At.HKC.scaffolds	100.000	315	0	0	1	315	237393	237707	1.02e-180	624
+rps10_fragment_2	At.HKC.scaffolds	100.000	75	0	0	1	75	237425	237499	3.53e-38	149
+***************************TEST:r1024-rps12*****************r1024 At.HKC.scaffolds 66563 67153ORF_len:591,GENE_len:375
+r1024	At.HKC.scaffolds	100.000	591	0	0	1	591	66563	67153	0.0	1172
+rps12	At.HKC.scaffolds	100.000	375	0	0	1	375	67111	66737	0.0	743
+***************************TEST:r880-ccmFc_fragment_1*****************r880 At.HKC.scaffolds 420891 421397ORF_len:507,GENE_len:771
+r880	At.HKC.scaffolds	100.000	507	0	0	1	507	420891	421397	0.0	1005
+r880	At.HKC.scaffolds	90.123	81	3	1	86	166	442488	442563	9.04e-22	97.6
+ccmFc_fragment_1	At.HKC.scaffolds	100.000	771	0	0	1	771	420721	421491	0.0	1528
+ccmFc_fragment_1	At.HKC.scaffolds	90.123	81	3	1	256	336	442488	442563	1.39e-21	97.6
+***************************TEST:f712-cob*****************f712 At.HKC.scaffolds 37424 37831ORF_len:408,GENE_len:1191
+f712	At.HKC.scaffolds	100.000	408	0	0	1	408	37424	37831	0.0	809
+cob	At.HKC.scaffolds	99.832	1191	2	0	1	1191	37525	36335	0.0	2345
+***************************TEST:r843-atp1*****************r843 At.HKC.scaffolds 408336 408743ORF_len:408,GENE_len:1521
+r843	At.HKC.scaffolds	100.000	282	0	0	127	408	408462	408743	6.56e-161	559
+r843	At.HKC.scaffolds	100.000	26	0	0	1	26	17480	17505	3.84e-08	52.0
+r843	At.HKC.scaffolds	100.000	26	0	0	1	26	408336	408361	3.84e-08	52.0
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:r360-nad5_fragment_4*****************r360 At.HKC.scaffolds 229421 229951ORF_len:531,GENE_len:396
+r360	At.HKC.scaffolds	100.000	531	0	0	1	531	229421	229951	0.0	1053
+nad5_fragment_4	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:f665-atp9*****************f665 At.HKC.scaffolds 354256 354906ORF_len:651,GENE_len:243
+f665	At.HKC.scaffolds	100.000	651	0	0	1	651	354256	354906	0.0	1291
+f665	At.HKC.scaffolds	98.077	52	1	0	228	279	144917	144866	4.62e-21	95.6
+f665	At.HKC.scaffolds	97.368	38	1	0	585	622	176134	176171	1.04e-12	67.9
+f665	At.HKC.scaffolds	96.970	33	1	0	224	256	441872	441904	1.01e-09	58.0
+atp9	At.HKC.scaffolds	100.000	243	0	0	1	243	354616	354858	7.18e-138	482
+***************************TEST:r1060-rps3*****************r1060 At.HKC.scaffolds 81033 81419ORF_len:387,GENE_len:1680
+r1060	At.HKC.scaffolds	100.000	387	0	0	1	387	81033	81419	0.0	767
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:r149-rps4*****************r149 At.HKC.scaffolds 154015 154317ORF_len:303,GENE_len:1044
+r149	At.HKC.scaffolds	100.000	303	0	0	1	303	154015	154317	1.41e-173	601
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:f926-nad1_fragment_1*****************f926 At.HKC.scaffolds 46611 47168ORF_len:558,GENE_len:387
+f926	At.HKC.scaffolds	100.000	558	0	0	1	558	46611	47168	0.0	1106
+f926	At.HKC.scaffolds	96.923	65	2	0	267	331	218578	218642	1.68e-26	113
+nad1_fragment_1	At.HKC.scaffolds	100.000	387	0	0	1	387	46858	46472	0.0	767
+nad1_fragment_1	At.HKC.scaffolds	95.652	46	2	0	338	383	122737	122782	2.51e-15	75.8
+***************************TEST:r361-nad5_fragment_3*****************r361 At.HKC.scaffolds 229776 230036ORF_len:261,GENE_len:396
+r361	At.HKC.scaffolds	100.000	261	0	0	1	261	229776	230036	1.40e-148	517
+nad5_fragment_3	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:r962-nad1_fragment_1*****************r962 At.HKC.scaffolds 46469 46852ORF_len:384,GENE_len:387
+r962	At.HKC.scaffolds	100.000	384	0	0	1	384	46469	46852	0.0	761
+r962	At.HKC.scaffolds	95.652	46	2	0	8	53	122782	122737	2.49e-15	75.8
+nad1_fragment_1	At.HKC.scaffolds	100.000	387	0	0	1	387	46858	46472	0.0	767
+nad1_fragment_1	At.HKC.scaffolds	95.652	46	2	0	338	383	122737	122782	2.51e-15	75.8
+***************************TEST:r988-sdh3*****************r988 At.HKC.scaffolds 55076 55768ORF_len:693,GENE_len:291
+r988	At.HKC.scaffolds	100.000	693	0	0	1	693	55076	55768	0.0	1374
+r988	At.HKC.scaffolds	92.683	82	6	0	432	513	122958	122877	5.31e-27	115
+r988	At.HKC.scaffolds	92.683	82	6	0	432	513	443515	443434	5.31e-27	115
+r988	At.HKC.scaffolds	97.500	40	1	0	273	312	391284	391245	7.13e-14	71.9
+r988	At.HKC.scaffolds	100.000	23	0	0	404	426	238968	238946	4.08e-06	46.1
+sdh3	At.HKC.scaffolds	100.000	291	0	0	1	291	55480	55190	1.97e-166	577
+sdh3	At.HKC.scaffolds	97.500	40	1	0	94	133	391245	391284	2.92e-14	71.9
+***************************TEST:f945-nad2_fragment_2*****************f945 At.HKC.scaffolds 52859 53194ORF_len:336,GENE_len:351
+f945	At.HKC.scaffolds	100.000	336	0	0	1	336	52859	53194	0.0	666
+f945	At.HKC.scaffolds	100.000	49	0	0	284	332	26114	26162	5.91e-22	97.6
+nad2_fragment_2	At.HKC.scaffolds	100.000	351	0	0	1	351	53085	52735	0.0	696
+***************************TEST:f674-nad5_fragment_2*****************f674 At.HKC.scaffolds 356630 356998ORF_len:369,GENE_len:1203
+f674	At.HKC.scaffolds	100.000	369	0	0	1	369	356630	356998	0.0	731
+nad5_fragment_2	At.HKC.scaffolds	100.000	1203	0	0	1	1203	356250	357452	0.0	2385
+***************************TEST:f802-atp1*****************f802 At.HKC.scaffolds 408135 408581ORF_len:447,GENE_len:1521
+f802	At.HKC.scaffolds	100.000	227	0	0	1	227	408135	408361	4.77e-128	450
+f802	At.HKC.scaffolds	100.000	120	0	0	328	447	408462	408581	3.40e-64	238
+f802	At.HKC.scaffolds	100.000	71	0	0	157	227	17435	17505	5.91e-35	141
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:r1058-rps3*****************r1058 At.HKC.scaffolds 79834 81516ORF_len:1683,GENE_len:1680
+r1058	At.HKC.scaffolds	100.000	1683	0	0	1	1683	79834	81516	0.0	3336
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
+***************************TEST:f422-matR*****************f422 At.HKC.scaffolds 260923 261228ORF_len:306,GENE_len:1983
+f422	At.HKC.scaffolds	100.000	306	0	0	1	306	260923	261228	2.32e-175	607
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:r1027-atp1*****************r1027 At.HKC.scaffolds 67649 68755ORF_len:1107,GENE_len:1521
+r1027	At.HKC.scaffolds	100.000	1107	0	0	1	1107	67649	68755	0.0	2194
+r1027	At.HKC.scaffolds	91.573	178	8	1	934	1104	372992	373169	8.56e-64	238
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:r844-atp1*****************r844 At.HKC.scaffolds 408698 408958ORF_len:261,GENE_len:1521
+r844	At.HKC.scaffolds	100.000	261	0	0	1	261	408698	408958	1.40e-148	517
+atp1	At.HKC.scaffolds	97.463	1222	25	1	306	1521	408462	409683	0.0	2179
+atp1	At.HKC.scaffolds	98.033	305	6	0	1	305	68623	68319	9.90e-160	557
+atp1	At.HKC.scaffolds	87.879	66	8	0	1456	1521	329757	329822	2.47e-12	67.9
+atp1	At.HKC.scaffolds	95.238	42	2	0	1	42	373033	372992	2.47e-12	67.9
+***************************TEST:f666-atp9*****************f666 At.HKC.scaffolds 354353 354655ORF_len:303,GENE_len:243
+f666	At.HKC.scaffolds	100.000	303	0	0	1	303	354353	354655	1.41e-173	601
+f666	At.HKC.scaffolds	98.077	52	1	0	131	182	144917	144866	2.10e-21	95.6
+f666	At.HKC.scaffolds	96.970	33	1	0	127	159	441872	441904	4.56e-10	58.0
+f666	At.HKC.scaffolds	96.154	26	1	0	131	156	284064	284089	6.87e-06	44.1
+atp9	At.HKC.scaffolds	100.000	243	0	0	1	243	354616	354858	7.18e-138	482
+***************************TEST:f440-nad7_fragment_4*****************f440 At.HKC.scaffolds 267288 267602ORF_len:315,GENE_len:243
+f440	At.HKC.scaffolds	100.000	315	0	0	1	315	267288	267602	1.02e-180	624
+nad7_fragment_4	At.HKC.scaffolds	100.000	243	0	0	1	243	267324	267566	7.18e-138	482
+***************************TEST:f907-atp8*****************f907 At.HKC.scaffolds 443287 444153ORF_len:867,GENE_len:477
+f907	At.HKC.scaffolds	100.000	867	0	0	1	867	443287	444153	0.0	1719
+f907	At.HKC.scaffolds	99.527	423	2	0	103	525	122832	123254	0.0	823
+f907	At.HKC.scaffolds	92.683	82	6	0	148	229	55588	55507	6.66e-27	115
+atp8	At.HKC.scaffolds	99.161	477	4	0	1	477	443506	443982	0.0	914
+atp8	At.HKC.scaffolds	98.366	306	5	0	1	306	122949	123254	3.16e-163	567
+***************************TEST:r677-mttB*****************r677 At.HKC.scaffolds 348093 349160ORF_len:1068,GENE_len:780
+r677	At.HKC.scaffolds	100.000	1068	0	0	1	1068	348093	349160	0.0	2117
+mttB	At.HKC.scaffolds	99.615	780	3	0	1	780	348974	348195	0.0	1522
+***************************TEST:r559-cox2_fragment_1*****************r559 At.HKC.scaffolds 300739 301065ORF_len:327,GENE_len:702
+r559	At.HKC.scaffolds	100.000	327	0	0	1	327	300739	301065	0.0	648
+r559	At.HKC.scaffolds	98.876	89	1	0	74	162	404144	404056	1.89e-43	168
+r559	At.HKC.scaffolds	96.429	28	1	0	240	267	364859	364832	4.76e-07	48.1
+r559	At.HKC.scaffolds	100.000	23	0	0	179	201	333479	333457	1.88e-06	46.1
+r559	At.HKC.scaffolds	100.000	23	0	0	179	201	442043	442065	1.88e-06	46.1
+cox2_fragment_1	At.HKC.scaffolds	99.858	702	1	0	1	702	301038	301739	0.0	1384
+cox2_fragment_1	At.HKC.scaffolds	96.471	85	3	0	618	702	204615	204531	6.01e-36	145
+cox2_fragment_1	At.HKC.scaffolds	94.595	37	2	0	93	129	329818	329854	1.09e-09	58.0
+cox2_fragment_1	At.HKC.scaffolds	100.000	25	0	0	659	683	69665	69641	2.65e-07	50.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	333576	333553	1.05e-06	48.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	441946	441969	1.05e-06	48.1
+***************************TEST:r257-nad4_fragment_2*****************r257 At.HKC.scaffolds 191176 191415ORF_len:240,GENE_len:936
+r257	At.HKC.scaffolds	100.000	240	0	0	1	240	191176	191415	4.37e-136	476
+nad4_fragment_2	At.HKC.scaffolds	100.000	936	0	0	1	936	191114	192049	0.0	1855
+***************************TEST:f56-atp8*****************f56 At.HKC.scaffolds 122787 124016ORF_len:1230,GENE_len:477
+f56	At.HKC.scaffolds	100.000	1230	0	0	1	1230	122787	124016	0.0	2438
+f56	At.HKC.scaffolds	99.527	423	2	0	46	468	443389	443811	0.0	823
+f56	At.HKC.scaffolds	92.683	82	6	0	91	172	55588	55507	9.49e-27	115
+f56	At.HKC.scaffolds	93.478	46	3	0	461	506	28531	28486	1.99e-12	67.9
+f56	At.HKC.scaffolds	93.478	46	3	0	461	506	153857	153902	1.99e-12	67.9
+atp8	At.HKC.scaffolds	99.161	477	4	0	1	477	443506	443982	0.0	914
+atp8	At.HKC.scaffolds	98.366	306	5	0	1	306	122949	123254	3.16e-163	567
+***************************TEST:r800-nad4L*****************r800 At.HKC.scaffolds 391982 392314ORF_len:333,GENE_len:300
+r800	At.HKC.scaffolds	100.000	333	0	0	1	333	391982	392314	0.0	660
+nad4L	At.HKC.scaffolds	100.000	300	0	0	1	300	392022	392321	8.63e-172	595
+***************************TEST:f695-rpl5*****************f695 At.HKC.scaffolds 365905 366132ORF_len:228,GENE_len:552
+f695	At.HKC.scaffolds	100.000	228	0	0	1	228	365905	366132	6.00e-129	452
+rpl5	At.HKC.scaffolds	99.819	552	1	0	1	552	366162	365611	0.0	1086
+***************************TEST:f15-rps7*****************f15 At.HKC.scaffolds 10757 11122ORF_len:366,GENE_len:465
+f15	At.HKC.scaffolds	100.000	366	0	0	1	366	10757	11122	0.0	726
+f15	At.HKC.scaffolds	93.617	47	3	0	320	366	11699	11745	1.46e-13	69.9
+rps7	At.HKC.scaffolds	95.796	452	17	1	11	462	11175	10726	0.0	739
+rps7	At.HKC.scaffolds	100.000	113	0	0	1	113	11808	11696	5.32e-60	224
+***************************TEST:f189-nad2_fragment_4*****************f189 At.HKC.scaffolds 172216 172494ORF_len:279,GENE_len:621
+f189	At.HKC.scaffolds	100.000	279	0	0	1	279	172216	172494	2.73e-159	553
+nad2_fragment_4	At.HKC.scaffolds	100.000	621	0	0	1	621	172424	173044	0.0	1231
+***************************TEST:r478-nad1_fragment_2*****************r478 At.HKC.scaffolds 27398 27670ORF_len:273,GENE_len:78
+r478	At.HKC.scaffolds	100.000	273	0	0	1	273	27398	27670	1.02e-155	541
+nad1_fragment_2	At.HKC.scaffolds	100.000	78	0	0	1	78	27624	27547	5.99e-40	155
+***************************TEST:r376-rps10_fragment_1*****************r376 At.HKC.scaffolds 236000 237001ORF_len:1002,GENE_len:210
+r376	At.HKC.scaffolds	100.000	1002	0	0	1	1002	236000	237001	0.0	1986
+r376	At.HKC.scaffolds	100.000	56	0	0	259	314	47672	47617	1.21e-25	111
+r376	At.HKC.scaffolds	100.000	56	0	0	259	314	366259	366204	1.21e-25	111
+r376	At.HKC.scaffolds	98.148	54	1	0	259	312	338937	338884	4.59e-22	99.6
+rps10_fragment_1	At.HKC.scaffolds	99.048	210	2	0	1	210	236347	236556	1.80e-113	400
+***************************TEST:f910-cox3*****************f910 At.HKC.scaffolds 444458 445531ORF_len:1074,GENE_len:795
+f910	At.HKC.scaffolds	100.000	1074	0	0	1	1074	444458	445531	0.0	2129
+cox3	At.HKC.scaffolds	100.000	795	0	0	1	795	444602	445396	0.0	1576
+***************************TEST:f341-nad5_fragment_4*****************f341 At.HKC.scaffolds 229807 230040ORF_len:234,GENE_len:396
+f341	At.HKC.scaffolds	100.000	234	0	0	1	234	229807	230040	1.62e-132	464
+nad5_fragment_4	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:f228-nad4_fragment_1*****************f228 At.HKC.scaffolds 189196 189849ORF_len:654,GENE_len:459
+f228	At.HKC.scaffolds	100.000	654	0	0	1	654	189196	189849	0.0	1296
+nad4_fragment_1	At.HKC.scaffolds	100.000	459	0	0	1	459	189206	189664	0.0	910
+***************************TEST:r649-nad1_fragment_5*****************r649 At.HKC.scaffolds 337787 338089ORF_len:303,GENE_len:255
+r649	At.HKC.scaffolds	100.000	303	0	0	1	303	337787	338089	1.41e-173	601
+r649	At.HKC.scaffolds	92.857	42	3	0	119	160	191031	190990	1.16e-10	60.0
+nad1_fragment_5	At.HKC.scaffolds	99.608	255	1	0	1	255	337832	337578	1.27e-142	498
+nad1_fragment_5	At.HKC.scaffolds	100.000	45	0	0	174	218	24651	24607	1.08e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	96.667	30	1	0	75	104	41953	41924	2.36e-08	52.0
+***************************TEST:f179-nad2_fragment_3*****************f179 At.HKC.scaffolds 169645 169992ORF_len:348,GENE_len:162
+f179	At.HKC.scaffolds	100.000	348	0	0	1	348	169645	169992	0.0	690
+nad2_fragment_3	At.HKC.scaffolds	99.383	162	1	0	1	162	169795	169956	2.46e-87	313
+***************************TEST:f428-nad7_fragment_2*****************f428 At.HKC.scaffolds 263959 264189ORF_len:231,GENE_len:108
+f428	At.HKC.scaffolds	100.000	231	0	0	1	231	263959	264189	9.86e-131	458
+nad7_fragment_2	At.HKC.scaffolds	100.000	108	0	0	1	108	264132	264239	1.08e-57	214
+***************************TEST:f428-nad7_fragment_3*****************f428 At.HKC.scaffolds 263959 264189ORF_len:231,GENE_len:108
+f428	At.HKC.scaffolds	100.000	231	0	0	1	231	263959	264189	9.86e-131	458
+nad7_fragment_3	At.HKC.scaffolds	100.000	108	0	0	1	108	264132	264239	1.08e-57	214
+***************************TEST:f1010-rpl16*****************f1010 At.HKC.scaffolds 79759 80025ORF_len:267,GENE_len:555
+f1010	At.HKC.scaffolds	100.000	267	0	0	1	267	79759	80025	3.78e-152	529
+rpl16	At.HKC.scaffolds	100.000	555	0	0	1	555	79985	79431	0.0	1100
+***************************TEST:f240-nad4_fragment_3*****************f240 At.HKC.scaffolds 194091 194747ORF_len:657,GENE_len:87
+f240	At.HKC.scaffolds	100.000	657	0	0	1	657	194091	194747	0.0	1302
+nad4_fragment_3	At.HKC.scaffolds	100.000	87	0	0	1	87	194592	194678	2.90e-45	172
+***************************TEST:r698-nad5_fragment_2*****************r698 At.HKC.scaffolds 356354 356941ORF_len:588,GENE_len:1203
+r698	At.HKC.scaffolds	100.000	588	0	0	1	588	356354	356941	0.0	1166
+nad5_fragment_2	At.HKC.scaffolds	100.000	1203	0	0	1	1203	356250	357452	0.0	2385
+***************************TEST:f140-rps4*****************f140 At.HKC.scaffolds 153652 154806ORF_len:1155,GENE_len:1044
+f140	At.HKC.scaffolds	100.000	1155	0	0	1	1155	153652	154806	0.0	2290
+f140	At.HKC.scaffolds	98.925	93	1	0	196	288	28541	28449	2.82e-45	176
+f140	At.HKC.scaffolds	93.478	46	3	0	206	251	123247	123292	1.87e-12	67.9
+f140	At.HKC.scaffolds	100.000	24	0	0	113	136	155011	154988	1.73e-06	48.1
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:r696-nad5_fragment_2*****************r696 At.HKC.scaffolds 355829 356284ORF_len:456,GENE_len:1203
+r696	At.HKC.scaffolds	100.000	456	0	0	1	456	355829	356284	0.0	904
+nad5_fragment_2	At.HKC.scaffolds	100.000	1203	0	0	1	1203	356250	357452	0.0	2385
+***************************TEST:f707-ccmFn*****************f707 At.HKC.scaffolds 372082 372372ORF_len:291,GENE_len:1728
+f707	At.HKC.scaffolds	100.000	291	0	0	1	291	372082	372372	1.97e-166	577
+ccmFn	At.HKC.scaffolds	99.539	1734	2	1	1	1728	372890	371157	0.0	3376
+***************************TEST:r646-nad1_fragment_5*****************r646 At.HKC.scaffolds 337489 337716ORF_len:228,GENE_len:255
+r646	At.HKC.scaffolds	100.000	228	0	0	1	228	337489	337716	6.00e-129	452
+r646	At.HKC.scaffolds	97.959	49	1	0	23	71	355030	354982	9.62e-20	89.7
+r646	At.HKC.scaffolds	100.000	45	0	0	127	171	24607	24651	9.62e-20	89.7
+nad1_fragment_5	At.HKC.scaffolds	99.608	255	1	0	1	255	337832	337578	1.27e-142	498
+nad1_fragment_5	At.HKC.scaffolds	100.000	45	0	0	174	218	24651	24607	1.08e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	96.667	30	1	0	75	104	41953	41924	2.36e-08	52.0
+***************************TEST:f351-rps10_fragment_1*****************f351 At.HKC.scaffolds 236209 236607ORF_len:399,GENE_len:210
+f351	At.HKC.scaffolds	100.000	399	0	0	1	399	236209	236607	0.0	791
+f351	At.HKC.scaffolds	100.000	56	0	0	50	105	47672	47617	4.70e-26	111
+f351	At.HKC.scaffolds	100.000	56	0	0	50	105	366259	366204	4.70e-26	111
+f351	At.HKC.scaffolds	98.148	54	1	0	50	103	338937	338884	1.79e-22	99.6
+rps10_fragment_1	At.HKC.scaffolds	99.048	210	2	0	1	210	236347	236556	1.80e-113	400
+***************************TEST:r716-cob*****************r716 At.HKC.scaffolds 36293 37525ORF_len:1233,GENE_len:1191
+r716	At.HKC.scaffolds	100.000	1233	0	0	1	1233	36293	37525	0.0	2444
+cob	At.HKC.scaffolds	99.832	1191	2	0	1	1191	37525	36335	0.0	2345
+***************************TEST:f341-nad5_fragment_3*****************f341 At.HKC.scaffolds 229807 230040ORF_len:234,GENE_len:396
+f341	At.HKC.scaffolds	100.000	234	0	0	1	234	229807	230040	1.62e-132	464
+nad5_fragment_3	At.HKC.scaffolds	99.747	396	1	0	1	396	229882	229487	0.0	777
+***************************TEST:r693-nad5_fragment_1*****************r693 At.HKC.scaffolds 354955 355296ORF_len:342,GENE_len:237
+r693	At.HKC.scaffolds	100.000	342	0	0	1	342	354955	355296	0.0	678
+r693	At.HKC.scaffolds	97.959	49	1	0	28	76	337559	337511	1.47e-19	89.7
+r693	At.HKC.scaffolds	94.737	38	2	0	55	92	24613	24576	1.31e-10	60.0
+nad5_fragment_1	At.HKC.scaffolds	99.578	237	1	0	1	237	355163	355399	6.49e-132	462
+***************************TEST:r635-ccmC*****************r635 At.HKC.scaffolds 332314 332898ORF_len:585,GENE_len:750
+r635	At.HKC.scaffolds	100.000	585	0	0	1	585	332314	332898	0.0	1160
+ccmC	At.HKC.scaffolds	99.733	750	2	0	1	750	332855	332106	0.0	1471
+***************************TEST:r1025-rps12*****************r1025 At.HKC.scaffolds 67077 67403ORF_len:327,GENE_len:375
+r1025	At.HKC.scaffolds	100.000	327	0	0	1	327	67077	67403	0.0	648
+rps12	At.HKC.scaffolds	100.000	375	0	0	1	375	67111	66737	0.0	743
+***************************TEST:f846-ccmFc_fragment_2*****************f846 At.HKC.scaffolds 422115 423146ORF_len:1032,GENE_len:549
+f846	At.HKC.scaffolds	100.000	1032	0	0	1	1032	422115	423146	0.0	2046
+ccmFc_fragment_2	At.HKC.scaffolds	99.818	549	1	0	1	549	422445	422993	0.0	1080
+***************************TEST:f542-cox2_fragment_1*****************f542 At.HKC.scaffolds 300851 301243ORF_len:393,GENE_len:702
+f542	At.HKC.scaffolds	100.000	393	0	0	1	393	300851	301243	0.0	779
+f542	At.HKC.scaffolds	100.000	50	0	0	1	50	404105	404056	1.76e-22	99.6
+f542	At.HKC.scaffolds	94.595	37	2	0	280	316	329818	329854	5.99e-10	58.0
+f542	At.HKC.scaffolds	96.429	28	1	0	128	155	364859	364832	5.77e-07	48.1
+f542	At.HKC.scaffolds	100.000	23	0	0	67	89	333479	333457	2.28e-06	46.1
+f542	At.HKC.scaffolds	100.000	23	0	0	67	89	442043	442065	2.28e-06	46.1
+cox2_fragment_1	At.HKC.scaffolds	99.858	702	1	0	1	702	301038	301739	0.0	1384
+cox2_fragment_1	At.HKC.scaffolds	96.471	85	3	0	618	702	204615	204531	6.01e-36	145
+cox2_fragment_1	At.HKC.scaffolds	94.595	37	2	0	93	129	329818	329854	1.09e-09	58.0
+cox2_fragment_1	At.HKC.scaffolds	100.000	25	0	0	659	683	69665	69641	2.65e-07	50.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	333576	333553	1.05e-06	48.1
+cox2_fragment_1	At.HKC.scaffolds	100.000	24	0	0	659	682	441946	441969	1.05e-06	48.1
+***************************TEST:r488-rps4*****************r488 At.HKC.scaffolds 27771 28664ORF_len:894,GENE_len:1044
+r488	At.HKC.scaffolds	100.000	894	0	0	1	894	27771	28664	0.0	1772
+r488	At.HKC.scaffolds	98.925	93	1	0	679	771	153939	153847	2.18e-45	176
+r488	At.HKC.scaffolds	96.875	64	2	0	423	486	28139	28202	1.07e-25	111
+r488	At.HKC.scaffolds	96.875	64	2	0	369	432	28193	28256	1.07e-25	111
+r488	At.HKC.scaffolds	93.478	46	3	0	716	761	123292	123247	1.44e-12	67.9
+rps4	At.HKC.scaffolds	100.000	1044	0	0	1	1044	153760	154803	0.0	2070
+rps4	At.HKC.scaffolds	98.925	93	1	0	88	180	28541	28449	2.55e-45	176
+rps4	At.HKC.scaffolds	93.478	46	3	0	98	143	123247	123292	1.69e-12	67.9
+rps4	At.HKC.scaffolds	100.000	24	0	0	5	28	155011	154988	1.57e-06	48.1
+***************************TEST:f910-sdh4*****************f910 At.HKC.scaffolds 444458 445531ORF_len:1074,GENE_len:393
+f910	At.HKC.scaffolds	100.000	1074	0	0	1	1074	444458	445531	0.0	2129
+sdh4	At.HKC.scaffolds	100.000	393	0	0	1	393	445327	445719	0.0	779
+***************************TEST:f355-cox1*****************f355 At.HKC.scaffolds 237737 239320ORF_len:1584,GENE_len:1578
+f355	At.HKC.scaffolds	100.000	1584	0	0	1	1584	237737	239320	0.0	3140
+f355	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.43e-06	46.1
+cox1	At.HKC.scaffolds	99.873	1578	2	0	1	1578	237737	239314	0.0	3112
+cox1	At.HKC.scaffolds	100.000	23	0	0	1210	1232	55501	55479	9.40e-06	46.1
+***************************TEST:r427-matR*****************r427 At.HKC.scaffolds 259537 260061ORF_len:525,GENE_len:1983
+r427	At.HKC.scaffolds	100.000	525	0	0	1	525	259537	260061	0.0	1041
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:f415-nad1_fragment_4*****************f415 At.HKC.scaffolds 259201 259431ORF_len:231,GENE_len:60
+f415	At.HKC.scaffolds	100.000	231	0	0	1	231	259201	259431	9.86e-131	458
+nad1_fragment_4	At.HKC.scaffolds	100.000	60	0	0	1	60	259298	259357	2.40e-29	119
+***************************TEST:f626-nad1_fragment_5*****************f626 At.HKC.scaffolds 337349 337747ORF_len:399,GENE_len:255
+f626	At.HKC.scaffolds	100.000	399	0	0	1	399	337349	337747	0.0	791
+f626	At.HKC.scaffolds	100.000	45	0	0	267	311	24607	24651	1.72e-19	89.7
+f626	At.HKC.scaffolds	97.959	49	1	0	163	211	355030	354982	1.72e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	99.608	255	1	0	1	255	337832	337578	1.27e-142	498
+nad1_fragment_5	At.HKC.scaffolds	100.000	45	0	0	174	218	24651	24607	1.08e-19	89.7
+nad1_fragment_5	At.HKC.scaffolds	96.667	30	1	0	75	104	41953	41924	2.36e-08	52.0
+***************************TEST:r428-matR*****************r428 At.HKC.scaffolds 260226 260606ORF_len:381,GENE_len:1983
+r428	At.HKC.scaffolds	100.000	381	0	0	1	381	260226	260606	0.0	755
+matR	At.HKC.scaffolds	99.899	1983	2	0	1	1983	260027	262009	0.0	3915
+matR	At.HKC.scaffolds	100.000	26	0	0	1184	1209	367045	367020	1.92e-07	52.0
+***************************TEST:r1059-rps3*****************r1059 At.HKC.scaffolds 81017 81340ORF_len:324,GENE_len:1680
+r1059	At.HKC.scaffolds	100.000	324	0	0	1	324	81017	81340	0.0	642
+rps3	At.HKC.scaffolds	99.821	1680	3	0	1	1680	81516	79837	0.0	3307
