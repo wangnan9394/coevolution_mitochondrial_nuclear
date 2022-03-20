@@ -1,5 +1,8 @@
 # co-evolution_mitochondrial_nuclear-
 
+## The all data in this paper could be found in https://zenodo.org/record/5826754
+## If you have any questions, please contact me at email wangnan9394@163.com. I am happy to hear from you.
+
 coverage_depth_stats.py--python script for catch the coverages in target regions.
 align_the_circle_genome_by_identical_seeds.py--mitogenome as a circle genome if necessary to align with a same start seqs(position).
 
