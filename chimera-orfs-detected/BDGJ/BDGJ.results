@@ -1,0 +1,728 @@
+***************************TEST:r543-rps3*****************r543 Ma.BDGJ.scaffolds 296620 296931ORF_len:312,GENE_len:1680
+r543	Ma.BDGJ.scaffolds	100.000	312	0	0	1	312	296620	296931	7.18e-179	618
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:f486-rps4*****************f486 Ma.BDGJ.scaffolds 281316 281540ORF_len:225,GENE_len:1044
+f486	Ma.BDGJ.scaffolds	100.000	225	0	0	1	225	281316	281540	4.22e-127	446
+f486	Ma.BDGJ.scaffolds	100.000	225	0	0	1	225	472346	472122	4.22e-127	446
+f486	Ma.BDGJ.scaffolds	100.000	24	0	0	101	124	280214	280191	3.73e-07	48.1
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:r77-nad7_fragment_5*****************r77 Ma.BDGJ.scaffolds 128180 128449ORF_len:270,GENE_len:261
+r77	Ma.BDGJ.scaffolds	100.000	270	0	0	1	270	128180	128449	7.14e-154	535
+nad7_fragment_5	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	128285	128545	1.62e-148	517
+***************************TEST:r1203-nad5_fragment_3*****************r1203 Ma.BDGJ.scaffolds 88634 88894ORF_len:261,GENE_len:396
+r1203	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	88634	88894	1.62e-148	517
+nad5_fragment_3	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:r1110-ccmFn*****************r1110 Ma.BDGJ.scaffolds 53647 54147ORF_len:501,GENE_len:1728
+r1110	Ma.BDGJ.scaffolds	100.000	260	0	0	242	501	53888	54147	1.26e-147	515
+r1110	Ma.BDGJ.scaffolds	96.203	237	9	0	242	478	428377	428613	2.03e-112	398
+r1110	Ma.BDGJ.scaffolds	100.000	141	0	0	1	141	53647	53787	1.30e-76	280
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:r943-atp1*****************r943 Ma.BDGJ.scaffolds 462098 462358ORF_len:261,GENE_len:1521
+r943	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	190618	190358	1.62e-148	517
+r943	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	462098	462358	1.62e-148	517
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:r870-cox3*****************r870 Ma.BDGJ.scaffolds 422473 422910ORF_len:438,GENE_len:795
+r870	Ma.BDGJ.scaffolds	100.000	438	0	0	1	438	422473	422910	0.0	868
+cox3	Ma.BDGJ.scaffolds	100.000	795	0	0	1	795	422450	423244	0.0	1576
+***************************TEST:r54-nad7_fragment_1*****************r54 Ma.BDGJ.scaffolds 121949 122197ORF_len:249,GENE_len:162
+r54	Ma.BDGJ.scaffolds	100.000	249	0	0	1	249	121949	122197	2.24e-141	494
+nad7_fragment_1	Ma.BDGJ.scaffolds	99.383	162	1	0	1	162	122046	122207	2.85e-87	313
+***************************TEST:r1219-rps10_fragment_1*****************r1219 Ma.BDGJ.scaffolds 94872 95873ORF_len:1002,GENE_len:210
+r1219	Ma.BDGJ.scaffolds	100.000	1002	0	0	1	1002	94872	95873	0.0	1986
+r1219	Ma.BDGJ.scaffolds	100.000	56	0	0	259	314	54238	54183	1.39e-25	111
+r1219	Ma.BDGJ.scaffolds	100.000	56	0	0	259	314	169585	169530	1.39e-25	111
+r1219	Ma.BDGJ.scaffolds	100.000	56	0	0	259	314	468575	468630	1.39e-25	111
+rps10_fragment_1	Ma.BDGJ.scaffolds	100.000	210	0	0	1	210	95219	95428	3.50e-118	416
+***************************TEST:f988-rps4*****************f988 Ma.BDGJ.scaffolds 472380 472637ORF_len:258,GENE_len:1044
+f988	Ma.BDGJ.scaffolds	100.000	258	0	0	1	258	472380	472637	9.85e-147	511
+f988	Ma.BDGJ.scaffolds	100.000	79	0	0	1	79	281282	281204	6.48e-40	157
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:f852-ccmFc_fragment_1*****************f852 Ma.BDGJ.scaffolds 420285 420560ORF_len:276,GENE_len:771
+f852	Ma.BDGJ.scaffolds	100.000	276	0	0	1	276	420285	420560	1.92e-157	547
+f852	Ma.BDGJ.scaffolds	97.531	81	2	0	46	126	490999	491079	2.65e-36	145
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	100.000	771	0	0	1	771	490744	491514	0.0	1528
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	97.531	81	2	0	256	336	420330	420410	7.65e-36	145
+***************************TEST:f983-rps14_fragment_1*****************f983 Ma.BDGJ.scaffolds 469018 469410ORF_len:393,GENE_len:87
+f983	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	469018	469410	0.0	779
+rps14_fragment_1	Ma.BDGJ.scaffolds	100.000	87	0	0	1	87	469228	469314	3.31e-45	172
+***************************TEST:r548-rpl16*****************r548 Ma.BDGJ.scaffolds 297616 297942ORF_len:327,GENE_len:555
+r548	Ma.BDGJ.scaffolds	100.000	327	0	0	1	327	297616	297942	0.0	648
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:f50-matR*****************f50 Ma.BDGJ.scaffolds 118933 120912ORF_len:1980,GENE_len:1983
+f50	Ma.BDGJ.scaffolds	100.000	1980	0	0	1	1980	118933	120912	0.0	3925
+f50	Ma.BDGJ.scaffolds	100.000	26	0	0	1196	1221	467790	467815	2.21e-07	52.0
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:r544-rps3*****************r544 Ma.BDGJ.scaffolds 296657 297202ORF_len:546,GENE_len:1680
+r544	Ma.BDGJ.scaffolds	100.000	546	0	0	1	546	296657	297202	0.0	1082
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:r646-atp4*****************r646 Ma.BDGJ.scaffolds 332229 332876ORF_len:648,GENE_len:588
+r646	Ma.BDGJ.scaffolds	100.000	648	0	0	1	648	332229	332876	0.0	1285
+atp4	Ma.BDGJ.scaffolds	100.000	588	0	0	1	588	332137	332724	0.0	1166
+***************************TEST:f1230-cox1*****************f1230 Ma.BDGJ.scaffolds 96609 98192ORF_len:1584,GENE_len:1578
+f1230	Ma.BDGJ.scaffolds	100.000	1584	0	0	1	1584	96609	98192	0.0	3140
+cox1	Ma.BDGJ.scaffolds	100.000	1578	0	0	1	1578	96609	98186	0.0	3128
+***************************TEST:r210-nad2_fragment_2*****************r210 Ma.BDGJ.scaffolds 174631 175131ORF_len:501,GENE_len:351
+r210	Ma.BDGJ.scaffolds	100.000	501	0	0	1	501	174631	175131	0.0	993
+r210	Ma.BDGJ.scaffolds	100.000	49	0	0	438	486	474769	474721	1.03e-21	97.6
+nad2_fragment_2	Ma.BDGJ.scaffolds	100.000	351	0	0	1	351	175011	174661	0.0	696
+***************************TEST:r275-nad5_fragment_1*****************r275 Ma.BDGJ.scaffolds 196970 198073ORF_len:1104,GENE_len:237
+r275	Ma.BDGJ.scaffolds	100.000	1104	0	0	1	1104	196970	198073	0.0	2189
+r275	Ma.BDGJ.scaffolds	100.000	272	0	0	833	1104	263055	263326	1.94e-154	539
+r275	Ma.BDGJ.scaffolds	94.737	38	2	0	1047	1084	476306	476269	5.03e-10	60.0
+nad5_fragment_1	Ma.BDGJ.scaffolds	99.578	237	1	0	1	237	263152	262916	7.50e-132	462
+nad5_fragment_1	Ma.BDGJ.scaffolds	98.980	98	1	0	1	98	197899	197802	6.66e-49	186
+***************************TEST:f190-nad1_fragment_1*****************f190 Ma.BDGJ.scaffolds 168529 169077ORF_len:549,GENE_len:387
+f190	Ma.BDGJ.scaffolds	100.000	549	0	0	1	549	168529	169077	0.0	1088
+f190	Ma.BDGJ.scaffolds	96.923	65	2	0	267	331	77428	77492	1.91e-26	113
+nad1_fragment_1	Ma.BDGJ.scaffolds	100.000	387	0	0	1	387	168776	168390	0.0	767
+nad1_fragment_1	Ma.BDGJ.scaffolds	95.652	46	2	0	338	383	229544	229589	2.90e-15	75.8
+***************************TEST:f193-rpl10*****************f193 Ma.BDGJ.scaffolds 169155 169412ORF_len:258,GENE_len:486
+f193	Ma.BDGJ.scaffolds	100.000	258	0	0	1	258	169155	169412	9.85e-147	511
+rpl10	Ma.BDGJ.scaffolds	100.000	486	0	0	1	486	169488	169003	0.0	963
+***************************TEST:f860-sdh4*****************f860 Ma.BDGJ.scaffolds 423109 423729ORF_len:621,GENE_len:393
+f860	Ma.BDGJ.scaffolds	100.000	621	0	0	1	621	423109	423729	0.0	1231
+f860	Ma.BDGJ.scaffolds	94.595	37	2	0	551	587	395737	395773	1.11e-09	58.0
+f860	Ma.BDGJ.scaffolds	100.000	25	0	0	490	514	387466	387490	2.70e-07	50.1
+sdh4	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	423175	423567	0.0	779
+***************************TEST:r1033-ccmFc_fragment_2*****************r1033 Ma.BDGJ.scaffolds 492212 492607ORF_len:396,GENE_len:549
+r1033	Ma.BDGJ.scaffolds	100.000	396	0	0	1	396	492212	492607	0.0	785
+ccmFc_fragment_2	Ma.BDGJ.scaffolds	100.000	549	0	0	1	549	492468	493016	0.0	1088
+***************************TEST:r192-nad1_fragment_1*****************r192 Ma.BDGJ.scaffolds 168691 168960ORF_len:270,GENE_len:387
+r192	Ma.BDGJ.scaffolds	100.000	270	0	0	1	270	168691	168960	7.14e-154	535
+r192	Ma.BDGJ.scaffolds	96.923	65	2	0	105	169	77428	77492	9.14e-27	113
+nad1_fragment_1	Ma.BDGJ.scaffolds	100.000	387	0	0	1	387	168776	168390	0.0	767
+nad1_fragment_1	Ma.BDGJ.scaffolds	95.652	46	2	0	338	383	229544	229589	2.90e-15	75.8
+***************************TEST:f47-nad1_fragment_4*****************f47 Ma.BDGJ.scaffolds 118118 118348ORF_len:231,GENE_len:60
+f47	Ma.BDGJ.scaffolds	100.000	231	0	0	1	231	118118	118348	1.14e-130	458
+nad1_fragment_4	Ma.BDGJ.scaffolds	100.000	60	0	0	1	60	118215	118274	2.78e-29	119
+***************************TEST:r1202-nad5_fragment_3*****************r1202 Ma.BDGJ.scaffolds 88279 88809ORF_len:531,GENE_len:396
+r1202	Ma.BDGJ.scaffolds	100.000	531	0	0	1	531	88279	88809	0.0	1053
+nad5_fragment_3	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:f208-nad2_fragment_2*****************f208 Ma.BDGJ.scaffolds 174785 175120ORF_len:336,GENE_len:351
+f208	Ma.BDGJ.scaffolds	100.000	336	0	0	1	336	174785	175120	0.0	666
+f208	Ma.BDGJ.scaffolds	100.000	49	0	0	284	332	474769	474721	6.83e-22	97.6
+nad2_fragment_2	Ma.BDGJ.scaffolds	100.000	351	0	0	1	351	175011	174661	0.0	696
+***************************TEST:f51-matR*****************f51 Ma.BDGJ.scaffolds 119259 119600ORF_len:342,GENE_len:1983
+f51	Ma.BDGJ.scaffolds	100.000	342	0	0	1	342	119259	119600	0.0	678
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:r499-rps4*****************r499 Ma.BDGJ.scaffolds 280397 281551ORF_len:1155,GENE_len:1044
+r499	Ma.BDGJ.scaffolds	100.000	1155	0	0	1	1155	280397	281551	0.0	2290
+r499	Ma.BDGJ.scaffolds	100.000	347	0	0	808	1154	472458	472112	0.0	688
+r499	Ma.BDGJ.scaffolds	100.000	24	0	0	1020	1043	280214	280191	2.01e-06	48.1
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:f52-matR*****************f52 Ma.BDGJ.scaffolds 119841 120146ORF_len:306,GENE_len:1983
+f52	Ma.BDGJ.scaffolds	100.000	306	0	0	1	306	119841	120146	2.68e-175	607
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:f1117-ccmC*****************f1117 Ma.BDGJ.scaffolds 515849 516433ORF_len:585,GENE_len:750
+f1117	Ma.BDGJ.scaffolds	100.000	585	0	0	1	585	515849	516433	0.0	1160
+ccmC	Ma.BDGJ.scaffolds	99.867	750	1	0	1	750	515892	516641	0.0	1479
+***************************TEST:r449-nad5_fragment_1*****************r449 Ma.BDGJ.scaffolds 262886 263344ORF_len:459,GENE_len:237
+r449	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	262886	263344	0.0	910
+r449	Ma.BDGJ.scaffolds	100.000	279	0	0	170	448	197802	198080	5.28e-159	553
+r449	Ma.BDGJ.scaffolds	94.737	38	2	0	384	421	476306	476269	2.06e-10	60.0
+nad5_fragment_1	Ma.BDGJ.scaffolds	99.578	237	1	0	1	237	263152	262916	7.50e-132	462
+nad5_fragment_1	Ma.BDGJ.scaffolds	98.980	98	1	0	1	98	197899	197802	6.66e-49	186
+***************************TEST:r213-nad2_fragment_1*****************r213 Ma.BDGJ.scaffolds 175983 176447ORF_len:465,GENE_len:153
+r213	Ma.BDGJ.scaffolds	100.000	465	0	0	1	465	175983	176447	0.0	922
+nad2_fragment_1	Ma.BDGJ.scaffolds	100.000	153	0	0	1	153	176405	176253	2.58e-84	303
+***************************TEST:f67-nad7_fragment_4*****************f67 Ma.BDGJ.scaffolds 125528 126316ORF_len:789,GENE_len:243
+f67	Ma.BDGJ.scaffolds	100.000	789	0	0	1	789	125528	126316	0.0	1564
+nad7_fragment_4	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	126244	126486	8.30e-138	482
+***************************TEST:f944-ccmB*****************f944 Ma.BDGJ.scaffolds 453921 454889ORF_len:969,GENE_len:630
+f944	Ma.BDGJ.scaffolds	100.000	969	0	0	1	969	453921	454889	0.0	1921
+ccmB	Ma.BDGJ.scaffolds	99.841	630	1	0	1	630	453921	454550	0.0	1241
+***************************TEST:f280-nad9*****************f280 Ma.BDGJ.scaffolds 205296 205742ORF_len:447,GENE_len:573
+f280	Ma.BDGJ.scaffolds	100.000	447	0	0	1	447	205296	205742	0.0	886
+f280	Ma.BDGJ.scaffolds	100.000	102	0	0	55	156	358006	357905	2.16e-53	202
+f280	Ma.BDGJ.scaffolds	100.000	44	0	0	55	98	384371	384414	8.85e-19	87.7
+nad9	Ma.BDGJ.scaffolds	100.000	573	0	0	1	573	205457	206029	0.0	1136
+***************************TEST:r249-atp1*****************r249 Ma.BDGJ.scaffolds 189336 191300ORF_len:1965,GENE_len:1521
+r249	Ma.BDGJ.scaffolds	100.000	1965	0	0	1	1965	189336	191300	0.0	3895
+r249	Ma.BDGJ.scaffolds	100.000	1278	0	0	688	1965	462693	461416	0.0	2533
+r249	Ma.BDGJ.scaffolds	100.000	25	0	0	1870	1894	331591	331567	8.68e-07	50.1
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:f532-rpl16*****************f532 Ma.BDGJ.scaffolds 295959 297641ORF_len:1683,GENE_len:555
+f532	Ma.BDGJ.scaffolds	100.000	1683	0	0	1	1683	295959	297641	0.0	3336
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:f434-nad5_fragment_1*****************f434 Ma.BDGJ.scaffolds 263019 263348ORF_len:330,GENE_len:237
+f434	Ma.BDGJ.scaffolds	100.000	330	0	0	1	330	263019	263348	0.0	654
+f434	Ma.BDGJ.scaffolds	100.000	279	0	0	37	315	197802	198080	3.75e-159	553
+f434	Ma.BDGJ.scaffolds	94.737	38	2	0	251	288	476306	476269	1.46e-10	60.0
+nad5_fragment_1	Ma.BDGJ.scaffolds	99.578	237	1	0	1	237	263152	262916	7.50e-132	462
+nad5_fragment_1	Ma.BDGJ.scaffolds	98.980	98	1	0	1	98	197899	197802	6.66e-49	186
+***************************TEST:r47-matR*****************r47 Ma.BDGJ.scaffolds 119365 119724ORF_len:360,GENE_len:1983
+r47	Ma.BDGJ.scaffolds	100.000	360	0	0	1	360	119365	119724	0.0	714
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:f621-atp4*****************f621 Ma.BDGJ.scaffolds 331934 332209ORF_len:276,GENE_len:588
+f621	Ma.BDGJ.scaffolds	100.000	276	0	0	1	276	331934	332209	1.92e-157	547
+atp4	Ma.BDGJ.scaffolds	100.000	588	0	0	1	588	332137	332724	0.0	1166
+***************************TEST:f533-rps3*****************f533 Ma.BDGJ.scaffolds 296056 296442ORF_len:387,GENE_len:1680
+f533	Ma.BDGJ.scaffolds	100.000	387	0	0	1	387	296056	296442	0.0	767
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:r968-nad1_fragment_2*****************r968 Ma.BDGJ.scaffolds 472967 473278ORF_len:312,GENE_len:78
+r968	Ma.BDGJ.scaffolds	100.000	312	0	0	1	312	472967	473278	7.18e-179	618
+nad1_fragment_2	Ma.BDGJ.scaffolds	100.000	78	0	0	1	78	473238	473315	6.93e-40	155
+***************************TEST:r976-nad1_fragment_3*****************r976 Ma.BDGJ.scaffolds 474536 474871ORF_len:336,GENE_len:195
+r976	Ma.BDGJ.scaffolds	100.000	336	0	0	1	336	474536	474871	0.0	666
+r976	Ma.BDGJ.scaffolds	100.000	49	0	0	186	234	175116	175068	6.83e-22	97.6
+nad1_fragment_3	Ma.BDGJ.scaffolds	100.000	195	0	0	1	195	474781	474975	2.89e-109	387
+***************************TEST:r769-cox2_fragment_1*****************r769 Ma.BDGJ.scaffolds 384197 384523ORF_len:327,GENE_len:702
+r769	Ma.BDGJ.scaffolds	100.000	327	0	0	1	327	384197	384523	0.0	648
+r769	Ma.BDGJ.scaffolds	100.000	145	0	0	74	218	358107	357963	3.42e-79	287
+r769	Ma.BDGJ.scaffolds	100.000	44	0	0	175	218	205350	205393	6.40e-19	87.7
+cox2_fragment_1	Ma.BDGJ.scaffolds	100.000	702	0	0	1	702	384496	385197	0.0	1392
+cox2_fragment_1	Ma.BDGJ.scaffolds	96.471	85	3	0	618	702	67336	67420	6.95e-36	145
+cox2_fragment_1	Ma.BDGJ.scaffolds	89.796	49	5	0	151	199	229828	229876	1.26e-09	58.0
+***************************TEST:r959-rpl5*****************r959 Ma.BDGJ.scaffolds 468702 468929ORF_len:228,GENE_len:552
+r959	Ma.BDGJ.scaffolds	100.000	228	0	0	1	228	468702	468929	6.94e-129	452
+rpl5	Ma.BDGJ.scaffolds	99.819	552	1	0	1	552	468672	469223	0.0	1086
+***************************TEST:r253-atp1*****************r253 Ma.BDGJ.scaffolds 190372 190605ORF_len:234,GENE_len:1521
+r253	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	190372	190605	1.87e-132	464
+r253	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	462344	462111	1.87e-132	464
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:f214-sdh3*****************f214 Ma.BDGJ.scaffolds 177372 177623ORF_len:252,GENE_len:291
+f214	Ma.BDGJ.scaffolds	100.000	252	0	0	1	252	177372	177623	3.67e-143	500
+f214	Ma.BDGJ.scaffolds	98.780	82	1	0	65	146	229765	229684	2.51e-39	155
+f214	Ma.BDGJ.scaffolds	98.780	82	1	0	65	146	421357	421276	2.51e-39	155
+f214	Ma.BDGJ.scaffolds	100.000	23	0	0	37	59	97840	97818	1.66e-06	46.1
+sdh3	Ma.BDGJ.scaffolds	100.000	291	0	0	1	291	177409	177119	2.27e-166	577
+***************************TEST:f858-sdh4*****************f858 Ma.BDGJ.scaffolds 422306 423379ORF_len:1074,GENE_len:393
+f858	Ma.BDGJ.scaffolds	100.000	1074	0	0	1	1074	422306	423379	0.0	2129
+sdh4	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	423175	423567	0.0	779
+***************************TEST:f71-nad7_fragment_4*****************f71 Ma.BDGJ.scaffolds 126208 126522ORF_len:315,GENE_len:243
+f71	Ma.BDGJ.scaffolds	100.000	315	0	0	1	315	126208	126522	1.18e-180	624
+nad7_fragment_4	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	126244	126486	8.30e-138	482
+***************************TEST:f485-rps4*****************f485 Ma.BDGJ.scaffolds 280989 281291ORF_len:303,GENE_len:1044
+f485	Ma.BDGJ.scaffolds	100.000	303	0	0	1	303	280989	281291	1.63e-173	601
+f485	Ma.BDGJ.scaffolds	100.000	88	0	0	216	303	472458	472371	3.27e-45	174
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:f535-rpl16*****************f535 Ma.BDGJ.scaffolds 297490 298047ORF_len:558,GENE_len:555
+f535	Ma.BDGJ.scaffolds	100.000	558	0	0	1	558	297490	298047	0.0	1106
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:r1109-ccmFn*****************r1109 Ma.BDGJ.scaffolds 53621 54211ORF_len:591,GENE_len:1728
+r1109	Ma.BDGJ.scaffolds	100.000	324	0	0	268	591	53888	54211	0.0	642
+r1109	Ma.BDGJ.scaffolds	96.203	237	9	0	268	504	428377	428613	2.41e-112	398
+r1109	Ma.BDGJ.scaffolds	100.000	167	0	0	1	167	53621	53787	4.69e-92	331
+r1109	Ma.BDGJ.scaffolds	100.000	46	0	0	546	591	169513	169558	7.55e-20	91.7
+r1109	Ma.BDGJ.scaffolds	97.826	46	1	0	546	591	468647	468602	1.84e-17	83.8
+r1109	Ma.BDGJ.scaffolds	100.000	29	0	0	563	591	95185	95157	1.05e-09	58.0
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:f1229-rps10_fragment_2*****************f1229 Ma.BDGJ.scaffolds 96316 96657ORF_len:342,GENE_len:75
+f1229	Ma.BDGJ.scaffolds	100.000	342	0	0	1	342	96316	96657	0.0	678
+rps10_fragment_2	Ma.BDGJ.scaffolds	100.000	75	0	0	1	75	96297	96371	4.08e-38	149
+***************************TEST:r445-nad5_fragment_2*****************r445 Ma.BDGJ.scaffolds 260839 262077ORF_len:1239,GENE_len:1203
+r445	Ma.BDGJ.scaffolds	100.000	1239	0	0	1	1239	260839	262077	0.0	2456
+nad5_fragment_2	Ma.BDGJ.scaffolds	100.000	1203	0	0	1	1203	262065	260863	0.0	2385
+***************************TEST:f479-nad6*****************f479 Ma.BDGJ.scaffolds 279578 279853ORF_len:276,GENE_len:639
+f479	Ma.BDGJ.scaffolds	100.000	276	0	0	1	276	279578	279853	1.92e-157	547
+f479	Ma.BDGJ.scaffolds	100.000	36	0	0	241	276	9752	9787	3.18e-14	71.9
+nad6	Ma.BDGJ.scaffolds	100.000	639	0	0	1	639	279768	279130	0.0	1267
+***************************TEST:f763-cox2_fragment_1*****************f763 Ma.BDGJ.scaffolds 384496 385335ORF_len:840,GENE_len:702
+f763	Ma.BDGJ.scaffolds	100.000	840	0	0	1	840	384496	385335	0.0	1665
+f763	Ma.BDGJ.scaffolds	94.949	99	5	0	618	716	67336	67434	2.19e-39	157
+f763	Ma.BDGJ.scaffolds	89.796	49	5	0	151	199	229828	229876	1.51e-09	58.0
+cox2_fragment_1	Ma.BDGJ.scaffolds	100.000	702	0	0	1	702	384496	385197	0.0	1392
+cox2_fragment_1	Ma.BDGJ.scaffolds	96.471	85	3	0	618	702	67336	67420	6.95e-36	145
+cox2_fragment_1	Ma.BDGJ.scaffolds	89.796	49	5	0	151	199	229828	229876	1.26e-09	58.0
+***************************TEST:r280-atp9*****************r280 Ma.BDGJ.scaffolds 198407 198805ORF_len:399,GENE_len:243
+r280	Ma.BDGJ.scaffolds	100.000	399	0	0	1	399	198407	198805	0.0	791
+r280	Ma.BDGJ.scaffolds	98.077	52	1	0	122	173	307248	307197	3.23e-21	95.6
+r280	Ma.BDGJ.scaffolds	94.595	37	2	0	67	103	248657	248621	7.03e-10	58.0
+atp9	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	198446	198204	8.30e-138	482
+***************************TEST:f243-atp1*****************f243 Ma.BDGJ.scaffolds 190573 191031ORF_len:459,GENE_len:1521
+f243	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	190573	191031	0.0	910
+f243	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	462143	461685	0.0	910
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:r1108-ccmFn*****************r1108 Ma.BDGJ.scaffolds 52820 53614ORF_len:795,GENE_len:1728
+r1108	Ma.BDGJ.scaffolds	100.000	795	0	0	1	795	52820	53614	0.0	1576
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:f165-cob*****************f165 Ma.BDGJ.scaffolds 158745 159086ORF_len:342,GENE_len:1191
+f165	Ma.BDGJ.scaffolds	100.000	342	0	0	1	342	158745	159086	0.0	678
+cob	Ma.BDGJ.scaffolds	99.916	1191	1	0	1	1191	159418	158228	0.0	2353
+***************************TEST:r644-nad4L*****************r644 Ma.BDGJ.scaffolds 331577 331921ORF_len:345,GENE_len:300
+r644	Ma.BDGJ.scaffolds	100.000	345	0	0	1	345	331577	331921	0.0	684
+r644	Ma.BDGJ.scaffolds	100.000	29	0	0	14	42	331129	331157	6.04e-10	58.0
+nad4L	Ma.BDGJ.scaffolds	100.000	300	0	0	1	300	331629	331928	9.98e-172	595
+***************************TEST:r542-rps3*****************r542 Ma.BDGJ.scaffolds 296145 296450ORF_len:306,GENE_len:1680
+r542	Ma.BDGJ.scaffolds	100.000	306	0	0	1	306	296145	296450	2.68e-175	607
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:f861-sdh4*****************f861 Ma.BDGJ.scaffolds 423216 423623ORF_len:408,GENE_len:393
+f861	Ma.BDGJ.scaffolds	100.000	408	0	0	1	408	423216	423623	0.0	809
+f861	Ma.BDGJ.scaffolds	100.000	25	0	0	383	407	387466	387490	1.75e-07	50.1
+sdh4	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	423175	423567	0.0	779
+***************************TEST:f128-rps7*****************f128 Ma.BDGJ.scaffolds 146265 146609ORF_len:345,GENE_len:465
+f128	Ma.BDGJ.scaffolds	100.000	345	0	0	1	345	146265	146609	0.0	684
+rps7	Ma.BDGJ.scaffolds	99.785	465	1	0	1	465	146733	146269	0.0	914
+***************************TEST:r962-rps14_fragment_2*****************r962 Ma.BDGJ.scaffolds 469339 469635ORF_len:297,GENE_len:174
+r962	Ma.BDGJ.scaffolds	100.000	297	0	0	1	297	469339	469635	6.09e-170	589
+rps14_fragment_2	Ma.BDGJ.scaffolds	100.000	174	0	0	1	174	469323	469496	8.71e-97	345
+***************************TEST:r304-nad9*****************r304 Ma.BDGJ.scaffolds 205590 205979ORF_len:390,GENE_len:573
+r304	Ma.BDGJ.scaffolds	100.000	390	0	0	1	390	205590	205979	0.0	773
+nad9	Ma.BDGJ.scaffolds	100.000	573	0	0	1	573	205457	206029	0.0	1136
+***************************TEST:r69-nad7_fragment_4*****************r69 Ma.BDGJ.scaffolds 125794 126435ORF_len:642,GENE_len:243
+r69	Ma.BDGJ.scaffolds	100.000	642	0	0	1	642	125794	126435	0.0	1273
+nad7_fragment_4	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	126244	126486	8.30e-138	482
+***************************TEST:f1226-rps10_fragment_1*****************f1226 Ma.BDGJ.scaffolds 95081 95479ORF_len:399,GENE_len:210
+f1226	Ma.BDGJ.scaffolds	100.000	399	0	0	1	399	95081	95479	0.0	791
+f1226	Ma.BDGJ.scaffolds	100.000	56	0	0	50	105	54238	54183	5.43e-26	111
+f1226	Ma.BDGJ.scaffolds	100.000	56	0	0	50	105	169585	169530	5.43e-26	111
+f1226	Ma.BDGJ.scaffolds	100.000	56	0	0	50	105	468575	468630	5.43e-26	111
+rps10_fragment_1	Ma.BDGJ.scaffolds	100.000	210	0	0	1	210	95219	95428	3.50e-118	416
+***************************TEST:r1025-ccmFc_fragment_1*****************r1025 Ma.BDGJ.scaffolds 490914 491420ORF_len:507,GENE_len:771
+r1025	Ma.BDGJ.scaffolds	100.000	507	0	0	1	507	490914	491420	0.0	1005
+r1025	Ma.BDGJ.scaffolds	97.531	81	2	0	86	166	420330	420410	4.98e-36	145
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	100.000	771	0	0	1	771	490744	491514	0.0	1528
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	97.531	81	2	0	256	336	420330	420410	7.65e-36	145
+***************************TEST:f430-nad5_fragment_2*****************f430 Ma.BDGJ.scaffolds 262031 262486ORF_len:456,GENE_len:1203
+f430	Ma.BDGJ.scaffolds	100.000	456	0	0	1	456	262031	262486	0.0	904
+nad5_fragment_2	Ma.BDGJ.scaffolds	100.000	1203	0	0	1	1203	262065	260863	0.0	2385
+***************************TEST:f129-rps7*****************f129 Ma.BDGJ.scaffolds 146303 146605ORF_len:303,GENE_len:465
+f129	Ma.BDGJ.scaffolds	100.000	303	0	0	1	303	146303	146605	1.63e-173	601
+rps7	Ma.BDGJ.scaffolds	99.785	465	1	0	1	465	146733	146269	0.0	914
+***************************TEST:r247-nad3*****************r247 Ma.BDGJ.scaffolds 188764 189090ORF_len:327,GENE_len:354
+r247	Ma.BDGJ.scaffolds	100.000	327	0	0	1	327	188764	189090	0.0	648
+nad3	Ma.BDGJ.scaffolds	99.718	354	1	0	1	354	189203	188850	0.0	694
+nad3	Ma.BDGJ.scaffolds	95.238	63	3	0	1	63	227417	227479	4.62e-23	101
+***************************TEST:f1050-ccmFc_fragment_2*****************f1050 Ma.BDGJ.scaffolds 492138 493169ORF_len:1032,GENE_len:549
+f1050	Ma.BDGJ.scaffolds	100.000	1032	0	0	1	1032	492138	493169	0.0	2046
+ccmFc_fragment_2	Ma.BDGJ.scaffolds	100.000	549	0	0	1	549	492468	493016	0.0	1088
+***************************TEST:f265-nad4_fragment_1*****************f265 Ma.BDGJ.scaffolds 19836 20417ORF_len:582,GENE_len:459
+f265	Ma.BDGJ.scaffolds	100.000	582	0	0	1	582	19836	20417	0.0	1154
+nad4_fragment_1	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	19890	20348	0.0	910
+***************************TEST:r1203-nad5_fragment_4*****************r1203 Ma.BDGJ.scaffolds 88634 88894ORF_len:261,GENE_len:396
+r1203	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	88634	88894	1.62e-148	517
+nad5_fragment_4	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:r55-nad7_fragment_1*****************r55 Ma.BDGJ.scaffolds 122053 122313ORF_len:261,GENE_len:162
+r55	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	122053	122313	1.62e-148	517
+nad7_fragment_1	Ma.BDGJ.scaffolds	99.383	162	1	0	1	162	122046	122207	2.85e-87	313
+***************************TEST:f305-nad4_fragment_2*****************f305 Ma.BDGJ.scaffolds 21788 22888ORF_len:1101,GENE_len:936
+f305	Ma.BDGJ.scaffolds	100.000	1101	0	0	1	1101	21788	22888	0.0	2183
+nad4_fragment_2	Ma.BDGJ.scaffolds	100.000	936	0	0	1	936	21788	22723	0.0	1855
+***************************TEST:f1125-ccmFn*****************f1125 Ma.BDGJ.scaffolds 53288 53578ORF_len:291,GENE_len:1728
+f1125	Ma.BDGJ.scaffolds	100.000	291	0	0	1	291	53288	53578	2.27e-166	577
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:r134-rps7*****************r134 Ma.BDGJ.scaffolds 146266 146889ORF_len:624,GENE_len:465
+r134	Ma.BDGJ.scaffolds	100.000	624	0	0	1	624	146266	146889	0.0	1237
+rps7	Ma.BDGJ.scaffolds	99.785	465	1	0	1	465	146733	146269	0.0	914
+***************************TEST:f57-nad7_fragment_2*****************f57 Ma.BDGJ.scaffolds 122879 123109ORF_len:231,GENE_len:108
+f57	Ma.BDGJ.scaffolds	100.000	231	0	0	1	231	122879	123109	1.14e-130	458
+nad7_fragment_2	Ma.BDGJ.scaffolds	100.000	108	0	0	1	108	123052	123159	1.25e-57	214
+***************************TEST:r960-rpl5*****************r960 Ma.BDGJ.scaffolds 468791 469267ORF_len:477,GENE_len:552
+r960	Ma.BDGJ.scaffolds	100.000	477	0	0	1	477	468791	469267	0.0	946
+rpl5	Ma.BDGJ.scaffolds	99.819	552	1	0	1	552	468672	469223	0.0	1086
+***************************TEST:r866-ccmFc_fragment_1*****************r866 Ma.BDGJ.scaffolds 420023 420529ORF_len:507,GENE_len:771
+r866	Ma.BDGJ.scaffolds	100.000	507	0	0	1	507	420023	420529	0.0	1005
+r866	Ma.BDGJ.scaffolds	97.531	81	2	0	308	388	490999	491079	4.98e-36	145
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	100.000	771	0	0	1	771	490744	491514	0.0	1528
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	97.531	81	2	0	256	336	420330	420410	7.65e-36	145
+***************************TEST:f983-rps14_fragment_2*****************f983 Ma.BDGJ.scaffolds 469018 469410ORF_len:393,GENE_len:174
+f983	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	469018	469410	0.0	779
+rps14_fragment_2	Ma.BDGJ.scaffolds	100.000	174	0	0	1	174	469323	469496	8.71e-97	345
+***************************TEST:f57-nad7_fragment_3*****************f57 Ma.BDGJ.scaffolds 122879 123109ORF_len:231,GENE_len:108
+f57	Ma.BDGJ.scaffolds	100.000	231	0	0	1	231	122879	123109	1.14e-130	458
+nad7_fragment_3	Ma.BDGJ.scaffolds	100.000	108	0	0	1	108	123052	123159	1.25e-57	214
+***************************TEST:r549-rpl16*****************r549 Ma.BDGJ.scaffolds 297723 298514ORF_len:792,GENE_len:555
+r549	Ma.BDGJ.scaffolds	100.000	792	0	0	1	792	297723	298514	0.0	1570
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:f75-nad7_fragment_5*****************f75 Ma.BDGJ.scaffolds 128246 128548ORF_len:303,GENE_len:261
+f75	Ma.BDGJ.scaffolds	100.000	303	0	0	1	303	128246	128548	1.63e-173	601
+nad7_fragment_5	Ma.BDGJ.scaffolds	100.000	261	0	0	1	261	128285	128545	1.62e-148	517
+***************************TEST:f968-atp1*****************f968 Ma.BDGJ.scaffolds 462111 462344ORF_len:234,GENE_len:1521
+f968	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	190605	190372	1.87e-132	464
+f968	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	462111	462344	1.87e-132	464
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:r45-matR*****************r45 Ma.BDGJ.scaffolds 119144 119524ORF_len:381,GENE_len:1983
+r45	Ma.BDGJ.scaffolds	100.000	381	0	0	1	381	119144	119524	0.0	755
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:r279-atp9*****************r279 Ma.BDGJ.scaffolds 198156 198695ORF_len:540,GENE_len:243
+r279	Ma.BDGJ.scaffolds	100.000	540	0	0	1	540	198156	198695	0.0	1070
+r279	Ma.BDGJ.scaffolds	98.077	52	1	0	373	424	307248	307197	4.41e-21	95.6
+r279	Ma.BDGJ.scaffolds	94.595	37	2	0	318	354	248657	248621	9.61e-10	58.0
+atp9	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	198446	198204	8.30e-138	482
+***************************TEST:r70-nad7_fragment_4*****************r70 Ma.BDGJ.scaffolds 126014 126394ORF_len:381,GENE_len:243
+r70	Ma.BDGJ.scaffolds	100.000	381	0	0	1	381	126014	126394	0.0	755
+nad7_fragment_4	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	126244	126486	8.30e-138	482
+***************************TEST:f853-ccmFc_fragment_1*****************f853 Ma.BDGJ.scaffolds 420340 420786ORF_len:447,GENE_len:771
+f853	Ma.BDGJ.scaffolds	100.000	447	0	0	1	447	420340	420786	0.0	886
+f853	Ma.BDGJ.scaffolds	98.592	71	1	0	1	71	491009	491079	1.67e-32	133
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	100.000	771	0	0	1	771	490744	491514	0.0	1528
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	97.531	81	2	0	256	336	420330	420410	7.65e-36	145
+***************************TEST:r247-rps12*****************r247 Ma.BDGJ.scaffolds 188764 189090ORF_len:327,GENE_len:375
+r247	Ma.BDGJ.scaffolds	100.000	327	0	0	1	327	188764	189090	0.0	648
+rps12	Ma.BDGJ.scaffolds	100.000	375	0	0	1	375	188798	188424	0.0	743
+***************************TEST:r547-rpl16*****************r547 Ma.BDGJ.scaffolds 297450 297716ORF_len:267,GENE_len:555
+r547	Ma.BDGJ.scaffolds	100.000	267	0	0	1	267	297450	297716	4.35e-152	529
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:f191-nad1_fragment_1*****************f191 Ma.BDGJ.scaffolds 168731 169081ORF_len:351,GENE_len:387
+f191	Ma.BDGJ.scaffolds	100.000	351	0	0	1	351	168731	169081	0.0	696
+f191	Ma.BDGJ.scaffolds	96.923	65	2	0	65	129	77428	77492	1.20e-26	113
+nad1_fragment_1	Ma.BDGJ.scaffolds	100.000	387	0	0	1	387	168776	168390	0.0	767
+nad1_fragment_1	Ma.BDGJ.scaffolds	95.652	46	2	0	338	383	229544	229589	2.90e-15	75.8
+***************************TEST:r942-atp1*****************r942 Ma.BDGJ.scaffolds 461685 462143ORF_len:459,GENE_len:1521
+r942	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	191031	190573	0.0	910
+r942	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	461685	462143	0.0	910
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:f532-rps3*****************f532 Ma.BDGJ.scaffolds 295959 297641ORF_len:1683,GENE_len:1680
+f532	Ma.BDGJ.scaffolds	100.000	1683	0	0	1	1683	295959	297641	0.0	3336
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:r209-nad2_fragment_2*****************r209 Ma.BDGJ.scaffolds 174581 174961ORF_len:381,GENE_len:351
+r209	Ma.BDGJ.scaffolds	100.000	381	0	0	1	381	174581	174961	0.0	755
+nad2_fragment_2	Ma.BDGJ.scaffolds	100.000	351	0	0	1	351	175011	174661	0.0	696
+***************************TEST:f484-rps4*****************f484 Ma.BDGJ.scaffolds 280886 281188ORF_len:303,GENE_len:1044
+f484	Ma.BDGJ.scaffolds	100.000	303	0	0	1	303	280886	281188	1.63e-173	601
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:r924-ccmB*****************r924 Ma.BDGJ.scaffolds 454163 454477ORF_len:315,GENE_len:630
+r924	Ma.BDGJ.scaffolds	100.000	315	0	0	1	315	454163	454477	1.18e-180	624
+ccmB	Ma.BDGJ.scaffolds	99.841	630	1	0	1	630	453921	454550	0.0	1241
+***************************TEST:r460-nad2_fragment_3*****************r460 Ma.BDGJ.scaffolds 265253 265600ORF_len:348,GENE_len:162
+r460	Ma.BDGJ.scaffolds	100.000	348	0	0	1	348	265253	265600	0.0	690
+nad2_fragment_3	Ma.BDGJ.scaffolds	100.000	162	0	0	1	162	265450	265289	1.17e-89	321
+***************************TEST:r546-rpl16*****************r546 Ma.BDGJ.scaffolds 297296 297526ORF_len:231,GENE_len:555
+r546	Ma.BDGJ.scaffolds	100.000	231	0	0	1	231	297296	297526	1.14e-130	458
+rpl16	Ma.BDGJ.scaffolds	100.000	555	0	0	1	555	297490	298044	0.0	1100
+***************************TEST:f167-cob*****************f167 Ma.BDGJ.scaffolds 159317 159724ORF_len:408,GENE_len:1191
+f167	Ma.BDGJ.scaffolds	100.000	408	0	0	1	408	159317	159724	0.0	809
+cob	Ma.BDGJ.scaffolds	99.916	1191	1	0	1	1191	159418	158228	0.0	2353
+***************************TEST:r1032-ccmFc_fragment_2*****************r1032 Ma.BDGJ.scaffolds 492204 492563ORF_len:360,GENE_len:549
+r1032	Ma.BDGJ.scaffolds	100.000	360	0	0	1	360	492204	492563	0.0	714
+ccmFc_fragment_2	Ma.BDGJ.scaffolds	100.000	549	0	0	1	549	492468	493016	0.0	1088
+***************************TEST:f239-rps12*****************f239 Ma.BDGJ.scaffolds 188611 188883ORF_len:273,GENE_len:375
+f239	Ma.BDGJ.scaffolds	100.000	273	0	0	1	273	188611	188883	1.17e-155	541
+rps12	Ma.BDGJ.scaffolds	100.000	375	0	0	1	375	188798	188424	0.0	743
+***************************TEST:r1202-nad5_fragment_4*****************r1202 Ma.BDGJ.scaffolds 88279 88809ORF_len:531,GENE_len:396
+r1202	Ma.BDGJ.scaffolds	100.000	531	0	0	1	531	88279	88809	0.0	1053
+nad5_fragment_4	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:f859-cox3*****************f859 Ma.BDGJ.scaffolds 422338 422856ORF_len:519,GENE_len:795
+f859	Ma.BDGJ.scaffolds	100.000	519	0	0	1	519	422338	422856	0.0	1029
+cox3	Ma.BDGJ.scaffolds	100.000	795	0	0	1	795	422450	423244	0.0	1576
+***************************TEST:r497-nad6*****************r497 Ma.BDGJ.scaffolds 279115 279786ORF_len:672,GENE_len:639
+r497	Ma.BDGJ.scaffolds	100.000	672	0	0	1	672	279115	279786	0.0	1332
+nad6	Ma.BDGJ.scaffolds	100.000	639	0	0	1	639	279768	279130	0.0	1267
+***************************TEST:f967-atp1*****************f967 Ma.BDGJ.scaffolds 461416 463650ORF_len:2235,GENE_len:1521
+f967	Ma.BDGJ.scaffolds	100.000	2235	0	0	1	2235	461416	463650	0.0	4431
+f967	Ma.BDGJ.scaffolds	100.000	1278	0	0	1	1278	191300	190023	0.0	2533
+f967	Ma.BDGJ.scaffolds	90.536	317	30	0	1914	2230	331166	331482	2.26e-109	391
+f967	Ma.BDGJ.scaffolds	98.246	57	1	0	1847	1903	230748	230804	1.93e-23	105
+f967	Ma.BDGJ.scaffolds	100.000	25	0	0	72	96	331567	331591	9.88e-07	50.1
+atp1	Ma.BDGJ.scaffolds	99.540	1521	7	0	1	1521	461557	463077	0.0	2960
+atp1	Ma.BDGJ.scaffolds	99.736	1137	3	0	1	1137	191159	190023	0.0	2230
+***************************TEST:f63-nad2_fragment_4*****************f63 Ma.BDGJ.scaffolds 1240 1746ORF_len:507,GENE_len:621
+f63	Ma.BDGJ.scaffolds	100.000	507	0	0	1	507	1240	1746	0.0	1005
+nad2_fragment_4	Ma.BDGJ.scaffolds	100.000	621	0	0	1	621	1572	2192	0.0	1231
+***************************TEST:r214-sdh3*****************r214 Ma.BDGJ.scaffolds 176645 177697ORF_len:1053,GENE_len:291
+r214	Ma.BDGJ.scaffolds	100.000	1053	0	0	1	1053	176645	177697	0.0	2087
+r214	Ma.BDGJ.scaffolds	98.780	82	1	0	792	873	229765	229684	1.09e-38	155
+r214	Ma.BDGJ.scaffolds	98.780	82	1	0	792	873	421357	421276	1.09e-38	155
+r214	Ma.BDGJ.scaffolds	100.000	23	0	0	764	786	97840	97818	7.21e-06	46.1
+sdh3	Ma.BDGJ.scaffolds	100.000	291	0	0	1	291	177409	177119	2.27e-166	577
+***************************TEST:r44-matR*****************r44 Ma.BDGJ.scaffolds 118641 118979ORF_len:339,GENE_len:1983
+r44	Ma.BDGJ.scaffolds	100.000	339	0	0	1	339	118641	118979	0.0	672
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:f622-atp4*****************f622 Ma.BDGJ.scaffolds 332137 332727ORF_len:591,GENE_len:588
+f622	Ma.BDGJ.scaffolds	100.000	591	0	0	1	591	332137	332727	0.0	1172
+atp4	Ma.BDGJ.scaffolds	100.000	588	0	0	1	588	332137	332724	0.0	1166
+***************************TEST:f1124-ccmFn*****************f1124 Ma.BDGJ.scaffolds 52978 53268ORF_len:291,GENE_len:1728
+f1124	Ma.BDGJ.scaffolds	100.000	291	0	0	1	291	52978	53268	2.27e-166	577
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:f343-mttB*****************f343 Ma.BDGJ.scaffolds 230649 231602ORF_len:954,GENE_len:780
+f343	Ma.BDGJ.scaffolds	100.000	954	0	0	1	954	230649	231602	0.0	1891
+f343	Ma.BDGJ.scaffolds	98.246	57	1	0	100	156	463262	463318	8.17e-24	105
+mttB	Ma.BDGJ.scaffolds	100.000	780	0	0	1	780	230799	231578	0.0	1546
+***************************TEST:r960-rps14_fragment_1*****************r960 Ma.BDGJ.scaffolds 468791 469267ORF_len:477,GENE_len:87
+r960	Ma.BDGJ.scaffolds	100.000	477	0	0	1	477	468791	469267	0.0	946
+rps14_fragment_1	Ma.BDGJ.scaffolds	100.000	87	0	0	1	87	469228	469314	3.31e-45	172
+***************************TEST:r248-nad3*****************r248 Ma.BDGJ.scaffolds 188847 189332ORF_len:486,GENE_len:354
+r248	Ma.BDGJ.scaffolds	100.000	486	0	0	1	486	188847	189332	0.0	963
+r248	Ma.BDGJ.scaffolds	93.701	127	4	1	295	417	227479	227353	1.40e-48	186
+r248	Ma.BDGJ.scaffolds	100.000	25	0	0	383	407	515763	515739	2.10e-07	50.1
+nad3	Ma.BDGJ.scaffolds	99.718	354	1	0	1	354	189203	188850	0.0	694
+nad3	Ma.BDGJ.scaffolds	95.238	63	3	0	1	63	227417	227479	4.62e-23	101
+***************************TEST:r246-rps12*****************r246 Ma.BDGJ.scaffolds 188250 188840ORF_len:591,GENE_len:375
+r246	Ma.BDGJ.scaffolds	100.000	591	0	0	1	591	188250	188840	0.0	1172
+rps12	Ma.BDGJ.scaffolds	100.000	375	0	0	1	375	188798	188424	0.0	743
+***************************TEST:r966-rps4*****************r966 Ma.BDGJ.scaffolds 472371 473183ORF_len:813,GENE_len:1044
+r966	Ma.BDGJ.scaffolds	100.000	813	0	0	1	813	472371	473183	0.0	1612
+r966	Ma.BDGJ.scaffolds	100.000	88	0	0	1	88	281291	281204	9.04e-45	174
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:r1105-ccmFn*****************r1105 Ma.BDGJ.scaffolds 52071 53927ORF_len:1857,GENE_len:1728
+r1105	Ma.BDGJ.scaffolds	100.000	1717	0	0	1	1717	52071	53787	0.0	3404
+r1105	Ma.BDGJ.scaffolds	100.000	40	0	0	1818	1857	53888	53927	9.17e-16	79.8
+r1105	Ma.BDGJ.scaffolds	100.000	40	0	0	1818	1857	428377	428416	9.17e-16	79.8
+ccmFn	Ma.BDGJ.scaffolds	99.884	1728	2	0	1	1728	53786	52059	0.0	3410
+***************************TEST:r194-rpl10*****************r194 Ma.BDGJ.scaffolds 169000 169497ORF_len:498,GENE_len:486
+r194	Ma.BDGJ.scaffolds	100.000	498	0	0	1	498	169000	169497	0.0	987
+rpl10	Ma.BDGJ.scaffolds	100.000	486	0	0	1	486	169488	169003	0.0	963
+***************************TEST:f534-rps3*****************f534 Ma.BDGJ.scaffolds 296135 296458ORF_len:324,GENE_len:1680
+f534	Ma.BDGJ.scaffolds	100.000	324	0	0	1	324	296135	296458	0.0	642
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:f1045-ccmFc_fragment_1*****************f1045 Ma.BDGJ.scaffolds 490705 491679ORF_len:975,GENE_len:771
+f1045	Ma.BDGJ.scaffolds	100.000	975	0	0	1	975	490705	491679	0.0	1933
+f1045	Ma.BDGJ.scaffolds	97.531	81	2	0	295	375	420330	420410	9.70e-36	145
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	100.000	771	0	0	1	771	490744	491514	0.0	1528
+ccmFc_fragment_1	Ma.BDGJ.scaffolds	97.531	81	2	0	256	336	420330	420410	7.65e-36	145
+***************************TEST:f192-rpl10*****************f192 Ma.BDGJ.scaffolds 169136 169603ORF_len:468,GENE_len:486
+f192	Ma.BDGJ.scaffolds	100.000	468	0	0	1	468	169136	169603	0.0	928
+f192	Ma.BDGJ.scaffolds	99.038	104	1	0	348	451	468677	468574	3.54e-52	198
+f192	Ma.BDGJ.scaffolds	100.000	73	0	0	378	450	54166	54238	4.59e-36	145
+f192	Ma.BDGJ.scaffolds	100.000	56	0	0	395	450	95185	95130	6.40e-26	111
+rpl10	Ma.BDGJ.scaffolds	100.000	486	0	0	1	486	169488	169003	0.0	963
+***************************TEST:f264-atp9*****************f264 Ma.BDGJ.scaffolds 198319 198747ORF_len:429,GENE_len:243
+f264	Ma.BDGJ.scaffolds	100.000	429	0	0	1	429	198319	198747	0.0	850
+f264	Ma.BDGJ.scaffolds	98.077	52	1	0	210	261	307248	307197	3.48e-21	95.6
+f264	Ma.BDGJ.scaffolds	94.595	37	2	0	155	191	248657	248621	7.58e-10	58.0
+atp9	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	198446	198204	8.30e-138	482
+***************************TEST:f987-rps4*****************f987 Ma.BDGJ.scaffolds 472111 473085ORF_len:975,GENE_len:1044
+f987	Ma.BDGJ.scaffolds	100.000	975	0	0	1	975	472111	473085	0.0	1933
+f987	Ma.BDGJ.scaffolds	100.000	347	0	0	2	348	281550	281204	0.0	688
+f987	Ma.BDGJ.scaffolds	100.000	24	0	0	113	136	280191	280214	1.69e-06	48.1
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:r961-rps14_fragment_2*****************r961 Ma.BDGJ.scaffolds 469302 469550ORF_len:249,GENE_len:174
+r961	Ma.BDGJ.scaffolds	100.000	249	0	0	1	249	469302	469550	2.24e-141	494
+rps14_fragment_2	Ma.BDGJ.scaffolds	100.000	174	0	0	1	174	469323	469496	8.71e-97	345
+***************************TEST:f996-nad1_fragment_3*****************f996 Ma.BDGJ.scaffolds 474574 475077ORF_len:504,GENE_len:195
+f996	Ma.BDGJ.scaffolds	100.000	504	0	0	1	504	474574	475077	0.0	999
+f996	Ma.BDGJ.scaffolds	100.000	49	0	0	148	196	175116	175068	1.04e-21	97.6
+nad1_fragment_3	Ma.BDGJ.scaffolds	100.000	195	0	0	1	195	474781	474975	2.89e-109	387
+***************************TEST:f1215-nad5_fragment_3*****************f1215 Ma.BDGJ.scaffolds 88665 88898ORF_len:234,GENE_len:396
+f1215	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	88665	88898	1.87e-132	464
+nad5_fragment_3	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:r1225-cox1*****************r1225 Ma.BDGJ.scaffolds 96336 96668ORF_len:333,GENE_len:1578
+r1225	Ma.BDGJ.scaffolds	100.000	333	0	0	1	333	96336	96668	0.0	660
+cox1	Ma.BDGJ.scaffolds	100.000	1578	0	0	1	1578	96609	98186	0.0	3128
+***************************TEST:r1226-cox1*****************r1226 Ma.BDGJ.scaffolds 97001 97432ORF_len:432,GENE_len:1578
+r1226	Ma.BDGJ.scaffolds	100.000	432	0	0	1	432	97001	97432	0.0	856
+cox1	Ma.BDGJ.scaffolds	100.000	1578	0	0	1	1578	96609	98186	0.0	3128
+***************************TEST:r191-nad1_fragment_1*****************r191 Ma.BDGJ.scaffolds 168387 168770ORF_len:384,GENE_len:387
+r191	Ma.BDGJ.scaffolds	100.000	384	0	0	1	384	168387	168770	0.0	761
+r191	Ma.BDGJ.scaffolds	95.652	46	2	0	8	53	229589	229544	2.88e-15	75.8
+nad1_fragment_1	Ma.BDGJ.scaffolds	100.000	387	0	0	1	387	168776	168390	0.0	767
+nad1_fragment_1	Ma.BDGJ.scaffolds	95.652	46	2	0	338	383	229544	229589	2.90e-15	75.8
+***************************TEST:r541-rps3*****************r541 Ma.BDGJ.scaffolds 296140 296436ORF_len:297,GENE_len:1680
+r541	Ma.BDGJ.scaffolds	100.000	297	0	0	1	297	296140	296436	6.09e-170	589
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:r700-atp6*****************r700 Ma.BDGJ.scaffolds 356847 357902ORF_len:1056,GENE_len:726
+r700	Ma.BDGJ.scaffolds	100.000	1056	0	0	1	1056	356847	357902	0.0	2093
+atp6	Ma.BDGJ.scaffolds	100.000	726	0	0	1	726	357566	356841	0.0	1439
+***************************TEST:f55-nad7_fragment_1*****************f55 Ma.BDGJ.scaffolds 122074 122298ORF_len:225,GENE_len:162
+f55	Ma.BDGJ.scaffolds	100.000	225	0	0	1	225	122074	122298	4.22e-127	446
+nad7_fragment_1	Ma.BDGJ.scaffolds	99.383	162	1	0	1	162	122046	122207	2.85e-87	313
+***************************TEST:r452-nad1_fragment_5*****************r452 Ma.BDGJ.scaffolds 263349 263750ORF_len:402,GENE_len:255
+r452	Ma.BDGJ.scaffolds	100.000	402	0	0	1	402	263349	263750	0.0	797
+r452	Ma.BDGJ.scaffolds	100.000	45	0	0	41	85	476275	476231	2.01e-19	89.7
+r452	Ma.BDGJ.scaffolds	92.857	42	3	0	331	372	21705	21664	1.79e-10	60.0
+r452	Ma.BDGJ.scaffolds	96.667	30	1	0	155	184	163837	163866	4.37e-08	52.0
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	255	0	0	1	255	263606	263352	6.00e-145	505
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	45	0	0	174	218	476231	476275	1.25e-19	89.7
+nad1_fragment_5	Ma.BDGJ.scaffolds	96.667	30	1	0	75	104	163866	163837	2.72e-08	52.0
+***************************TEST:r977-nad1_fragment_3*****************r977 Ma.BDGJ.scaffolds 474570 474887ORF_len:318,GENE_len:195
+r977	Ma.BDGJ.scaffolds	100.000	318	0	0	1	318	474570	474887	0.0	630
+r977	Ma.BDGJ.scaffolds	100.000	49	0	0	152	200	175116	175068	6.45e-22	97.6
+nad1_fragment_3	Ma.BDGJ.scaffolds	100.000	195	0	0	1	195	474781	474975	2.89e-109	387
+***************************TEST:f263-nad5_fragment_1*****************f263 Ma.BDGJ.scaffolds 197751 198107ORF_len:357,GENE_len:237
+f263	Ma.BDGJ.scaffolds	100.000	357	0	0	1	357	197751	198107	0.0	708
+f263	Ma.BDGJ.scaffolds	100.000	279	0	0	52	330	263055	263333	4.07e-159	553
+f263	Ma.BDGJ.scaffolds	94.737	38	2	0	266	303	476306	476269	1.59e-10	60.0
+nad5_fragment_1	Ma.BDGJ.scaffolds	99.578	237	1	0	1	237	263152	262916	7.50e-132	462
+nad5_fragment_1	Ma.BDGJ.scaffolds	98.980	98	1	0	1	98	197899	197802	6.66e-49	186
+***************************TEST:r1224-rps10_fragment_2*****************r1224 Ma.BDGJ.scaffolds 96265 96579ORF_len:315,GENE_len:75
+r1224	Ma.BDGJ.scaffolds	100.000	315	0	0	1	315	96265	96579	1.18e-180	624
+rps10_fragment_2	Ma.BDGJ.scaffolds	100.000	75	0	0	1	75	96297	96371	4.08e-38	149
+***************************TEST:r42-nad1_fragment_4*****************r42 Ma.BDGJ.scaffolds 118063 118296ORF_len:234,GENE_len:60
+r42	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	118063	118296	1.87e-132	464
+nad1_fragment_4	Ma.BDGJ.scaffolds	100.000	60	0	0	1	60	118215	118274	2.78e-29	119
+***************************TEST:f308-nad4_fragment_2*****************f308 Ma.BDGJ.scaffolds 21973 22239ORF_len:267,GENE_len:936
+f308	Ma.BDGJ.scaffolds	100.000	267	0	0	1	267	21973	22239	4.35e-152	529
+nad4_fragment_2	Ma.BDGJ.scaffolds	100.000	936	0	0	1	936	21788	22723	0.0	1855
+***************************TEST:f339-atp8*****************f339 Ma.BDGJ.scaffolds 229594 230043ORF_len:450,GENE_len:477
+f339	Ma.BDGJ.scaffolds	100.000	450	0	0	1	450	229594	230043	0.0	892
+f339	Ma.BDGJ.scaffolds	99.485	194	1	0	46	239	421231	421424	6.68e-106	377
+f339	Ma.BDGJ.scaffolds	98.780	82	1	0	91	172	177517	177436	4.57e-39	155
+f339	Ma.BDGJ.scaffolds	89.796	49	5	0	235	283	384646	384694	7.96e-10	58.0
+atp8	Ma.BDGJ.scaffolds	99.790	477	1	0	1	477	421348	421824	0.0	938
+atp8	Ma.BDGJ.scaffolds	100.000	77	0	0	1	77	229756	229832	1.92e-38	153
+***************************TEST:r170-cob*****************r170 Ma.BDGJ.scaffolds 158186 159418ORF_len:1233,GENE_len:1191
+r170	Ma.BDGJ.scaffolds	100.000	1233	0	0	1	1233	158186	159418	0.0	2444
+cob	Ma.BDGJ.scaffolds	99.916	1191	1	0	1	1191	159418	158228	0.0	2353
+***************************TEST:r135-rps7*****************r135 Ma.BDGJ.scaffolds 146306 146626ORF_len:321,GENE_len:465
+r135	Ma.BDGJ.scaffolds	100.000	321	0	0	1	321	146306	146626	0.0	636
+rps7	Ma.BDGJ.scaffolds	99.785	465	1	0	1	465	146733	146269	0.0	914
+***************************TEST:f620-nad4L*****************f620 Ma.BDGJ.scaffolds 331596 331931ORF_len:336,GENE_len:300
+f620	Ma.BDGJ.scaffolds	100.000	336	0	0	1	336	331596	331931	0.0	666
+f620	Ma.BDGJ.scaffolds	100.000	23	0	0	1	23	331135	331157	2.24e-06	46.1
+nad4L	Ma.BDGJ.scaffolds	100.000	300	0	0	1	300	331629	331928	9.98e-172	595
+***************************TEST:f1229-cox1*****************f1229 Ma.BDGJ.scaffolds 96316 96657ORF_len:342,GENE_len:1578
+f1229	Ma.BDGJ.scaffolds	100.000	342	0	0	1	342	96316	96657	0.0	678
+cox1	Ma.BDGJ.scaffolds	100.000	1578	0	0	1	1578	96609	98186	0.0	3128
+***************************TEST:f69-nad7_fragment_4*****************f69 Ma.BDGJ.scaffolds 126054 126401ORF_len:348,GENE_len:243
+f69	Ma.BDGJ.scaffolds	100.000	348	0	0	1	348	126054	126401	0.0	690
+nad7_fragment_4	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	126244	126486	8.30e-138	482
+***************************TEST:f1118-ccmC*****************f1118 Ma.BDGJ.scaffolds 515892 516695ORF_len:804,GENE_len:750
+f1118	Ma.BDGJ.scaffolds	100.000	804	0	0	1	804	515892	516695	0.0	1594
+ccmC	Ma.BDGJ.scaffolds	99.867	750	1	0	1	750	515892	516641	0.0	1479
+***************************TEST:f984-rps14_fragment_1*****************f984 Ma.BDGJ.scaffolds 469052 469324ORF_len:273,GENE_len:87
+f984	Ma.BDGJ.scaffolds	100.000	273	0	0	1	273	469052	469324	1.17e-155	541
+rps14_fragment_1	Ma.BDGJ.scaffolds	100.000	87	0	0	1	87	469228	469314	3.31e-45	172
+***************************TEST:f130-rps7*****************f130 Ma.BDGJ.scaffolds 146674 147045ORF_len:372,GENE_len:465
+f130	Ma.BDGJ.scaffolds	100.000	372	0	0	1	372	146674	147045	0.0	737
+rps7	Ma.BDGJ.scaffolds	99.785	465	1	0	1	465	146733	146269	0.0	914
+***************************TEST:f762-cox2_fragment_1*****************f762 Ma.BDGJ.scaffolds 384309 384701ORF_len:393,GENE_len:702
+f762	Ma.BDGJ.scaffolds	100.000	393	0	0	1	393	384309	384701	0.0	779
+f762	Ma.BDGJ.scaffolds	100.000	106	0	0	1	106	358068	357963	7.77e-56	210
+f762	Ma.BDGJ.scaffolds	100.000	44	0	0	63	106	205350	205393	7.74e-19	87.7
+f762	Ma.BDGJ.scaffolds	89.796	49	5	0	338	386	229828	229876	6.92e-10	58.0
+cox2_fragment_1	Ma.BDGJ.scaffolds	100.000	702	0	0	1	702	384496	385197	0.0	1392
+cox2_fragment_1	Ma.BDGJ.scaffolds	96.471	85	3	0	618	702	67336	67420	6.95e-36	145
+cox2_fragment_1	Ma.BDGJ.scaffolds	89.796	49	5	0	151	199	229828	229876	1.26e-09	58.0
+***************************TEST:r1093-ccmC*****************r1093 Ma.BDGJ.scaffolds 515572 515931ORF_len:360,GENE_len:750
+r1093	Ma.BDGJ.scaffolds	100.000	360	0	0	1	360	515572	515931	0.0	714
+r1093	Ma.BDGJ.scaffolds	100.000	25	0	0	163	187	139333	139357	1.54e-07	50.1
+r1093	Ma.BDGJ.scaffolds	100.000	25	0	0	168	192	189253	189229	1.54e-07	50.1
+r1093	Ma.BDGJ.scaffolds	96.552	29	1	0	161	189	227356	227384	1.54e-07	50.1
+r1093	Ma.BDGJ.scaffolds	100.000	22	0	0	119	140	279321	279300	9.50e-06	44.1
+ccmC	Ma.BDGJ.scaffolds	99.867	750	1	0	1	750	515892	516641	0.0	1479
+***************************TEST:f982-rpl5*****************f982 Ma.BDGJ.scaffolds 468663 469226ORF_len:564,GENE_len:552
+f982	Ma.BDGJ.scaffolds	100.000	564	0	0	1	564	468663	469226	0.0	1118
+rpl5	Ma.BDGJ.scaffolds	99.819	552	1	0	1	552	468672	469223	0.0	1086
+***************************TEST:f281-nad9*****************f281 Ma.BDGJ.scaffolds 205451 206029ORF_len:579,GENE_len:573
+f281	Ma.BDGJ.scaffolds	100.000	579	0	0	1	579	205451	206029	0.0	1148
+nad9	Ma.BDGJ.scaffolds	100.000	573	0	0	1	573	205457	206029	0.0	1136
+***************************TEST:r48-matR*****************r48 Ma.BDGJ.scaffolds 119844 120638ORF_len:795,GENE_len:1983
+r48	Ma.BDGJ.scaffolds	100.000	795	0	0	1	795	119844	120638	0.0	1576
+r48	Ma.BDGJ.scaffolds	100.000	26	0	0	285	310	467790	467815	8.80e-08	52.0
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:f990-nad1_fragment_2*****************f990 Ma.BDGJ.scaffolds 473192 473464ORF_len:273,GENE_len:78
+f990	Ma.BDGJ.scaffolds	100.000	273	0	0	1	273	473192	473464	1.17e-155	541
+nad1_fragment_2	Ma.BDGJ.scaffolds	100.000	78	0	0	1	78	473238	473315	6.93e-40	155
+***************************TEST:r453-nad1_fragment_5*****************r453 Ma.BDGJ.scaffolds 263518 263838ORF_len:321,GENE_len:255
+r453	Ma.BDGJ.scaffolds	100.000	321	0	0	1	321	263518	263838	0.0	636
+r453	Ma.BDGJ.scaffolds	92.857	42	3	0	162	203	21705	21664	1.42e-10	60.0
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	255	0	0	1	255	263606	263352	6.00e-145	505
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	45	0	0	174	218	476231	476275	1.25e-19	89.7
+nad1_fragment_5	Ma.BDGJ.scaffolds	96.667	30	1	0	75	104	163866	163837	2.72e-08	52.0
+***************************TEST:r454-nad1_fragment_5*****************r454 Ma.BDGJ.scaffolds 263561 263869ORF_len:309,GENE_len:255
+r454	Ma.BDGJ.scaffolds	100.000	309	0	0	1	309	263561	263869	4.38e-177	613
+r454	Ma.BDGJ.scaffolds	92.857	42	3	0	119	160	21705	21664	1.36e-10	60.0
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	255	0	0	1	255	263606	263352	6.00e-145	505
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	45	0	0	174	218	476231	476275	1.25e-19	89.7
+nad1_fragment_5	Ma.BDGJ.scaffolds	96.667	30	1	0	75	104	163866	163837	2.72e-08	52.0
+***************************TEST:f83-nad2_fragment_4*****************f83 Ma.BDGJ.scaffolds 1320 2219ORF_len:900,GENE_len:621
+f83	Ma.BDGJ.scaffolds	100.000	900	0	0	1	900	1320	2219	0.0	1784
+nad2_fragment_4	Ma.BDGJ.scaffolds	100.000	621	0	0	1	621	1572	2192	0.0	1231
+***************************TEST:f858-cox3*****************f858 Ma.BDGJ.scaffolds 422306 423379ORF_len:1074,GENE_len:795
+f858	Ma.BDGJ.scaffolds	100.000	1074	0	0	1	1074	422306	423379	0.0	2129
+cox3	Ma.BDGJ.scaffolds	100.000	795	0	0	1	795	422450	423244	0.0	1576
+***************************TEST:r446-nad5_fragment_2*****************r446 Ma.BDGJ.scaffolds 261317 261685ORF_len:369,GENE_len:1203
+r446	Ma.BDGJ.scaffolds	100.000	369	0	0	1	369	261317	261685	0.0	731
+nad5_fragment_2	Ma.BDGJ.scaffolds	100.000	1203	0	0	1	1203	262065	260863	0.0	2385
+***************************TEST:r1223-rps10_fragment_2*****************r1223 Ma.BDGJ.scaffolds 96197 96463ORF_len:267,GENE_len:75
+r1223	Ma.BDGJ.scaffolds	100.000	267	0	0	1	267	96197	96463	4.35e-152	529
+rps10_fragment_2	Ma.BDGJ.scaffolds	100.000	75	0	0	1	75	96297	96371	4.08e-38	149
+***************************TEST:f1232-cox1*****************f1232 Ma.BDGJ.scaffolds 97304 97579ORF_len:276,GENE_len:1578
+f1232	Ma.BDGJ.scaffolds	100.000	276	0	0	1	276	97304	97579	1.92e-157	547
+cox1	Ma.BDGJ.scaffolds	100.000	1578	0	0	1	1578	96609	98186	0.0	3128
+***************************TEST:f388-nad4_fragment_3*****************f388 Ma.BDGJ.scaffolds 24760 25410ORF_len:651,GENE_len:87
+f388	Ma.BDGJ.scaffolds	100.000	651	0	0	1	651	24760	25410	0.0	1291
+nad4_fragment_3	Ma.BDGJ.scaffolds	100.000	87	0	0	1	87	25255	25341	3.31e-45	172
+***************************TEST:f1215-nad5_fragment_4*****************f1215 Ma.BDGJ.scaffolds 88665 88898ORF_len:234,GENE_len:396
+f1215	Ma.BDGJ.scaffolds	100.000	234	0	0	1	234	88665	88898	1.87e-132	464
+nad5_fragment_4	Ma.BDGJ.scaffolds	99.747	396	1	0	1	396	88740	88345	0.0	777
+***************************TEST:r540-rps3*****************r540 Ma.BDGJ.scaffolds 296078 296389ORF_len:312,GENE_len:1680
+r540	Ma.BDGJ.scaffolds	100.000	312	0	0	1	312	296078	296389	7.18e-179	618
+rps3	Ma.BDGJ.scaffolds	99.940	1680	1	0	1	1680	295959	297638	0.0	3322
+***************************TEST:f855-atp8*****************f855 Ma.BDGJ.scaffolds 420946 421935ORF_len:990,GENE_len:477
+f855	Ma.BDGJ.scaffolds	100.000	990	0	0	1	990	420946	421935	0.0	1963
+f855	Ma.BDGJ.scaffolds	99.485	194	1	0	286	479	229639	229832	1.49e-105	377
+f855	Ma.BDGJ.scaffolds	98.780	82	1	0	331	412	177517	177436	1.02e-38	155
+atp8	Ma.BDGJ.scaffolds	99.790	477	1	0	1	477	421348	421824	0.0	938
+atp8	Ma.BDGJ.scaffolds	100.000	77	0	0	1	77	229756	229832	1.92e-38	153
+***************************TEST:f266-atp9*****************f266 Ma.BDGJ.scaffolds 198395 198739ORF_len:345,GENE_len:243
+f266	Ma.BDGJ.scaffolds	100.000	345	0	0	1	345	198395	198739	0.0	684
+f266	Ma.BDGJ.scaffolds	98.077	52	1	0	134	185	307248	307197	2.77e-21	95.6
+f266	Ma.BDGJ.scaffolds	94.595	37	2	0	79	115	248657	248621	6.04e-10	58.0
+f266	Ma.BDGJ.scaffolds	96.154	26	1	0	160	185	143028	143003	9.09e-06	44.1
+atp9	Ma.BDGJ.scaffolds	100.000	243	0	0	1	243	198446	198204	8.30e-138	482
+***************************TEST:f943-ccmB*****************f943 Ma.BDGJ.scaffolds 453784 454014ORF_len:231,GENE_len:630
+f943	Ma.BDGJ.scaffolds	100.000	231	0	0	1	231	453784	454014	1.14e-130	458
+ccmB	Ma.BDGJ.scaffolds	99.841	630	1	0	1	630	453921	454550	0.0	1241
+***************************TEST:f328-nad3*****************f328 Ma.BDGJ.scaffolds 227324 227704ORF_len:381,GENE_len:354
+f328	Ma.BDGJ.scaffolds	100.000	381	0	0	1	381	227324	227704	0.0	755
+f328	Ma.BDGJ.scaffolds	93.701	127	4	1	30	156	189263	189141	1.09e-48	186
+f328	Ma.BDGJ.scaffolds	96.552	29	1	0	33	61	515732	515760	1.63e-07	50.1
+nad3	Ma.BDGJ.scaffolds	99.718	354	1	0	1	354	189203	188850	0.0	694
+nad3	Ma.BDGJ.scaffolds	95.238	63	3	0	1	63	227417	227479	4.62e-23	101
+***************************TEST:r333-nad4_fragment_2*****************r333 Ma.BDGJ.scaffolds 21850 22089ORF_len:240,GENE_len:936
+r333	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	21850	22089	5.06e-136	476
+nad4_fragment_2	Ma.BDGJ.scaffolds	100.000	936	0	0	1	936	21788	22723	0.0	1855
+***************************TEST:r965-rps4*****************r965 Ma.BDGJ.scaffolds 472122 472346ORF_len:225,GENE_len:1044
+r965	Ma.BDGJ.scaffolds	100.000	225	0	0	1	225	281540	281316	4.22e-127	446
+r965	Ma.BDGJ.scaffolds	100.000	225	0	0	1	225	472122	472346	4.22e-127	446
+r965	Ma.BDGJ.scaffolds	100.000	24	0	0	102	125	280191	280214	3.73e-07	48.1
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:f483-rps4*****************f483 Ma.BDGJ.scaffolds 280638 280976ORF_len:339,GENE_len:1044
+f483	Ma.BDGJ.scaffolds	100.000	339	0	0	1	339	280638	280976	0.0	672
+rps4	Ma.BDGJ.scaffolds	100.000	1044	0	0	1	1044	281443	280400	0.0	2070
+rps4	Ma.BDGJ.scaffolds	100.000	240	0	0	1	240	472219	472458	2.29e-135	476
+rps4	Ma.BDGJ.scaffolds	100.000	24	0	0	5	28	280191	280214	1.81e-06	48.1
+***************************TEST:r771-cox2_fragment_1*****************r771 Ma.BDGJ.scaffolds 384366 384668ORF_len:303,GENE_len:702
+r771	Ma.BDGJ.scaffolds	100.000	303	0	0	1	303	384366	384668	1.63e-173	601
+r771	Ma.BDGJ.scaffolds	100.000	49	0	0	1	49	358011	357963	6.13e-22	97.6
+r771	Ma.BDGJ.scaffolds	100.000	44	0	0	6	49	205350	205393	5.90e-19	87.7
+cox2_fragment_1	Ma.BDGJ.scaffolds	100.000	702	0	0	1	702	384496	385197	0.0	1392
+cox2_fragment_1	Ma.BDGJ.scaffolds	96.471	85	3	0	618	702	67336	67420	6.95e-36	145
+cox2_fragment_1	Ma.BDGJ.scaffolds	89.796	49	5	0	151	199	229828	229876	1.26e-09	58.0
+***************************TEST:r923-ccmB*****************r923 Ma.BDGJ.scaffolds 453859 454194ORF_len:336,GENE_len:630
+r923	Ma.BDGJ.scaffolds	100.000	336	0	0	1	336	453859	454194	0.0	666
+ccmB	Ma.BDGJ.scaffolds	99.841	630	1	0	1	630	453921	454550	0.0	1241
+***************************TEST:r46-matR*****************r46 Ma.BDGJ.scaffolds 119280 119636ORF_len:357,GENE_len:1983
+r46	Ma.BDGJ.scaffolds	100.000	357	0	0	1	357	119280	119636	0.0	708
+matR	Ma.BDGJ.scaffolds	100.000	1983	0	0	1	1983	118945	120927	0.0	3931
+matR	Ma.BDGJ.scaffolds	100.000	26	0	0	1184	1209	467790	467815	2.22e-07	52.0
+***************************TEST:f945-ccmB*****************f945 Ma.BDGJ.scaffolds 453992 454528ORF_len:537,GENE_len:630
+f945	Ma.BDGJ.scaffolds	100.000	537	0	0	1	537	453992	454528	0.0	1065
+ccmB	Ma.BDGJ.scaffolds	99.841	630	1	0	1	630	453921	454550	0.0	1241
+***************************TEST:f429-nad5_fragment_2*****************f429 Ma.BDGJ.scaffolds 261374 261961ORF_len:588,GENE_len:1203
+f429	Ma.BDGJ.scaffolds	100.000	588	0	0	1	588	261374	261961	0.0	1166
+nad5_fragment_2	Ma.BDGJ.scaffolds	100.000	1203	0	0	1	1203	262065	260863	0.0	2385
+***************************TEST:r450-nad1_fragment_5*****************r450 Ma.BDGJ.scaffolds 263119 263490ORF_len:372,GENE_len:255
+r450	Ma.BDGJ.scaffolds	100.000	372	0	0	1	372	263119	263490	0.0	737
+r450	Ma.BDGJ.scaffolds	100.000	215	0	0	1	215	197866	198080	6.61e-121	426
+r450	Ma.BDGJ.scaffolds	100.000	45	0	0	271	315	476275	476231	1.85e-19	89.7
+r450	Ma.BDGJ.scaffolds	94.737	38	2	0	151	188	476306	476269	1.65e-10	60.0
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	255	0	0	1	255	263606	263352	6.00e-145	505
+nad1_fragment_5	Ma.BDGJ.scaffolds	100.000	45	0	0	174	218	476231	476275	1.25e-19	89.7
+nad1_fragment_5	Ma.BDGJ.scaffolds	96.667	30	1	0	75	104	163866	163837	2.72e-08	52.0
+***************************TEST:r1034-ccmFc_fragment_2*****************r1034 Ma.BDGJ.scaffolds 492608 493150ORF_len:543,GENE_len:549
+r1034	Ma.BDGJ.scaffolds	100.000	543	0	0	1	543	492608	493150	0.0	1076
+ccmFc_fragment_2	Ma.BDGJ.scaffolds	100.000	549	0	0	1	549	492468	493016	0.0	1088
+***************************TEST:f269-nad4_fragment_1*****************f269 Ma.BDGJ.scaffolds 19880 20533ORF_len:654,GENE_len:459
+f269	Ma.BDGJ.scaffolds	100.000	654	0	0	1	654	19880	20533	0.0	1296
+nad4_fragment_1	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	19890	20348	0.0	910

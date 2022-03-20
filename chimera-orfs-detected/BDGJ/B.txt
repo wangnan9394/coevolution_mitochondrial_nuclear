@@ -1,0 +1,1 @@
+nad4_fragment_1	Ma.BDGJ.scaffolds	100.000	459	0	0	1	459	19890	20348	0.0	910
