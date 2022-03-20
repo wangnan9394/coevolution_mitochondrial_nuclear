@@ -1,0 +1,27 @@
+
+1、features of mitgenome by PCA(PC1)
+vcftools --vcf ../../3.vcfs/0.pre/mt.vcf --recode --stdout --keep ../test2.name >mt.test2.vcf
+2.caculate PCA value
+plink --vcf mt.test2.vcf --pca --const-fid --vcf-half-call m
+3.prepared .bed and .bam files
+plink --vcf STEP2.test2.vcf --out plink --const-fid
+
+###3.2-prepared LD blocks
+plink --vcf STEP2.test2.vcf --indep-pairwise 50 10 0.8 --out STEP4 --allow-extra-chr --vcf-half-call m --const-fid --recode vcf-iid
+plink --vcf STEP4.vcf --extract STEP4.prune.out --recode vcf-iid --out STEP4.prune.out.vcf --allow-extra-chr --const-fid
+plink --vcf STEP4.prune.out.vcf.vcf --const-fid --out plink
+
+4.alter .fam file
+cat plink.eigenvec |awk '{print $3}' >PC1.txt
+cat plink.fam |awk '{print $1"\t"$2"\t"$3"\t"$4"\t"$5"\t"}' >new.fam
+paste new.fam PC1.txt >plink.fam
+rm new.fam
+rm PC1.txt
+5.LM
+#gemma -bfile plink -lm 4 -o test2
+6.MLM
+gemma -bfile plink -gk 2 -o test2
+gemma -bfile plink -k ./output/test2.sXX.txt -lmm 4 -o mlm.out
+7.draw plots
+Rscript ../../manhattan.R FC.LM.assoc.txt p_wald
+pdftoppm -png FC.LM.assoc.txtp_score_manhattan.pdf manhattan 
