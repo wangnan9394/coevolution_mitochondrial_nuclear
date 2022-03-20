@@ -31,4 +31,5 @@ paternla_leaksge_heteroplasmy:
 lemon_paternal_leakage.xlsx, the result of heteroplasmy mediated by paternal leakage in sour_orange and grapefruit populations;
 sour_orange(subgroup1 and subgroup2)_paternal_leakage.xlsx, the result of heteroplasmy mediated by paternal leakage in sour_orange and grapefruit populations.
 
-The other population genomic tools, workflows and scripts could be find in wangnan9394/apomixis_parallel_evolution and wangnan9394/conservation_genomics
+The other population genomic tools, workflows and scripts could be find in wangnan9394/apomixis_parallel_evolution and wangnan9394/conservation_genomics.
+[https://github.com/wangnan9394/conservation_genomics]
