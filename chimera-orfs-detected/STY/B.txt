@@ -1,0 +1,2 @@
+nad5_fragment_1	Pu.STY.scaffolds	99.578	237	1	0	1	237	359292	359528	7.60e-132	462
+nad5_fragment_1	Pu.STY.scaffolds	98.980	98	1	0	1	98	424545	424642	6.75e-49	186

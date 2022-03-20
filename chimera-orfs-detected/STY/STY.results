@@ -1,0 +1,742 @@
+***************************TEST:r530-nad1_fragment_4*****************r530 Pu.STY.scaffolds 293638 293868ORF_len:231,GENE_len:60
+r530	Pu.STY.scaffolds	100.000	231	0	0	1	231	293638	293868	1.16e-130	458
+nad1_fragment_4	Pu.STY.scaffolds	100.000	60	0	0	1	60	293771	293712	2.81e-29	119
+***************************TEST:r95-ccmFc_fragment_1*****************r95 Pu.STY.scaffolds 132673 133119ORF_len:447,GENE_len:771
+r95	Pu.STY.scaffolds	100.000	447	0	0	1	447	132673	133119	0.0	886
+r95	Pu.STY.scaffolds	98.592	71	1	0	377	447	22774	22844	1.69e-32	133
+ccmFc_fragment_1	Pu.STY.scaffolds	100.000	771	0	0	1	771	23109	22339	0.0	1528
+ccmFc_fragment_1	Pu.STY.scaffolds	97.531	81	2	0	256	336	133129	133049	7.76e-36	145
+***************************TEST:f520-matR*****************f520 Pu.STY.scaffolds 292262 292621ORF_len:360,GENE_len:1983
+f520	Pu.STY.scaffolds	100.000	360	0	0	1	360	292262	292621	0.0	714
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r1223-nad3*****************r1223 Pu.STY.scaffolds 89359 89844ORF_len:486,GENE_len:354
+r1223	Pu.STY.scaffolds	100.000	486	0	0	1	486	89359	89844	0.0	963
+r1223	Pu.STY.scaffolds	93.701	127	4	1	295	417	394965	395091	1.42e-48	186
+r1223	Pu.STY.scaffolds	100.000	25	0	0	383	407	522823	522799	2.13e-07	50.1
+nad3	Pu.STY.scaffolds	99.718	354	1	0	1	354	89715	89362	0.0	694
+nad3	Pu.STY.scaffolds	95.238	63	3	0	1	63	395027	394965	4.68e-23	101
+***************************TEST:f691-nad1_fragment_5*****************f691 Pu.STY.scaffolds 358606 358926ORF_len:321,GENE_len:255
+f691	Pu.STY.scaffolds	100.000	321	0	0	1	321	358606	358926	0.0	636
+f691	Pu.STY.scaffolds	92.857	42	3	0	119	160	480665	480706	1.44e-10	60.0
+nad1_fragment_5	Pu.STY.scaffolds	100.000	255	0	0	1	255	358838	359092	6.09e-145	505
+nad1_fragment_5	Pu.STY.scaffolds	100.000	45	0	0	174	218	37622	37578	1.26e-19	89.7
+nad1_fragment_5	Pu.STY.scaffolds	96.667	30	1	0	75	104	64378	64349	2.75e-08	52.0
+***************************TEST:r190-cox2_fragment_1*****************r190 Pu.STY.scaffolds 167601 167993ORF_len:393,GENE_len:702
+r190	Pu.STY.scaffolds	100.000	393	0	0	1	393	167601	167993	0.0	779
+r190	Pu.STY.scaffolds	100.000	106	0	0	288	393	194344	194239	7.88e-56	210
+r190	Pu.STY.scaffolds	100.000	44	0	0	288	331	417051	417094	7.85e-19	87.7
+r190	Pu.STY.scaffolds	89.796	49	5	0	8	56	392568	392616	7.02e-10	58.0
+cox2_fragment_1	Pu.STY.scaffolds	100.000	702	0	0	1	702	167806	167105	0.0	1392
+cox2_fragment_1	Pu.STY.scaffolds	96.471	85	3	0	618	702	344652	344568	7.05e-36	145
+cox2_fragment_1	Pu.STY.scaffolds	89.796	49	5	0	151	199	392616	392568	1.27e-09	58.0
+***************************TEST:r521-nad7_fragment_1*****************r521 Pu.STY.scaffolds 289688 289912ORF_len:225,GENE_len:162
+r521	Pu.STY.scaffolds	100.000	225	0	0	1	225	289688	289912	4.28e-127	446
+nad7_fragment_1	Pu.STY.scaffolds	99.383	162	1	0	1	162	289940	289779	2.88e-87	313
+***************************TEST:r852-nad9*****************r852 Pu.STY.scaffolds 416415 416993ORF_len:579,GENE_len:573
+r852	Pu.STY.scaffolds	100.000	579	0	0	1	579	416415	416993	0.0	1148
+nad9	Pu.STY.scaffolds	100.000	573	0	0	1	573	416987	416415	0.0	1136
+***************************TEST:f299-nad4L*****************f299 Pu.STY.scaffolds 220386 220730ORF_len:345,GENE_len:300
+f299	Pu.STY.scaffolds	100.000	345	0	0	1	345	220386	220730	0.0	684
+f299	Pu.STY.scaffolds	100.000	29	0	0	304	332	221150	221178	6.13e-10	58.0
+nad4L	Pu.STY.scaffolds	100.000	300	0	0	1	300	220678	220379	1.01e-171	595
+***************************TEST:f916-rps14_fragment_2*****************f916 Pu.STY.scaffolds 438746 439138ORF_len:393,GENE_len:174
+f916	Pu.STY.scaffolds	100.000	393	0	0	1	393	438746	439138	0.0	779
+rps14_fragment_2	Pu.STY.scaffolds	100.000	174	0	0	1	174	439051	439224	8.83e-97	345
+***************************TEST:f577-rps10_fragment_1*****************f577 Pu.STY.scaffolds 316113 317114ORF_len:1002,GENE_len:210
+f577	Pu.STY.scaffolds	100.000	1002	0	0	1	1002	316113	317114	0.0	1986
+f577	Pu.STY.scaffolds	100.000	56	0	0	689	744	70042	70097	1.41e-25	111
+f577	Pu.STY.scaffolds	100.000	56	0	0	689	744	357801	357746	1.41e-25	111
+f577	Pu.STY.scaffolds	100.000	56	0	0	689	744	438358	438303	1.41e-25	111
+rps10_fragment_1	Pu.STY.scaffolds	100.000	210	0	0	1	210	316767	316558	3.55e-118	416
+***************************TEST:f899-atp1*****************f899 Pu.STY.scaffolds 431144 433378ORF_len:2235,GENE_len:1521
+f899	Pu.STY.scaffolds	100.000	2235	0	0	1	2235	431144	433378	0.0	4431
+f899	Pu.STY.scaffolds	100.000	1278	0	0	1	1278	92039	90762	0.0	2533
+f899	Pu.STY.scaffolds	90.536	317	30	0	1914	2230	221141	220825	2.29e-109	391
+f899	Pu.STY.scaffolds	100.000	127	0	0	1152	1278	90661	90535	1.36e-67	252
+f899	Pu.STY.scaffolds	98.246	57	1	0	1847	1903	391696	391640	1.96e-23	105
+f899	Pu.STY.scaffolds	100.000	25	0	0	72	96	220740	220716	1.00e-06	50.1
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f572-rps10_fragment_2*****************f572 Pu.STY.scaffolds 315407 315721ORF_len:315,GENE_len:75
+f572	Pu.STY.scaffolds	100.000	315	0	0	1	315	315407	315721	1.19e-180	624
+rps10_fragment_2	Pu.STY.scaffolds	100.000	75	0	0	1	75	315689	315615	4.13e-38	149
+***************************TEST:r1228-atp1*****************r1228 Pu.STY.scaffolds 91111 91344ORF_len:234,GENE_len:1521
+r1228	Pu.STY.scaffolds	100.000	234	0	0	1	234	91111	91344	1.90e-132	464
+r1228	Pu.STY.scaffolds	100.000	234	0	0	1	234	432072	431839	1.90e-132	464
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f1209-rps12*****************f1209 Pu.STY.scaffolds 89123 89395ORF_len:273,GENE_len:375
+f1209	Pu.STY.scaffolds	100.000	273	0	0	1	273	89123	89395	1.19e-155	541
+rps12	Pu.STY.scaffolds	100.000	375	0	0	1	375	89310	88936	0.0	743
+***************************TEST:r502-nad7_fragment_5*****************r502 Pu.STY.scaffolds 283438 283740ORF_len:303,GENE_len:261
+r502	Pu.STY.scaffolds	100.000	303	0	0	1	303	283438	283740	1.66e-173	601
+nad7_fragment_5	Pu.STY.scaffolds	100.000	261	0	0	1	261	283701	283441	1.64e-148	517
+***************************TEST:f693-nad1_fragment_5*****************f693 Pu.STY.scaffolds 358954 359325ORF_len:372,GENE_len:255
+f693	Pu.STY.scaffolds	100.000	372	0	0	1	372	358954	359325	0.0	737
+f693	Pu.STY.scaffolds	100.000	215	0	0	158	372	424364	424578	6.70e-121	426
+f693	Pu.STY.scaffolds	100.000	45	0	0	58	102	37622	37578	1.88e-19	89.7
+f693	Pu.STY.scaffolds	94.737	38	2	0	185	222	37584	37547	1.68e-10	60.0
+nad1_fragment_5	Pu.STY.scaffolds	100.000	255	0	0	1	255	358838	359092	6.09e-145	505
+nad1_fragment_5	Pu.STY.scaffolds	100.000	45	0	0	174	218	37622	37578	1.26e-19	89.7
+nad1_fragment_5	Pu.STY.scaffolds	96.667	30	1	0	75	104	64378	64349	2.75e-08	52.0
+***************************TEST:f969-nad2_fragment_4*****************f969 Pu.STY.scaffolds 460317 461216ORF_len:900,GENE_len:621
+f969	Pu.STY.scaffolds	100.000	900	0	0	1	900	460317	461216	0.0	1784
+nad2_fragment_4	Pu.STY.scaffolds	100.000	621	0	0	1	621	460569	461189	0.0	1231
+***************************TEST:r708-nad5_fragment_2*****************r708 Pu.STY.scaffolds 359958 360413ORF_len:456,GENE_len:1203
+r708	Pu.STY.scaffolds	100.000	456	0	0	1	456	359958	360413	0.0	904
+nad5_fragment_2	Pu.STY.scaffolds	100.000	1203	0	0	1	1203	360379	361581	0.0	2385
+***************************TEST:r805-nad3*****************r805 Pu.STY.scaffolds 394740 395120ORF_len:381,GENE_len:354
+r805	Pu.STY.scaffolds	100.000	381	0	0	1	381	394740	395120	0.0	755
+r805	Pu.STY.scaffolds	93.701	127	4	1	226	352	89653	89775	1.11e-48	186
+r805	Pu.STY.scaffolds	96.552	29	1	0	321	349	522820	522792	1.66e-07	50.1
+nad3	Pu.STY.scaffolds	99.718	354	1	0	1	354	89715	89362	0.0	694
+nad3	Pu.STY.scaffolds	95.238	63	3	0	1	63	395027	394965	4.68e-23	101
+***************************TEST:r330-atp4*****************r330 Pu.STY.scaffolds 219580 220170ORF_len:591,GENE_len:588
+r330	Pu.STY.scaffolds	100.000	591	0	0	1	591	219580	220170	0.0	1172
+atp4	Pu.STY.scaffolds	100.000	588	0	0	1	588	220170	219583	0.0	1166
+***************************TEST:r908-rpl5*****************r908 Pu.STY.scaffolds 438519 438995ORF_len:477,GENE_len:552
+r908	Pu.STY.scaffolds	100.000	477	0	0	1	477	438519	438995	0.0	946
+rpl5	Pu.STY.scaffolds	99.819	552	1	0	1	552	438400	438951	0.0	1086
+***************************TEST:f401-rpl16*****************f401 Pu.STY.scaffolds 254781 255011ORF_len:231,GENE_len:555
+f401	Pu.STY.scaffolds	100.000	231	0	0	1	231	254781	255011	1.16e-130	458
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:f1091-ccmFn*****************f1091 Pu.STY.scaffolds 511821 512105ORF_len:285,GENE_len:1728
+f1091	Pu.STY.scaffolds	100.000	167	0	0	119	285	511939	512105	2.23e-92	331
+ccmFn	Pu.STY.scaffolds	99.884	1728	2	0	1	1728	511940	513667	0.0	3410
+ccmFn	Pu.STY.scaffolds	97.503	761	17	2	969	1728	511838	511079	0.0	1342
+***************************TEST:f690-nad1_fragment_5*****************f690 Pu.STY.scaffolds 358575 358883ORF_len:309,GENE_len:255
+f690	Pu.STY.scaffolds	100.000	309	0	0	1	309	358575	358883	4.44e-177	613
+f690	Pu.STY.scaffolds	92.857	42	3	0	150	191	480665	480706	1.38e-10	60.0
+nad1_fragment_5	Pu.STY.scaffolds	100.000	255	0	0	1	255	358838	359092	6.09e-145	505
+nad1_fragment_5	Pu.STY.scaffolds	100.000	45	0	0	174	218	37622	37578	1.26e-19	89.7
+nad1_fragment_5	Pu.STY.scaffolds	96.667	30	1	0	75	104	64378	64349	2.75e-08	52.0
+***************************TEST:r1189-nad2_fragment_1*****************r1189 Pu.STY.scaffolds 76495 76959ORF_len:465,GENE_len:153
+r1189	Pu.STY.scaffolds	100.000	465	0	0	1	465	76495	76959	0.0	922
+nad2_fragment_1	Pu.STY.scaffolds	100.000	153	0	0	1	153	76917	76765	2.61e-84	303
+***************************TEST:r96-ccmFc_fragment_1*****************r96 Pu.STY.scaffolds 132899 133174ORF_len:276,GENE_len:771
+r96	Pu.STY.scaffolds	100.000	276	0	0	1	276	132899	133174	1.95e-157	547
+r96	Pu.STY.scaffolds	97.531	81	2	0	151	231	22774	22854	2.68e-36	145
+ccmFc_fragment_1	Pu.STY.scaffolds	100.000	771	0	0	1	771	23109	22339	0.0	1528
+ccmFc_fragment_1	Pu.STY.scaffolds	97.531	81	2	0	256	336	133129	133049	7.76e-36	145
+***************************TEST:r420-rpl16*****************r420 Pu.STY.scaffolds 254260 254817ORF_len:558,GENE_len:555
+r420	Pu.STY.scaffolds	100.000	558	0	0	1	558	254260	254817	0.0	1106
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:f514-nad7_fragment_1*****************f514 Pu.STY.scaffolds 289789 290037ORF_len:249,GENE_len:162
+f514	Pu.STY.scaffolds	100.000	249	0	0	1	249	289789	290037	2.27e-141	494
+nad7_fragment_1	Pu.STY.scaffolds	99.383	162	1	0	1	162	289940	289779	2.88e-87	313
+***************************TEST:r525-matR*****************r525 Pu.STY.scaffolds 291074 293053ORF_len:1980,GENE_len:1983
+r525	Pu.STY.scaffolds	100.000	1980	0	0	1	1980	291074	293053	0.0	3925
+r525	Pu.STY.scaffolds	100.000	26	0	0	760	785	437543	437518	2.24e-07	52.0
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r871-nad5_fragment_1*****************r871 Pu.STY.scaffolds 424337 424693ORF_len:357,GENE_len:237
+r871	Pu.STY.scaffolds	100.000	357	0	0	1	357	424337	424693	0.0	708
+r871	Pu.STY.scaffolds	100.000	279	0	0	28	306	359111	359389	4.13e-159	553
+r871	Pu.STY.scaffolds	94.737	38	2	0	55	92	37584	37547	1.61e-10	60.0
+nad5_fragment_1	Pu.STY.scaffolds	99.578	237	1	0	1	237	359292	359528	7.60e-132	462
+nad5_fragment_1	Pu.STY.scaffolds	98.980	98	1	0	1	98	424545	424642	6.75e-49	186
+***************************TEST:r506-nad7_fragment_4*****************r506 Pu.STY.scaffolds 285464 285778ORF_len:315,GENE_len:243
+r506	Pu.STY.scaffolds	100.000	315	0	0	1	315	285464	285778	1.19e-180	624
+nad7_fragment_4	Pu.STY.scaffolds	100.000	243	0	0	1	243	285742	285500	8.41e-138	482
+***************************TEST:f1212-atp1*****************f1212 Pu.STY.scaffolds 91097 91357ORF_len:261,GENE_len:1521
+f1212	Pu.STY.scaffolds	100.000	261	0	0	1	261	91097	91357	1.64e-148	517
+f1212	Pu.STY.scaffolds	100.000	261	0	0	1	261	432086	431826	1.64e-148	517
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f491-nad7_fragment_5*****************f491 Pu.STY.scaffolds 283537 283806ORF_len:270,GENE_len:261
+f491	Pu.STY.scaffolds	100.000	270	0	0	1	270	283537	283806	7.23e-154	535
+nad7_fragment_5	Pu.STY.scaffolds	100.000	261	0	0	1	261	283701	283441	1.64e-148	517
+***************************TEST:f697-nad5_fragment_2*****************f697 Pu.STY.scaffolds 360367 361605ORF_len:1239,GENE_len:1203
+f697	Pu.STY.scaffolds	100.000	1239	0	0	1	1239	360367	361605	0.0	2456
+nad5_fragment_2	Pu.STY.scaffolds	100.000	1203	0	0	1	1203	360379	361581	0.0	2385
+***************************TEST:r1170-rpl10*****************r1170 Pu.STY.scaffolds 69512 70009ORF_len:498,GENE_len:486
+r1170	Pu.STY.scaffolds	100.000	498	0	0	1	498	69512	70009	0.0	987
+rpl10	Pu.STY.scaffolds	100.000	486	0	0	1	486	70000	69515	0.0	963
+***************************TEST:r1226-atp1*****************r1226 Pu.STY.scaffolds 90411 92039ORF_len:1629,GENE_len:1521
+r1226	Pu.STY.scaffolds	100.000	1278	0	0	352	1629	90762	92039	0.0	2533
+r1226	Pu.STY.scaffolds	100.000	1278	0	0	352	1629	432421	431144	0.0	2533
+r1226	Pu.STY.scaffolds	100.000	251	0	0	1	251	90411	90661	9.94e-142	498
+r1226	Pu.STY.scaffolds	100.000	127	0	0	352	478	90535	90661	9.86e-68	252
+r1226	Pu.STY.scaffolds	100.000	127	0	0	125	251	90762	90888	9.86e-68	252
+r1226	Pu.STY.scaffolds	100.000	127	0	0	125	251	432421	432295	9.86e-68	252
+r1226	Pu.STY.scaffolds	100.000	25	0	0	1534	1558	220716	220740	7.28e-07	50.1
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f570-cox1*****************f570 Pu.STY.scaffolds 314554 314985ORF_len:432,GENE_len:1578
+f570	Pu.STY.scaffolds	100.000	432	0	0	1	432	314554	314985	0.0	856
+cox1	Pu.STY.scaffolds	100.000	1578	0	0	1	1578	315377	313800	0.0	3128
+***************************TEST:r993-rps7*****************r993 Pu.STY.scaffolds 46818 47138ORF_len:321,GENE_len:465
+r993	Pu.STY.scaffolds	100.000	321	0	0	1	321	46818	47138	0.0	636
+rps7	Pu.STY.scaffolds	99.785	465	1	0	1	465	47245	46781	0.0	914
+***************************TEST:f403-rps3*****************f403 Pu.STY.scaffolds 255105 255650ORF_len:546,GENE_len:1680
+f403	Pu.STY.scaffolds	100.000	546	0	0	1	546	255105	255650	0.0	1082
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:f57-cox3*****************f57 Pu.STY.scaffolds 130549 130986ORF_len:438,GENE_len:795
+f57	Pu.STY.scaffolds	100.000	438	0	0	1	438	130549	130986	0.0	868
+cox3	Pu.STY.scaffolds	100.000	795	0	0	1	795	131009	130215	0.0	1576
+***************************TEST:f844-nad9*****************f844 Pu.STY.scaffolds 416465 416854ORF_len:390,GENE_len:573
+f844	Pu.STY.scaffolds	100.000	390	0	0	1	390	416465	416854	0.0	773
+nad9	Pu.STY.scaffolds	100.000	573	0	0	1	573	416987	416415	0.0	1136
+***************************TEST:f819-rps4*****************f819 Pu.STY.scaffolds 40670 41482ORF_len:813,GENE_len:1044
+f819	Pu.STY.scaffolds	100.000	813	0	0	1	813	40670	41482	0.0	1612
+f819	Pu.STY.scaffolds	100.000	88	0	0	726	813	442186	442099	9.16e-45	174
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:r93-atp8*****************r93 Pu.STY.scaffolds 131524 132513ORF_len:990,GENE_len:477
+r93	Pu.STY.scaffolds	100.000	990	0	0	1	990	131524	132513	0.0	1963
+r93	Pu.STY.scaffolds	99.485	194	1	0	512	705	392612	392805	1.51e-105	377
+r93	Pu.STY.scaffolds	98.780	82	1	0	579	660	77948	78029	1.04e-38	155
+atp8	Pu.STY.scaffolds	99.790	477	1	0	1	477	132111	131635	0.0	938
+atp8	Pu.STY.scaffolds	100.000	77	0	0	1	77	392688	392612	1.95e-38	153
+***************************TEST:r1025-nad4_fragment_2*****************r1025 Pu.STY.scaffolds 480851 481090ORF_len:240,GENE_len:936
+r1025	Pu.STY.scaffolds	100.000	240	0	0	1	240	480851	481090	5.12e-136	476
+nad4_fragment_2	Pu.STY.scaffolds	100.000	936	0	0	1	936	480789	481724	0.0	1855
+***************************TEST:f985-rps7*****************f985 Pu.STY.scaffolds 46815 47117ORF_len:303,GENE_len:465
+f985	Pu.STY.scaffolds	100.000	303	0	0	1	303	46815	47117	1.66e-173	601
+rps7	Pu.STY.scaffolds	99.785	465	1	0	1	465	47245	46781	0.0	914
+***************************TEST:f915-rpl5*****************f915 Pu.STY.scaffolds 438391 438954ORF_len:564,GENE_len:552
+f915	Pu.STY.scaffolds	100.000	564	0	0	1	564	438391	438954	0.0	1118
+rpl5	Pu.STY.scaffolds	99.819	552	1	0	1	552	438400	438951	0.0	1086
+***************************TEST:r421-rps3*****************r421 Pu.STY.scaffolds 254666 256348ORF_len:1683,GENE_len:1680
+r421	Pu.STY.scaffolds	100.000	1683	0	0	1	1683	254666	256348	0.0	3336
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:r189-cox2_fragment_1*****************r189 Pu.STY.scaffolds 166967 167806ORF_len:840,GENE_len:702
+r189	Pu.STY.scaffolds	100.000	840	0	0	1	840	166967	167806	0.0	1665
+r189	Pu.STY.scaffolds	94.949	99	5	0	125	223	344554	344652	2.22e-39	157
+r189	Pu.STY.scaffolds	89.796	49	5	0	642	690	392568	392616	1.53e-09	58.0
+cox2_fragment_1	Pu.STY.scaffolds	100.000	702	0	0	1	702	167806	167105	0.0	1392
+cox2_fragment_1	Pu.STY.scaffolds	96.471	85	3	0	618	702	344652	344568	7.05e-36	145
+cox2_fragment_1	Pu.STY.scaffolds	89.796	49	5	0	151	199	392616	392568	1.27e-09	58.0
+***************************TEST:f573-rps10_fragment_2*****************f573 Pu.STY.scaffolds 315523 315789ORF_len:267,GENE_len:75
+f573	Pu.STY.scaffolds	100.000	267	0	0	1	267	315523	315789	4.41e-152	529
+rps10_fragment_2	Pu.STY.scaffolds	100.000	75	0	0	1	75	315689	315615	4.13e-38	149
+***************************TEST:f868-atp9*****************f868 Pu.STY.scaffolds 423639 424037ORF_len:399,GENE_len:243
+f868	Pu.STY.scaffolds	100.000	399	0	0	1	399	423639	424037	0.0	791
+f868	Pu.STY.scaffolds	98.077	52	1	0	227	278	245110	245059	3.27e-21	95.6
+f868	Pu.STY.scaffolds	94.595	37	2	0	297	333	373823	373787	7.13e-10	58.0
+atp9	Pu.STY.scaffolds	100.000	243	0	0	1	243	423998	424240	8.41e-138	482
+***************************TEST:f995-rps7*****************f995 Pu.STY.scaffolds 47186 47557ORF_len:372,GENE_len:465
+f995	Pu.STY.scaffolds	100.000	372	0	0	1	372	47186	47557	0.0	737
+rps7	Pu.STY.scaffolds	99.785	465	1	0	1	465	47245	46781	0.0	914
+***************************TEST:r892-atp1*****************r892 Pu.STY.scaffolds 431826 432086ORF_len:261,GENE_len:1521
+r892	Pu.STY.scaffolds	100.000	261	0	0	1	261	91357	91097	1.64e-148	517
+r892	Pu.STY.scaffolds	100.000	261	0	0	1	261	431826	432086	1.64e-148	517
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:r910-rps14_fragment_2*****************r910 Pu.STY.scaffolds 439067 439363ORF_len:297,GENE_len:174
+r910	Pu.STY.scaffolds	100.000	297	0	0	1	297	439067	439363	6.18e-170	589
+rps14_fragment_2	Pu.STY.scaffolds	100.000	174	0	0	1	174	439051	439224	8.83e-97	345
+***************************TEST:f1139-cob*****************f1139 Pu.STY.scaffolds 59829 60236ORF_len:408,GENE_len:1191
+f1139	Pu.STY.scaffolds	100.000	408	0	0	1	408	59829	60236	0.0	809
+cob	Pu.STY.scaffolds	100.000	1191	0	0	1	1191	59930	58740	0.0	2361
+***************************TEST:r518-nad7_fragment_2*****************r518 Pu.STY.scaffolds 288877 289107ORF_len:231,GENE_len:108
+r518	Pu.STY.scaffolds	100.000	231	0	0	1	231	288877	289107	1.16e-130	458
+nad7_fragment_2	Pu.STY.scaffolds	100.000	108	0	0	1	108	288934	288827	1.26e-57	214
+***************************TEST:f571-cox1*****************f571 Pu.STY.scaffolds 315318 315650ORF_len:333,GENE_len:1578
+f571	Pu.STY.scaffolds	100.000	333	0	0	1	333	315318	315650	0.0	660
+cox1	Pu.STY.scaffolds	100.000	1578	0	0	1	1578	315377	313800	0.0	3128
+***************************TEST:r88-sdh4*****************r88 Pu.STY.scaffolds 129836 130243ORF_len:408,GENE_len:393
+r88	Pu.STY.scaffolds	100.000	408	0	0	1	408	129836	130243	0.0	809
+r88	Pu.STY.scaffolds	100.000	25	0	0	2	26	164812	164836	1.78e-07	50.1
+sdh4	Pu.STY.scaffolds	100.000	393	0	0	1	393	130284	129892	0.0	779
+***************************TEST:f900-atp1*****************f900 Pu.STY.scaffolds 431839 432072ORF_len:234,GENE_len:1521
+f900	Pu.STY.scaffolds	100.000	234	0	0	1	234	91344	91111	1.90e-132	464
+f900	Pu.STY.scaffolds	100.000	234	0	0	1	234	431839	432072	1.90e-132	464
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f498-nad7_fragment_4*****************f498 Pu.STY.scaffolds 285551 286192ORF_len:642,GENE_len:243
+f498	Pu.STY.scaffolds	100.000	642	0	0	1	642	285551	286192	0.0	1273
+nad7_fragment_4	Pu.STY.scaffolds	100.000	243	0	0	1	243	285742	285500	8.41e-138	482
+***************************TEST:f404-rps3*****************f404 Pu.STY.scaffolds 255376 255687ORF_len:312,GENE_len:1680
+f404	Pu.STY.scaffolds	100.000	312	0	0	1	312	255376	255687	7.28e-179	618
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:r1190-sdh3*****************r1190 Pu.STY.scaffolds 77157 78209ORF_len:1053,GENE_len:291
+r1190	Pu.STY.scaffolds	100.000	1053	0	0	1	1053	77157	78209	0.0	2087
+r1190	Pu.STY.scaffolds	98.780	82	1	0	792	873	132102	132183	1.10e-38	155
+r1190	Pu.STY.scaffolds	98.780	82	1	0	792	873	392679	392760	1.10e-38	155
+r1190	Pu.STY.scaffolds	100.000	23	0	0	764	786	314146	314168	7.31e-06	46.1
+sdh3	Pu.STY.scaffolds	100.000	291	0	0	1	291	77921	77631	2.30e-166	577
+***************************TEST:f62-ccmFc_fragment_1*****************f62 Pu.STY.scaffolds 132930 133436ORF_len:507,GENE_len:771
+f62	Pu.STY.scaffolds	100.000	507	0	0	1	507	132930	133436	0.0	1005
+f62	Pu.STY.scaffolds	97.531	81	2	0	120	200	22774	22854	5.05e-36	145
+ccmFc_fragment_1	Pu.STY.scaffolds	100.000	771	0	0	1	771	23109	22339	0.0	1528
+ccmFc_fragment_1	Pu.STY.scaffolds	97.531	81	2	0	256	336	133129	133049	7.76e-36	145
+***************************TEST:r1168-nad1_fragment_1*****************r1168 Pu.STY.scaffolds 69203 69472ORF_len:270,GENE_len:387
+r1168	Pu.STY.scaffolds	100.000	270	0	0	1	270	69203	69472	7.23e-154	535
+r1168	Pu.STY.scaffolds	96.923	65	2	0	105	169	334560	334496	9.26e-27	113
+nad1_fragment_1	Pu.STY.scaffolds	100.000	387	0	0	1	387	69288	68902	0.0	767
+nad1_fragment_1	Pu.STY.scaffolds	95.652	46	2	0	338	383	392900	392855	2.94e-15	75.8
+***************************TEST:f961-nad2_fragment_3*****************f961 Pu.STY.scaffolds 457790 458137ORF_len:348,GENE_len:162
+f961	Pu.STY.scaffolds	100.000	348	0	0	1	348	457790	458137	0.0	690
+nad2_fragment_3	Pu.STY.scaffolds	100.000	162	0	0	1	162	457940	458101	1.18e-89	321
+***************************TEST:f968-nad2_fragment_4*****************f968 Pu.STY.scaffolds 460237 460743ORF_len:507,GENE_len:621
+f968	Pu.STY.scaffolds	100.000	507	0	0	1	507	460237	460743	0.0	1005
+nad2_fragment_4	Pu.STY.scaffolds	100.000	621	0	0	1	621	460569	461189	0.0	1231
+***************************TEST:r424-rps3*****************r424 Pu.STY.scaffolds 255865 256251ORF_len:387,GENE_len:1680
+r424	Pu.STY.scaffolds	100.000	387	0	0	1	387	255865	256251	0.0	767
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:f1012-nad4_fragment_1*****************f1012 Pu.STY.scaffolds 478881 479534ORF_len:654,GENE_len:459
+f1012	Pu.STY.scaffolds	100.000	654	0	0	1	654	478881	479534	0.0	1296
+nad4_fragment_1	Pu.STY.scaffolds	100.000	459	0	0	1	459	478891	479349	0.0	910
+***************************TEST:f272-ccmFc_fragment_2*****************f272 Pu.STY.scaffolds 21290 21649ORF_len:360,GENE_len:549
+f272	Pu.STY.scaffolds	100.000	360	0	0	1	360	21290	21649	0.0	714
+ccmFc_fragment_2	Pu.STY.scaffolds	100.000	549	0	0	1	549	21385	20837	0.0	1088
+***************************TEST:f1138-cob*****************f1138 Pu.STY.scaffolds 59257 59598ORF_len:342,GENE_len:1191
+f1138	Pu.STY.scaffolds	100.000	342	0	0	1	342	59257	59598	0.0	678
+cob	Pu.STY.scaffolds	100.000	1191	0	0	1	1191	59930	58740	0.0	2361
+***************************TEST:r508-nad7_fragment_4*****************r508 Pu.STY.scaffolds 285670 286458ORF_len:789,GENE_len:243
+r508	Pu.STY.scaffolds	100.000	789	0	0	1	789	285670	286458	0.0	1564
+nad7_fragment_4	Pu.STY.scaffolds	100.000	243	0	0	1	243	285742	285500	8.41e-138	482
+***************************TEST:r331-atp4*****************r331 Pu.STY.scaffolds 220098 220373ORF_len:276,GENE_len:588
+r331	Pu.STY.scaffolds	100.000	276	0	0	1	276	220098	220373	1.95e-157	547
+atp4	Pu.STY.scaffolds	100.000	588	0	0	1	588	220170	219583	0.0	1166
+***************************TEST:r1144-cob*****************r1144 Pu.STY.scaffolds 58698 59930ORF_len:1233,GENE_len:1191
+r1144	Pu.STY.scaffolds	100.000	1233	0	0	1	1233	58698	59930	0.0	2444
+cob	Pu.STY.scaffolds	100.000	1191	0	0	1	1191	59930	58740	0.0	2361
+***************************TEST:f513-nad7_fragment_1*****************f513 Pu.STY.scaffolds 289673 289933ORF_len:261,GENE_len:162
+f513	Pu.STY.scaffolds	100.000	261	0	0	1	261	289673	289933	1.64e-148	517
+nad7_fragment_1	Pu.STY.scaffolds	99.383	162	1	0	1	162	289940	289779	2.88e-87	313
+***************************TEST:f1011-nad4_fragment_1*****************f1011 Pu.STY.scaffolds 478837 479418ORF_len:582,GENE_len:459
+f1011	Pu.STY.scaffolds	100.000	582	0	0	1	582	478837	479418	0.0	1154
+nad4_fragment_1	Pu.STY.scaffolds	100.000	459	0	0	1	459	478891	479349	0.0	910
+***************************TEST:r1116-ccmC*****************r1116 Pu.STY.scaffolds 522632 522991ORF_len:360,GENE_len:750
+r1116	Pu.STY.scaffolds	100.000	360	0	0	1	360	522632	522991	0.0	714
+r1116	Pu.STY.scaffolds	100.000	25	0	0	168	192	89765	89741	1.56e-07	50.1
+r1116	Pu.STY.scaffolds	100.000	25	0	0	163	187	272653	272629	1.56e-07	50.1
+r1116	Pu.STY.scaffolds	96.552	29	1	0	161	189	395088	395060	1.56e-07	50.1
+r1116	Pu.STY.scaffolds	100.000	22	0	0	119	140	444069	444090	9.63e-06	44.1
+ccmC	Pu.STY.scaffolds	99.867	750	1	0	1	750	522952	523701	0.0	1479
+***************************TEST:f521-matR*****************f521 Pu.STY.scaffolds 292350 292706ORF_len:357,GENE_len:1983
+f521	Pu.STY.scaffolds	100.000	357	0	0	1	357	292350	292706	0.0	708
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r1253-ccmB*****************r1253 Pu.STY.scaffolds 99441 99671ORF_len:231,GENE_len:630
+r1253	Pu.STY.scaffolds	100.000	231	0	0	1	231	99441	99671	1.16e-130	458
+ccmB	Pu.STY.scaffolds	99.841	630	1	0	1	630	99534	98905	0.0	1241
+***************************TEST:f527-nad1_fragment_4*****************f527 Pu.STY.scaffolds 293690 293923ORF_len:234,GENE_len:60
+f527	Pu.STY.scaffolds	100.000	234	0	0	1	234	293690	293923	1.90e-132	464
+nad1_fragment_4	Pu.STY.scaffolds	100.000	60	0	0	1	60	293771	293712	2.81e-29	119
+***************************TEST:f870-atp9*****************f870 Pu.STY.scaffolds 423749 424288ORF_len:540,GENE_len:243
+f870	Pu.STY.scaffolds	100.000	540	0	0	1	540	423749	424288	0.0	1070
+f870	Pu.STY.scaffolds	98.077	52	1	0	117	168	245110	245059	4.47e-21	95.6
+f870	Pu.STY.scaffolds	94.595	37	2	0	187	223	373823	373787	9.74e-10	58.0
+atp9	Pu.STY.scaffolds	100.000	243	0	0	1	243	423998	424240	8.41e-138	482
+***************************TEST:f1027-nad4_fragment_3*****************f1027 Pu.STY.scaffolds 483761 484411ORF_len:651,GENE_len:87
+f1027	Pu.STY.scaffolds	100.000	651	0	0	1	651	483761	484411	0.0	1291
+nad4_fragment_3	Pu.STY.scaffolds	100.000	87	0	0	1	87	484256	484342	3.35e-45	172
+***************************TEST:f398-rpl16*****************f398 Pu.STY.scaffolds 254365 254691ORF_len:327,GENE_len:555
+f398	Pu.STY.scaffolds	100.000	327	0	0	1	327	254365	254691	0.0	648
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:f271-ccmFc_fragment_2*****************f271 Pu.STY.scaffolds 21246 21641ORF_len:396,GENE_len:549
+f271	Pu.STY.scaffolds	100.000	396	0	0	1	396	21246	21641	0.0	785
+ccmFc_fragment_2	Pu.STY.scaffolds	100.000	549	0	0	1	549	21385	20837	0.0	1088
+***************************TEST:r1222-rps12*****************r1222 Pu.STY.scaffolds 89276 89602ORF_len:327,GENE_len:375
+r1222	Pu.STY.scaffolds	100.000	327	0	0	1	327	89276	89602	0.0	648
+rps12	Pu.STY.scaffolds	100.000	375	0	0	1	375	89310	88936	0.0	743
+***************************TEST:f1016-nad4_fragment_2*****************f1016 Pu.STY.scaffolds 480789 481889ORF_len:1101,GENE_len:936
+f1016	Pu.STY.scaffolds	100.000	1101	0	0	1	1101	480789	481889	0.0	2183
+nad4_fragment_2	Pu.STY.scaffolds	100.000	936	0	0	1	936	480789	481724	0.0	1855
+***************************TEST:r593-rps10_fragment_1*****************r593 Pu.STY.scaffolds 316507 316905ORF_len:399,GENE_len:210
+r593	Pu.STY.scaffolds	100.000	399	0	0	1	399	316507	316905	0.0	791
+r593	Pu.STY.scaffolds	100.000	56	0	0	295	350	70042	70097	5.50e-26	111
+r593	Pu.STY.scaffolds	100.000	56	0	0	295	350	357801	357746	5.50e-26	111
+r593	Pu.STY.scaffolds	100.000	56	0	0	295	350	438358	438303	5.50e-26	111
+rps10_fragment_1	Pu.STY.scaffolds	100.000	210	0	0	1	210	316767	316558	3.55e-118	416
+***************************TEST:f776-nad1_fragment_3*****************f776 Pu.STY.scaffolds 38966 39283ORF_len:318,GENE_len:195
+f776	Pu.STY.scaffolds	100.000	318	0	0	1	318	38966	39283	0.0	630
+f776	Pu.STY.scaffolds	100.000	49	0	0	119	167	75580	75628	6.54e-22	97.6
+nad1_fragment_3	Pu.STY.scaffolds	100.000	195	0	0	1	195	39072	38878	2.93e-109	387
+***************************TEST:f1092-ccmFn*****************f1092 Pu.STY.scaffolds 512112 512906ORF_len:795,GENE_len:1728
+f1092	Pu.STY.scaffolds	100.000	795	0	0	1	795	512112	512906	0.0	1576
+ccmFn	Pu.STY.scaffolds	99.884	1728	2	0	1	1728	511940	513667	0.0	3410
+ccmFn	Pu.STY.scaffolds	97.503	761	17	2	969	1728	511838	511079	0.0	1342
+***************************TEST:r87-sdh4*****************r87 Pu.STY.scaffolds 129730 130350ORF_len:621,GENE_len:393
+r87	Pu.STY.scaffolds	100.000	621	0	0	1	621	129730	130350	0.0	1231
+r87	Pu.STY.scaffolds	94.595	37	2	0	35	71	156529	156565	1.12e-09	58.0
+r87	Pu.STY.scaffolds	100.000	25	0	0	108	132	164812	164836	2.74e-07	50.1
+sdh4	Pu.STY.scaffolds	100.000	393	0	0	1	393	130284	129892	0.0	779
+***************************TEST:f406-rps3*****************f406 Pu.STY.scaffolds 255871 256167ORF_len:297,GENE_len:1680
+f406	Pu.STY.scaffolds	100.000	297	0	0	1	297	255871	256167	6.18e-170	589
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:r869-atp9*****************r869 Pu.STY.scaffolds 423705 424049ORF_len:345,GENE_len:243
+r869	Pu.STY.scaffolds	100.000	345	0	0	1	345	423705	424049	0.0	684
+r869	Pu.STY.scaffolds	98.077	52	1	0	161	212	245110	245059	2.81e-21	95.6
+r869	Pu.STY.scaffolds	94.595	37	2	0	231	267	373823	373787	6.13e-10	58.0
+r869	Pu.STY.scaffolds	96.154	26	1	0	161	186	268983	268958	9.21e-06	44.1
+atp9	Pu.STY.scaffolds	100.000	243	0	0	1	243	423998	424240	8.41e-138	482
+***************************TEST:f692-nad1_fragment_5*****************f692 Pu.STY.scaffolds 358694 359095ORF_len:402,GENE_len:255
+f692	Pu.STY.scaffolds	100.000	402	0	0	1	402	358694	359095	0.0	797
+f692	Pu.STY.scaffolds	100.000	45	0	0	318	362	37622	37578	2.03e-19	89.7
+f692	Pu.STY.scaffolds	92.857	42	3	0	31	72	480665	480706	1.82e-10	60.0
+f692	Pu.STY.scaffolds	96.667	30	1	0	219	248	64378	64349	4.43e-08	52.0
+nad1_fragment_5	Pu.STY.scaffolds	100.000	255	0	0	1	255	358838	359092	6.09e-145	505
+nad1_fragment_5	Pu.STY.scaffolds	100.000	45	0	0	174	218	37622	37578	1.26e-19	89.7
+nad1_fragment_5	Pu.STY.scaffolds	96.667	30	1	0	75	104	64378	64349	2.75e-08	52.0
+***************************TEST:r1221-rps12*****************r1221 Pu.STY.scaffolds 88762 89352ORF_len:591,GENE_len:375
+r1221	Pu.STY.scaffolds	100.000	591	0	0	1	591	88762	89352	0.0	1172
+rps12	Pu.STY.scaffolds	100.000	375	0	0	1	375	89310	88936	0.0	743
+***************************TEST:f523-matR*****************f523 Pu.STY.scaffolds 292462 292842ORF_len:381,GENE_len:1983
+f523	Pu.STY.scaffolds	100.000	381	0	0	1	381	292462	292842	0.0	755
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r843-rps4*****************r843 Pu.STY.scaffolds 41216 41473ORF_len:258,GENE_len:1044
+r843	Pu.STY.scaffolds	100.000	258	0	0	1	258	41216	41473	9.99e-147	511
+r843	Pu.STY.scaffolds	100.000	79	0	0	180	258	442186	442108	6.57e-40	157
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:r868-atp9*****************r868 Pu.STY.scaffolds 423697 424125ORF_len:429,GENE_len:243
+r868	Pu.STY.scaffolds	100.000	429	0	0	1	429	423697	424125	0.0	850
+r868	Pu.STY.scaffolds	98.077	52	1	0	169	220	245110	245059	3.53e-21	95.6
+r868	Pu.STY.scaffolds	94.595	37	2	0	239	275	373823	373787	7.68e-10	58.0
+atp9	Pu.STY.scaffolds	100.000	243	0	0	1	243	423998	424240	8.41e-138	482
+***************************TEST:f698-nad5_fragment_2*****************f698 Pu.STY.scaffolds 360759 361127ORF_len:369,GENE_len:1203
+f698	Pu.STY.scaffolds	100.000	369	0	0	1	369	360759	361127	0.0	731
+nad5_fragment_2	Pu.STY.scaffolds	100.000	1203	0	0	1	1203	360379	361581	0.0	2385
+***************************TEST:r916-rps4*****************r916 Pu.STY.scaffolds 442202 442504ORF_len:303,GENE_len:1044
+r916	Pu.STY.scaffolds	100.000	303	0	0	1	303	442202	442504	1.66e-173	601
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:r781-nad1_fragment_3*****************r781 Pu.STY.scaffolds 38776 39279ORF_len:504,GENE_len:195
+r781	Pu.STY.scaffolds	100.000	504	0	0	1	504	38776	39279	0.0	999
+r781	Pu.STY.scaffolds	100.000	49	0	0	309	357	75580	75628	1.05e-21	97.6
+nad1_fragment_3	Pu.STY.scaffolds	100.000	195	0	0	1	195	39072	38878	2.93e-109	387
+***************************TEST:r1167-nad1_fragment_1*****************r1167 Pu.STY.scaffolds 68899 69282ORF_len:384,GENE_len:387
+r1167	Pu.STY.scaffolds	100.000	384	0	0	1	384	68899	69282	0.0	761
+r1167	Pu.STY.scaffolds	95.652	46	2	0	8	53	392855	392900	2.92e-15	75.8
+nad1_fragment_1	Pu.STY.scaffolds	100.000	387	0	0	1	387	69288	68902	0.0	767
+nad1_fragment_1	Pu.STY.scaffolds	95.652	46	2	0	338	383	392900	392855	2.94e-15	75.8
+***************************TEST:r89-sdh4*****************r89 Pu.STY.scaffolds 130080 131153ORF_len:1074,GENE_len:393
+r89	Pu.STY.scaffolds	100.000	1074	0	0	1	1074	130080	131153	0.0	2129
+sdh4	Pu.STY.scaffolds	100.000	393	0	0	1	393	130284	129892	0.0	779
+***************************TEST:r710-nad5_fragment_2*****************r710 Pu.STY.scaffolds 360483 361070ORF_len:588,GENE_len:1203
+r710	Pu.STY.scaffolds	100.000	588	0	0	1	588	360483	361070	0.0	1166
+nad5_fragment_2	Pu.STY.scaffolds	100.000	1203	0	0	1	1203	360379	361581	0.0	2385
+***************************TEST:f1162-nad1_fragment_1*****************f1162 Pu.STY.scaffolds 69243 69593ORF_len:351,GENE_len:387
+f1162	Pu.STY.scaffolds	100.000	351	0	0	1	351	69243	69593	0.0	696
+f1162	Pu.STY.scaffolds	96.923	65	2	0	65	129	334560	334496	1.22e-26	113
+nad1_fragment_1	Pu.STY.scaffolds	100.000	387	0	0	1	387	69288	68902	0.0	767
+nad1_fragment_1	Pu.STY.scaffolds	95.652	46	2	0	338	383	392900	392855	2.94e-15	75.8
+***************************TEST:f593-nad5_fragment_4*****************f593 Pu.STY.scaffolds 323093 323353ORF_len:261,GENE_len:396
+f593	Pu.STY.scaffolds	100.000	261	0	0	1	261	323093	323353	1.64e-148	517
+nad5_fragment_4	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:r908-rps14_fragment_1*****************r908 Pu.STY.scaffolds 438519 438995ORF_len:477,GENE_len:87
+r908	Pu.STY.scaffolds	100.000	477	0	0	1	477	438519	438995	0.0	946
+rps14_fragment_1	Pu.STY.scaffolds	100.000	87	0	0	1	87	438956	439042	3.35e-45	172
+***************************TEST:r1100-ccmFn*****************r1100 Pu.STY.scaffolds 512458 512748ORF_len:291,GENE_len:1728
+r1100	Pu.STY.scaffolds	100.000	291	0	0	1	291	512458	512748	2.30e-166	577
+ccmFn	Pu.STY.scaffolds	99.884	1728	2	0	1	1728	511940	513667	0.0	3410
+ccmFn	Pu.STY.scaffolds	97.503	761	17	2	969	1728	511838	511079	0.0	1342
+***************************TEST:r907-rpl5*****************r907 Pu.STY.scaffolds 438430 438657ORF_len:228,GENE_len:552
+r907	Pu.STY.scaffolds	100.000	228	0	0	1	228	438430	438657	7.03e-129	452
+rpl5	Pu.STY.scaffolds	99.819	552	1	0	1	552	438400	438951	0.0	1086
+***************************TEST:r1250-ccmB*****************r1250 Pu.STY.scaffolds 98566 99534ORF_len:969,GENE_len:630
+r1250	Pu.STY.scaffolds	100.000	969	0	0	1	969	98566	99534	0.0	1921
+ccmB	Pu.STY.scaffolds	99.841	630	1	0	1	630	99534	98905	0.0	1241
+***************************TEST:f499-nad7_fragment_4*****************f499 Pu.STY.scaffolds 285592 285972ORF_len:381,GENE_len:243
+f499	Pu.STY.scaffolds	100.000	381	0	0	1	381	285592	285972	0.0	755
+nad7_fragment_4	Pu.STY.scaffolds	100.000	243	0	0	1	243	285742	285500	8.41e-138	482
+***************************TEST:f872-nad5_fragment_1*****************f872 Pu.STY.scaffolds 424371 425474ORF_len:1104,GENE_len:237
+f872	Pu.STY.scaffolds	100.000	1104	0	0	1	1104	424371	425474	0.0	2189
+f872	Pu.STY.scaffolds	100.000	272	0	0	1	272	359118	359389	1.97e-154	539
+f872	Pu.STY.scaffolds	94.737	38	2	0	21	58	37584	37547	5.10e-10	60.0
+nad5_fragment_1	Pu.STY.scaffolds	99.578	237	1	0	1	237	359292	359528	7.60e-132	462
+nad5_fragment_1	Pu.STY.scaffolds	98.980	98	1	0	1	98	424545	424642	6.75e-49	186
+***************************TEST:r704-nad5_fragment_1*****************r704 Pu.STY.scaffolds 359096 359425ORF_len:330,GENE_len:237
+r704	Pu.STY.scaffolds	100.000	330	0	0	1	330	359096	359425	0.0	654
+r704	Pu.STY.scaffolds	100.000	279	0	0	16	294	424364	424642	3.80e-159	553
+r704	Pu.STY.scaffolds	94.737	38	2	0	43	80	37584	37547	1.48e-10	60.0
+nad5_fragment_1	Pu.STY.scaffolds	99.578	237	1	0	1	237	359292	359528	7.60e-132	462
+nad5_fragment_1	Pu.STY.scaffolds	98.980	98	1	0	1	98	424545	424642	6.75e-49	186
+***************************TEST:r590-rps10_fragment_2*****************r590 Pu.STY.scaffolds 315329 315670ORF_len:342,GENE_len:75
+r590	Pu.STY.scaffolds	100.000	342	0	0	1	342	315329	315670	0.0	678
+rps10_fragment_2	Pu.STY.scaffolds	100.000	75	0	0	1	75	315689	315615	4.13e-38	149
+***************************TEST:f816-nad1_fragment_2*****************f816 Pu.STY.scaffolds 40575 40886ORF_len:312,GENE_len:78
+f816	Pu.STY.scaffolds	100.000	312	0	0	1	312	40575	40886	7.28e-179	618
+nad1_fragment_2	Pu.STY.scaffolds	100.000	78	0	0	1	78	40615	40538	6.91e-40	155
+***************************TEST:r833-rps4*****************r833 Pu.STY.scaffolds 40768 41742ORF_len:975,GENE_len:1044
+r833	Pu.STY.scaffolds	100.000	975	0	0	1	975	40768	41742	0.0	1933
+r833	Pu.STY.scaffolds	100.000	347	0	0	628	974	442186	441840	0.0	688
+r833	Pu.STY.scaffolds	100.000	24	0	0	840	863	443176	443199	1.71e-06	48.1
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:f1163-rpl10*****************f1163 Pu.STY.scaffolds 69648 70115ORF_len:468,GENE_len:486
+f1163	Pu.STY.scaffolds	100.000	468	0	0	1	468	69648	70115	0.0	928
+f1163	Pu.STY.scaffolds	99.038	104	1	0	348	451	438405	438302	3.59e-52	198
+f1163	Pu.STY.scaffolds	100.000	73	0	0	378	450	357818	357746	4.65e-36	145
+f1163	Pu.STY.scaffolds	100.000	56	0	0	395	450	316801	316856	6.49e-26	111
+rpl10	Pu.STY.scaffolds	100.000	486	0	0	1	486	70000	69515	0.0	963
+***************************TEST:f261-ccmFc_fragment_2*****************f261 Pu.STY.scaffolds 20703 21245ORF_len:543,GENE_len:549
+f261	Pu.STY.scaffolds	100.000	543	0	0	1	543	20703	21245	0.0	1076
+ccmFc_fragment_2	Pu.STY.scaffolds	100.000	549	0	0	1	549	21385	20837	0.0	1088
+***************************TEST:f837-rps4*****************f837 Pu.STY.scaffolds 41507 41731ORF_len:225,GENE_len:1044
+f837	Pu.STY.scaffolds	100.000	225	0	0	1	225	41507	41731	4.28e-127	446
+f837	Pu.STY.scaffolds	100.000	225	0	0	1	225	442074	441850	4.28e-127	446
+f837	Pu.STY.scaffolds	100.000	24	0	0	101	124	443176	443199	3.78e-07	48.1
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:r507-nad7_fragment_4*****************r507 Pu.STY.scaffolds 285585 285932ORF_len:348,GENE_len:243
+r507	Pu.STY.scaffolds	100.000	348	0	0	1	348	285585	285932	0.0	690
+nad7_fragment_4	Pu.STY.scaffolds	100.000	243	0	0	1	243	285742	285500	8.41e-138	482
+***************************TEST:r1252-ccmB*****************r1252 Pu.STY.scaffolds 98927 99463ORF_len:537,GENE_len:630
+r1252	Pu.STY.scaffolds	100.000	537	0	0	1	537	98927	99463	0.0	1065
+ccmB	Pu.STY.scaffolds	99.841	630	1	0	1	630	99534	98905	0.0	1241
+***************************TEST:r335-ccmFc_fragment_1*****************r335 Pu.STY.scaffolds 22174 23148ORF_len:975,GENE_len:771
+r335	Pu.STY.scaffolds	100.000	975	0	0	1	975	22174	23148	0.0	1933
+r335	Pu.STY.scaffolds	97.531	81	2	0	601	681	133049	133129	9.83e-36	145
+ccmFc_fragment_1	Pu.STY.scaffolds	100.000	771	0	0	1	771	23109	22339	0.0	1528
+ccmFc_fragment_1	Pu.STY.scaffolds	97.531	81	2	0	256	336	133129	133049	7.76e-36	145
+***************************TEST:f916-rps14_fragment_1*****************f916 Pu.STY.scaffolds 438746 439138ORF_len:393,GENE_len:87
+f916	Pu.STY.scaffolds	100.000	393	0	0	1	393	438746	439138	0.0	779
+rps14_fragment_1	Pu.STY.scaffolds	100.000	87	0	0	1	87	438956	439042	3.35e-45	172
+***************************TEST:f924-nad6*****************f924 Pu.STY.scaffolds 443604 444275ORF_len:672,GENE_len:639
+f924	Pu.STY.scaffolds	100.000	672	0	0	1	672	443604	444275	0.0	1332
+nad6	Pu.STY.scaffolds	100.000	639	0	0	1	639	443622	444260	0.0	1267
+***************************TEST:r604-nad5_fragment_3*****************r604 Pu.STY.scaffolds 323089 323322ORF_len:234,GENE_len:396
+r604	Pu.STY.scaffolds	100.000	234	0	0	1	234	323089	323322	1.90e-132	464
+nad5_fragment_3	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:r421-rpl16*****************r421 Pu.STY.scaffolds 254666 256348ORF_len:1683,GENE_len:555
+r421	Pu.STY.scaffolds	100.000	1683	0	0	1	1683	254666	256348	0.0	3336
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:r91-cox3*****************r91 Pu.STY.scaffolds 130603 131121ORF_len:519,GENE_len:795
+r91	Pu.STY.scaffolds	100.000	519	0	0	1	519	130603	131121	0.0	1029
+cox3	Pu.STY.scaffolds	100.000	795	0	0	1	795	131009	130215	0.0	1576
+***************************TEST:r790-mttB*****************r790 Pu.STY.scaffolds 390842 391795ORF_len:954,GENE_len:780
+r790	Pu.STY.scaffolds	100.000	954	0	0	1	954	390842	391795	0.0	1891
+r790	Pu.STY.scaffolds	98.246	57	1	0	799	855	433046	432990	8.28e-24	105
+mttB	Pu.STY.scaffolds	100.000	780	0	0	1	780	391645	390866	0.0	1546
+***************************TEST:f525-matR*****************f525 Pu.STY.scaffolds 293007 293345ORF_len:339,GENE_len:1983
+f525	Pu.STY.scaffolds	100.000	339	0	0	1	339	293007	293345	0.0	672
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r526-matR*****************r526 Pu.STY.scaffolds 291840 292145ORF_len:306,GENE_len:1983
+r526	Pu.STY.scaffolds	100.000	306	0	0	1	306	291840	292145	2.71e-175	607
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:r590-cox1*****************r590 Pu.STY.scaffolds 315329 315670ORF_len:342,GENE_len:1578
+r590	Pu.STY.scaffolds	100.000	342	0	0	1	342	315329	315670	0.0	678
+cox1	Pu.STY.scaffolds	100.000	1578	0	0	1	1578	315377	313800	0.0	3128
+***************************TEST:r915-rps4*****************r915 Pu.STY.scaffolds 442099 442401ORF_len:303,GENE_len:1044
+r915	Pu.STY.scaffolds	100.000	303	0	0	1	303	442099	442401	1.66e-173	601
+r915	Pu.STY.scaffolds	100.000	88	0	0	1	88	41482	41395	3.31e-45	174
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:f407-rps3*****************f407 Pu.STY.scaffolds 255918 256229ORF_len:312,GENE_len:1680
+f407	Pu.STY.scaffolds	100.000	312	0	0	1	312	255918	256229	7.28e-179	618
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:r586-cox1*****************r586 Pu.STY.scaffolds 313794 315377ORF_len:1584,GENE_len:1578
+r586	Pu.STY.scaffolds	100.000	1584	0	0	1	1584	313794	315377	0.0	3140
+cox1	Pu.STY.scaffolds	100.000	1578	0	0	1	1578	315377	313800	0.0	3128
+***************************TEST:f157-cox2_fragment_1*****************f157 Pu.STY.scaffolds 167779 168051ORF_len:273,GENE_len:702
+f157	Pu.STY.scaffolds	100.000	273	0	0	1	273	167779	168051	1.19e-155	541
+f157	Pu.STY.scaffolds	100.000	145	0	0	110	254	194344	194200	2.87e-79	287
+f157	Pu.STY.scaffolds	100.000	44	0	0	110	153	417051	417094	5.36e-19	87.7
+cox2_fragment_1	Pu.STY.scaffolds	100.000	702	0	0	1	702	167806	167105	0.0	1392
+cox2_fragment_1	Pu.STY.scaffolds	96.471	85	3	0	618	702	344652	344568	7.05e-36	145
+cox2_fragment_1	Pu.STY.scaffolds	89.796	49	5	0	151	199	392616	392568	1.27e-09	58.0
+***************************TEST:f1090-ccmFn*****************f1090 Pu.STY.scaffolds 511799 513655ORF_len:1857,GENE_len:1728
+f1090	Pu.STY.scaffolds	100.000	1717	0	0	141	1857	511939	513655	0.0	3404
+f1090	Pu.STY.scaffolds	97.597	749	16	2	1110	1857	511838	511091	0.0	1326
+f1090	Pu.STY.scaffolds	100.000	40	0	0	1	40	511799	511838	9.30e-16	79.8
+f1090	Pu.STY.scaffolds	100.000	40	0	0	1	40	512947	512908	9.30e-16	79.8
+ccmFn	Pu.STY.scaffolds	99.884	1728	2	0	1	1728	511940	513667	0.0	3410
+ccmFn	Pu.STY.scaffolds	97.503	761	17	2	969	1728	511838	511079	0.0	1342
+***************************TEST:r1184-nad2_fragment_2*****************r1184 Pu.STY.scaffolds 75093 75473ORF_len:381,GENE_len:351
+r1184	Pu.STY.scaffolds	100.000	381	0	0	1	381	75093	75473	0.0	755
+nad2_fragment_2	Pu.STY.scaffolds	100.000	351	0	0	1	351	75523	75173	0.0	696
+***************************TEST:r854-nad9*****************r854 Pu.STY.scaffolds 416702 417148ORF_len:447,GENE_len:573
+r854	Pu.STY.scaffolds	100.000	447	0	0	1	447	416702	417148	0.0	886
+r854	Pu.STY.scaffolds	100.000	102	0	0	292	393	194402	194301	2.19e-53	202
+r854	Pu.STY.scaffolds	100.000	44	0	0	350	393	167888	167931	8.97e-19	87.7
+nad9	Pu.STY.scaffolds	100.000	573	0	0	1	573	416987	416415	0.0	1136
+***************************TEST:r1222-nad3*****************r1222 Pu.STY.scaffolds 89276 89602ORF_len:327,GENE_len:354
+r1222	Pu.STY.scaffolds	100.000	327	0	0	1	327	89276	89602	0.0	648
+nad3	Pu.STY.scaffolds	99.718	354	1	0	1	354	89715	89362	0.0	694
+nad3	Pu.STY.scaffolds	95.238	63	3	0	1	63	395027	394965	4.68e-23	101
+***************************TEST:f1164-rpl10*****************f1164 Pu.STY.scaffolds 69667 69924ORF_len:258,GENE_len:486
+f1164	Pu.STY.scaffolds	100.000	258	0	0	1	258	69667	69924	9.99e-147	511
+rpl10	Pu.STY.scaffolds	100.000	486	0	0	1	486	70000	69515	0.0	963
+***************************TEST:r794-atp8*****************r794 Pu.STY.scaffolds 392401 392850ORF_len:450,GENE_len:477
+r794	Pu.STY.scaffolds	100.000	450	0	0	1	450	392401	392850	0.0	892
+r794	Pu.STY.scaffolds	99.485	194	1	0	212	405	132035	132228	6.77e-106	377
+r794	Pu.STY.scaffolds	98.780	82	1	0	279	360	77948	78029	4.64e-39	155
+r794	Pu.STY.scaffolds	89.796	49	5	0	168	216	167608	167656	8.07e-10	58.0
+atp8	Pu.STY.scaffolds	99.790	477	1	0	1	477	132111	131635	0.0	938
+atp8	Pu.STY.scaffolds	100.000	77	0	0	1	77	392688	392612	1.95e-38	153
+***************************TEST:f311-ccmFc_fragment_1*****************f311 Pu.STY.scaffolds 22433 22939ORF_len:507,GENE_len:771
+f311	Pu.STY.scaffolds	100.000	507	0	0	1	507	22433	22939	0.0	1005
+f311	Pu.STY.scaffolds	97.531	81	2	0	342	422	133049	133129	5.05e-36	145
+ccmFc_fragment_1	Pu.STY.scaffolds	100.000	771	0	0	1	771	23109	22339	0.0	1528
+ccmFc_fragment_1	Pu.STY.scaffolds	97.531	81	2	0	256	336	133129	133049	7.76e-36	145
+***************************TEST:r527-matR*****************r527 Pu.STY.scaffolds 292386 292727ORF_len:342,GENE_len:1983
+r527	Pu.STY.scaffolds	100.000	342	0	0	1	342	292386	292727	0.0	678
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:f1232-ccmB*****************f1232 Pu.STY.scaffolds 99261 99596ORF_len:336,GENE_len:630
+f1232	Pu.STY.scaffolds	100.000	336	0	0	1	336	99261	99596	0.0	666
+ccmB	Pu.STY.scaffolds	99.841	630	1	0	1	630	99534	98905	0.0	1241
+***************************TEST:r1185-nad2_fragment_2*****************r1185 Pu.STY.scaffolds 75143 75643ORF_len:501,GENE_len:351
+r1185	Pu.STY.scaffolds	100.000	501	0	0	1	501	75143	75643	0.0	993
+r1185	Pu.STY.scaffolds	100.000	49	0	0	438	486	39084	39132	1.05e-21	97.6
+nad2_fragment_2	Pu.STY.scaffolds	100.000	351	0	0	1	351	75523	75173	0.0	696
+***************************TEST:f238-atp6*****************f238 Pu.STY.scaffolds 194405 195460ORF_len:1056,GENE_len:726
+f238	Pu.STY.scaffolds	100.000	1056	0	0	1	1056	194405	195460	0.0	2093
+atp6	Pu.STY.scaffolds	100.000	726	0	0	1	726	194741	195466	0.0	1439
+***************************TEST:f594-nad5_fragment_3*****************f594 Pu.STY.scaffolds 323178 323708ORF_len:531,GENE_len:396
+f594	Pu.STY.scaffolds	100.000	531	0	0	1	531	323178	323708	0.0	1053
+nad5_fragment_3	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:r518-nad7_fragment_3*****************r518 Pu.STY.scaffolds 288877 289107ORF_len:231,GENE_len:108
+r518	Pu.STY.scaffolds	100.000	231	0	0	1	231	288877	289107	1.16e-130	458
+nad7_fragment_3	Pu.STY.scaffolds	100.000	108	0	0	1	108	288934	288827	1.26e-57	214
+***************************TEST:f1114-ccmC*****************f1114 Pu.STY.scaffolds 522952 523755ORF_len:804,GENE_len:750
+f1114	Pu.STY.scaffolds	100.000	804	0	0	1	804	522952	523755	0.0	1594
+ccmC	Pu.STY.scaffolds	99.867	750	1	0	1	750	522952	523701	0.0	1479
+***************************TEST:r300-ccmFc_fragment_2*****************r300 Pu.STY.scaffolds 20684 21715ORF_len:1032,GENE_len:549
+r300	Pu.STY.scaffolds	100.000	1032	0	0	1	1032	20684	21715	0.0	2046
+ccmFc_fragment_2	Pu.STY.scaffolds	100.000	549	0	0	1	549	21385	20837	0.0	1088
+***************************TEST:r423-rps3*****************r423 Pu.STY.scaffolds 255849 256172ORF_len:324,GENE_len:1680
+r423	Pu.STY.scaffolds	100.000	324	0	0	1	324	255849	256172	0.0	642
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:f921-rps4*****************f921 Pu.STY.scaffolds 441839 442993ORF_len:1155,GENE_len:1044
+f921	Pu.STY.scaffolds	100.000	1155	0	0	1	1155	441839	442993	0.0	2290
+f921	Pu.STY.scaffolds	100.000	347	0	0	2	348	41741	41395	0.0	688
+f921	Pu.STY.scaffolds	100.000	24	0	0	113	136	443199	443176	2.03e-06	48.1
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:r1099-ccmFn*****************r1099 Pu.STY.scaffolds 512148 512438ORF_len:291,GENE_len:1728
+r1099	Pu.STY.scaffolds	100.000	291	0	0	1	291	512148	512438	2.30e-166	577
+ccmFn	Pu.STY.scaffolds	99.884	1728	2	0	1	1728	511940	513667	0.0	3410
+ccmFn	Pu.STY.scaffolds	97.503	761	17	2	969	1728	511838	511079	0.0	1342
+***************************TEST:f917-rps14_fragment_1*****************f917 Pu.STY.scaffolds 438780 439052ORF_len:273,GENE_len:87
+f917	Pu.STY.scaffolds	100.000	273	0	0	1	273	438780	439052	1.19e-155	541
+rps14_fragment_1	Pu.STY.scaffolds	100.000	87	0	0	1	87	438956	439042	3.35e-45	172
+***************************TEST:r909-rps14_fragment_2*****************r909 Pu.STY.scaffolds 439030 439278ORF_len:249,GENE_len:174
+r909	Pu.STY.scaffolds	100.000	249	0	0	1	249	439030	439278	2.27e-141	494
+rps14_fragment_2	Pu.STY.scaffolds	100.000	174	0	0	1	174	439051	439224	8.83e-97	345
+***************************TEST:f1213-atp1*****************f1213 Pu.STY.scaffolds 91312 91770ORF_len:459,GENE_len:1521
+f1213	Pu.STY.scaffolds	100.000	459	0	0	1	459	91312	91770	0.0	910
+f1213	Pu.STY.scaffolds	100.000	459	0	0	1	459	431871	431413	0.0	910
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:f1161-nad1_fragment_1*****************f1161 Pu.STY.scaffolds 69041 69589ORF_len:549,GENE_len:387
+f1161	Pu.STY.scaffolds	100.000	549	0	0	1	549	69041	69589	0.0	1088
+f1161	Pu.STY.scaffolds	96.923	65	2	0	267	331	334560	334496	1.94e-26	113
+nad1_fragment_1	Pu.STY.scaffolds	100.000	387	0	0	1	387	69288	68902	0.0	767
+nad1_fragment_1	Pu.STY.scaffolds	95.652	46	2	0	338	383	392900	392855	2.94e-15	75.8
+***************************TEST:f777-nad1_fragment_3*****************f777 Pu.STY.scaffolds 38982 39317ORF_len:336,GENE_len:195
+f777	Pu.STY.scaffolds	100.000	336	0	0	1	336	38982	39317	0.0	666
+f777	Pu.STY.scaffolds	100.000	49	0	0	103	151	75580	75628	6.92e-22	97.6
+nad1_fragment_3	Pu.STY.scaffolds	100.000	195	0	0	1	195	39072	38878	2.93e-109	387
+***************************TEST:f1113-ccmC*****************f1113 Pu.STY.scaffolds 522909 523493ORF_len:585,GENE_len:750
+f1113	Pu.STY.scaffolds	100.000	585	0	0	1	585	522909	523493	0.0	1160
+ccmC	Pu.STY.scaffolds	99.867	750	1	0	1	750	522952	523701	0.0	1479
+***************************TEST:r332-nad4L*****************r332 Pu.STY.scaffolds 220376 220711ORF_len:336,GENE_len:300
+r332	Pu.STY.scaffolds	100.000	336	0	0	1	336	220376	220711	0.0	666
+r332	Pu.STY.scaffolds	100.000	23	0	0	314	336	221150	221172	2.27e-06	46.1
+nad4L	Pu.STY.scaffolds	100.000	300	0	0	1	300	220678	220379	1.01e-171	595
+***************************TEST:f1185-sdh3*****************f1185 Pu.STY.scaffolds 77884 78135ORF_len:252,GENE_len:291
+f1185	Pu.STY.scaffolds	100.000	252	0	0	1	252	77884	78135	3.71e-143	500
+f1185	Pu.STY.scaffolds	98.780	82	1	0	65	146	132102	132183	2.53e-39	155
+f1185	Pu.STY.scaffolds	98.780	82	1	0	65	146	392679	392760	2.53e-39	155
+f1185	Pu.STY.scaffolds	100.000	23	0	0	37	59	314146	314168	1.68e-06	46.1
+sdh3	Pu.STY.scaffolds	100.000	291	0	0	1	291	77921	77631	2.30e-166	577
+***************************TEST:r921-nad6*****************r921 Pu.STY.scaffolds 443537 443812ORF_len:276,GENE_len:639
+r921	Pu.STY.scaffolds	100.000	276	0	0	1	276	443537	443812	1.95e-157	547
+r921	Pu.STY.scaffolds	100.000	36	0	0	1	36	468784	468749	3.22e-14	71.9
+nad6	Pu.STY.scaffolds	100.000	639	0	0	1	639	443622	444260	0.0	1267
+***************************TEST:f518-matR*****************f518 Pu.STY.scaffolds 291348 292142ORF_len:795,GENE_len:1983
+f518	Pu.STY.scaffolds	100.000	795	0	0	1	795	291348	292142	0.0	1576
+f518	Pu.STY.scaffolds	100.000	26	0	0	486	511	437543	437518	8.92e-08	52.0
+matR	Pu.STY.scaffolds	100.000	1983	0	0	1	1983	293041	291059	0.0	3931
+matR	Pu.STY.scaffolds	100.000	26	0	0	1184	1209	437518	437543	2.25e-07	52.0
+***************************TEST:f594-nad5_fragment_4*****************f594 Pu.STY.scaffolds 323178 323708ORF_len:531,GENE_len:396
+f594	Pu.STY.scaffolds	100.000	531	0	0	1	531	323178	323708	0.0	1053
+nad5_fragment_4	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:r891-atp1*****************r891 Pu.STY.scaffolds 431413 431871ORF_len:459,GENE_len:1521
+r891	Pu.STY.scaffolds	100.000	459	0	0	1	459	91770	91312	0.0	910
+r891	Pu.STY.scaffolds	100.000	459	0	0	1	459	431413	431871	0.0	910
+atp1	Pu.STY.scaffolds	99.540	1521	7	0	1	1521	431285	432805	0.0	2960
+atp1	Pu.STY.scaffolds	99.736	1137	3	0	1	1137	91898	90762	0.0	2230
+atp1	Pu.STY.scaffolds	100.000	127	0	0	1011	1137	90661	90535	9.20e-68	252
+***************************TEST:r991-rps7*****************r991 Pu.STY.scaffolds 46778 47401ORF_len:624,GENE_len:465
+r991	Pu.STY.scaffolds	100.000	624	0	0	1	624	46778	47401	0.0	1237
+rps7	Pu.STY.scaffolds	99.785	465	1	0	1	465	47245	46781	0.0	914
+***************************TEST:r914-rps4*****************r914 Pu.STY.scaffolds 441850 442074ORF_len:225,GENE_len:1044
+r914	Pu.STY.scaffolds	100.000	225	0	0	1	225	41731	41507	4.28e-127	446
+r914	Pu.STY.scaffolds	100.000	225	0	0	1	225	441850	442074	4.28e-127	446
+r914	Pu.STY.scaffolds	100.000	24	0	0	102	125	443199	443176	3.78e-07	48.1
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:f1017-nad4_fragment_2*****************f1017 Pu.STY.scaffolds 480974 481240ORF_len:267,GENE_len:936
+f1017	Pu.STY.scaffolds	100.000	267	0	0	1	267	480974	481240	4.41e-152	529
+nad4_fragment_2	Pu.STY.scaffolds	100.000	936	0	0	1	936	480789	481724	0.0	1855
+***************************TEST:f396-rpl16*****************f396 Pu.STY.scaffolds 253793 254584ORF_len:792,GENE_len:555
+f396	Pu.STY.scaffolds	100.000	792	0	0	1	792	253793	254584	0.0	1570
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:f405-rps3*****************f405 Pu.STY.scaffolds 255857 256162ORF_len:306,GENE_len:1680
+f405	Pu.STY.scaffolds	100.000	306	0	0	1	306	255857	256162	2.71e-175	607
+rps3	Pu.STY.scaffolds	99.940	1680	1	0	1	1680	256348	254669	0.0	3322
+***************************TEST:f400-rpl16*****************f400 Pu.STY.scaffolds 254591 254857ORF_len:267,GENE_len:555
+f400	Pu.STY.scaffolds	100.000	267	0	0	1	267	254591	254857	4.41e-152	529
+rpl16	Pu.STY.scaffolds	100.000	555	0	0	1	555	254817	254263	0.0	1100
+***************************TEST:r89-cox3*****************r89 Pu.STY.scaffolds 130080 131153ORF_len:1074,GENE_len:795
+r89	Pu.STY.scaffolds	100.000	1074	0	0	1	1074	130080	131153	0.0	2129
+cox3	Pu.STY.scaffolds	100.000	795	0	0	1	795	131009	130215	0.0	1576
+***************************TEST:f156-cox2_fragment_1*****************f156 Pu.STY.scaffolds 167634 167936ORF_len:303,GENE_len:702
+f156	Pu.STY.scaffolds	100.000	303	0	0	1	303	167634	167936	1.66e-173	601
+f156	Pu.STY.scaffolds	100.000	49	0	0	255	303	194344	194296	6.21e-22	97.6
+f156	Pu.STY.scaffolds	100.000	44	0	0	255	298	417051	417094	5.99e-19	87.7
+cox2_fragment_1	Pu.STY.scaffolds	100.000	702	0	0	1	702	167806	167105	0.0	1392
+cox2_fragment_1	Pu.STY.scaffolds	96.471	85	3	0	618	702	344652	344568	7.05e-36	145
+cox2_fragment_1	Pu.STY.scaffolds	89.796	49	5	0	151	199	392616	392568	1.27e-09	58.0
+***************************TEST:f593-nad5_fragment_3*****************f593 Pu.STY.scaffolds 323093 323353ORF_len:261,GENE_len:396
+f593	Pu.STY.scaffolds	100.000	261	0	0	1	261	323093	323353	1.64e-148	517
+nad5_fragment_3	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:r828-nad1_fragment_2*****************r828 Pu.STY.scaffolds 40389 40661ORF_len:273,GENE_len:78
+r828	Pu.STY.scaffolds	100.000	273	0	0	1	273	40389	40661	1.19e-155	541
+nad1_fragment_2	Pu.STY.scaffolds	100.000	78	0	0	1	78	40615	40538	6.91e-40	155
+***************************TEST:f1178-nad2_fragment_2*****************f1178 Pu.STY.scaffolds 75297 75632ORF_len:336,GENE_len:351
+f1178	Pu.STY.scaffolds	100.000	336	0	0	1	336	75297	75632	0.0	666
+f1178	Pu.STY.scaffolds	100.000	49	0	0	284	332	39084	39132	6.92e-22	97.6
+nad2_fragment_2	Pu.STY.scaffolds	100.000	351	0	0	1	351	75523	75173	0.0	696
+***************************TEST:r917-rps4*****************r917 Pu.STY.scaffolds 442414 442752ORF_len:339,GENE_len:1044
+r917	Pu.STY.scaffolds	100.000	339	0	0	1	339	442414	442752	0.0	672
+rps4	Pu.STY.scaffolds	100.000	1044	0	0	1	1044	441947	442990	0.0	2070
+rps4	Pu.STY.scaffolds	100.000	240	0	0	1	240	41634	41395	2.32e-135	476
+rps4	Pu.STY.scaffolds	100.000	24	0	0	5	28	443199	443176	1.83e-06	48.1
+***************************TEST:f1231-ccmB*****************f1231 Pu.STY.scaffolds 98978 99292ORF_len:315,GENE_len:630
+f1231	Pu.STY.scaffolds	100.000	315	0	0	1	315	98978	99292	1.19e-180	624
+ccmB	Pu.STY.scaffolds	99.841	630	1	0	1	630	99534	98905	0.0	1241
+***************************TEST:r588-cox1*****************r588 Pu.STY.scaffolds 314407 314682ORF_len:276,GENE_len:1578
+r588	Pu.STY.scaffolds	100.000	276	0	0	1	276	314407	314682	1.95e-157	547
+cox1	Pu.STY.scaffolds	100.000	1578	0	0	1	1578	315377	313800	0.0	3128
+***************************TEST:r604-nad5_fragment_4*****************r604 Pu.STY.scaffolds 323089 323322ORF_len:234,GENE_len:396
+r604	Pu.STY.scaffolds	100.000	234	0	0	1	234	323089	323322	1.90e-132	464
+nad5_fragment_4	Pu.STY.scaffolds	99.747	396	1	0	1	396	323247	323642	0.0	777
+***************************TEST:f984-rps7*****************f984 Pu.STY.scaffolds 46777 47121ORF_len:345,GENE_len:465
+f984	Pu.STY.scaffolds	100.000	345	0	0	1	345	46777	47121	0.0	684
+rps7	Pu.STY.scaffolds	99.785	465	1	0	1	465	47245	46781	0.0	914
+***************************TEST:f296-atp4*****************f296 Pu.STY.scaffolds 219431 220078ORF_len:648,GENE_len:588
+f296	Pu.STY.scaffolds	100.000	648	0	0	1	648	219431	220078	0.0	1285
+atp4	Pu.STY.scaffolds	100.000	588	0	0	1	588	220170	219583	0.0	1166
+***************************TEST:f694-nad5_fragment_1*****************f694 Pu.STY.scaffolds 359100 359558ORF_len:459,GENE_len:237
+f694	Pu.STY.scaffolds	100.000	459	0	0	1	459	359100	359558	0.0	910
+f694	Pu.STY.scaffolds	100.000	279	0	0	12	290	424364	424642	5.35e-159	553
+f694	Pu.STY.scaffolds	94.737	38	2	0	39	76	37584	37547	2.08e-10	60.0
+nad5_fragment_1	Pu.STY.scaffolds	99.578	237	1	0	1	237	359292	359528	7.60e-132	462
+nad5_fragment_1	Pu.STY.scaffolds	98.980	98	1	0	1	98	424545	424642	6.75e-49	186

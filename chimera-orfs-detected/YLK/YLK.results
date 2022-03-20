@@ -1,0 +1,752 @@
+***************************TEST:f209-atp9*****************f209 Le.YLK.scaffolds 182504 182848ORF_len:345,GENE_len:243
+f209	Le.YLK.scaffolds	100.000	345	0	0	1	345	182504	182848	0.0	684
+f209	Le.YLK.scaffolds	98.077	52	1	0	134	185	285605	285656	2.72e-21	95.6
+f209	Le.YLK.scaffolds	94.595	37	2	0	79	115	366741	366705	5.92e-10	58.0
+f209	Le.YLK.scaffolds	96.154	26	1	0	160	185	309499	309524	8.91e-06	44.1
+atp9	Le.YLK.scaffolds	100.000	243	0	0	1	243	182555	182313	8.13e-138	482
+***************************TEST:f386-rpl10*****************f386 Le.YLK.scaffolds 25290 25757ORF_len:468,GENE_len:486
+f386	Le.YLK.scaffolds	100.000	468	0	0	1	468	25290	25757	0.0	928
+f386	Le.YLK.scaffolds	99.038	104	1	0	348	451	380744	380641	3.47e-52	198
+f386	Le.YLK.scaffolds	100.000	73	0	0	378	450	264410	264338	4.50e-36	145
+f386	Le.YLK.scaffolds	100.000	56	0	0	395	450	357348	357403	6.27e-26	111
+rpl10	Le.YLK.scaffolds	100.000	486	0	0	1	486	25642	25157	0.0	963
+***************************TEST:f1061-ccmC*****************f1061 Le.YLK.scaffolds 505315 505899ORF_len:585,GENE_len:750
+f1061	Le.YLK.scaffolds	100.000	585	0	0	1	585	505315	505899	0.0	1160
+ccmC	Le.YLK.scaffolds	99.867	750	1	0	1	750	505358	506107	0.0	1479
+***************************TEST:f742-rps14_fragment_1*****************f742 Le.YLK.scaffolds 381085 381477ORF_len:393,GENE_len:87
+f742	Le.YLK.scaffolds	100.000	393	0	0	1	393	381085	381477	0.0	779
+rps14_fragment_1	Le.YLK.scaffolds	100.000	87	0	0	1	87	381295	381381	3.24e-45	172
+***************************TEST:r198-atp4*****************r198 Le.YLK.scaffolds 179383 179973ORF_len:591,GENE_len:588
+r198	Le.YLK.scaffolds	100.000	591	0	0	1	591	179383	179973	0.0	1172
+atp4	Le.YLK.scaffolds	100.000	588	0	0	1	588	179973	179386	0.0	1166
+***************************TEST:f508-rps3*****************f508 Le.YLK.scaffolds 295646 296191ORF_len:546,GENE_len:1680
+f508	Le.YLK.scaffolds	100.000	546	0	0	1	546	295646	296191	0.0	1082
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f224-nad9*****************f224 Le.YLK.scaffolds 189566 190144ORF_len:579,GENE_len:573
+f224	Le.YLK.scaffolds	100.000	579	0	0	1	579	189566	190144	0.0	1148
+nad9	Le.YLK.scaffolds	100.000	573	0	0	1	573	189572	190144	0.0	1136
+***************************TEST:r666-cox1*****************r666 Le.YLK.scaffolds 355870 356217ORF_len:348,GENE_len:1578
+r666	Le.YLK.scaffolds	100.000	348	0	0	1	348	355870	356217	0.0	690
+cox1	Le.YLK.scaffolds	100.000	1578	0	0	1	1578	355918	354341	0.0	3128
+***************************TEST:r669-rps10_fragment_1*****************r669 Le.YLK.scaffolds 357054 357452ORF_len:399,GENE_len:210
+r669	Le.YLK.scaffolds	100.000	399	0	0	1	399	357054	357452	0.0	791
+r669	Le.YLK.scaffolds	100.000	56	0	0	295	350	25684	25739	5.32e-26	111
+r669	Le.YLK.scaffolds	100.000	56	0	0	295	350	264393	264338	5.32e-26	111
+r669	Le.YLK.scaffolds	100.000	56	0	0	295	350	380697	380642	5.32e-26	111
+rps10_fragment_1	Le.YLK.scaffolds	100.000	210	0	0	1	210	357314	357105	3.43e-118	416
+***************************TEST:r734-rps14_fragment_2*****************r734 Le.YLK.scaffolds 381406 381702ORF_len:297,GENE_len:174
+r734	Le.YLK.scaffolds	100.000	297	0	0	1	297	381406	381702	5.97e-170	589
+rps14_fragment_2	Le.YLK.scaffolds	100.000	174	0	0	1	174	381390	381563	8.53e-97	345
+***************************TEST:r935-rps4*****************r935 Le.YLK.scaffolds 461561 461785ORF_len:225,GENE_len:1044
+r935	Le.YLK.scaffolds	100.000	225	0	0	1	225	384189	384413	4.13e-127	446
+r935	Le.YLK.scaffolds	100.000	225	0	0	1	225	461561	461785	4.13e-127	446
+r935	Le.YLK.scaffolds	100.000	24	0	0	102	125	385538	385515	3.65e-07	48.1
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:r893-rps12*****************r893 Le.YLK.scaffolds 44404 44994ORF_len:591,GENE_len:375
+r893	Le.YLK.scaffolds	100.000	591	0	0	1	591	44404	44994	0.0	1172
+rps12	Le.YLK.scaffolds	100.000	375	0	0	1	375	44952	44578	0.0	743
+***************************TEST:f1076-ccmB*****************f1076 Le.YLK.scaffolds 54676 55011ORF_len:336,GENE_len:630
+f1076	Le.YLK.scaffolds	100.000	336	0	0	1	336	54676	55011	0.0	666
+ccmB	Le.YLK.scaffolds	99.841	630	1	0	1	630	54949	54320	0.0	1241
+***************************TEST:f200-atp4*****************f200 Le.YLK.scaffolds 179234 179881ORF_len:648,GENE_len:588
+f200	Le.YLK.scaffolds	100.000	648	0	0	1	648	179234	179881	0.0	1285
+atp4	Le.YLK.scaffolds	100.000	588	0	0	1	588	179973	179386	0.0	1166
+***************************TEST:r1004-ccmFc_fragment_2*****************r1004 Le.YLK.scaffolds 482052 482594ORF_len:543,GENE_len:549
+r1004	Le.YLK.scaffolds	100.000	543	0	0	1	543	482052	482594	0.0	1076
+ccmFc_fragment_2	Le.YLK.scaffolds	100.000	549	0	0	1	549	481912	482460	0.0	1088
+***************************TEST:f626-nad1_fragment_4*****************f626 Le.YLK.scaffolds 334231 334464ORF_len:234,GENE_len:60
+f626	Le.YLK.scaffolds	100.000	234	0	0	1	234	334231	334464	1.84e-132	464
+nad1_fragment_4	Le.YLK.scaffolds	100.000	60	0	0	1	60	334312	334253	2.72e-29	119
+***************************TEST:r1002-ccmFc_fragment_2*****************r1002 Le.YLK.scaffolds 481648 482007ORF_len:360,GENE_len:549
+r1002	Le.YLK.scaffolds	100.000	360	0	0	1	360	481648	482007	0.0	714
+ccmFc_fragment_2	Le.YLK.scaffolds	100.000	549	0	0	1	549	481912	482460	0.0	1088
+***************************TEST:f366-nad1_fragment_1*****************f366 Le.YLK.scaffolds 24683 25231ORF_len:549,GENE_len:387
+f366	Le.YLK.scaffolds	100.000	549	0	0	1	549	24683	25231	0.0	1088
+f366	Le.YLK.scaffolds	96.923	65	2	0	267	331	241152	241088	1.87e-26	113
+nad1_fragment_1	Le.YLK.scaffolds	100.000	387	0	0	1	387	24930	24544	0.0	767
+nad1_fragment_1	Le.YLK.scaffolds	95.652	46	2	0	338	383	213665	213710	2.84e-15	75.8
+***************************TEST:f838-nad4_fragment_2*****************f838 Le.YLK.scaffolds 423132 424232ORF_len:1101,GENE_len:936
+f838	Le.YLK.scaffolds	100.000	1101	0	0	1	1101	423132	424232	0.0	2183
+nad4_fragment_2	Le.YLK.scaffolds	100.000	936	0	0	1	936	423132	424067	0.0	1855
+***************************TEST:f131-cob*****************f131 Le.YLK.scaffolds 14893 15234ORF_len:342,GENE_len:1191
+f131	Le.YLK.scaffolds	100.000	342	0	0	1	342	14893	15234	0.0	678
+cob	Le.YLK.scaffolds	100.000	1191	0	0	1	1191	15566	14376	0.0	2361
+***************************TEST:r949-atp1*****************r949 Le.YLK.scaffolds 46526 46759ORF_len:234,GENE_len:1521
+r949	Le.YLK.scaffolds	100.000	234	0	0	1	234	46526	46759	1.84e-132	464
+r949	Le.YLK.scaffolds	100.000	234	0	0	1	234	374411	374178	1.84e-132	464
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:f949-atp1*****************f949 Le.YLK.scaffolds 46727 47185ORF_len:459,GENE_len:1521
+f949	Le.YLK.scaffolds	100.000	459	0	0	1	459	46727	47185	0.0	910
+f949	Le.YLK.scaffolds	100.000	459	0	0	1	459	374210	373752	0.0	910
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:r63-cox2_fragment_1*****************r63 Le.YLK.scaffolds 126766 127605ORF_len:840,GENE_len:702
+r63	Le.YLK.scaffolds	100.000	840	0	0	1	840	126766	127605	0.0	1665
+r63	Le.YLK.scaffolds	94.949	99	5	0	125	223	251146	251244	2.15e-39	157
+r63	Le.YLK.scaffolds	89.796	49	5	0	642	690	213997	213949	1.48e-09	58.0
+cox2_fragment_1	Le.YLK.scaffolds	100.000	702	0	0	1	702	127605	126904	0.0	1392
+cox2_fragment_1	Le.YLK.scaffolds	96.471	85	3	0	618	702	251244	251160	6.81e-36	145
+cox2_fragment_1	Le.YLK.scaffolds	89.796	49	5	0	151	199	213949	213997	1.23e-09	58.0
+***************************TEST:f41-rps7*****************f41 Le.YLK.scaffolds 1172 1474ORF_len:303,GENE_len:465
+f41	Le.YLK.scaffolds	100.000	303	0	0	1	303	1172	1474	1.60e-173	601
+rps7	Le.YLK.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r901-rps12*****************r901 Le.YLK.scaffolds 44918 45244ORF_len:327,GENE_len:375
+r901	Le.YLK.scaffolds	100.000	327	0	0	1	327	44918	45244	0.0	648
+rps12	Le.YLK.scaffolds	100.000	375	0	0	1	375	44952	44578	0.0	743
+***************************TEST:r913-ccmFn*****************r913 Le.YLK.scaffolds 455010 455330ORF_len:321,GENE_len:1728
+r913	Le.YLK.scaffolds	100.000	141	0	0	1	141	455010	455150	8.02e-77	280
+r913	Le.YLK.scaffolds	100.000	80	0	0	242	321	455251	455330	2.02e-40	159
+r913	Le.YLK.scaffolds	97.500	80	2	0	242	321	165736	165657	1.20e-35	143
+r913	Le.YLK.scaffolds	96.970	33	1	0	242	274	317981	318013	5.49e-10	58.0
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:r592-sdh3*****************r592 Le.YLK.scaffolds 32799 33851ORF_len:1053,GENE_len:291
+r592	Le.YLK.scaffolds	100.000	1053	0	0	1	1053	32799	33851	0.0	2087
+r592	Le.YLK.scaffolds	98.780	82	1	0	792	873	90743	90824	1.07e-38	155
+r592	Le.YLK.scaffolds	98.780	82	1	0	792	873	213886	213805	1.07e-38	155
+r592	Le.YLK.scaffolds	100.000	23	0	0	764	786	354687	354709	7.07e-06	46.1
+sdh3	Le.YLK.scaffolds	100.000	291	0	0	1	291	33563	33273	2.22e-166	577
+***************************TEST:r1195-ccmFc_fragment_1*****************r1195 Le.YLK.scaffolds 91540 91773ORF_len:234,GENE_len:771
+r1195	Le.YLK.scaffolds	100.000	234	0	0	1	234	91540	91773	1.84e-132	464
+r1195	Le.YLK.scaffolds	97.531	81	2	0	151	231	480523	480443	2.19e-36	145
+ccmFc_fragment_1	Le.YLK.scaffolds	100.000	771	0	0	1	771	480188	480958	0.0	1528
+ccmFc_fragment_1	Le.YLK.scaffolds	97.531	81	2	0	256	336	91770	91690	7.50e-36	145
+***************************TEST:f622-matR*****************f622 Le.YLK.scaffolds 332891 333247ORF_len:357,GENE_len:1983
+f622	Le.YLK.scaffolds	100.000	357	0	0	1	357	332891	333247	0.0	708
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:r586-nad7_fragment_4*****************r586 Le.YLK.scaffolds 326211 326999ORF_len:789,GENE_len:243
+r586	Le.YLK.scaffolds	100.000	789	0	0	1	789	326211	326999	0.0	1564
+nad7_fragment_4	Le.YLK.scaffolds	100.000	243	0	0	1	243	326283	326041	8.13e-138	482
+***************************TEST:f141-atp6*****************f141 Le.YLK.scaffolds 154208 155263ORF_len:1056,GENE_len:726
+f141	Le.YLK.scaffolds	100.000	1056	0	0	1	1056	154208	155263	0.0	2093
+atp6	Le.YLK.scaffolds	100.000	726	0	0	1	726	154544	155269	0.0	1439
+***************************TEST:r1192-atp8*****************r1192 Le.YLK.scaffolds 90165 91154ORF_len:990,GENE_len:477
+r1192	Le.YLK.scaffolds	100.000	990	0	0	1	990	90165	91154	0.0	1963
+r1192	Le.YLK.scaffolds	99.485	194	1	0	512	705	213953	213760	1.46e-105	377
+r1192	Le.YLK.scaffolds	98.780	82	1	0	579	660	33590	33671	1.00e-38	155
+atp8	Le.YLK.scaffolds	99.790	477	1	0	1	477	90752	90276	0.0	938
+atp8	Le.YLK.scaffolds	100.000	77	0	0	1	77	213877	213953	1.88e-38	153
+***************************TEST:r936-rps4*****************r936 Le.YLK.scaffolds 461810 462622ORF_len:813,GENE_len:1044
+r936	Le.YLK.scaffolds	100.000	813	0	0	1	813	461810	462622	0.0	1612
+r936	Le.YLK.scaffolds	100.000	88	0	0	1	88	384438	384525	8.85e-45	174
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:r945-nad1_fragment_3*****************r945 Le.YLK.scaffolds 464009 464326ORF_len:318,GENE_len:195
+r945	Le.YLK.scaffolds	100.000	318	0	0	1	318	464009	464326	0.0	630
+r945	Le.YLK.scaffolds	100.000	49	0	0	152	200	31270	31222	6.32e-22	97.6
+nad1_fragment_3	Le.YLK.scaffolds	100.000	195	0	0	1	195	464220	464414	2.83e-109	387
+***************************TEST:r745-nad6*****************r745 Le.YLK.scaffolds 385887 386162ORF_len:276,GENE_len:639
+r745	Le.YLK.scaffolds	100.000	276	0	0	1	276	385887	386162	1.88e-157	547
+r745	Le.YLK.scaffolds	100.000	36	0	0	1	36	411134	411099	3.12e-14	71.9
+nad6	Le.YLK.scaffolds	100.000	639	0	0	1	639	385972	386610	0.0	1267
+***************************TEST:r911-ccmFn*****************r911 Le.YLK.scaffolds 454183 454977ORF_len:795,GENE_len:1728
+r911	Le.YLK.scaffolds	100.000	795	0	0	1	795	454183	454977	0.0	1576
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:f325-nad5_fragment_4*****************f325 Le.YLK.scaffolds 229763 230293ORF_len:531,GENE_len:396
+f325	Le.YLK.scaffolds	100.000	531	0	0	1	531	229763	230293	0.0	1053
+nad5_fragment_4	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:r324-nad5_fragment_4*****************r324 Le.YLK.scaffolds 229674 229907ORF_len:234,GENE_len:396
+r324	Le.YLK.scaffolds	100.000	234	0	0	1	234	229674	229907	1.84e-132	464
+nad5_fragment_4	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:f742-rps14_fragment_2*****************f742 Le.YLK.scaffolds 381085 381477ORF_len:393,GENE_len:174
+f742	Le.YLK.scaffolds	100.000	393	0	0	1	393	381085	381477	0.0	779
+rps14_fragment_2	Le.YLK.scaffolds	100.000	174	0	0	1	174	381390	381563	8.53e-97	345
+***************************TEST:f427-nad5_fragment_2*****************f427 Le.YLK.scaffolds 266959 268197ORF_len:1239,GENE_len:1203
+f427	Le.YLK.scaffolds	100.000	1239	0	0	1	1239	266959	268197	0.0	2456
+nad5_fragment_2	Le.YLK.scaffolds	100.000	1203	0	0	1	1203	266971	268173	0.0	2385
+***************************TEST:r607-nad1_fragment_4*****************r607 Le.YLK.scaffolds 334179 334409ORF_len:231,GENE_len:60
+r607	Le.YLK.scaffolds	100.000	231	0	0	1	231	334179	334409	1.12e-130	458
+nad1_fragment_4	Le.YLK.scaffolds	100.000	60	0	0	1	60	334312	334253	2.72e-29	119
+***************************TEST:f428-nad5_fragment_2*****************f428 Le.YLK.scaffolds 267351 267719ORF_len:369,GENE_len:1203
+f428	Le.YLK.scaffolds	100.000	369	0	0	1	369	267351	267719	0.0	731
+nad5_fragment_2	Le.YLK.scaffolds	100.000	1203	0	0	1	1203	266971	268173	0.0	2385
+***************************TEST:f421-nad1_fragment_5*****************f421 Le.YLK.scaffolds 265198 265518ORF_len:321,GENE_len:255
+f421	Le.YLK.scaffolds	100.000	321	0	0	1	321	265198	265518	0.0	636
+f421	Le.YLK.scaffolds	92.857	42	3	0	119	160	423008	423049	1.39e-10	60.0
+nad1_fragment_5	Le.YLK.scaffolds	100.000	255	0	0	1	255	265430	265684	5.91e-145	505
+nad1_fragment_5	Le.YLK.scaffolds	100.000	45	0	0	174	218	465670	465714	1.23e-19	89.7
+nad1_fragment_5	Le.YLK.scaffolds	96.667	30	1	0	75	104	20014	19985	2.67e-08	52.0
+***************************TEST:r711-atp1*****************r711 Le.YLK.scaffolds 373752 374210ORF_len:459,GENE_len:1521
+r711	Le.YLK.scaffolds	100.000	459	0	0	1	459	47185	46727	0.0	910
+r711	Le.YLK.scaffolds	100.000	459	0	0	1	459	373752	374210	0.0	910
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:r944-nad1_fragment_3*****************r944 Le.YLK.scaffolds 463975 464310ORF_len:336,GENE_len:195
+r944	Le.YLK.scaffolds	100.000	336	0	0	1	336	463975	464310	0.0	666
+r944	Le.YLK.scaffolds	100.000	49	0	0	186	234	31270	31222	6.69e-22	97.6
+nad1_fragment_3	Le.YLK.scaffolds	100.000	195	0	0	1	195	464220	464414	2.83e-109	387
+***************************TEST:f750-nad6*****************f750 Le.YLK.scaffolds 385954 386625ORF_len:672,GENE_len:639
+f750	Le.YLK.scaffolds	100.000	672	0	0	1	672	385954	386625	0.0	1332
+nad6	Le.YLK.scaffolds	100.000	639	0	0	1	639	385972	386610	0.0	1267
+***************************TEST:r27-rps7*****************r27 Le.YLK.scaffolds 1135 1758ORF_len:624,GENE_len:465
+r27	Le.YLK.scaffolds	100.000	624	0	0	1	624	1135	1758	0.0	1237
+rps7	Le.YLK.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r388-rpl10*****************r388 Le.YLK.scaffolds 25154 25651ORF_len:498,GENE_len:486
+r388	Le.YLK.scaffolds	100.000	498	0	0	1	498	25154	25651	0.0	987
+rpl10	Le.YLK.scaffolds	100.000	486	0	0	1	486	25642	25157	0.0	963
+***************************TEST:r206-atp9*****************r206 Le.YLK.scaffolds 182265 182753ORF_len:489,GENE_len:243
+r206	Le.YLK.scaffolds	100.000	489	0	0	1	489	182265	182753	0.0	969
+r206	Le.YLK.scaffolds	98.077	52	1	0	373	424	285605	285656	3.90e-21	95.6
+r206	Le.YLK.scaffolds	94.595	37	2	0	318	354	366741	366705	8.50e-10	58.0
+atp9	Le.YLK.scaffolds	100.000	243	0	0	1	243	182555	182313	8.13e-138	482
+***************************TEST:f931-rps4*****************f931 Le.YLK.scaffolds 461550 462524ORF_len:975,GENE_len:1044
+f931	Le.YLK.scaffolds	100.000	975	0	0	1	975	461550	462524	0.0	1933
+f931	Le.YLK.scaffolds	100.000	347	0	0	2	348	384179	384525	0.0	688
+f931	Le.YLK.scaffolds	100.000	24	0	0	113	136	385538	385515	1.65e-06	48.1
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:r732-rpl5*****************r732 Le.YLK.scaffolds 380858 381334ORF_len:477,GENE_len:552
+r732	Le.YLK.scaffolds	100.000	477	0	0	1	477	380858	381334	0.0	946
+rpl5	Le.YLK.scaffolds	99.819	552	1	0	1	552	380739	381290	0.0	1086
+***************************TEST:f699-nad5_fragment_1*****************f699 Le.YLK.scaffolds 366893 367813ORF_len:921,GENE_len:237
+f699	Le.YLK.scaffolds	100.000	921	0	0	1	921	366893	367813	0.0	1826
+f699	Le.YLK.scaffolds	94.937	79	4	0	11	89	265903	265981	8.33e-30	125
+f699	Le.YLK.scaffolds	94.521	73	4	0	11	83	181989	181917	3.17e-26	113
+nad5_fragment_1	Le.YLK.scaffolds	99.578	237	1	0	1	237	265884	266120	7.35e-132	462
+nad5_fragment_1	Le.YLK.scaffolds	98.913	92	1	0	1	92	182008	181917	2.48e-45	174
+nad5_fragment_1	Le.YLK.scaffolds	98.438	64	1	0	35	98	366918	366981	1.27e-28	119
+***************************TEST:f142-rps7*****************f142 Le.YLK.scaffolds 1543 1914ORF_len:372,GENE_len:465
+f142	Le.YLK.scaffolds	100.000	372	0	0	1	372	1543	1914	0.0	737
+rps7	Le.YLK.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r1088-ccmB*****************r1088 Le.YLK.scaffolds 53981 54949ORF_len:969,GENE_len:630
+r1088	Le.YLK.scaffolds	100.000	969	0	0	1	969	53981	54949	0.0	1921
+ccmB	Le.YLK.scaffolds	99.841	630	1	0	1	630	54949	54320	0.0	1241
+***************************TEST:r422-nad5_fragment_2*****************r422 Le.YLK.scaffolds 266550 267005ORF_len:456,GENE_len:1203
+r422	Le.YLK.scaffolds	100.000	456	0	0	1	456	266550	267005	0.0	904
+nad5_fragment_2	Le.YLK.scaffolds	100.000	1203	0	0	1	1203	266971	268173	0.0	2385
+***************************TEST:r1189-sdh4*****************r1189 Le.YLK.scaffolds 88721 89794ORF_len:1074,GENE_len:393
+r1189	Le.YLK.scaffolds	100.000	1074	0	0	1	1074	88721	89794	0.0	2129
+sdh4	Le.YLK.scaffolds	100.000	393	0	0	1	393	88925	88533	0.0	779
+***************************TEST:r379-nad1_fragment_1*****************r379 Le.YLK.scaffolds 24845 25114ORF_len:270,GENE_len:387
+r379	Le.YLK.scaffolds	100.000	270	0	0	1	270	24845	25114	6.99e-154	535
+r379	Le.YLK.scaffolds	96.923	65	2	0	105	169	241152	241088	8.95e-27	113
+nad1_fragment_1	Le.YLK.scaffolds	100.000	387	0	0	1	387	24930	24544	0.0	767
+nad1_fragment_1	Le.YLK.scaffolds	95.652	46	2	0	338	383	213665	213710	2.84e-15	75.8
+***************************TEST:f621-matR*****************f621 Le.YLK.scaffolds 332803 333162ORF_len:360,GENE_len:1983
+f621	Le.YLK.scaffolds	100.000	360	0	0	1	360	332803	333162	0.0	714
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:r232-nad9*****************r232 Le.YLK.scaffolds 189705 190094ORF_len:390,GENE_len:573
+r232	Le.YLK.scaffolds	100.000	390	0	0	1	390	189705	190094	0.0	773
+nad9	Le.YLK.scaffolds	100.000	573	0	0	1	573	189572	190144	0.0	1136
+***************************TEST:f670-rps10_fragment_2*****************f670 Le.YLK.scaffolds 355948 356268ORF_len:321,GENE_len:75
+f670	Le.YLK.scaffolds	100.000	321	0	0	1	321	355948	356268	0.0	636
+rps10_fragment_2	Le.YLK.scaffolds	100.000	75	0	0	1	75	356236	356162	4.00e-38	149
+***************************TEST:r1187-sdh4*****************r1187 Le.YLK.scaffolds 88371 88991ORF_len:621,GENE_len:393
+r1187	Le.YLK.scaffolds	100.000	621	0	0	1	621	88371	88991	0.0	1231
+r1187	Le.YLK.scaffolds	94.595	37	2	0	35	71	116328	116364	1.09e-09	58.0
+r1187	Le.YLK.scaffolds	100.000	25	0	0	108	132	124611	124635	2.65e-07	50.1
+sdh4	Le.YLK.scaffolds	100.000	393	0	0	1	393	88925	88533	0.0	779
+***************************TEST:r901-nad3*****************r901 Le.YLK.scaffolds 44918 45244ORF_len:327,GENE_len:354
+r901	Le.YLK.scaffolds	100.000	327	0	0	1	327	44918	45244	0.0	648
+nad3	Le.YLK.scaffolds	100.000	354	0	0	1	354	45357	45004	0.0	702
+nad3	Le.YLK.scaffolds	96.825	63	2	0	1	63	211538	211600	1.86e-25	109
+***************************TEST:f389-rpl10*****************f389 Le.YLK.scaffolds 25309 25566ORF_len:258,GENE_len:486
+f389	Le.YLK.scaffolds	100.000	258	0	0	1	258	25309	25566	9.69e-147	511
+rpl10	Le.YLK.scaffolds	100.000	486	0	0	1	486	25642	25157	0.0	963
+***************************TEST:r666-rps10_fragment_2*****************r666 Le.YLK.scaffolds 355870 356217ORF_len:348,GENE_len:75
+r666	Le.YLK.scaffolds	100.000	348	0	0	1	348	355870	356217	0.0	690
+rps10_fragment_2	Le.YLK.scaffolds	100.000	75	0	0	1	75	356236	356162	4.00e-38	149
+***************************TEST:f143-cob*****************f143 Le.YLK.scaffolds 15465 15872ORF_len:408,GENE_len:1191
+f143	Le.YLK.scaffolds	100.000	408	0	0	1	408	15465	15872	0.0	809
+cob	Le.YLK.scaffolds	100.000	1191	0	0	1	1191	15566	14376	0.0	2361
+***************************TEST:r713-atp1*****************r713 Le.YLK.scaffolds 374165 374425ORF_len:261,GENE_len:1521
+r713	Le.YLK.scaffolds	100.000	261	0	0	1	261	46772	46512	1.58e-148	517
+r713	Le.YLK.scaffolds	100.000	261	0	0	1	261	374165	374425	1.58e-148	517
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:f739-rpl5*****************f739 Le.YLK.scaffolds 380730 381293ORF_len:564,GENE_len:552
+f739	Le.YLK.scaffolds	100.000	564	0	0	1	564	380730	381293	0.0	1118
+rpl5	Le.YLK.scaffolds	99.819	552	1	0	1	552	380739	381290	0.0	1086
+***************************TEST:r1003-ccmFc_fragment_2*****************r1003 Le.YLK.scaffolds 481656 482051ORF_len:396,GENE_len:549
+r1003	Le.YLK.scaffolds	100.000	396	0	0	1	396	481656	482051	0.0	785
+ccmFc_fragment_2	Le.YLK.scaffolds	100.000	549	0	0	1	549	481912	482460	0.0	1088
+***************************TEST:f545-nad2_fragment_2*****************f545 Le.YLK.scaffolds 30939 31274ORF_len:336,GENE_len:351
+f545	Le.YLK.scaffolds	100.000	336	0	0	1	336	30939	31274	0.0	666
+f545	Le.YLK.scaffolds	100.000	49	0	0	284	332	464208	464160	6.69e-22	97.6
+nad2_fragment_2	Le.YLK.scaffolds	100.000	351	0	0	1	351	31165	30815	0.0	696
+***************************TEST:f995-ccmFc_fragment_2*****************f995 Le.YLK.scaffolds 481582 482613ORF_len:1032,GENE_len:549
+f995	Le.YLK.scaffolds	100.000	1032	0	0	1	1032	481582	482613	0.0	2046
+ccmFc_fragment_2	Le.YLK.scaffolds	100.000	549	0	0	1	549	481912	482460	0.0	1088
+***************************TEST:r938-nad1_fragment_2*****************r938 Le.YLK.scaffolds 462406 462717ORF_len:312,GENE_len:78
+r938	Le.YLK.scaffolds	100.000	312	0	0	1	312	462406	462717	7.03e-179	618
+nad1_fragment_2	Le.YLK.scaffolds	100.000	78	0	0	1	78	462677	462754	6.78e-40	155
+***************************TEST:r604-matR*****************r604 Le.YLK.scaffolds 332927 333268ORF_len:342,GENE_len:1983
+r604	Le.YLK.scaffolds	100.000	342	0	0	1	342	332927	333268	0.0	678
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:f68-cox2_fragment_1*****************f68 Le.YLK.scaffolds 127433 127735ORF_len:303,GENE_len:702
+f68	Le.YLK.scaffolds	100.000	303	0	0	1	303	127433	127735	1.60e-173	601
+f68	Le.YLK.scaffolds	100.000	49	0	0	255	303	154147	154099	6.01e-22	97.6
+f68	Le.YLK.scaffolds	100.000	44	0	0	255	298	189508	189465	5.79e-19	87.7
+f68	Le.YLK.scaffolds	92.105	38	3	0	171	208	366895	366858	3.19e-08	52.0
+cox2_fragment_1	Le.YLK.scaffolds	100.000	702	0	0	1	702	127605	126904	0.0	1392
+cox2_fragment_1	Le.YLK.scaffolds	96.471	85	3	0	618	702	251244	251160	6.81e-36	145
+cox2_fragment_1	Le.YLK.scaffolds	89.796	49	5	0	151	199	213949	213997	1.23e-09	58.0
+***************************TEST:r662-cox1*****************r662 Le.YLK.scaffolds 354335 355918ORF_len:1584,GENE_len:1578
+r662	Le.YLK.scaffolds	100.000	1584	0	0	1	1584	354335	355918	0.0	3140
+cox1	Le.YLK.scaffolds	100.000	1578	0	0	1	1578	355918	354341	0.0	3128
+***************************TEST:f792-nad2_fragment_4*****************f792 Le.YLK.scaffolds 402587 403093ORF_len:507,GENE_len:621
+f792	Le.YLK.scaffolds	100.000	507	0	0	1	507	402587	403093	0.0	1005
+nad2_fragment_4	Le.YLK.scaffolds	100.000	621	0	0	1	621	402919	403539	0.0	1231
+***************************TEST:r912-atp1*****************r912 Le.YLK.scaffolds 45490 47454ORF_len:1965,GENE_len:1521
+r912	Le.YLK.scaffolds	100.000	1965	0	0	1	1965	45490	47454	0.0	3895
+r912	Le.YLK.scaffolds	100.000	1278	0	0	688	1965	374760	373483	0.0	2533
+r912	Le.YLK.scaffolds	100.000	25	0	0	1870	1894	180519	180543	8.50e-07	50.1
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:r731-rpl5*****************r731 Le.YLK.scaffolds 380769 380996ORF_len:228,GENE_len:552
+r731	Le.YLK.scaffolds	100.000	228	0	0	1	228	380769	380996	6.80e-129	452
+rpl5	Le.YLK.scaffolds	99.819	552	1	0	1	552	380739	381290	0.0	1086
+***************************TEST:r602-matR*****************r602 Le.YLK.scaffolds 331615 333594ORF_len:1980,GENE_len:1983
+r602	Le.YLK.scaffolds	100.000	1980	0	0	1	1980	331615	333594	0.0	3925
+r602	Le.YLK.scaffolds	100.000	26	0	0	760	785	379882	379857	2.17e-07	52.0
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:f990-ccmFc_fragment_1*****************f990 Le.YLK.scaffolds 480149 481123ORF_len:975,GENE_len:771
+f990	Le.YLK.scaffolds	100.000	975	0	0	1	975	480149	481123	0.0	1933
+f990	Le.YLK.scaffolds	97.531	81	2	0	295	375	91770	91690	9.51e-36	145
+ccmFc_fragment_1	Le.YLK.scaffolds	100.000	771	0	0	1	771	480188	480958	0.0	1528
+ccmFc_fragment_1	Le.YLK.scaffolds	97.531	81	2	0	256	336	91770	91690	7.50e-36	145
+***************************TEST:r1189-cox3*****************r1189 Le.YLK.scaffolds 88721 89794ORF_len:1074,GENE_len:795
+r1189	Le.YLK.scaffolds	100.000	1074	0	0	1	1074	88721	89794	0.0	2129
+cox3	Le.YLK.scaffolds	100.000	795	0	0	1	795	89650	88856	0.0	1576
+***************************TEST:r501-rps3*****************r501 Le.YLK.scaffolds 296390 296713ORF_len:324,GENE_len:1680
+r501	Le.YLK.scaffolds	100.000	324	0	0	1	324	296390	296713	0.0	642
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f31-rps7*****************f31 Le.YLK.scaffolds 1134 1478ORF_len:345,GENE_len:465
+f31	Le.YLK.scaffolds	100.000	345	0	0	1	345	1134	1478	0.0	684
+rps7	Le.YLK.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:f902-rps12*****************f902 Le.YLK.scaffolds 44765 45037ORF_len:273,GENE_len:375
+f902	Le.YLK.scaffolds	100.000	273	0	0	1	273	44765	45037	1.15e-155	541
+rps12	Le.YLK.scaffolds	100.000	375	0	0	1	375	44952	44578	0.0	743
+***************************TEST:r500-rpl16*****************r500 Le.YLK.scaffolds 295207 296889ORF_len:1683,GENE_len:555
+r500	Le.YLK.scaffolds	100.000	1683	0	0	1	1683	295207	296889	0.0	3336
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:r424-nad5_fragment_2*****************r424 Le.YLK.scaffolds 267075 267662ORF_len:588,GENE_len:1203
+r424	Le.YLK.scaffolds	100.000	588	0	0	1	588	267075	267662	0.0	1166
+nad5_fragment_2	Le.YLK.scaffolds	100.000	1203	0	0	1	1203	266971	268173	0.0	2385
+***************************TEST:r573-nad2_fragment_1*****************r573 Le.YLK.scaffolds 32137 32601ORF_len:465,GENE_len:153
+r573	Le.YLK.scaffolds	100.000	465	0	0	1	465	32137	32601	0.0	922
+nad2_fragment_1	Le.YLK.scaffolds	100.000	153	0	0	1	153	32559	32407	2.52e-84	303
+***************************TEST:r741-rps4*****************r741 Le.YLK.scaffolds 384541 384843ORF_len:303,GENE_len:1044
+r741	Le.YLK.scaffolds	100.000	303	0	0	1	303	384541	384843	1.60e-173	601
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:f593-nad7_fragment_5*****************f593 Le.YLK.scaffolds 324078 324347ORF_len:270,GENE_len:261
+f593	Le.YLK.scaffolds	100.000	270	0	0	1	270	324078	324347	6.99e-154	535
+nad7_fragment_5	Le.YLK.scaffolds	100.000	261	0	0	1	261	324242	323982	1.58e-148	517
+***************************TEST:f912-ccmFn*****************f912 Le.YLK.scaffolds 454341 454631ORF_len:291,GENE_len:1728
+f912	Le.YLK.scaffolds	100.000	291	0	0	1	291	454341	454631	2.22e-166	577
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:f423-nad1_fragment_5*****************f423 Le.YLK.scaffolds 265546 265917ORF_len:372,GENE_len:255
+f423	Le.YLK.scaffolds	100.000	372	0	0	1	372	265546	265917	0.0	737
+f423	Le.YLK.scaffolds	100.000	215	0	0	158	372	182189	181975	6.48e-121	426
+f423	Le.YLK.scaffolds	100.000	45	0	0	58	102	465670	465714	1.81e-19	89.7
+f423	Le.YLK.scaffolds	94.737	38	2	0	185	222	465708	465745	1.62e-10	60.0
+nad1_fragment_5	Le.YLK.scaffolds	100.000	255	0	0	1	255	265430	265684	5.91e-145	505
+nad1_fragment_5	Le.YLK.scaffolds	100.000	45	0	0	174	218	465670	465714	1.23e-19	89.7
+nad1_fragment_5	Le.YLK.scaffolds	96.667	30	1	0	75	104	20014	19985	2.67e-08	52.0
+***************************TEST:f509-rps3*****************f509 Le.YLK.scaffolds 295917 296228ORF_len:312,GENE_len:1680
+f509	Le.YLK.scaffolds	100.000	312	0	0	1	312	295917	296228	7.03e-179	618
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f510-rps3*****************f510 Le.YLK.scaffolds 296398 296703ORF_len:306,GENE_len:1680
+f510	Le.YLK.scaffolds	100.000	306	0	0	1	306	296398	296703	2.62e-175	607
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:r201-nad5_fragment_1*****************r201 Le.YLK.scaffolds 180530 182182ORF_len:1653,GENE_len:237
+r201	Le.YLK.scaffolds	100.000	1304	0	0	350	1653	180879	182182	0.0	2585
+r201	Le.YLK.scaffolds	100.000	266	0	0	1388	1653	265975	265710	1.09e-150	527
+r201	Le.YLK.scaffolds	100.000	249	0	0	1	249	180530	180778	1.52e-140	494
+r201	Le.YLK.scaffolds	100.000	127	0	0	123	249	281761	281887	9.67e-68	252
+r201	Le.YLK.scaffolds	100.000	127	0	0	350	476	284387	284513	9.67e-68	252
+r201	Le.YLK.scaffolds	94.521	73	4	0	1388	1460	366975	366903	5.73e-26	113
+r201	Le.YLK.scaffolds	94.737	38	2	0	1596	1633	465745	465708	7.42e-10	60.0
+nad5_fragment_1	Le.YLK.scaffolds	99.578	237	1	0	1	237	265884	266120	7.35e-132	462
+nad5_fragment_1	Le.YLK.scaffolds	98.913	92	1	0	1	92	182008	181917	2.48e-45	174
+nad5_fragment_1	Le.YLK.scaffolds	98.438	64	1	0	35	98	366918	366981	1.27e-28	119
+***************************TEST:f675-rps10_fragment_1*****************f675 Le.YLK.scaffolds 356660 357661ORF_len:1002,GENE_len:210
+f675	Le.YLK.scaffolds	100.000	1002	0	0	1	1002	356660	357661	0.0	1986
+f675	Le.YLK.scaffolds	100.000	56	0	0	689	744	25684	25739	1.36e-25	111
+f675	Le.YLK.scaffolds	100.000	56	0	0	689	744	264393	264338	1.36e-25	111
+f675	Le.YLK.scaffolds	100.000	56	0	0	689	744	380697	380642	1.36e-25	111
+rps10_fragment_1	Le.YLK.scaffolds	100.000	210	0	0	1	210	357314	357105	3.43e-118	416
+***************************TEST:f743-rps14_fragment_1*****************f743 Le.YLK.scaffolds 381119 381391ORF_len:273,GENE_len:87
+f743	Le.YLK.scaffolds	100.000	273	0	0	1	273	381119	381391	1.15e-155	541
+rps14_fragment_1	Le.YLK.scaffolds	100.000	87	0	0	1	87	381295	381381	3.24e-45	172
+***************************TEST:r733-rps14_fragment_2*****************r733 Le.YLK.scaffolds 381369 381617ORF_len:249,GENE_len:174
+r733	Le.YLK.scaffolds	100.000	249	0	0	1	249	381369	381617	2.19e-141	494
+rps14_fragment_2	Le.YLK.scaffolds	100.000	174	0	0	1	174	381390	381563	8.53e-97	345
+***************************TEST:r531-nad2_fragment_2*****************r531 Le.YLK.scaffolds 30785 31285ORF_len:501,GENE_len:351
+r531	Le.YLK.scaffolds	100.000	501	0	0	1	501	30785	31285	0.0	993
+r531	Le.YLK.scaffolds	100.000	49	0	0	438	486	464208	464160	1.01e-21	97.6
+nad2_fragment_2	Le.YLK.scaffolds	100.000	351	0	0	1	351	31165	30815	0.0	696
+***************************TEST:r500-rps3*****************r500 Le.YLK.scaffolds 295207 296889ORF_len:1683,GENE_len:1680
+r500	Le.YLK.scaffolds	100.000	1683	0	0	1	1683	295207	296889	0.0	3336
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f669-cox1*****************f669 Le.YLK.scaffolds 355859 356197ORF_len:339,GENE_len:1578
+f669	Le.YLK.scaffolds	100.000	339	0	0	1	339	355859	356197	0.0	672
+cox1	Le.YLK.scaffolds	100.000	1578	0	0	1	1578	355918	354341	0.0	3128
+***************************TEST:f834-nad4_fragment_1*****************f834 Le.YLK.scaffolds 421180 421761ORF_len:582,GENE_len:459
+f834	Le.YLK.scaffolds	100.000	582	0	0	1	582	421180	421761	0.0	1154
+nad4_fragment_1	Le.YLK.scaffolds	100.000	459	0	0	1	459	421234	421692	0.0	910
+***************************TEST:f628-sdh3*****************f628 Le.YLK.scaffolds 33526 33777ORF_len:252,GENE_len:291
+f628	Le.YLK.scaffolds	100.000	252	0	0	1	252	33526	33777	3.60e-143	500
+f628	Le.YLK.scaffolds	98.780	82	1	0	65	146	90743	90824	2.46e-39	155
+f628	Le.YLK.scaffolds	98.780	82	1	0	65	146	213886	213805	2.46e-39	155
+f628	Le.YLK.scaffolds	100.000	23	0	0	37	59	354687	354709	1.63e-06	46.1
+sdh3	Le.YLK.scaffolds	100.000	291	0	0	1	291	33563	33273	2.22e-166	577
+***************************TEST:f939-nad1_fragment_3*****************f939 Le.YLK.scaffolds 464013 464516ORF_len:504,GENE_len:195
+f939	Le.YLK.scaffolds	100.000	504	0	0	1	504	464013	464516	0.0	999
+f939	Le.YLK.scaffolds	100.000	49	0	0	148	196	31270	31222	1.02e-21	97.6
+nad1_fragment_3	Le.YLK.scaffolds	100.000	195	0	0	1	195	464220	464414	2.83e-109	387
+***************************TEST:f668-cox1*****************f668 Le.YLK.scaffolds 355095 355526ORF_len:432,GENE_len:1578
+f668	Le.YLK.scaffolds	100.000	432	0	0	1	432	355095	355526	0.0	856
+cox1	Le.YLK.scaffolds	100.000	1578	0	0	1	1578	355918	354341	0.0	3128
+***************************TEST:f723-atp1*****************f723 Le.YLK.scaffolds 373483 375717ORF_len:2235,GENE_len:1521
+f723	Le.YLK.scaffolds	100.000	2235	0	0	1	2235	373483	375717	0.0	4431
+f723	Le.YLK.scaffolds	100.000	1278	0	0	1	1278	47454	46177	0.0	2533
+f723	Le.YLK.scaffolds	98.246	57	1	0	1847	1903	214869	214925	1.89e-23	105
+f723	Le.YLK.scaffolds	100.000	25	0	0	72	96	180543	180519	9.68e-07	50.1
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:f1145-ccmFc_fragment_1*****************f1145 Le.YLK.scaffolds 91571 91834ORF_len:264,GENE_len:771
+f1145	Le.YLK.scaffolds	100.000	264	0	0	1	264	91571	91834	2.60e-150	523
+f1145	Le.YLK.scaffolds	97.531	81	2	0	120	200	480523	480443	2.48e-36	145
+ccmFc_fragment_1	Le.YLK.scaffolds	100.000	771	0	0	1	771	480188	480958	0.0	1528
+ccmFc_fragment_1	Le.YLK.scaffolds	97.531	81	2	0	256	336	91770	91690	7.50e-36	145
+***************************TEST:r597-nad7_fragment_3*****************r597 Le.YLK.scaffolds 329418 329648ORF_len:231,GENE_len:108
+r597	Le.YLK.scaffolds	100.000	231	0	0	1	231	329418	329648	1.12e-130	458
+nad7_fragment_3	Le.YLK.scaffolds	100.000	108	0	0	1	108	329475	329368	1.22e-57	214
+***************************TEST:r732-rps14_fragment_1*****************r732 Le.YLK.scaffolds 380858 381334ORF_len:477,GENE_len:87
+r732	Le.YLK.scaffolds	100.000	477	0	0	1	477	380858	381334	0.0	946
+rps14_fragment_1	Le.YLK.scaffolds	100.000	87	0	0	1	87	381295	381381	3.24e-45	172
+***************************TEST:f793-nad2_fragment_4*****************f793 Le.YLK.scaffolds 402667 403566ORF_len:900,GENE_len:621
+f793	Le.YLK.scaffolds	100.000	900	0	0	1	900	402667	403566	0.0	1784
+nad2_fragment_4	Le.YLK.scaffolds	100.000	621	0	0	1	621	402919	403539	0.0	1231
+***************************TEST:f422-nad1_fragment_5*****************f422 Le.YLK.scaffolds 265286 265687ORF_len:402,GENE_len:255
+f422	Le.YLK.scaffolds	100.000	402	0	0	1	402	265286	265687	0.0	797
+f422	Le.YLK.scaffolds	100.000	45	0	0	318	362	465670	465714	1.97e-19	89.7
+f422	Le.YLK.scaffolds	92.857	42	3	0	31	72	423008	423049	1.76e-10	60.0
+f422	Le.YLK.scaffolds	96.667	30	1	0	219	248	20014	19985	4.28e-08	52.0
+nad1_fragment_5	Le.YLK.scaffolds	100.000	255	0	0	1	255	265430	265684	5.91e-145	505
+nad1_fragment_5	Le.YLK.scaffolds	100.000	45	0	0	174	218	465670	465714	1.23e-19	89.7
+nad1_fragment_5	Le.YLK.scaffolds	96.667	30	1	0	75	104	20014	19985	2.67e-08	52.0
+***************************TEST:f1075-ccmB*****************f1075 Le.YLK.scaffolds 54393 54707ORF_len:315,GENE_len:630
+f1075	Le.YLK.scaffolds	100.000	315	0	0	1	315	54393	54707	1.15e-180	624
+ccmB	Le.YLK.scaffolds	99.841	630	1	0	1	630	54949	54320	0.0	1241
+***************************TEST:f284-mttB*****************f284 Le.YLK.scaffolds 214770 215723ORF_len:954,GENE_len:780
+f284	Le.YLK.scaffolds	100.000	954	0	0	1	954	214770	215723	0.0	1891
+f284	Le.YLK.scaffolds	98.246	57	1	0	100	156	375329	375385	8.00e-24	105
+mttB	Le.YLK.scaffolds	100.000	780	0	0	1	780	214920	215699	0.0	1546
+***************************TEST:r419-nad5_fragment_1*****************r419 Le.YLK.scaffolds 265688 266017ORF_len:330,GENE_len:237
+r419	Le.YLK.scaffolds	100.000	330	0	0	1	330	265688	266017	0.0	654
+r419	Le.YLK.scaffolds	100.000	273	0	0	16	288	182189	181917	1.40e-155	541
+r419	Le.YLK.scaffolds	94.937	79	4	0	216	294	366903	366981	2.90e-30	125
+r419	Le.YLK.scaffolds	94.737	38	2	0	43	80	465708	465745	1.43e-10	60.0
+nad5_fragment_1	Le.YLK.scaffolds	99.578	237	1	0	1	237	265884	266120	7.35e-132	462
+nad5_fragment_1	Le.YLK.scaffolds	98.913	92	1	0	1	92	182008	181917	2.48e-45	174
+nad5_fragment_1	Le.YLK.scaffolds	98.438	64	1	0	35	98	366918	366981	1.27e-28	119
+***************************TEST:r369-nad1_fragment_1*****************r369 Le.YLK.scaffolds 24541 24924ORF_len:384,GENE_len:387
+r369	Le.YLK.scaffolds	100.000	384	0	0	1	384	24541	24924	0.0	761
+r369	Le.YLK.scaffolds	95.652	46	2	0	8	53	213710	213665	2.82e-15	75.8
+nad1_fragment_1	Le.YLK.scaffolds	100.000	387	0	0	1	387	24930	24544	0.0	767
+nad1_fragment_1	Le.YLK.scaffolds	95.652	46	2	0	338	383	213665	213710	2.84e-15	75.8
+***************************TEST:f600-nad7_fragment_4*****************f600 Le.YLK.scaffolds 326092 326733ORF_len:642,GENE_len:243
+f600	Le.YLK.scaffolds	100.000	642	0	0	1	642	326092	326733	0.0	1273
+nad7_fragment_4	Le.YLK.scaffolds	100.000	243	0	0	1	243	326283	326041	8.13e-138	482
+***************************TEST:f69-cox2_fragment_1*****************f69 Le.YLK.scaffolds 127578 127904ORF_len:327,GENE_len:702
+f69	Le.YLK.scaffolds	100.000	327	0	0	1	327	127578	127904	0.0	648
+f69	Le.YLK.scaffolds	100.000	145	0	0	110	254	154147	154003	3.35e-79	287
+f69	Le.YLK.scaffolds	100.000	44	0	0	110	153	189508	189465	6.27e-19	87.7
+f69	Le.YLK.scaffolds	92.105	38	3	0	26	63	366895	366858	3.45e-08	52.0
+cox2_fragment_1	Le.YLK.scaffolds	100.000	702	0	0	1	702	127605	126904	0.0	1392
+cox2_fragment_1	Le.YLK.scaffolds	96.471	85	3	0	618	702	251244	251160	6.81e-36	145
+cox2_fragment_1	Le.YLK.scaffolds	89.796	49	5	0	151	199	213949	213997	1.23e-09	58.0
+***************************TEST:r909-ccmFn*****************r909 Le.YLK.scaffolds 453434 455389ORF_len:1956,GENE_len:1728
+r909	Le.YLK.scaffolds	100.000	1717	0	0	1	1717	453434	455150	0.0	3404
+r909	Le.YLK.scaffolds	100.000	139	0	0	1818	1956	455251	455389	7.91e-75	276
+r909	Le.YLK.scaffolds	98.561	139	2	0	1818	1956	165736	165598	4.70e-70	260
+r909	Le.YLK.scaffolds	96.970	33	1	0	1818	1850	317981	318013	3.47e-09	58.0
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:r996-ccmFc_fragment_1*****************r996 Le.YLK.scaffolds 480358 480864ORF_len:507,GENE_len:771
+r996	Le.YLK.scaffolds	100.000	507	0	0	1	507	480358	480864	0.0	1005
+r996	Le.YLK.scaffolds	97.531	81	2	0	86	166	91770	91690	4.88e-36	145
+ccmFc_fragment_1	Le.YLK.scaffolds	100.000	771	0	0	1	771	480188	480958	0.0	1528
+ccmFc_fragment_1	Le.YLK.scaffolds	97.531	81	2	0	256	336	91770	91690	7.50e-36	145
+***************************TEST:r113-cob*****************r113 Le.YLK.scaffolds 14334 15566ORF_len:1233,GENE_len:1191
+r113	Le.YLK.scaffolds	100.000	1233	0	0	1	1233	14334	15566	0.0	2444
+cob	Le.YLK.scaffolds	100.000	1191	0	0	1	1191	15566	14376	0.0	2361
+***************************TEST:f207-nad5_fragment_1*****************f207 Le.YLK.scaffolds 181869 182216ORF_len:348,GENE_len:237
+f207	Le.YLK.scaffolds	100.000	348	0	0	1	348	181869	182216	0.0	690
+f207	Le.YLK.scaffolds	100.000	273	0	0	49	321	265975	265703	1.48e-155	541
+f207	Le.YLK.scaffolds	94.521	73	4	0	49	121	366975	366903	1.17e-26	113
+f207	Le.YLK.scaffolds	94.737	38	2	0	257	294	465745	465708	1.51e-10	60.0
+nad5_fragment_1	Le.YLK.scaffolds	99.578	237	1	0	1	237	265884	266120	7.35e-132	462
+nad5_fragment_1	Le.YLK.scaffolds	98.913	92	1	0	1	92	182008	181917	2.48e-45	174
+nad5_fragment_1	Le.YLK.scaffolds	98.438	64	1	0	35	98	366918	366981	1.27e-28	119
+***************************TEST:f506-rpl16*****************f506 Le.YLK.scaffolds 295322 295552ORF_len:231,GENE_len:555
+f506	Le.YLK.scaffolds	100.000	231	0	0	1	231	295322	295552	1.12e-130	458
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:r38-rps7*****************r38 Le.YLK.scaffolds 1175 1495ORF_len:321,GENE_len:465
+r38	Le.YLK.scaffolds	100.000	321	0	0	1	321	1175	1495	0.0	636
+rps7	Le.YLK.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:f601-nad7_fragment_4*****************f601 Le.YLK.scaffolds 326133 326513ORF_len:381,GENE_len:243
+f601	Le.YLK.scaffolds	100.000	381	0	0	1	381	326133	326513	0.0	755
+nad7_fragment_4	Le.YLK.scaffolds	100.000	243	0	0	1	243	326283	326041	8.13e-138	482
+***************************TEST:f932-rps4*****************f932 Le.YLK.scaffolds 461819 462076ORF_len:258,GENE_len:1044
+f932	Le.YLK.scaffolds	100.000	258	0	0	1	258	461819	462076	9.69e-147	511
+f932	Le.YLK.scaffolds	100.000	79	0	0	1	79	384447	384525	6.37e-40	157
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:f623-matR*****************f623 Le.YLK.scaffolds 333003 333383ORF_len:381,GENE_len:1983
+f623	Le.YLK.scaffolds	100.000	381	0	0	1	381	333003	333383	0.0	755
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:r597-nad7_fragment_2*****************r597 Le.YLK.scaffolds 329418 329648ORF_len:231,GENE_len:108
+r597	Le.YLK.scaffolds	100.000	231	0	0	1	231	329418	329648	1.12e-130	458
+nad7_fragment_2	Le.YLK.scaffolds	100.000	108	0	0	1	108	329475	329368	1.22e-57	214
+***************************TEST:r1188-sdh4*****************r1188 Le.YLK.scaffolds 88477 88884ORF_len:408,GENE_len:393
+r1188	Le.YLK.scaffolds	100.000	408	0	0	1	408	88477	88884	0.0	809
+r1188	Le.YLK.scaffolds	100.000	25	0	0	2	26	124611	124635	1.72e-07	50.1
+sdh4	Le.YLK.scaffolds	100.000	393	0	0	1	393	88925	88533	0.0	779
+***************************TEST:f725-atp1*****************f725 Le.YLK.scaffolds 374178 374411ORF_len:234,GENE_len:1521
+f725	Le.YLK.scaffolds	100.000	234	0	0	1	234	46759	46526	1.84e-132	464
+f725	Le.YLK.scaffolds	100.000	234	0	0	1	234	374178	374411	1.84e-132	464
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:r1190-cox3*****************r1190 Le.YLK.scaffolds 89244 89762ORF_len:519,GENE_len:795
+r1190	Le.YLK.scaffolds	100.000	519	0	0	1	519	89244	89762	0.0	1029
+cox3	Le.YLK.scaffolds	100.000	795	0	0	1	795	89650	88856	0.0	1576
+***************************TEST:f747-rps4*****************f747 Le.YLK.scaffolds 384178 385332ORF_len:1155,GENE_len:1044
+f747	Le.YLK.scaffolds	100.000	1155	0	0	1	1155	384178	385332	0.0	2290
+f747	Le.YLK.scaffolds	100.000	347	0	0	2	348	461551	461897	0.0	688
+f747	Le.YLK.scaffolds	100.000	24	0	0	113	136	385538	385515	1.96e-06	48.1
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:f372-nad1_fragment_1*****************f372 Le.YLK.scaffolds 24885 25235ORF_len:351,GENE_len:387
+f372	Le.YLK.scaffolds	100.000	351	0	0	1	351	24885	25235	0.0	696
+f372	Le.YLK.scaffolds	96.923	65	2	0	65	129	241152	241088	1.18e-26	113
+nad1_fragment_1	Le.YLK.scaffolds	100.000	387	0	0	1	387	24930	24544	0.0	767
+nad1_fragment_1	Le.YLK.scaffolds	95.652	46	2	0	338	383	213665	213710	2.84e-15	75.8
+***************************TEST:r502-rps3*****************r502 Le.YLK.scaffolds 296406 296792ORF_len:387,GENE_len:1680
+r502	Le.YLK.scaffolds	100.000	387	0	0	1	387	296406	296792	0.0	767
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f512-rps3*****************f512 Le.YLK.scaffolds 296459 296770ORF_len:312,GENE_len:1680
+f512	Le.YLK.scaffolds	100.000	312	0	0	1	312	296459	296770	7.03e-179	618
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:r740-rps4*****************r740 Le.YLK.scaffolds 384438 384740ORF_len:303,GENE_len:1044
+r740	Le.YLK.scaffolds	100.000	303	0	0	1	303	384438	384740	1.60e-173	601
+r740	Le.YLK.scaffolds	100.000	88	0	0	1	88	461810	461897	3.20e-45	174
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:f849-nad4_fragment_3*****************f849 Le.YLK.scaffolds 426104 426754ORF_len:651,GENE_len:87
+f849	Le.YLK.scaffolds	100.000	651	0	0	1	651	426104	426754	0.0	1291
+nad4_fragment_3	Le.YLK.scaffolds	100.000	87	0	0	1	87	426599	426685	3.24e-45	172
+***************************TEST:f614-nad7_fragment_1*****************f614 Le.YLK.scaffolds 330214 330474ORF_len:261,GENE_len:162
+f614	Le.YLK.scaffolds	100.000	261	0	0	1	261	330214	330474	1.58e-148	517
+nad7_fragment_1	Le.YLK.scaffolds	99.383	162	1	0	1	162	330481	330320	2.79e-87	313
+***************************TEST:f1141-cox3*****************f1141 Le.YLK.scaffolds 89190 89627ORF_len:438,GENE_len:795
+f1141	Le.YLK.scaffolds	100.000	438	0	0	1	438	89190	89627	0.0	868
+cox3	Le.YLK.scaffolds	100.000	795	0	0	1	795	89650	88856	0.0	1576
+***************************TEST:r599-nad7_fragment_1*****************r599 Le.YLK.scaffolds 330229 330453ORF_len:225,GENE_len:162
+r599	Le.YLK.scaffolds	100.000	225	0	0	1	225	330229	330453	4.13e-127	446
+nad7_fragment_1	Le.YLK.scaffolds	99.383	162	1	0	1	162	330481	330320	2.79e-87	313
+***************************TEST:f835-nad4_fragment_1*****************f835 Le.YLK.scaffolds 421224 421877ORF_len:654,GENE_len:459
+f835	Le.YLK.scaffolds	100.000	654	0	0	1	654	421224	421877	0.0	1296
+nad4_fragment_1	Le.YLK.scaffolds	100.000	459	0	0	1	459	421234	421692	0.0	910
+***************************TEST:r64-cox2_fragment_1*****************r64 Le.YLK.scaffolds 127400 127792ORF_len:393,GENE_len:702
+r64	Le.YLK.scaffolds	100.000	393	0	0	1	393	127400	127792	0.0	779
+r64	Le.YLK.scaffolds	100.000	106	0	0	288	393	154147	154042	7.62e-56	210
+r64	Le.YLK.scaffolds	100.000	44	0	0	288	331	189508	189465	7.59e-19	87.7
+r64	Le.YLK.scaffolds	89.796	49	5	0	8	56	213997	213949	6.78e-10	58.0
+r64	Le.YLK.scaffolds	92.105	38	3	0	204	241	366895	366858	4.18e-08	52.0
+cox2_fragment_1	Le.YLK.scaffolds	100.000	702	0	0	1	702	127605	126904	0.0	1392
+cox2_fragment_1	Le.YLK.scaffolds	96.471	85	3	0	618	702	251244	251160	6.81e-36	145
+cox2_fragment_1	Le.YLK.scaffolds	89.796	49	5	0	151	199	213949	213997	1.23e-09	58.0
+***************************TEST:f624-matR*****************f624 Le.YLK.scaffolds 333548 333886ORF_len:339,GENE_len:1983
+f624	Le.YLK.scaffolds	100.000	339	0	0	1	339	333548	333886	0.0	672
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:f913-ccmFn*****************f913 Le.YLK.scaffolds 454651 454941ORF_len:291,GENE_len:1728
+f913	Le.YLK.scaffolds	100.000	291	0	0	1	291	454651	454941	2.22e-166	577
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:r200-nad4L*****************r200 Le.YLK.scaffolds 180179 180514ORF_len:336,GENE_len:300
+r200	Le.YLK.scaffolds	100.000	336	0	0	1	336	180179	180514	0.0	666
+nad4L	Le.YLK.scaffolds	100.000	300	0	0	1	300	180481	180182	9.78e-172	595
+***************************TEST:r579-nad7_fragment_5*****************r579 Le.YLK.scaffolds 323979 324281ORF_len:303,GENE_len:261
+r579	Le.YLK.scaffolds	100.000	303	0	0	1	303	323979	324281	1.60e-173	601
+nad7_fragment_5	Le.YLK.scaffolds	100.000	261	0	0	1	261	324242	323982	1.58e-148	517
+***************************TEST:f511-rps3*****************f511 Le.YLK.scaffolds 296412 296708ORF_len:297,GENE_len:1680
+f511	Le.YLK.scaffolds	100.000	297	0	0	1	297	296412	296708	5.97e-170	589
+rps3	Le.YLK.scaffolds	99.940	1680	1	0	1	1680	296889	295210	0.0	3322
+***************************TEST:f619-matR*****************f619 Le.YLK.scaffolds 331889 332683ORF_len:795,GENE_len:1983
+f619	Le.YLK.scaffolds	100.000	795	0	0	1	795	331889	332683	0.0	1576
+f619	Le.YLK.scaffolds	100.000	26	0	0	486	511	379882	379857	8.62e-08	52.0
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:f271-nad3*****************f271 Le.YLK.scaffolds 211445 211825ORF_len:381,GENE_len:354
+f271	Le.YLK.scaffolds	100.000	381	0	0	1	381	211445	211825	0.0	755
+f271	Le.YLK.scaffolds	93.701	127	4	1	30	156	45417	45295	1.07e-48	186
+f271	Le.YLK.scaffolds	96.552	29	1	0	33	61	505198	505226	1.60e-07	50.1
+f271	Le.YLK.scaffolds	93.333	30	2	0	30	59	313199	313170	9.88e-06	44.1
+nad3	Le.YLK.scaffolds	100.000	354	0	0	1	354	45357	45004	0.0	702
+nad3	Le.YLK.scaffolds	96.825	63	2	0	1	63	211538	211600	1.86e-25	109
+***************************TEST:f325-nad5_fragment_3*****************f325 Le.YLK.scaffolds 229763 230293ORF_len:531,GENE_len:396
+f325	Le.YLK.scaffolds	100.000	531	0	0	1	531	229763	230293	0.0	1053
+nad5_fragment_3	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:f208-atp9*****************f208 Le.YLK.scaffolds 182428 182856ORF_len:429,GENE_len:243
+f208	Le.YLK.scaffolds	100.000	429	0	0	1	429	182428	182856	0.0	850
+f208	Le.YLK.scaffolds	98.077	52	1	0	210	261	285605	285656	3.41e-21	95.6
+f208	Le.YLK.scaffolds	94.595	37	2	0	155	191	366741	366705	7.42e-10	58.0
+atp9	Le.YLK.scaffolds	100.000	243	0	0	1	243	182555	182313	8.13e-138	482
+***************************TEST:f505-rpl16*****************f505 Le.YLK.scaffolds 295132 295398ORF_len:267,GENE_len:555
+f505	Le.YLK.scaffolds	100.000	267	0	0	1	267	295132	295398	4.26e-152	529
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:r1194-ccmFc_fragment_1*****************r1194 Le.YLK.scaffolds 91314 92216ORF_len:903,GENE_len:771
+r1194	Le.YLK.scaffolds	100.000	903	0	0	1	903	91314	92216	0.0	1790
+r1194	Le.YLK.scaffolds	97.531	81	2	0	377	457	480523	480443	8.80e-36	145
+ccmFc_fragment_1	Le.YLK.scaffolds	100.000	771	0	0	1	771	480188	480958	0.0	1528
+ccmFc_fragment_1	Le.YLK.scaffolds	97.531	81	2	0	256	336	91770	91690	7.50e-36	145
+***************************TEST:f914-ccmFn*****************f914 Le.YLK.scaffolds 455062 455349ORF_len:288,GENE_len:1728
+f914	Le.YLK.scaffolds	100.000	99	0	0	190	288	455251	455349	8.28e-52	196
+f914	Le.YLK.scaffolds	97.980	99	2	0	190	288	165736	165638	4.92e-47	180
+f914	Le.YLK.scaffolds	100.000	89	0	0	1	89	455062	455150	7.68e-46	176
+f914	Le.YLK.scaffolds	96.970	33	1	0	190	222	317981	318013	4.90e-10	58.0
+ccmFn	Le.YLK.scaffolds	99.884	1728	2	0	1	1728	455149	453422	0.0	3410
+***************************TEST:r207-atp9*****************r207 Le.YLK.scaffolds 182516 182914ORF_len:399,GENE_len:243
+r207	Le.YLK.scaffolds	100.000	399	0	0	1	399	182516	182914	0.0	791
+r207	Le.YLK.scaffolds	98.077	52	1	0	122	173	285605	285656	3.16e-21	95.6
+r207	Le.YLK.scaffolds	94.595	37	2	0	67	103	366741	366705	6.89e-10	58.0
+atp9	Le.YLK.scaffolds	100.000	243	0	0	1	243	182555	182313	8.13e-138	482
+***************************TEST:r584-nad7_fragment_4*****************r584 Le.YLK.scaffolds 326005 326319ORF_len:315,GENE_len:243
+r584	Le.YLK.scaffolds	100.000	315	0	0	1	315	326005	326319	1.15e-180	624
+nad7_fragment_4	Le.YLK.scaffolds	100.000	243	0	0	1	243	326283	326041	8.13e-138	482
+***************************TEST:f281-atp8*****************f281 Le.YLK.scaffolds 213715 214164ORF_len:450,GENE_len:477
+f281	Le.YLK.scaffolds	100.000	450	0	0	1	450	213715	214164	0.0	892
+f281	Le.YLK.scaffolds	99.485	194	1	0	46	239	90869	90676	6.54e-106	377
+f281	Le.YLK.scaffolds	98.780	82	1	0	91	172	33671	33590	4.48e-39	155
+f281	Le.YLK.scaffolds	89.796	49	5	0	235	283	127455	127407	7.80e-10	58.0
+atp8	Le.YLK.scaffolds	99.790	477	1	0	1	477	90752	90276	0.0	938
+atp8	Le.YLK.scaffolds	100.000	77	0	0	1	77	213877	213953	1.88e-38	153
+***************************TEST:f504-rpl16*****************f504 Le.YLK.scaffolds 294906 295232ORF_len:327,GENE_len:555
+f504	Le.YLK.scaffolds	100.000	327	0	0	1	327	294906	295232	0.0	648
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:f934-nad1_fragment_2*****************f934 Le.YLK.scaffolds 462631 462903ORF_len:273,GENE_len:78
+f934	Le.YLK.scaffolds	100.000	273	0	0	1	273	462631	462903	1.15e-155	541
+nad1_fragment_2	Le.YLK.scaffolds	100.000	78	0	0	1	78	462677	462754	6.78e-40	155
+***************************TEST:r603-matR*****************r603 Le.YLK.scaffolds 332381 332686ORF_len:306,GENE_len:1983
+r603	Le.YLK.scaffolds	100.000	306	0	0	1	306	332381	332686	2.62e-175	607
+matR	Le.YLK.scaffolds	100.000	1983	0	0	1	1983	333582	331600	0.0	3931
+matR	Le.YLK.scaffolds	100.000	26	0	0	1184	1209	379857	379882	2.17e-07	52.0
+***************************TEST:f784-nad2_fragment_3*****************f784 Le.YLK.scaffolds 400140 400487ORF_len:348,GENE_len:162
+f784	Le.YLK.scaffolds	100.000	348	0	0	1	348	400140	400487	0.0	690
+nad2_fragment_3	Le.YLK.scaffolds	100.000	162	0	0	1	162	400290	400451	1.14e-89	321
+***************************TEST:r844-nad4_fragment_2*****************r844 Le.YLK.scaffolds 423194 423433ORF_len:240,GENE_len:936
+r844	Le.YLK.scaffolds	100.000	240	0	0	1	240	423194	423433	4.95e-136	476
+nad4_fragment_2	Le.YLK.scaffolds	100.000	936	0	0	1	936	423132	424067	0.0	1855
+***************************TEST:r742-rps4*****************r742 Le.YLK.scaffolds 384753 385091ORF_len:339,GENE_len:1044
+r742	Le.YLK.scaffolds	100.000	339	0	0	1	339	384753	385091	0.0	672
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:f671-rps10_fragment_2*****************f671 Le.YLK.scaffolds 356070 356336ORF_len:267,GENE_len:75
+f671	Le.YLK.scaffolds	100.000	267	0	0	1	267	356070	356336	4.26e-152	529
+rps10_fragment_2	Le.YLK.scaffolds	100.000	75	0	0	1	75	356236	356162	4.00e-38	149
+***************************TEST:f202-nad4L*****************f202 Le.YLK.scaffolds 180189 180533ORF_len:345,GENE_len:300
+f202	Le.YLK.scaffolds	100.000	345	0	0	1	345	180189	180533	0.0	684
+nad4L	Le.YLK.scaffolds	100.000	300	0	0	1	300	180481	180182	9.78e-172	595
+***************************TEST:r499-rpl16*****************r499 Le.YLK.scaffolds 294801 295358ORF_len:558,GENE_len:555
+r499	Le.YLK.scaffolds	100.000	558	0	0	1	558	294801	295358	0.0	1106
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:r1092-ccmB*****************r1092 Le.YLK.scaffolds 54856 55086ORF_len:231,GENE_len:630
+r1092	Le.YLK.scaffolds	100.000	231	0	0	1	231	54856	55086	1.12e-130	458
+ccmB	Le.YLK.scaffolds	99.841	630	1	0	1	630	54949	54320	0.0	1241
+***************************TEST:r529-nad2_fragment_2*****************r529 Le.YLK.scaffolds 30735 31115ORF_len:381,GENE_len:351
+r529	Le.YLK.scaffolds	100.000	381	0	0	1	381	30735	31115	0.0	755
+nad2_fragment_2	Le.YLK.scaffolds	100.000	351	0	0	1	351	31165	30815	0.0	696
+***************************TEST:f503-rpl16*****************f503 Le.YLK.scaffolds 294334 295125ORF_len:792,GENE_len:555
+f503	Le.YLK.scaffolds	100.000	792	0	0	1	792	294334	295125	0.0	1570
+rpl16	Le.YLK.scaffolds	100.000	555	0	0	1	555	295358	294804	0.0	1100
+***************************TEST:f942-atp1*****************f942 Le.YLK.scaffolds 46512 46772ORF_len:261,GENE_len:1521
+f942	Le.YLK.scaffolds	100.000	261	0	0	1	261	46512	46772	1.58e-148	517
+f942	Le.YLK.scaffolds	100.000	261	0	0	1	261	374425	374165	1.58e-148	517
+atp1	Le.YLK.scaffolds	99.540	1521	7	0	1	1521	373624	375144	0.0	2960
+atp1	Le.YLK.scaffolds	99.736	1137	3	0	1	1137	47313	46177	0.0	2230
+***************************TEST:f615-nad7_fragment_1*****************f615 Le.YLK.scaffolds 330330 330578ORF_len:249,GENE_len:162
+f615	Le.YLK.scaffolds	100.000	249	0	0	1	249	330330	330578	2.19e-141	494
+nad7_fragment_1	Le.YLK.scaffolds	99.383	162	1	0	1	162	330481	330320	2.79e-87	313
+***************************TEST:f839-nad4_fragment_2*****************f839 Le.YLK.scaffolds 423317 423583ORF_len:267,GENE_len:936
+f839	Le.YLK.scaffolds	100.000	267	0	0	1	267	423317	423583	4.26e-152	529
+nad4_fragment_2	Le.YLK.scaffolds	100.000	936	0	0	1	936	423132	424067	0.0	1855
+***************************TEST:r665-cox1*****************r665 Le.YLK.scaffolds 354948 355223ORF_len:276,GENE_len:1578
+r665	Le.YLK.scaffolds	100.000	276	0	0	1	276	354948	355223	1.88e-157	547
+cox1	Le.YLK.scaffolds	100.000	1578	0	0	1	1578	355918	354341	0.0	3128
+***************************TEST:r904-nad3*****************r904 Le.YLK.scaffolds 45001 45486ORF_len:486,GENE_len:354
+r904	Le.YLK.scaffolds	100.000	486	0	0	1	486	45001	45486	0.0	963
+r904	Le.YLK.scaffolds	93.701	127	4	1	295	417	211600	211474	1.37e-48	186
+r904	Le.YLK.scaffolds	100.000	25	0	0	383	407	505229	505205	2.06e-07	50.1
+nad3	Le.YLK.scaffolds	100.000	354	0	0	1	354	45357	45004	0.0	702
+nad3	Le.YLK.scaffolds	96.825	63	2	0	1	63	211538	211600	1.86e-25	109
+***************************TEST:f324-nad5_fragment_4*****************f324 Le.YLK.scaffolds 229678 229938ORF_len:261,GENE_len:396
+f324	Le.YLK.scaffolds	100.000	261	0	0	1	261	229678	229938	1.58e-148	517
+nad5_fragment_4	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:r199-atp4*****************r199 Le.YLK.scaffolds 179901 180176ORF_len:276,GENE_len:588
+r199	Le.YLK.scaffolds	100.000	276	0	0	1	276	179901	180176	1.88e-157	547
+atp4	Le.YLK.scaffolds	100.000	588	0	0	1	588	179973	179386	0.0	1166
+***************************TEST:r1067-ccmC*****************r1067 Le.YLK.scaffolds 505038 505397ORF_len:360,GENE_len:750
+r1067	Le.YLK.scaffolds	100.000	360	0	0	1	360	505038	505397	0.0	714
+r1067	Le.YLK.scaffolds	100.000	25	0	0	168	192	45407	45383	1.51e-07	50.1
+r1067	Le.YLK.scaffolds	96.552	29	1	0	161	189	211477	211505	1.51e-07	50.1
+r1067	Le.YLK.scaffolds	100.000	25	0	0	163	187	313194	313170	1.51e-07	50.1
+r1067	Le.YLK.scaffolds	100.000	22	0	0	119	140	386419	386440	9.31e-06	44.1
+ccmC	Le.YLK.scaffolds	99.867	750	1	0	1	750	505358	506107	0.0	1479
+***************************TEST:f424-nad5_fragment_1*****************f424 Le.YLK.scaffolds 265692 266150ORF_len:459,GENE_len:237
+f424	Le.YLK.scaffolds	100.000	459	0	0	1	459	265692	266150	0.0	910
+f424	Le.YLK.scaffolds	100.000	273	0	0	12	284	182189	181917	1.97e-155	541
+f424	Le.YLK.scaffolds	94.937	79	4	0	212	290	366903	366981	4.09e-30	125
+f424	Le.YLK.scaffolds	94.737	38	2	0	39	76	465708	465745	2.01e-10	60.0
+nad5_fragment_1	Le.YLK.scaffolds	99.578	237	1	0	1	237	265884	266120	7.35e-132	462
+nad5_fragment_1	Le.YLK.scaffolds	98.913	92	1	0	1	92	182008	181917	2.48e-45	174
+nad5_fragment_1	Le.YLK.scaffolds	98.438	64	1	0	35	98	366918	366981	1.27e-28	119
+***************************TEST:r1091-ccmB*****************r1091 Le.YLK.scaffolds 54342 54878ORF_len:537,GENE_len:630
+r1091	Le.YLK.scaffolds	100.000	537	0	0	1	537	54342	54878	0.0	1065
+ccmB	Le.YLK.scaffolds	99.841	630	1	0	1	630	54949	54320	0.0	1241
+***************************TEST:f324-nad5_fragment_3*****************f324 Le.YLK.scaffolds 229678 229938ORF_len:261,GENE_len:396
+f324	Le.YLK.scaffolds	100.000	261	0	0	1	261	229678	229938	1.58e-148	517
+nad5_fragment_3	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:r739-rps4*****************r739 Le.YLK.scaffolds 384189 384413ORF_len:225,GENE_len:1044
+r739	Le.YLK.scaffolds	100.000	225	0	0	1	225	384189	384413	4.13e-127	446
+r739	Le.YLK.scaffolds	100.000	225	0	0	1	225	461561	461785	4.13e-127	446
+r739	Le.YLK.scaffolds	100.000	24	0	0	102	125	385538	385515	3.65e-07	48.1
+rps4	Le.YLK.scaffolds	100.000	1044	0	0	1	1044	384286	385329	0.0	2070
+rps4	Le.YLK.scaffolds	100.000	240	0	0	1	240	461658	461897	2.25e-135	476
+rps4	Le.YLK.scaffolds	100.000	24	0	0	5	28	385538	385515	1.77e-06	48.1
+***************************TEST:r324-nad5_fragment_3*****************r324 Le.YLK.scaffolds 229674 229907ORF_len:234,GENE_len:396
+r324	Le.YLK.scaffolds	100.000	234	0	0	1	234	229674	229907	1.84e-132	464
+nad5_fragment_3	Le.YLK.scaffolds	99.747	396	1	0	1	396	229832	230227	0.0	777
+***************************TEST:f1062-ccmC*****************f1062 Le.YLK.scaffolds 505358 506161ORF_len:804,GENE_len:750
+f1062	Le.YLK.scaffolds	100.000	804	0	0	1	804	505358	506161	0.0	1594
+ccmC	Le.YLK.scaffolds	99.867	750	1	0	1	750	505358	506107	0.0	1479
+***************************TEST:r585-nad7_fragment_4*****************r585 Le.YLK.scaffolds 326126 326473ORF_len:348,GENE_len:243
+r585	Le.YLK.scaffolds	100.000	348	0	0	1	348	326126	326473	0.0	690
+nad7_fragment_4	Le.YLK.scaffolds	100.000	243	0	0	1	243	326283	326041	8.13e-138	482
+***************************TEST:f420-nad1_fragment_5*****************f420 Le.YLK.scaffolds 265167 265475ORF_len:309,GENE_len:255
+f420	Le.YLK.scaffolds	100.000	309	0	0	1	309	265167	265475	4.30e-177	613
+f420	Le.YLK.scaffolds	92.857	42	3	0	150	191	423008	423049	1.34e-10	60.0
+nad1_fragment_5	Le.YLK.scaffolds	100.000	255	0	0	1	255	265430	265684	5.91e-145	505
+nad1_fragment_5	Le.YLK.scaffolds	100.000	45	0	0	174	218	465670	465714	1.23e-19	89.7
+nad1_fragment_5	Le.YLK.scaffolds	96.667	30	1	0	75	104	20014	19985	2.67e-08	52.0
+***************************TEST:f223-nad9*****************f223 Le.YLK.scaffolds 189411 189857ORF_len:447,GENE_len:573
+f223	Le.YLK.scaffolds	100.000	447	0	0	1	447	189411	189857	0.0	886
+f223	Le.YLK.scaffolds	100.000	102	0	0	55	156	154104	154205	2.12e-53	202
+f223	Le.YLK.scaffolds	100.000	44	0	0	55	98	127730	127687	8.67e-19	87.7
+nad9	Le.YLK.scaffolds	100.000	573	0	0	1	573	189572	190144	0.0	1136
