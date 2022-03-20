@@ -1,0 +1,712 @@
+***************************TEST:f714-atp9*****************f714 SWW.BTC.scaffolds 378549 379088ORF_len:540,GENE_len:243
+f714	SWW.BTC.scaffolds	100.000	540	0	0	1	540	378549	379088	0.0	1070
+f714	SWW.BTC.scaffolds	98.077	52	1	0	117	168	411669	411720	4.36e-21	95.6
+f714	SWW.BTC.scaffolds	94.595	37	2	0	187	223	328623	328587	9.50e-10	58.0
+atp9	SWW.BTC.scaffolds	100.000	243	0	0	1	243	378798	379040	8.21e-138	482
+***************************TEST:r207-cox2_fragment_1*****************r207 SWW.BTC.scaffolds 187044 187883ORF_len:840,GENE_len:702
+r207	SWW.BTC.scaffolds	100.000	840	0	0	1	840	187044	187883	0.0	1665
+r207	SWW.BTC.scaffolds	94.949	99	5	0	125	223	299350	299448	2.17e-39	157
+r207	SWW.BTC.scaffolds	89.796	49	5	0	642	690	347368	347416	1.49e-09	58.0
+cox2_fragment_1	SWW.BTC.scaffolds	100.000	702	0	0	1	702	187883	187182	0.0	1392
+cox2_fragment_1	SWW.BTC.scaffolds	96.471	85	3	0	618	702	299448	299364	6.88e-36	145
+cox2_fragment_1	SWW.BTC.scaffolds	89.796	49	5	0	151	199	347416	347368	1.24e-09	58.0
+***************************TEST:r381-matR*****************r381 SWW.BTC.scaffolds 246638 246943ORF_len:306,GENE_len:1983
+r381	SWW.BTC.scaffolds	100.000	306	0	0	1	306	246638	246943	2.65e-175	607
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:f786-rps3*****************f786 SWW.BTC.scaffolds 400607 400930ORF_len:324,GENE_len:1680
+f786	SWW.BTC.scaffolds	100.000	324	0	0	1	324	400607	400930	0.0	642
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:r787-rpl16*****************r787 SWW.BTC.scaffolds 402195 402986ORF_len:792,GENE_len:555
+r787	SWW.BTC.scaffolds	100.000	792	0	0	1	792	402195	402986	0.0	1570
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:f375-matR*****************f375 SWW.BTC.scaffolds 246146 246940ORF_len:795,GENE_len:1983
+f375	SWW.BTC.scaffolds	100.000	795	0	0	1	795	246146	246940	0.0	1576
+f375	SWW.BTC.scaffolds	100.000	26	0	0	486	511	461963	461938	8.70e-08	52.0
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:f716-nad5_fragment_1*****************f716 SWW.BTC.scaffolds 379171 380274ORF_len:1104,GENE_len:237
+f716	SWW.BTC.scaffolds	100.000	1104	0	0	1	1104	379171	380274	0.0	2189
+f716	SWW.BTC.scaffolds	100.000	272	0	0	1	272	313918	314189	1.92e-154	539
+f716	SWW.BTC.scaffolds	94.737	38	2	0	21	58	470424	470461	4.98e-10	60.0
+nad5_fragment_1	SWW.BTC.scaffolds	99.578	237	1	0	1	237	314092	314328	7.42e-132	462
+nad5_fragment_1	SWW.BTC.scaffolds	98.980	98	1	0	1	98	379345	379442	6.58e-49	186
+***************************TEST:r699-nad9*****************r699 SWW.BTC.scaffolds 371502 371948ORF_len:447,GENE_len:573
+r699	SWW.BTC.scaffolds	100.000	447	0	0	1	447	371502	371948	0.0	886
+r699	SWW.BTC.scaffolds	100.000	102	0	0	292	393	214474	214373	2.14e-53	202
+r699	SWW.BTC.scaffolds	100.000	44	0	0	350	393	187965	188008	8.75e-19	87.7
+nad9	SWW.BTC.scaffolds	100.000	573	0	0	1	573	371787	371215	0.0	1136
+***************************TEST:r784-rpl16*****************r784 SWW.BTC.scaffolds 401768 401998ORF_len:231,GENE_len:555
+r784	SWW.BTC.scaffolds	100.000	231	0	0	1	231	401768	401998	1.13e-130	458
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:f712-atp9*****************f712 SWW.BTC.scaffolds 378439 378837ORF_len:399,GENE_len:243
+f712	SWW.BTC.scaffolds	100.000	399	0	0	1	399	378439	378837	0.0	791
+f712	SWW.BTC.scaffolds	98.077	52	1	0	227	278	411669	411720	3.19e-21	95.6
+f712	SWW.BTC.scaffolds	94.595	37	2	0	297	333	328623	328587	6.95e-10	58.0
+atp9	SWW.BTC.scaffolds	100.000	243	0	0	1	243	378798	379040	8.21e-138	482
+***************************TEST:r886-nad4L*****************r886 SWW.BTC.scaffolds 436049 436393ORF_len:345,GENE_len:300
+r886	SWW.BTC.scaffolds	100.000	345	0	0	1	345	436049	436393	0.0	684
+r886	SWW.BTC.scaffolds	100.000	29	0	0	14	42	435601	435629	5.98e-10	58.0
+nad4L	SWW.BTC.scaffolds	100.000	300	0	0	1	300	436101	436400	9.87e-172	595
+***************************TEST:f348-nad7_fragment_5*****************f348 SWW.BTC.scaffolds 238335 238604ORF_len:270,GENE_len:261
+f348	SWW.BTC.scaffolds	100.000	270	0	0	1	270	238335	238604	7.06e-154	535
+nad7_fragment_5	SWW.BTC.scaffolds	100.000	261	0	0	1	261	238499	238239	1.60e-148	517
+***************************TEST:r208-cox2_fragment_1*****************r208 SWW.BTC.scaffolds 187678 188070ORF_len:393,GENE_len:702
+r208	SWW.BTC.scaffolds	100.000	393	0	0	1	393	187678	188070	0.0	779
+r208	SWW.BTC.scaffolds	100.000	106	0	0	288	393	214416	214311	7.69e-56	210
+r208	SWW.BTC.scaffolds	100.000	44	0	0	288	331	371851	371894	7.66e-19	87.7
+r208	SWW.BTC.scaffolds	89.796	49	5	0	8	56	347368	347416	6.84e-10	58.0
+cox2_fragment_1	SWW.BTC.scaffolds	100.000	702	0	0	1	702	187883	187182	0.0	1392
+cox2_fragment_1	SWW.BTC.scaffolds	96.471	85	3	0	618	702	299448	299364	6.88e-36	145
+cox2_fragment_1	SWW.BTC.scaffolds	89.796	49	5	0	151	199	347416	347368	1.24e-09	58.0
+***************************TEST:r714-atp9*****************r714 SWW.BTC.scaffolds 378497 378925ORF_len:429,GENE_len:243
+r714	SWW.BTC.scaffolds	100.000	429	0	0	1	429	378497	378925	0.0	850
+r714	SWW.BTC.scaffolds	98.077	52	1	0	169	220	411669	411720	3.44e-21	95.6
+r714	SWW.BTC.scaffolds	94.595	37	2	0	239	275	328623	328587	7.49e-10	58.0
+atp9	SWW.BTC.scaffolds	100.000	243	0	0	1	243	378798	379040	8.21e-138	482
+***************************TEST:r458-nad5_fragment_3*****************r458 SWW.BTC.scaffolds 277886 278119ORF_len:234,GENE_len:396
+r458	SWW.BTC.scaffolds	100.000	234	0	0	1	234	277886	278119	1.85e-132	464
+nad5_fragment_3	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:f925-atp1*****************f925 SWW.BTC.scaffolds 456032 456265ORF_len:234,GENE_len:1521
+f925	SWW.BTC.scaffolds	100.000	234	0	0	1	234	456032	456265	1.85e-132	464
+atp1	SWW.BTC.scaffolds	99.736	1137	3	0	1	1137	455478	456614	0.0	2230
+atp1	SWW.BTC.scaffolds	99.217	511	4	0	1011	1521	456715	457225	0.0	981
+atp1	SWW.BTC.scaffolds	100.000	127	0	0	1011	1137	41949	41823	8.98e-68	252
+***************************TEST:r365-nad7_fragment_4*****************r365 SWW.BTC.scaffolds 240468 241256ORF_len:789,GENE_len:243
+r365	SWW.BTC.scaffolds	100.000	789	0	0	1	789	240468	241256	0.0	1564
+nad7_fragment_4	SWW.BTC.scaffolds	100.000	243	0	0	1	243	240540	240298	8.21e-138	482
+***************************TEST:r1019-ccmB*****************r1019 SWW.BTC.scaffolds 48428 49396ORF_len:969,GENE_len:630
+r1019	SWW.BTC.scaffolds	100.000	969	0	0	1	969	48428	49396	0.0	1921
+ccmB	SWW.BTC.scaffolds	99.841	630	1	0	1	630	49396	48767	0.0	1241
+***************************TEST:r67-ccmFn*****************r67 SWW.BTC.scaffolds 132531 132827ORF_len:297,GENE_len:1728
+r67	SWW.BTC.scaffolds	100.000	167	0	0	1	167	132531	132697	2.28e-92	331
+r67	SWW.BTC.scaffolds	100.000	30	0	0	268	297	132798	132827	1.29e-10	60.0
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f429-cox1*****************f429 SWW.BTC.scaffolds 270116 270448ORF_len:333,GENE_len:1578
+f429	SWW.BTC.scaffolds	100.000	333	0	0	1	333	270116	270448	0.0	660
+cox1	SWW.BTC.scaffolds	100.000	1578	0	0	1	1578	270175	268598	0.0	3128
+***************************TEST:r261-nad1_fragment_1*****************r261 SWW.BTC.scaffolds 20491 20760ORF_len:270,GENE_len:387
+r261	SWW.BTC.scaffolds	100.000	270	0	0	1	270	20491	20760	7.06e-154	535
+r261	SWW.BTC.scaffolds	96.923	65	2	0	105	169	289356	289292	9.03e-27	113
+nad1_fragment_1	SWW.BTC.scaffolds	100.000	387	0	0	1	387	20576	20190	0.0	767
+nad1_fragment_1	SWW.BTC.scaffolds	95.652	46	2	0	338	383	347700	347655	2.87e-15	75.8
+***************************TEST:f370-nad7_fragment_1*****************f370 SWW.BTC.scaffolds 244471 244731ORF_len:261,GENE_len:162
+f370	SWW.BTC.scaffolds	100.000	261	0	0	1	261	244471	244731	1.60e-148	517
+nad7_fragment_1	SWW.BTC.scaffolds	99.383	162	1	0	1	162	244738	244577	2.81e-87	313
+***************************TEST:f877-atp4*****************f877 SWW.BTC.scaffolds 436406 436681ORF_len:276,GENE_len:588
+f877	SWW.BTC.scaffolds	100.000	276	0	0	1	276	436406	436681	1.90e-157	547
+atp4	SWW.BTC.scaffolds	100.000	588	0	0	1	588	436609	437196	0.0	1166
+***************************TEST:f430-rps10_fragment_2*****************f430 SWW.BTC.scaffolds 270205 270519ORF_len:315,GENE_len:75
+f430	SWW.BTC.scaffolds	100.000	315	0	0	1	315	270205	270519	1.16e-180	624
+rps10_fragment_2	SWW.BTC.scaffolds	100.000	75	0	0	1	75	270487	270413	4.03e-38	149
+***************************TEST:r780-rps3*****************r780 SWW.BTC.scaffolds 400617 400922ORF_len:306,GENE_len:1680
+r780	SWW.BTC.scaffolds	100.000	306	0	0	1	306	400617	400922	2.65e-175	607
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:f544-nad1_fragment_5*****************f544 SWW.BTC.scaffolds 313754 314125ORF_len:372,GENE_len:255
+f544	SWW.BTC.scaffolds	100.000	372	0	0	1	372	313754	314125	0.0	737
+f544	SWW.BTC.scaffolds	100.000	215	0	0	158	372	379164	379378	6.54e-121	426
+f544	SWW.BTC.scaffolds	100.000	45	0	0	58	102	470386	470430	1.83e-19	89.7
+f544	SWW.BTC.scaffolds	94.737	38	2	0	185	222	470424	470461	1.64e-10	60.0
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	255	0	0	1	255	313638	313892	5.96e-145	505
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	45	0	0	174	218	470386	470430	1.24e-19	89.7
+nad1_fragment_5	SWW.BTC.scaffolds	96.667	30	1	0	75	104	15666	15637	2.70e-08	52.0
+***************************TEST:f1153-nad2_fragment_4*****************f1153 SWW.BTC.scaffolds 80230 81129ORF_len:900,GENE_len:621
+f1153	SWW.BTC.scaffolds	100.000	900	0	0	1	900	80230	81129	0.0	1784
+nad2_fragment_4	SWW.BTC.scaffolds	100.000	621	0	0	1	621	80482	81102	0.0	1231
+***************************TEST:f952-nad1_fragment_2*****************f952 SWW.BTC.scaffolds 467347 467619ORF_len:273,GENE_len:78
+f952	SWW.BTC.scaffolds	100.000	273	0	0	1	273	467347	467619	1.16e-155	541
+nad1_fragment_2	SWW.BTC.scaffolds	100.000	78	0	0	1	78	467393	467470	6.85e-40	155
+***************************TEST:f356-nad7_fragment_4*****************f356 SWW.BTC.scaffolds 240390 240770ORF_len:381,GENE_len:243
+f356	SWW.BTC.scaffolds	100.000	381	0	0	1	381	240390	240770	0.0	755
+nad7_fragment_4	SWW.BTC.scaffolds	100.000	243	0	0	1	243	240540	240298	8.21e-138	482
+***************************TEST:f378-matR*****************f378 SWW.BTC.scaffolds 247148 247504ORF_len:357,GENE_len:1983
+f378	SWW.BTC.scaffolds	100.000	357	0	0	1	357	247148	247504	0.0	708
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:r1027-ccmFc_fragment_2*****************r1027 SWW.BTC.scaffolds 486359 486718ORF_len:360,GENE_len:549
+r1027	SWW.BTC.scaffolds	100.000	360	0	0	1	360	486359	486718	0.0	714
+ccmFc_fragment_2	SWW.BTC.scaffolds	100.000	549	0	0	1	549	486623	487171	0.0	1088
+***************************TEST:r793-rps12*****************r793 SWW.BTC.scaffolds 40564 40890ORF_len:327,GENE_len:375
+r793	SWW.BTC.scaffolds	100.000	327	0	0	1	327	40564	40890	0.0	648
+rps12	SWW.BTC.scaffolds	100.000	375	0	0	1	375	40598	40224	0.0	743
+***************************TEST:r109-cox3*****************r109 SWW.BTC.scaffolds 149523 150041ORF_len:519,GENE_len:795
+r109	SWW.BTC.scaffolds	100.000	519	0	0	1	519	149523	150041	0.0	1029
+cox3	SWW.BTC.scaffolds	100.000	795	0	0	1	795	149929	149135	0.0	1576
+***************************TEST:r550-nad5_fragment_1*****************r550 SWW.BTC.scaffolds 313896 314225ORF_len:330,GENE_len:237
+r550	SWW.BTC.scaffolds	100.000	330	0	0	1	330	313896	314225	0.0	654
+r550	SWW.BTC.scaffolds	100.000	279	0	0	16	294	379164	379442	3.71e-159	553
+r550	SWW.BTC.scaffolds	94.737	38	2	0	43	80	470424	470461	1.44e-10	60.0
+nad5_fragment_1	SWW.BTC.scaffolds	99.578	237	1	0	1	237	314092	314328	7.42e-132	462
+nad5_fragment_1	SWW.BTC.scaffolds	98.980	98	1	0	1	98	379345	379442	6.58e-49	186
+***************************TEST:f435-rps10_fragment_1*****************f435 SWW.BTC.scaffolds 270911 271912ORF_len:1002,GENE_len:210
+f435	SWW.BTC.scaffolds	100.000	1002	0	0	1	1002	270911	271912	0.0	1986
+f435	SWW.BTC.scaffolds	100.000	56	0	0	689	744	21330	21385	1.38e-25	111
+f435	SWW.BTC.scaffolds	100.000	56	0	0	689	744	312601	312546	1.38e-25	111
+f435	SWW.BTC.scaffolds	100.000	56	0	0	689	744	462778	462723	1.38e-25	111
+rps10_fragment_1	SWW.BTC.scaffolds	100.000	210	0	0	1	210	271565	271356	3.46e-118	416
+***************************TEST:r380-matR*****************r380 SWW.BTC.scaffolds 245872 247851ORF_len:1980,GENE_len:1983
+r380	SWW.BTC.scaffolds	100.000	1980	0	0	1	1980	245872	247851	0.0	3925
+r380	SWW.BTC.scaffolds	100.000	26	0	0	760	785	461963	461938	2.19e-07	52.0
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:f1020-ccmB*****************f1020 SWW.BTC.scaffolds 48840 49154ORF_len:315,GENE_len:630
+f1020	SWW.BTC.scaffolds	100.000	315	0	0	1	315	48840	49154	1.16e-180	624
+ccmB	SWW.BTC.scaffolds	99.841	630	1	0	1	630	49396	48767	0.0	1241
+***************************TEST:f377-matR*****************f377 SWW.BTC.scaffolds 247060 247419ORF_len:360,GENE_len:1983
+f377	SWW.BTC.scaffolds	100.000	360	0	0	1	360	247060	247419	0.0	714
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:r382-matR*****************r382 SWW.BTC.scaffolds 247184 247525ORF_len:342,GENE_len:1983
+r382	SWW.BTC.scaffolds	100.000	342	0	0	1	342	247184	247525	0.0	678
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:r428-nad2_fragment_2*****************r428 SWW.BTC.scaffolds 26431 26931ORF_len:501,GENE_len:351
+r428	SWW.BTC.scaffolds	100.000	501	0	0	1	501	26431	26931	0.0	993
+r428	SWW.BTC.scaffolds	100.000	49	0	0	438	486	468924	468876	1.02e-21	97.6
+nad2_fragment_2	SWW.BTC.scaffolds	100.000	351	0	0	1	351	26811	26461	0.0	696
+***************************TEST:r952-rpl5*****************r952 SWW.BTC.scaffolds 462850 463077ORF_len:228,GENE_len:552
+r952	SWW.BTC.scaffolds	100.000	228	0	0	1	228	462850	463077	6.86e-129	452
+rpl5	SWW.BTC.scaffolds	99.819	552	1	0	1	552	462820	463371	0.0	1086
+***************************TEST:f57-rps7*****************f57 SWW.BTC.scaffolds 1172 1474ORF_len:303,GENE_len:465
+f57	SWW.BTC.scaffolds	100.000	303	0	0	1	303	1172	1474	1.62e-173	601
+rps7	SWW.BTC.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:f876-nad4L*****************f876 SWW.BTC.scaffolds 436068 436403ORF_len:336,GENE_len:300
+f876	SWW.BTC.scaffolds	100.000	336	0	0	1	336	436068	436403	0.0	666
+f876	SWW.BTC.scaffolds	100.000	23	0	0	1	23	435607	435629	2.21e-06	46.1
+nad4L	SWW.BTC.scaffolds	100.000	300	0	0	1	300	436101	436400	9.87e-172	595
+***************************TEST:r935-atp1*****************r935 SWW.BTC.scaffolds 456019 456279ORF_len:261,GENE_len:1521
+r935	SWW.BTC.scaffolds	100.000	261	0	0	1	261	456019	456279	1.60e-148	517
+atp1	SWW.BTC.scaffolds	99.736	1137	3	0	1	1137	455478	456614	0.0	2230
+atp1	SWW.BTC.scaffolds	99.217	511	4	0	1011	1521	456715	457225	0.0	981
+atp1	SWW.BTC.scaffolds	100.000	127	0	0	1011	1137	41949	41823	8.98e-68	252
+***************************TEST:f690-nad9*****************f690 SWW.BTC.scaffolds 371265 371654ORF_len:390,GENE_len:573
+f690	SWW.BTC.scaffolds	100.000	390	0	0	1	390	371265	371654	0.0	773
+nad9	SWW.BTC.scaffolds	100.000	573	0	0	1	573	371787	371215	0.0	1136
+***************************TEST:f209-cox2_fragment_1*****************f209 SWW.BTC.scaffolds 187856 188182ORF_len:327,GENE_len:702
+f209	SWW.BTC.scaffolds	100.000	327	0	0	1	327	187856	188182	0.0	648
+f209	SWW.BTC.scaffolds	100.000	145	0	0	110	254	214416	214272	3.38e-79	287
+f209	SWW.BTC.scaffolds	100.000	44	0	0	110	153	371851	371894	6.32e-19	87.7
+cox2_fragment_1	SWW.BTC.scaffolds	100.000	702	0	0	1	702	187883	187182	0.0	1392
+cox2_fragment_1	SWW.BTC.scaffolds	96.471	85	3	0	618	702	299448	299364	6.88e-36	145
+cox2_fragment_1	SWW.BTC.scaffolds	89.796	49	5	0	151	199	347416	347368	1.24e-09	58.0
+***************************TEST:r556-nad5_fragment_2*****************r556 SWW.BTC.scaffolds 315283 315870ORF_len:588,GENE_len:1203
+r556	SWW.BTC.scaffolds	100.000	588	0	0	1	588	315283	315870	0.0	1166
+nad5_fragment_2	SWW.BTC.scaffolds	100.000	1203	0	0	1	1203	315179	316381	0.0	2385
+***************************TEST:r715-atp9*****************r715 SWW.BTC.scaffolds 378505 378849ORF_len:345,GENE_len:243
+r715	SWW.BTC.scaffolds	100.000	345	0	0	1	345	378505	378849	0.0	684
+r715	SWW.BTC.scaffolds	98.077	52	1	0	161	212	411669	411720	2.74e-21	95.6
+r715	SWW.BTC.scaffolds	94.595	37	2	0	231	267	328623	328587	5.98e-10	58.0
+r715	SWW.BTC.scaffolds	96.154	26	1	0	161	186	223781	223756	8.99e-06	44.1
+atp9	SWW.BTC.scaffolds	100.000	243	0	0	1	243	378798	379040	8.21e-138	482
+***************************TEST:r649-nad3*****************r649 SWW.BTC.scaffolds 349540 349920ORF_len:381,GENE_len:354
+r649	SWW.BTC.scaffolds	100.000	381	0	0	1	381	349540	349920	0.0	755
+r649	SWW.BTC.scaffolds	93.701	127	4	1	226	352	40941	41063	1.08e-48	186
+r649	SWW.BTC.scaffolds	96.552	29	1	0	321	349	509915	509887	1.62e-07	50.1
+r649	SWW.BTC.scaffolds	93.333	30	2	0	323	352	227427	227456	9.97e-06	44.1
+nad3	SWW.BTC.scaffolds	99.718	354	1	0	1	354	41003	40650	0.0	694
+nad3	SWW.BTC.scaffolds	95.238	63	3	0	1	63	349827	349765	4.57e-23	101
+***************************TEST:f208-cox2_fragment_1*****************f208 SWW.BTC.scaffolds 187711 188013ORF_len:303,GENE_len:702
+f208	SWW.BTC.scaffolds	100.000	303	0	0	1	303	187711	188013	1.62e-173	601
+f208	SWW.BTC.scaffolds	100.000	49	0	0	255	303	214416	214368	6.06e-22	97.6
+f208	SWW.BTC.scaffolds	100.000	44	0	0	255	298	371851	371894	5.84e-19	87.7
+cox2_fragment_1	SWW.BTC.scaffolds	100.000	702	0	0	1	702	187883	187182	0.0	1392
+cox2_fragment_1	SWW.BTC.scaffolds	96.471	85	3	0	618	702	299448	299364	6.88e-36	145
+cox2_fragment_1	SWW.BTC.scaffolds	89.796	49	5	0	151	199	347416	347368	1.24e-09	58.0
+***************************TEST:f13-nad4_fragment_3*****************f13 SWW.BTC.scaffolds 103670 104320ORF_len:651,GENE_len:87
+f13	SWW.BTC.scaffolds	100.000	651	0	0	1	651	103670	104320	0.0	1291
+nad4_fragment_3	SWW.BTC.scaffolds	100.000	87	0	0	1	87	104165	104251	3.27e-45	172
+***************************TEST:r717-nad5_fragment_1*****************r717 SWW.BTC.scaffolds 379137 379493ORF_len:357,GENE_len:237
+r717	SWW.BTC.scaffolds	100.000	357	0	0	1	357	379137	379493	0.0	708
+r717	SWW.BTC.scaffolds	100.000	279	0	0	28	306	313911	314189	4.03e-159	553
+r717	SWW.BTC.scaffolds	94.737	38	2	0	55	92	470424	470461	1.57e-10	60.0
+nad5_fragment_1	SWW.BTC.scaffolds	99.578	237	1	0	1	237	314092	314328	7.42e-132	462
+nad5_fragment_1	SWW.BTC.scaffolds	98.980	98	1	0	1	98	379345	379442	6.58e-49	186
+***************************TEST:f1008-ccmFc_fragment_1*****************f1008 SWW.BTC.scaffolds 484860 485834ORF_len:975,GENE_len:771
+f1008	SWW.BTC.scaffolds	100.000	975	0	0	1	975	484860	485834	0.0	1933
+f1008	SWW.BTC.scaffolds	97.531	81	2	0	295	375	152049	151969	9.59e-36	145
+ccmFc_fragment_1	SWW.BTC.scaffolds	100.000	771	0	0	1	771	484899	485669	0.0	1528
+ccmFc_fragment_1	SWW.BTC.scaffolds	97.531	81	2	0	256	336	152049	151969	7.56e-36	145
+***************************TEST:f452-nad5_fragment_3*****************f452 SWW.BTC.scaffolds 277890 278150ORF_len:261,GENE_len:396
+f452	SWW.BTC.scaffolds	100.000	261	0	0	1	261	277890	278150	1.60e-148	517
+nad5_fragment_3	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:f355-nad7_fragment_4*****************f355 SWW.BTC.scaffolds 240349 240990ORF_len:642,GENE_len:243
+f355	SWW.BTC.scaffolds	100.000	642	0	0	1	642	240349	240990	0.0	1273
+nad7_fragment_4	SWW.BTC.scaffolds	100.000	243	0	0	1	243	240540	240298	8.21e-138	482
+***************************TEST:f108-cox3*****************f108 SWW.BTC.scaffolds 149469 149906ORF_len:438,GENE_len:795
+f108	SWW.BTC.scaffolds	100.000	438	0	0	1	438	149469	149906	0.0	868
+cox3	SWW.BTC.scaffolds	100.000	795	0	0	1	795	149929	149135	0.0	1576
+***************************TEST:r2-nad4_fragment_2*****************r2 SWW.BTC.scaffolds 100760 100999ORF_len:240,GENE_len:936
+r2	SWW.BTC.scaffolds	100.000	240	0	0	1	240	100760	100999	5.00e-136	476
+nad4_fragment_2	SWW.BTC.scaffolds	100.000	936	0	0	1	936	100698	101633	0.0	1855
+***************************TEST:r781-rps3*****************r781 SWW.BTC.scaffolds 401092 401403ORF_len:312,GENE_len:1680
+r781	SWW.BTC.scaffolds	100.000	312	0	0	1	312	401092	401403	7.10e-179	618
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:r441-cox1*****************r441 SWW.BTC.scaffolds 269205 269480ORF_len:276,GENE_len:1578
+r441	SWW.BTC.scaffolds	100.000	276	0	0	1	276	269205	269480	1.90e-157	547
+cox1	SWW.BTC.scaffolds	100.000	1578	0	0	1	1578	270175	268598	0.0	3128
+***************************TEST:r114-ccmFc_fragment_1*****************r114 SWW.BTC.scaffolds 151819 152094ORF_len:276,GENE_len:771
+r114	SWW.BTC.scaffolds	100.000	276	0	0	1	276	151819	152094	1.90e-157	547
+r114	SWW.BTC.scaffolds	97.531	81	2	0	151	231	485234	485154	2.62e-36	145
+ccmFc_fragment_1	SWW.BTC.scaffolds	100.000	771	0	0	1	771	484899	485669	0.0	1528
+ccmFc_fragment_1	SWW.BTC.scaffolds	97.531	81	2	0	256	336	152049	151969	7.56e-36	145
+***************************TEST:r111-atp8*****************r111 SWW.BTC.scaffolds 150444 151433ORF_len:990,GENE_len:477
+r111	SWW.BTC.scaffolds	100.000	990	0	0	1	990	150444	151433	0.0	1963
+r111	SWW.BTC.scaffolds	99.485	194	1	0	512	705	347412	347605	1.48e-105	377
+r111	SWW.BTC.scaffolds	98.780	82	1	0	579	660	29236	29317	1.01e-38	155
+atp8	SWW.BTC.scaffolds	99.790	477	1	0	1	477	151031	150555	0.0	938
+atp8	SWW.BTC.scaffolds	100.000	77	0	0	1	77	347488	347412	1.90e-38	153
+***************************TEST:f878-atp4*****************f878 SWW.BTC.scaffolds 436609 437199ORF_len:591,GENE_len:588
+f878	SWW.BTC.scaffolds	100.000	591	0	0	1	591	436609	437199	0.0	1172
+atp4	SWW.BTC.scaffolds	100.000	588	0	0	1	588	436609	437196	0.0	1166
+***************************TEST:r272-rpl10*****************r272 SWW.BTC.scaffolds 20800 21297ORF_len:498,GENE_len:486
+r272	SWW.BTC.scaffolds	100.000	498	0	0	1	498	20800	21297	0.0	987
+rpl10	SWW.BTC.scaffolds	100.000	486	0	0	1	486	21288	20803	0.0	963
+***************************TEST:r793-nad3*****************r793 SWW.BTC.scaffolds 40564 40890ORF_len:327,GENE_len:354
+r793	SWW.BTC.scaffolds	100.000	327	0	0	1	327	40564	40890	0.0	648
+nad3	SWW.BTC.scaffolds	99.718	354	1	0	1	354	41003	40650	0.0	694
+nad3	SWW.BTC.scaffolds	95.238	63	3	0	1	63	349827	349765	4.57e-23	101
+***************************TEST:r785-rpl16*****************r785 SWW.BTC.scaffolds 401922 402188ORF_len:267,GENE_len:555
+r785	SWW.BTC.scaffolds	100.000	267	0	0	1	267	401922	402188	4.30e-152	529
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:f1030-ccmB*****************f1030 SWW.BTC.scaffolds 49123 49458ORF_len:336,GENE_len:630
+f1030	SWW.BTC.scaffolds	100.000	336	0	0	1	336	49123	49458	0.0	666
+ccmB	SWW.BTC.scaffolds	99.841	630	1	0	1	630	49396	48767	0.0	1241
+***************************TEST:f38-cob*****************f38 SWW.BTC.scaffolds 11117 11524ORF_len:408,GENE_len:1191
+f38	SWW.BTC.scaffolds	100.000	408	0	0	1	408	11117	11524	0.0	809
+cob	SWW.BTC.scaffolds	99.916	1191	1	0	1	1191	11218	10028	0.0	2353
+***************************TEST:f82-ccmFn*****************f82 SWW.BTC.scaffolds 132609 132860ORF_len:252,GENE_len:1728
+f82	SWW.BTC.scaffolds	100.000	89	0	0	1	89	132609	132697	6.76e-46	176
+f82	SWW.BTC.scaffolds	100.000	63	0	0	190	252	132798	132860	2.22e-30	125
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:r385-nad1_fragment_4*****************r385 SWW.BTC.scaffolds 248436 248666ORF_len:231,GENE_len:60
+r385	SWW.BTC.scaffolds	100.000	231	0	0	1	231	248436	248666	1.13e-130	458
+nad1_fragment_4	SWW.BTC.scaffolds	100.000	60	0	0	1	60	248569	248510	2.75e-29	119
+***************************TEST:f272-rpl10*****************f272 SWW.BTC.scaffolds 20936 21403ORF_len:468,GENE_len:486
+f272	SWW.BTC.scaffolds	100.000	468	0	0	1	468	20936	21403	0.0	928
+f272	SWW.BTC.scaffolds	99.038	104	1	0	348	451	462825	462722	3.50e-52	198
+f272	SWW.BTC.scaffolds	100.000	73	0	0	378	450	312618	312546	4.54e-36	145
+f272	SWW.BTC.scaffolds	100.000	56	0	0	395	450	271599	271654	6.33e-26	111
+rpl10	SWW.BTC.scaffolds	100.000	486	0	0	1	486	21288	20803	0.0	963
+***************************TEST:f943-rps14_fragment_1*****************f943 SWW.BTC.scaffolds 463200 463472ORF_len:273,GENE_len:87
+f943	SWW.BTC.scaffolds	100.000	273	0	0	1	273	463200	463472	1.16e-155	541
+rps14_fragment_1	SWW.BTC.scaffolds	100.000	87	0	0	1	87	463376	463462	3.27e-45	172
+***************************TEST:r66-ccmFn*****************r66 SWW.BTC.scaffolds 131730 132524ORF_len:795,GENE_len:1728
+r66	SWW.BTC.scaffolds	100.000	795	0	0	1	795	131730	132524	0.0	1576
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f545-nad5_fragment_1*****************f545 SWW.BTC.scaffolds 313900 314358ORF_len:459,GENE_len:237
+f545	SWW.BTC.scaffolds	100.000	459	0	0	1	459	313900	314358	0.0	910
+f545	SWW.BTC.scaffolds	100.000	279	0	0	12	290	379164	379442	5.22e-159	553
+f545	SWW.BTC.scaffolds	94.737	38	2	0	39	76	470424	470461	2.03e-10	60.0
+nad5_fragment_1	SWW.BTC.scaffolds	99.578	237	1	0	1	237	314092	314328	7.42e-132	462
+nad5_fragment_1	SWW.BTC.scaffolds	98.980	98	1	0	1	98	379345	379442	6.58e-49	186
+***************************TEST:r458-nad5_fragment_4*****************r458 SWW.BTC.scaffolds 277886 278119ORF_len:234,GENE_len:396
+r458	SWW.BTC.scaffolds	100.000	234	0	0	1	234	277886	278119	1.85e-132	464
+nad5_fragment_4	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:f788-rpl16*****************f788 SWW.BTC.scaffolds 401962 402519ORF_len:558,GENE_len:555
+f788	SWW.BTC.scaffolds	100.000	558	0	0	1	558	401962	402519	0.0	1106
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:f941-rpl5*****************f941 SWW.BTC.scaffolds 462811 463374ORF_len:564,GENE_len:552
+f941	SWW.BTC.scaffolds	100.000	564	0	0	1	564	462811	463374	0.0	1118
+rpl5	SWW.BTC.scaffolds	99.819	552	1	0	1	552	462820	463371	0.0	1086
+***************************TEST:r959-rps4*****************r959 SWW.BTC.scaffolds 466526 467338ORF_len:813,GENE_len:1044
+r959	SWW.BTC.scaffolds	100.000	813	0	0	1	813	466526	467338	0.0	1612
+r959	SWW.BTC.scaffolds	100.000	88	0	0	1	88	62012	62099	8.93e-45	174
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:f112-ccmFc_fragment_1*****************f112 SWW.BTC.scaffolds 151850 152356ORF_len:507,GENE_len:771
+f112	SWW.BTC.scaffolds	100.000	507	0	0	1	507	151850	152356	0.0	1005
+f112	SWW.BTC.scaffolds	97.531	81	2	0	120	200	485234	485154	4.93e-36	145
+ccmFc_fragment_1	SWW.BTC.scaffolds	100.000	771	0	0	1	771	484899	485669	0.0	1528
+ccmFc_fragment_1	SWW.BTC.scaffolds	97.531	81	2	0	256	336	152049	151969	7.56e-36	145
+***************************TEST:r256-nad1_fragment_1*****************r256 SWW.BTC.scaffolds 20187 20570ORF_len:384,GENE_len:387
+r256	SWW.BTC.scaffolds	100.000	384	0	0	1	384	20187	20570	0.0	761
+r256	SWW.BTC.scaffolds	95.652	46	2	0	8	53	347655	347700	2.85e-15	75.8
+nad1_fragment_1	SWW.BTC.scaffolds	100.000	387	0	0	1	387	20576	20190	0.0	767
+nad1_fragment_1	SWW.BTC.scaffolds	95.652	46	2	0	338	383	347700	347655	2.87e-15	75.8
+***************************TEST:f453-nad5_fragment_3*****************f453 SWW.BTC.scaffolds 277975 278505ORF_len:531,GENE_len:396
+f453	SWW.BTC.scaffolds	100.000	531	0	0	1	531	277975	278505	0.0	1053
+nad5_fragment_3	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:f1146-nad2_fragment_3*****************f1146 SWW.BTC.scaffolds 77703 78050ORF_len:348,GENE_len:162
+f1146	SWW.BTC.scaffolds	100.000	348	0	0	1	348	77703	78050	0.0	690
+nad2_fragment_3	SWW.BTC.scaffolds	100.000	162	0	0	1	162	77853	78014	1.15e-89	321
+***************************TEST:r777-rps12*****************r777 SWW.BTC.scaffolds 40050 40640ORF_len:591,GENE_len:375
+r777	SWW.BTC.scaffolds	100.000	591	0	0	1	591	40050	40640	0.0	1172
+rps12	SWW.BTC.scaffolds	100.000	375	0	0	1	375	40598	40224	0.0	743
+***************************TEST:f551-nad5_fragment_2*****************f551 SWW.BTC.scaffolds 315559 315927ORF_len:369,GENE_len:1203
+f551	SWW.BTC.scaffolds	100.000	369	0	0	1	369	315559	315927	0.0	731
+nad5_fragment_2	SWW.BTC.scaffolds	100.000	1203	0	0	1	1203	315179	316381	0.0	2385
+***************************TEST:f3-nad4_fragment_2*****************f3 SWW.BTC.scaffolds 100698 101798ORF_len:1101,GENE_len:936
+f3	SWW.BTC.scaffolds	100.000	1101	0	0	1	1101	100698	101798	0.0	2183
+nad4_fragment_2	SWW.BTC.scaffolds	100.000	936	0	0	1	936	100698	101633	0.0	1855
+***************************TEST:r359-nad7_fragment_5*****************r359 SWW.BTC.scaffolds 238236 238538ORF_len:303,GENE_len:261
+r359	SWW.BTC.scaffolds	100.000	303	0	0	1	303	238236	238538	1.62e-173	601
+nad7_fragment_5	SWW.BTC.scaffolds	100.000	261	0	0	1	261	238499	238239	1.60e-148	517
+***************************TEST:f949-rps4*****************f949 SWW.BTC.scaffolds 466488 467240ORF_len:753,GENE_len:1044
+f949	SWW.BTC.scaffolds	100.000	753	0	0	1	753	466488	467240	0.0	1493
+f949	SWW.BTC.scaffolds	100.000	126	0	0	1	126	61974	62099	1.74e-67	250
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r953-rps14_fragment_1*****************r953 SWW.BTC.scaffolds 462939 463415ORF_len:477,GENE_len:87
+r953	SWW.BTC.scaffolds	100.000	477	0	0	1	477	462939	463415	0.0	946
+rps14_fragment_1	SWW.BTC.scaffolds	100.000	87	0	0	1	87	463376	463462	3.27e-45	172
+***************************TEST:f80-ccmFn*****************f80 SWW.BTC.scaffolds 131888 132178ORF_len:291,GENE_len:1728
+f80	SWW.BTC.scaffolds	100.000	291	0	0	1	291	131888	132178	2.24e-166	577
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f274-rpl10*****************f274 SWW.BTC.scaffolds 20955 21212ORF_len:258,GENE_len:486
+f274	SWW.BTC.scaffolds	100.000	258	0	0	1	258	20955	21212	9.74e-147	511
+rpl10	SWW.BTC.scaffolds	100.000	486	0	0	1	486	21288	20803	0.0	963
+***************************TEST:f81-ccmFn*****************f81 SWW.BTC.scaffolds 132198 132488ORF_len:291,GENE_len:1728
+f81	SWW.BTC.scaffolds	100.000	291	0	0	1	291	132198	132488	2.24e-166	577
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f1197-nad4_fragment_1*****************f1197 SWW.BTC.scaffolds 98746 99327ORF_len:582,GENE_len:459
+f1197	SWW.BTC.scaffolds	100.000	582	0	0	1	582	98746	99327	0.0	1154
+nad4_fragment_1	SWW.BTC.scaffolds	100.000	459	0	0	1	459	98800	99258	0.0	910
+***************************TEST:f942-rps14_fragment_1*****************f942 SWW.BTC.scaffolds 463166 463558ORF_len:393,GENE_len:87
+f942	SWW.BTC.scaffolds	100.000	393	0	0	1	393	463166	463558	0.0	779
+rps14_fragment_1	SWW.BTC.scaffolds	100.000	87	0	0	1	87	463376	463462	3.27e-45	172
+***************************TEST:r107-sdh4*****************r107 SWW.BTC.scaffolds 148756 149163ORF_len:408,GENE_len:393
+r107	SWW.BTC.scaffolds	100.000	408	0	0	1	408	148756	149163	0.0	809
+r107	SWW.BTC.scaffolds	100.000	25	0	0	2	26	184889	184913	1.73e-07	50.1
+sdh4	SWW.BTC.scaffolds	100.000	393	0	0	1	393	149204	148812	0.0	779
+***************************TEST:f790-rps12*****************f790 SWW.BTC.scaffolds 40411 40683ORF_len:273,GENE_len:375
+f790	SWW.BTC.scaffolds	100.000	273	0	0	1	273	40411	40683	1.16e-155	541
+rps12	SWW.BTC.scaffolds	100.000	375	0	0	1	375	40598	40224	0.0	743
+***************************TEST:f379-matR*****************f379 SWW.BTC.scaffolds 247260 247640ORF_len:381,GENE_len:1983
+f379	SWW.BTC.scaffolds	100.000	381	0	0	1	381	247260	247640	0.0	755
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:f1152-nad2_fragment_4*****************f1152 SWW.BTC.scaffolds 80150 80656ORF_len:507,GENE_len:621
+f1152	SWW.BTC.scaffolds	100.000	507	0	0	1	507	80150	80656	0.0	1005
+nad2_fragment_4	SWW.BTC.scaffolds	100.000	621	0	0	1	621	80482	81102	0.0	1231
+***************************TEST:r442-cox1*****************r442 SWW.BTC.scaffolds 270127 270468ORF_len:342,GENE_len:1578
+r442	SWW.BTC.scaffolds	100.000	342	0	0	1	342	270127	270468	0.0	678
+cox1	SWW.BTC.scaffolds	100.000	1578	0	0	1	1578	270175	268598	0.0	3128
+***************************TEST:r439-cox1*****************r439 SWW.BTC.scaffolds 268592 270175ORF_len:1584,GENE_len:1578
+r439	SWW.BTC.scaffolds	100.000	1584	0	0	1	1584	268592	270175	0.0	3140
+cox1	SWW.BTC.scaffolds	100.000	1578	0	0	1	1578	270175	268598	0.0	3128
+***************************TEST:r969-nad1_fragment_3*****************r969 SWW.BTC.scaffolds 468725 469042ORF_len:318,GENE_len:195
+r969	SWW.BTC.scaffolds	100.000	318	0	0	1	318	468725	469042	0.0	630
+r969	SWW.BTC.scaffolds	100.000	49	0	0	152	200	26916	26868	6.38e-22	97.6
+nad1_fragment_3	SWW.BTC.scaffolds	100.000	195	0	0	1	195	468936	469130	2.86e-109	387
+***************************TEST:r442-rps10_fragment_2*****************r442 SWW.BTC.scaffolds 270127 270468ORF_len:342,GENE_len:75
+r442	SWW.BTC.scaffolds	100.000	342	0	0	1	342	270127	270468	0.0	678
+rps10_fragment_2	SWW.BTC.scaffolds	100.000	75	0	0	1	75	270487	270413	4.03e-38	149
+***************************TEST:f1082-ccmC*****************f1082 SWW.BTC.scaffolds 510047 510850ORF_len:804,GENE_len:750
+f1082	SWW.BTC.scaffolds	100.000	804	0	0	1	804	510047	510850	0.0	1594
+ccmC	SWW.BTC.scaffolds	99.867	750	1	0	1	750	510047	510796	0.0	1479
+***************************TEST:r786-rpl16*****************r786 SWW.BTC.scaffolds 402088 402414ORF_len:327,GENE_len:555
+r786	SWW.BTC.scaffolds	100.000	327	0	0	1	327	402088	402414	0.0	648
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:r697-nad9*****************r697 SWW.BTC.scaffolds 371215 371793ORF_len:579,GENE_len:573
+r697	SWW.BTC.scaffolds	100.000	579	0	0	1	579	371215	371793	0.0	1148
+nad9	SWW.BTC.scaffolds	100.000	573	0	0	1	573	371787	371215	0.0	1136
+***************************TEST:r1053-ccmB*****************r1053 SWW.BTC.scaffolds 49303 49533ORF_len:231,GENE_len:630
+r1053	SWW.BTC.scaffolds	100.000	231	0	0	1	231	49303	49533	1.13e-130	458
+ccmB	SWW.BTC.scaffolds	99.841	630	1	0	1	630	49396	48767	0.0	1241
+***************************TEST:f44-rps7*****************f44 SWW.BTC.scaffolds 1134 1478ORF_len:345,GENE_len:465
+f44	SWW.BTC.scaffolds	100.000	345	0	0	1	345	1134	1478	0.0	684
+rps7	SWW.BTC.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r475-sdh3*****************r475 SWW.BTC.scaffolds 28445 29497ORF_len:1053,GENE_len:291
+r475	SWW.BTC.scaffolds	100.000	1053	0	0	1	1053	28445	29497	0.0	2087
+r475	SWW.BTC.scaffolds	98.780	82	1	0	792	873	151022	151103	1.08e-38	155
+r475	SWW.BTC.scaffolds	98.780	82	1	0	792	873	347479	347560	1.08e-38	155
+r475	SWW.BTC.scaffolds	100.000	23	0	0	764	786	268944	268966	7.13e-06	46.1
+sdh3	SWW.BTC.scaffolds	100.000	291	0	0	1	291	29209	28919	2.24e-166	577
+***************************TEST:f20-cob*****************f20 SWW.BTC.scaffolds 10545 10886ORF_len:342,GENE_len:1191
+f20	SWW.BTC.scaffolds	100.000	342	0	0	1	342	10545	10886	0.0	678
+cob	SWW.BTC.scaffolds	99.916	1191	1	0	1	1191	11218	10028	0.0	2353
+***************************TEST:r113-ccmFc_fragment_1*****************r113 SWW.BTC.scaffolds 151593 152039ORF_len:447,GENE_len:771
+r113	SWW.BTC.scaffolds	100.000	447	0	0	1	447	151593	152039	0.0	886
+r113	SWW.BTC.scaffolds	98.592	71	1	0	377	447	485234	485164	1.65e-32	133
+ccmFc_fragment_1	SWW.BTC.scaffolds	100.000	771	0	0	1	771	484899	485669	0.0	1528
+ccmFc_fragment_1	SWW.BTC.scaffolds	97.531	81	2	0	256	336	152049	151969	7.56e-36	145
+***************************TEST:r68-ccmFn*****************r68 SWW.BTC.scaffolds 132557 132937ORF_len:381,GENE_len:1728
+r68	SWW.BTC.scaffolds	100.000	141	0	0	1	141	132557	132697	9.67e-77	280
+r68	SWW.BTC.scaffolds	100.000	140	0	0	242	381	132798	132937	3.82e-76	278
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f263-nad1_fragment_1*****************f263 SWW.BTC.scaffolds 20531 20881ORF_len:351,GENE_len:387
+f263	SWW.BTC.scaffolds	100.000	351	0	0	1	351	20531	20881	0.0	696
+f263	SWW.BTC.scaffolds	96.923	65	2	0	65	129	289356	289292	1.19e-26	113
+nad1_fragment_1	SWW.BTC.scaffolds	100.000	387	0	0	1	387	20576	20190	0.0	767
+nad1_fragment_1	SWW.BTC.scaffolds	95.652	46	2	0	338	383	347700	347655	2.87e-15	75.8
+***************************TEST:r955-rps14_fragment_2*****************r955 SWW.BTC.scaffolds 463487 463783ORF_len:297,GENE_len:174
+r955	SWW.BTC.scaffolds	100.000	297	0	0	1	297	463487	463783	6.02e-170	589
+rps14_fragment_2	SWW.BTC.scaffolds	100.000	174	0	0	1	174	463471	463644	8.61e-97	345
+***************************TEST:f283-atp6*****************f283 SWW.BTC.scaffolds 214477 215532ORF_len:1056,GENE_len:726
+f283	SWW.BTC.scaffolds	100.000	1056	0	0	1	1056	214477	215532	0.0	2093
+atp6	SWW.BTC.scaffolds	100.000	726	0	0	1	726	214813	215538	0.0	1439
+***************************TEST:r1144-rps4*****************r1144 SWW.BTC.scaffolds 62012 62314ORF_len:303,GENE_len:1044
+r1144	SWW.BTC.scaffolds	100.000	303	0	0	1	303	62012	62314	1.62e-173	601
+r1144	SWW.BTC.scaffolds	100.000	88	0	0	1	88	466526	466613	3.23e-45	174
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r1143-rps4*****************r1143 SWW.BTC.scaffolds 61800 62060ORF_len:261,GENE_len:1044
+r1143	SWW.BTC.scaffolds	100.000	88	0	0	174	261	61973	62060	2.76e-45	174
+r1143	SWW.BTC.scaffolds	100.000	88	0	0	174	261	466487	466574	2.76e-45	174
+r1143	SWW.BTC.scaffolds	100.000	73	0	0	1	73	61800	61872	2.47e-36	145
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r1145-rps4*****************r1145 SWW.BTC.scaffolds 62115 62417ORF_len:303,GENE_len:1044
+r1145	SWW.BTC.scaffolds	100.000	303	0	0	1	303	62115	62417	1.62e-173	601
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r108-cox3*****************r108 SWW.BTC.scaffolds 149000 150073ORF_len:1074,GENE_len:795
+r108	SWW.BTC.scaffolds	100.000	1074	0	0	1	1074	149000	150073	0.0	2129
+cox3	SWW.BTC.scaffolds	100.000	795	0	0	1	795	149929	149135	0.0	1576
+***************************TEST:r961-nad1_fragment_2*****************r961 SWW.BTC.scaffolds 467122 467433ORF_len:312,GENE_len:78
+r961	SWW.BTC.scaffolds	100.000	312	0	0	1	312	467122	467433	7.10e-179	618
+nad1_fragment_2	SWW.BTC.scaffolds	100.000	78	0	0	1	78	467393	467470	6.85e-40	155
+***************************TEST:f452-nad5_fragment_4*****************f452 SWW.BTC.scaffolds 277890 278150ORF_len:261,GENE_len:396
+f452	SWW.BTC.scaffolds	100.000	261	0	0	1	261	277890	278150	1.60e-148	517
+nad5_fragment_4	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:r106-sdh4*****************r106 SWW.BTC.scaffolds 148650 149270ORF_len:621,GENE_len:393
+r106	SWW.BTC.scaffolds	100.000	621	0	0	1	621	148650	149270	0.0	1231
+r106	SWW.BTC.scaffolds	94.595	37	2	0	35	71	176606	176642	1.10e-09	58.0
+r106	SWW.BTC.scaffolds	100.000	25	0	0	108	132	184889	184913	2.67e-07	50.1
+sdh4	SWW.BTC.scaffolds	100.000	393	0	0	1	393	149204	148812	0.0	779
+***************************TEST:r1094-ccmC*****************r1094 SWW.BTC.scaffolds 509727 510086ORF_len:360,GENE_len:750
+r1094	SWW.BTC.scaffolds	100.000	360	0	0	1	360	509727	510086	0.0	714
+r1094	SWW.BTC.scaffolds	100.000	25	0	0	168	192	41053	41029	1.52e-07	50.1
+r1094	SWW.BTC.scaffolds	100.000	25	0	0	163	187	227451	227427	1.52e-07	50.1
+r1094	SWW.BTC.scaffolds	96.552	29	1	0	161	189	349888	349860	1.52e-07	50.1
+r1094	SWW.BTC.scaffolds	100.000	22	0	0	119	140	63982	64003	9.40e-06	44.1
+ccmC	SWW.BTC.scaffolds	99.867	750	1	0	1	750	510047	510796	0.0	1479
+***************************TEST:f5-nad4_fragment_2*****************f5 SWW.BTC.scaffolds 100883 101149ORF_len:267,GENE_len:936
+f5	SWW.BTC.scaffolds	100.000	267	0	0	1	267	100883	101149	4.30e-152	529
+nad4_fragment_2	SWW.BTC.scaffolds	100.000	936	0	0	1	936	100698	101633	0.0	1855
+***************************TEST:r40-rps7*****************r40 SWW.BTC.scaffolds 1175 1495ORF_len:321,GENE_len:465
+r40	SWW.BTC.scaffolds	100.000	321	0	0	1	321	1175	1495	0.0	636
+rps7	SWW.BTC.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r363-nad7_fragment_4*****************r363 SWW.BTC.scaffolds 240262 240576ORF_len:315,GENE_len:243
+r363	SWW.BTC.scaffolds	100.000	315	0	0	1	315	240262	240576	1.16e-180	624
+nad7_fragment_4	SWW.BTC.scaffolds	100.000	243	0	0	1	243	240540	240298	8.21e-138	482
+***************************TEST:f1107-rps4*****************f1107 SWW.BTC.scaffolds 61291 62199ORF_len:909,GENE_len:1044
+f1107	SWW.BTC.scaffolds	100.000	582	0	0	1	582	61291	61872	0.0	1154
+f1107	SWW.BTC.scaffolds	100.000	227	0	0	683	909	61973	62199	1.13e-127	450
+f1107	SWW.BTC.scaffolds	100.000	127	0	0	683	809	466487	466613	5.34e-68	252
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r779-rps3*****************r779 SWW.BTC.scaffolds 400612 400908ORF_len:297,GENE_len:1680
+r779	SWW.BTC.scaffolds	100.000	297	0	0	1	297	400612	400908	6.02e-170	589
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:r364-nad7_fragment_4*****************r364 SWW.BTC.scaffolds 240383 240730ORF_len:348,GENE_len:243
+r364	SWW.BTC.scaffolds	100.000	348	0	0	1	348	240383	240730	0.0	690
+nad7_fragment_4	SWW.BTC.scaffolds	100.000	243	0	0	1	243	240540	240298	8.21e-138	482
+***************************TEST:r1030-ccmFc_fragment_2*****************r1030 SWW.BTC.scaffolds 486763 487305ORF_len:543,GENE_len:549
+r1030	SWW.BTC.scaffolds	100.000	543	0	0	1	543	486763	487305	0.0	1076
+ccmFc_fragment_2	SWW.BTC.scaffolds	100.000	549	0	0	1	549	486623	487171	0.0	1088
+***************************TEST:f543-nad1_fragment_5*****************f543 SWW.BTC.scaffolds 313494 313895ORF_len:402,GENE_len:255
+f543	SWW.BTC.scaffolds	100.000	402	0	0	1	402	313494	313895	0.0	797
+f543	SWW.BTC.scaffolds	100.000	45	0	0	318	362	470386	470430	1.98e-19	89.7
+f543	SWW.BTC.scaffolds	92.857	42	3	0	31	72	100574	100615	1.77e-10	60.0
+f543	SWW.BTC.scaffolds	96.667	30	1	0	219	248	15666	15637	4.32e-08	52.0
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	255	0	0	1	255	313638	313892	5.96e-145	505
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	45	0	0	174	218	470386	470430	1.24e-19	89.7
+nad1_fragment_5	SWW.BTC.scaffolds	96.667	30	1	0	75	104	15666	15637	2.70e-08	52.0
+***************************TEST:r64-ccmFn*****************r64 SWW.BTC.scaffolds 130981 132810ORF_len:1830,GENE_len:1728
+r64	SWW.BTC.scaffolds	100.000	1717	0	0	1	1717	130981	132697	0.0	3404
+ccmFn	SWW.BTC.scaffolds	99.884	1728	2	0	1	1728	132696	130969	0.0	3410
+***************************TEST:f482-sdh3*****************f482 SWW.BTC.scaffolds 29172 29423ORF_len:252,GENE_len:291
+f482	SWW.BTC.scaffolds	100.000	252	0	0	1	252	29172	29423	3.63e-143	500
+f482	SWW.BTC.scaffolds	98.780	82	1	0	65	146	151022	151103	2.48e-39	155
+f482	SWW.BTC.scaffolds	98.780	82	1	0	65	146	347479	347560	2.48e-39	155
+f482	SWW.BTC.scaffolds	100.000	23	0	0	37	59	268944	268966	1.64e-06	46.1
+sdh3	SWW.BTC.scaffolds	100.000	291	0	0	1	291	29209	28919	2.24e-166	577
+***************************TEST:f784-rps3*****************f784 SWW.BTC.scaffolds 400431 402113ORF_len:1683,GENE_len:1680
+f784	SWW.BTC.scaffolds	100.000	1683	0	0	1	1683	400431	402113	0.0	3336
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:r34-rps7*****************r34 SWW.BTC.scaffolds 1135 1758ORF_len:624,GENE_len:465
+r34	SWW.BTC.scaffolds	100.000	624	0	0	1	624	1135	1758	0.0	1237
+rps7	SWW.BTC.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r954-rps14_fragment_2*****************r954 SWW.BTC.scaffolds 463450 463698ORF_len:249,GENE_len:174
+r954	SWW.BTC.scaffolds	100.000	249	0	0	1	249	463450	463698	2.21e-141	494
+rps14_fragment_2	SWW.BTC.scaffolds	100.000	174	0	0	1	174	463471	463644	8.61e-97	345
+***************************TEST:f549-nad5_fragment_2*****************f549 SWW.BTC.scaffolds 315167 316405ORF_len:1239,GENE_len:1203
+f549	SWW.BTC.scaffolds	100.000	1239	0	0	1	1239	315167	316405	0.0	2456
+nad5_fragment_2	SWW.BTC.scaffolds	100.000	1203	0	0	1	1203	315179	316381	0.0	2385
+***************************TEST:r374-nad7_fragment_2*****************r374 SWW.BTC.scaffolds 243675 243905ORF_len:231,GENE_len:108
+r374	SWW.BTC.scaffolds	100.000	231	0	0	1	231	243675	243905	1.13e-130	458
+nad7_fragment_2	SWW.BTC.scaffolds	100.000	108	0	0	1	108	243732	243625	1.23e-57	214
+***************************TEST:f1013-ccmFc_fragment_2*****************f1013 SWW.BTC.scaffolds 486293 487324ORF_len:1032,GENE_len:549
+f1013	SWW.BTC.scaffolds	100.000	1032	0	0	1	1032	486293	487324	0.0	2046
+ccmFc_fragment_2	SWW.BTC.scaffolds	100.000	549	0	0	1	549	486623	487171	0.0	1088
+***************************TEST:f371-nad7_fragment_1*****************f371 SWW.BTC.scaffolds 244587 244835ORF_len:249,GENE_len:162
+f371	SWW.BTC.scaffolds	100.000	249	0	0	1	249	244587	244835	2.21e-141	494
+nad7_fragment_1	SWW.BTC.scaffolds	99.383	162	1	0	1	162	244738	244577	2.81e-87	313
+***************************TEST:f1198-nad4_fragment_1*****************f1198 SWW.BTC.scaffolds 98790 99443ORF_len:654,GENE_len:459
+f1198	SWW.BTC.scaffolds	100.000	654	0	0	1	654	98790	99443	0.0	1296
+nad4_fragment_1	SWW.BTC.scaffolds	100.000	459	0	0	1	459	98800	99258	0.0	910
+***************************TEST:r1151-nad6*****************r1151 SWW.BTC.scaffolds 63450 63725ORF_len:276,GENE_len:639
+r1151	SWW.BTC.scaffolds	100.000	276	0	0	1	276	63450	63725	1.90e-157	547
+r1151	SWW.BTC.scaffolds	100.000	36	0	0	1	36	88697	88662	3.15e-14	71.9
+nad6	SWW.BTC.scaffolds	100.000	639	0	0	1	639	63535	64173	0.0	1267
+***************************TEST:f784-rpl16*****************f784 SWW.BTC.scaffolds 400431 402113ORF_len:1683,GENE_len:555
+f784	SWW.BTC.scaffolds	100.000	1683	0	0	1	1683	400431	402113	0.0	3336
+rpl16	SWW.BTC.scaffolds	100.000	555	0	0	1	555	401962	402516	0.0	1100
+***************************TEST:r376-nad7_fragment_1*****************r376 SWW.BTC.scaffolds 244486 244710ORF_len:225,GENE_len:162
+r376	SWW.BTC.scaffolds	100.000	225	0	0	1	225	244486	244710	4.17e-127	446
+nad7_fragment_1	SWW.BTC.scaffolds	99.383	162	1	0	1	162	244738	244577	2.81e-87	313
+***************************TEST:r425-nad2_fragment_2*****************r425 SWW.BTC.scaffolds 26381 26761ORF_len:381,GENE_len:351
+r425	SWW.BTC.scaffolds	100.000	381	0	0	1	381	26381	26761	0.0	755
+nad2_fragment_2	SWW.BTC.scaffolds	100.000	351	0	0	1	351	26811	26461	0.0	696
+***************************TEST:f942-rps14_fragment_2*****************f942 SWW.BTC.scaffolds 463166 463558ORF_len:393,GENE_len:174
+f942	SWW.BTC.scaffolds	100.000	393	0	0	1	393	463166	463558	0.0	779
+rps14_fragment_2	SWW.BTC.scaffolds	100.000	174	0	0	1	174	463471	463644	8.61e-97	345
+***************************TEST:r446-rps10_fragment_1*****************r446 SWW.BTC.scaffolds 271305 271703ORF_len:399,GENE_len:210
+r446	SWW.BTC.scaffolds	100.000	399	0	0	1	399	271305	271703	0.0	791
+r446	SWW.BTC.scaffolds	100.000	56	0	0	295	350	21330	21385	5.37e-26	111
+r446	SWW.BTC.scaffolds	100.000	56	0	0	295	350	312601	312546	5.37e-26	111
+r446	SWW.BTC.scaffolds	100.000	56	0	0	295	350	462778	462723	5.37e-26	111
+rps10_fragment_1	SWW.BTC.scaffolds	100.000	210	0	0	1	210	271565	271356	3.46e-118	416
+***************************TEST:f258-nad1_fragment_1*****************f258 SWW.BTC.scaffolds 20329 20877ORF_len:549,GENE_len:387
+f258	SWW.BTC.scaffolds	100.000	549	0	0	1	549	20329	20877	0.0	1088
+f258	SWW.BTC.scaffolds	96.923	65	2	0	267	331	289356	289292	1.89e-26	113
+nad1_fragment_1	SWW.BTC.scaffolds	100.000	387	0	0	1	387	20576	20190	0.0	767
+nad1_fragment_1	SWW.BTC.scaffolds	95.652	46	2	0	338	383	347700	347655	2.87e-15	75.8
+***************************TEST:f785-rps3*****************f785 SWW.BTC.scaffolds 400528 400914ORF_len:387,GENE_len:1680
+f785	SWW.BTC.scaffolds	100.000	387	0	0	1	387	400528	400914	0.0	767
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:f950-rps4*****************f950 SWW.BTC.scaffolds 466535 466792ORF_len:258,GENE_len:1044
+f950	SWW.BTC.scaffolds	100.000	258	0	0	1	258	466535	466792	9.74e-147	511
+f950	SWW.BTC.scaffolds	100.000	79	0	0	1	79	62021	62099	6.41e-40	157
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:f1111-nad6*****************f1111 SWW.BTC.scaffolds 63517 64188ORF_len:672,GENE_len:639
+f1111	SWW.BTC.scaffolds	100.000	672	0	0	1	672	63517	64188	0.0	1332
+nad6	SWW.BTC.scaffolds	100.000	639	0	0	1	639	63535	64173	0.0	1267
+***************************TEST:r1033-ccmB*****************r1033 SWW.BTC.scaffolds 48789 49325ORF_len:537,GENE_len:630
+r1033	SWW.BTC.scaffolds	100.000	537	0	0	1	537	48789	49325	0.0	1065
+ccmB	SWW.BTC.scaffolds	99.841	630	1	0	1	630	49396	48767	0.0	1241
+***************************TEST:f1081-ccmC*****************f1081 SWW.BTC.scaffolds 510004 510588ORF_len:585,GENE_len:750
+f1081	SWW.BTC.scaffolds	100.000	585	0	0	1	585	510004	510588	0.0	1160
+ccmC	SWW.BTC.scaffolds	99.867	750	1	0	1	750	510047	510796	0.0	1479
+***************************TEST:f541-nad1_fragment_5*****************f541 SWW.BTC.scaffolds 313375 313683ORF_len:309,GENE_len:255
+f541	SWW.BTC.scaffolds	100.000	309	0	0	1	309	313375	313683	4.34e-177	613
+f541	SWW.BTC.scaffolds	92.857	42	3	0	150	191	100574	100615	1.35e-10	60.0
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	255	0	0	1	255	313638	313892	5.96e-145	505
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	45	0	0	174	218	470386	470430	1.24e-19	89.7
+nad1_fragment_5	SWW.BTC.scaffolds	96.667	30	1	0	75	104	15666	15637	2.70e-08	52.0
+***************************TEST:f542-nad1_fragment_5*****************f542 SWW.BTC.scaffolds 313406 313726ORF_len:321,GENE_len:255
+f542	SWW.BTC.scaffolds	100.000	321	0	0	1	321	313406	313726	0.0	636
+f542	SWW.BTC.scaffolds	92.857	42	3	0	119	160	100574	100615	1.40e-10	60.0
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	255	0	0	1	255	313638	313892	5.96e-145	505
+nad1_fragment_5	SWW.BTC.scaffolds	100.000	45	0	0	174	218	470386	470430	1.24e-19	89.7
+nad1_fragment_5	SWW.BTC.scaffolds	96.667	30	1	0	75	104	15666	15637	2.70e-08	52.0
+***************************TEST:r639-atp8*****************r639 SWW.BTC.scaffolds 347201 347650ORF_len:450,GENE_len:477
+r639	SWW.BTC.scaffolds	100.000	450	0	0	1	450	347201	347650	0.0	892
+r639	SWW.BTC.scaffolds	99.485	194	1	0	212	405	150955	151148	6.60e-106	377
+r639	SWW.BTC.scaffolds	98.780	82	1	0	279	360	29236	29317	4.52e-39	155
+r639	SWW.BTC.scaffolds	89.796	49	5	0	168	216	187685	187733	7.87e-10	58.0
+atp8	SWW.BTC.scaffolds	99.790	477	1	0	1	477	151031	150555	0.0	938
+atp8	SWW.BTC.scaffolds	100.000	77	0	0	1	77	347488	347412	1.90e-38	153
+***************************TEST:f923-atp1*****************f923 SWW.BTC.scaffolds 455337 456884ORF_len:1548,GENE_len:1521
+f923	SWW.BTC.scaffolds	100.000	1278	0	0	1	1278	455337	456614	0.0	2533
+f923	SWW.BTC.scaffolds	100.000	170	0	0	1379	1548	456715	456884	2.00e-93	337
+f923	SWW.BTC.scaffolds	100.000	127	0	0	1379	1505	41949	41823	9.14e-68	252
+f923	SWW.BTC.scaffolds	100.000	127	0	0	1152	1278	41949	41823	9.14e-68	252
+f923	SWW.BTC.scaffolds	100.000	127	0	0	1379	1505	456488	456614	9.14e-68	252
+f923	SWW.BTC.scaffolds	100.000	127	0	0	1152	1278	456715	456841	9.14e-68	252
+f923	SWW.BTC.scaffolds	100.000	25	0	0	72	96	436039	436063	6.75e-07	50.1
+atp1	SWW.BTC.scaffolds	99.736	1137	3	0	1	1137	455478	456614	0.0	2230
+atp1	SWW.BTC.scaffolds	99.217	511	4	0	1011	1521	456715	457225	0.0	981
+atp1	SWW.BTC.scaffolds	100.000	127	0	0	1011	1137	41949	41823	8.98e-68	252
+***************************TEST:r1251-cob*****************r1251 SWW.BTC.scaffolds 9986 11218ORF_len:1233,GENE_len:1191
+r1251	SWW.BTC.scaffolds	100.000	1233	0	0	1	1233	9986	11218	0.0	2444
+cob	SWW.BTC.scaffolds	99.916	1191	1	0	1	1191	11218	10028	0.0	2353
+***************************TEST:r457-nad2_fragment_1*****************r457 SWW.BTC.scaffolds 27783 28247ORF_len:465,GENE_len:153
+r457	SWW.BTC.scaffolds	100.000	465	0	0	1	465	27783	28247	0.0	922
+nad2_fragment_1	SWW.BTC.scaffolds	100.000	153	0	0	1	153	28205	28053	2.55e-84	303
+***************************TEST:r968-nad1_fragment_3*****************r968 SWW.BTC.scaffolds 468691 469026ORF_len:336,GENE_len:195
+r968	SWW.BTC.scaffolds	100.000	336	0	0	1	336	468691	469026	0.0	666
+r968	SWW.BTC.scaffolds	100.000	49	0	0	186	234	26916	26868	6.75e-22	97.6
+nad1_fragment_3	SWW.BTC.scaffolds	100.000	195	0	0	1	195	468936	469130	2.86e-109	387
+***************************TEST:r1146-rps4*****************r1146 SWW.BTC.scaffolds 62327 62665ORF_len:339,GENE_len:1044
+r1146	SWW.BTC.scaffolds	100.000	339	0	0	1	339	62327	62665	0.0	672
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r888-atp4*****************r888 SWW.BTC.scaffolds 436701 437348ORF_len:648,GENE_len:588
+r888	SWW.BTC.scaffolds	100.000	648	0	0	1	648	436701	437348	0.0	1285
+atp4	SWW.BTC.scaffolds	100.000	588	0	0	1	588	436609	437196	0.0	1166
+***************************TEST:r782-rps3*****************r782 SWW.BTC.scaffolds 401129 401674ORF_len:546,GENE_len:1680
+r782	SWW.BTC.scaffolds	100.000	546	0	0	1	546	401129	401674	0.0	1082
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:r635-mttB*****************r635 SWW.BTC.scaffolds 345642 346595ORF_len:954,GENE_len:780
+r635	SWW.BTC.scaffolds	100.000	954	0	0	1	954	345642	346595	0.0	1891
+r635	SWW.BTC.scaffolds	98.246	57	1	0	799	855	457466	457410	8.08e-24	105
+mttB	SWW.BTC.scaffolds	100.000	780	0	0	1	780	346445	345666	0.0	1546
+***************************TEST:r778-rps3*****************r778 SWW.BTC.scaffolds 400550 400861ORF_len:312,GENE_len:1680
+r778	SWW.BTC.scaffolds	100.000	312	0	0	1	312	400550	400861	7.10e-179	618
+rps3	SWW.BTC.scaffolds	99.940	1680	1	0	1	1680	400431	402110	0.0	3322
+***************************TEST:f428-cox1*****************f428 SWW.BTC.scaffolds 269352 269783ORF_len:432,GENE_len:1578
+f428	SWW.BTC.scaffolds	100.000	432	0	0	1	432	269352	269783	0.0	856
+cox1	SWW.BTC.scaffolds	100.000	1578	0	0	1	1578	270175	268598	0.0	3128
+***************************TEST:r108-sdh4*****************r108 SWW.BTC.scaffolds 149000 150073ORF_len:1074,GENE_len:393
+r108	SWW.BTC.scaffolds	100.000	1074	0	0	1	1074	149000	150073	0.0	2129
+sdh4	SWW.BTC.scaffolds	100.000	393	0	0	1	393	149204	148812	0.0	779
+***************************TEST:f431-rps10_fragment_2*****************f431 SWW.BTC.scaffolds 270321 270587ORF_len:267,GENE_len:75
+f431	SWW.BTC.scaffolds	100.000	267	0	0	1	267	270321	270587	4.30e-152	529
+rps10_fragment_2	SWW.BTC.scaffolds	100.000	75	0	0	1	75	270487	270413	4.03e-38	149
+***************************TEST:r953-rpl5*****************r953 SWW.BTC.scaffolds 462939 463415ORF_len:477,GENE_len:552
+r953	SWW.BTC.scaffolds	100.000	477	0	0	1	477	462939	463415	0.0	946
+rpl5	SWW.BTC.scaffolds	99.819	552	1	0	1	552	462820	463371	0.0	1086
+***************************TEST:f420-nad2_fragment_2*****************f420 SWW.BTC.scaffolds 26585 26920ORF_len:336,GENE_len:351
+f420	SWW.BTC.scaffolds	100.000	336	0	0	1	336	26585	26920	0.0	666
+f420	SWW.BTC.scaffolds	100.000	49	0	0	284	332	468924	468876	6.75e-22	97.6
+nad2_fragment_2	SWW.BTC.scaffolds	100.000	351	0	0	1	351	26811	26461	0.0	696
+***************************TEST:f1108-rps4*****************f1108 SWW.BTC.scaffolds 61635 62906ORF_len:1272,GENE_len:1044
+f1108	SWW.BTC.scaffolds	100.000	934	0	0	339	1272	61973	62906	0.0	1852
+f1108	SWW.BTC.scaffolds	100.000	238	0	0	1	238	61635	61872	4.32e-134	472
+f1108	SWW.BTC.scaffolds	100.000	127	0	0	339	465	466487	466613	7.49e-68	252
+rps4	SWW.BTC.scaffolds	100.000	931	0	0	114	1044	61973	62903	0.0	1846
+rps4	SWW.BTC.scaffolds	100.000	127	0	0	114	240	466487	466613	6.13e-68	252
+rps4	SWW.BTC.scaffolds	100.000	24	0	0	5	28	63112	63089	1.79e-06	48.1
+***************************TEST:r374-nad7_fragment_3*****************r374 SWW.BTC.scaffolds 243675 243905ORF_len:231,GENE_len:108
+r374	SWW.BTC.scaffolds	100.000	231	0	0	1	231	243675	243905	1.13e-130	458
+nad7_fragment_3	SWW.BTC.scaffolds	100.000	108	0	0	1	108	243732	243625	1.23e-57	214
+***************************TEST:f121-rps7*****************f121 SWW.BTC.scaffolds 1543 1914ORF_len:372,GENE_len:465
+f121	SWW.BTC.scaffolds	100.000	372	0	0	1	372	1543	1914	0.0	737
+rps7	SWW.BTC.scaffolds	99.785	465	1	0	1	465	1602	1138	0.0	914
+***************************TEST:r1021-ccmFc_fragment_1*****************r1021 SWW.BTC.scaffolds 485069 485575ORF_len:507,GENE_len:771
+r1021	SWW.BTC.scaffolds	100.000	507	0	0	1	507	485069	485575	0.0	1005
+r1021	SWW.BTC.scaffolds	97.531	81	2	0	86	166	152049	151969	4.93e-36	145
+ccmFc_fragment_1	SWW.BTC.scaffolds	100.000	771	0	0	1	771	484899	485669	0.0	1528
+ccmFc_fragment_1	SWW.BTC.scaffolds	97.531	81	2	0	256	336	152049	151969	7.56e-36	145
+***************************TEST:r794-nad3*****************r794 SWW.BTC.scaffolds 40647 41132ORF_len:486,GENE_len:354
+r794	SWW.BTC.scaffolds	100.000	486	0	0	1	486	40647	41132	0.0	963
+r794	SWW.BTC.scaffolds	93.701	127	4	1	295	417	349765	349891	1.39e-48	186
+r794	SWW.BTC.scaffolds	100.000	25	0	0	383	407	509918	509894	2.08e-07	50.1
+nad3	SWW.BTC.scaffolds	99.718	354	1	0	1	354	41003	40650	0.0	694
+nad3	SWW.BTC.scaffolds	95.238	63	3	0	1	63	349827	349765	4.57e-23	101
+***************************TEST:f384-nad1_fragment_4*****************f384 SWW.BTC.scaffolds 248488 248721ORF_len:234,GENE_len:60
+f384	SWW.BTC.scaffolds	100.000	234	0	0	1	234	248488	248721	1.85e-132	464
+nad1_fragment_4	SWW.BTC.scaffolds	100.000	60	0	0	1	60	248569	248510	2.75e-29	119
+***************************TEST:f957-nad1_fragment_3*****************f957 SWW.BTC.scaffolds 468729 469232ORF_len:504,GENE_len:195
+f957	SWW.BTC.scaffolds	100.000	504	0	0	1	504	468729	469232	0.0	999
+f957	SWW.BTC.scaffolds	100.000	49	0	0	148	196	26916	26868	1.03e-21	97.6
+nad1_fragment_3	SWW.BTC.scaffolds	100.000	195	0	0	1	195	468936	469130	2.86e-109	387
+***************************TEST:r553-nad5_fragment_2*****************r553 SWW.BTC.scaffolds 314758 315213ORF_len:456,GENE_len:1203
+r553	SWW.BTC.scaffolds	100.000	456	0	0	1	456	314758	315213	0.0	904
+nad5_fragment_2	SWW.BTC.scaffolds	100.000	1203	0	0	1	1203	315179	316381	0.0	2385
+***************************TEST:f381-matR*****************f381 SWW.BTC.scaffolds 247805 248143ORF_len:339,GENE_len:1983
+f381	SWW.BTC.scaffolds	100.000	339	0	0	1	339	247805	248143	0.0	672
+matR	SWW.BTC.scaffolds	100.000	1983	0	0	1	1983	247839	245857	0.0	3931
+matR	SWW.BTC.scaffolds	100.000	26	0	0	1184	1209	461938	461963	2.19e-07	52.0
+***************************TEST:r934-atp1*****************r934 SWW.BTC.scaffolds 455606 456064ORF_len:459,GENE_len:1521
+r934	SWW.BTC.scaffolds	100.000	459	0	0	1	459	455606	456064	0.0	910
+atp1	SWW.BTC.scaffolds	99.736	1137	3	0	1	1137	455478	456614	0.0	2230
+atp1	SWW.BTC.scaffolds	99.217	511	4	0	1011	1521	456715	457225	0.0	981
+atp1	SWW.BTC.scaffolds	100.000	127	0	0	1011	1137	41949	41823	8.98e-68	252
+***************************TEST:f453-nad5_fragment_4*****************f453 SWW.BTC.scaffolds 277975 278505ORF_len:531,GENE_len:396
+f453	SWW.BTC.scaffolds	100.000	531	0	0	1	531	277975	278505	0.0	1053
+nad5_fragment_4	SWW.BTC.scaffolds	99.747	396	1	0	1	396	278044	278439	0.0	777
+***************************TEST:r1028-ccmFc_fragment_2*****************r1028 SWW.BTC.scaffolds 486367 486762ORF_len:396,GENE_len:549
+r1028	SWW.BTC.scaffolds	100.000	396	0	0	1	396	486367	486762	0.0	785
+ccmFc_fragment_2	SWW.BTC.scaffolds	100.000	549	0	0	1	549	486623	487171	0.0	1088

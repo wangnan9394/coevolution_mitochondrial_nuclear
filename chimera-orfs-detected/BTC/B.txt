@@ -1,0 +1,1 @@
+ccmFc_fragment_2	SWW.BTC.scaffolds	100.000	549	0	0	1	549	486623	487171	0.0	1088
